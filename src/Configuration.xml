@@ -229,6 +229,7 @@
 			<Catalog>Сотрудники</Catalog>
 			<Catalog>Номенклатура</Catalog>
 			<Catalog>Склады</Catalog>
+			<Catalog>ИсточникиПолученияИнформацииОКомпании</Catalog>
 			<Enum>ТипОрганизации</Enum>
 			<Enum>Пол</Enum>
 			<Enum>ТипНоменклатуры</Enum>

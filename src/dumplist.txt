@@ -1,2 +1,3 @@
-﻿New: DefinedType.ФинансовыеДанные
+﻿New: Catalog.ИсточникиПолученияИнформацииОКомпании
+New: Catalog.ИсточникиПолученияИнформацииОКомпании.Predefined
 Modified: Configuration.Конфигурация
