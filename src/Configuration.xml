@@ -231,6 +231,7 @@
 			<Catalog>Склады</Catalog>
 			<Catalog>ИсточникиПолученияИнформацииОКомпании</Catalog>
 			<Catalog>Контрагенты</Catalog>
+			<Catalog>ДоговорыКонтрагентов</Catalog>
 			<Enum>ТипОрганизации</Enum>
 			<Enum>Пол</Enum>
 			<Enum>ТипНоменклатуры</Enum>

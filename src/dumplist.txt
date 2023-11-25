@@ -1,3 +1,2 @@
-﻿New: Catalog.Контрагенты
-New: Enum.ТипКонтрагента
+﻿New: Catalog.ДоговорыКонтрагентов
 Modified: Configuration.Конфигурация
