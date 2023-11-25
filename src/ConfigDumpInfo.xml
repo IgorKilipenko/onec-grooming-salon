@@ -20,7 +20,7 @@
 			<Metadata name="Catalog.Контрагенты.Attribute.КонтактныйТелефон" id="47ac710d-41e6-45f5-8e47-739cab4e0a98"/>
 			<Metadata name="Catalog.Контрагенты.Attribute.Комментарий" id="e883b4f1-ff94-415e-9e5a-0afabfe7d8de"/>
 		</Metadata>
-		<Metadata name="Catalog.Номенклатура" id="ddac927d-70e8-4179-ade5-db76d310c772" configVersion="a5e36876d9ce724fbd6521476d96b32d00000000">
+		<Metadata name="Catalog.Номенклатура" id="ddac927d-70e8-4179-ade5-db76d310c772" configVersion="3d29c584c2144d43b24dc1f22a56510700000000">
 			<Metadata name="Catalog.Номенклатура.Attribute.ТипНоменклатуры" id="0a89601d-680a-46c3-8838-7382594232e4"/>
 		</Metadata>
 		<Metadata name="Catalog.Склады" id="0480428c-d6d2-44da-9b73-d803664e1f65" configVersion="3d71da84abe04b4497e635ef9562f77500000000"/>
