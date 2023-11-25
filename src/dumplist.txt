@@ -1,0 +1,2 @@
+﻿New: Enum.ТипОрганизации
+Modified: Configuration.Конфигурация

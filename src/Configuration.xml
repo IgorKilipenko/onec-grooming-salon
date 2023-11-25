@@ -224,6 +224,7 @@
 		</Properties>
 		<ChildObjects>
 			<Language>Русский</Language>
+			<Enum>ТипОрганизации</Enum>
 		</ChildObjects>
 	</Configuration>
 </MetaDataObject>
