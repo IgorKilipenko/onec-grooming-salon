@@ -1,1 +1,1 @@
-﻿Modified: Catalog.Номенклатура
+﻿Modified: Catalog.Контрагенты
