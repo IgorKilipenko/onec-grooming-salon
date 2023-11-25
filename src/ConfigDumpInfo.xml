@@ -5,6 +5,14 @@
 		<Metadata name="Catalog.Должности.Predefined" id="9de7f829-0a88-4a4e-96f1-92c7134a5568.1c" configVersion="0292e7016d3868469308192b57988c7a00000000"/>
 		<Metadata name="Catalog.ИсточникиПолученияИнформацииОКомпании" id="723de0d6-cba5-49ff-988e-ca9a2f71bb6b" configVersion="c3a2c8dee14c144ea1c3217bed986ada00000000"/>
 		<Metadata name="Catalog.ИсточникиПолученияИнформацииОКомпании.Predefined" id="723de0d6-cba5-49ff-988e-ca9a2f71bb6b.1c" configVersion="7f6de56bab3eca48a497fcaf5bf88e8200000000"/>
+		<Metadata name="Catalog.Контрагенты" id="ada3771f-5234-4e8d-ae75-e5e189dc538c" configVersion="c1bc5f9590a4a746ae7270c128b14ed300000000">
+			<Metadata name="Catalog.Контрагенты.Attribute.Пол" id="25d6c081-801d-4417-91df-bd887822926e"/>
+			<Metadata name="Catalog.Контрагенты.Attribute.ТипКонтрагента" id="26253369-c3d9-4169-92b6-ddcb04280af2"/>
+			<Metadata name="Catalog.Контрагенты.Attribute.ДатаРождения" id="33927dff-f451-436f-be68-0060da89428d"/>
+			<Metadata name="Catalog.Контрагенты.Attribute.Источник" id="4691167e-13f0-409e-8e6f-8cde496e7678"/>
+			<Metadata name="Catalog.Контрагенты.Attribute.КонтактныйТелефон" id="47ac710d-41e6-45f5-8e47-739cab4e0a98"/>
+			<Metadata name="Catalog.Контрагенты.Attribute.Комментарий" id="e883b4f1-ff94-415e-9e5a-0afabfe7d8de"/>
+		</Metadata>
 		<Metadata name="Catalog.Номенклатура" id="ddac927d-70e8-4179-ade5-db76d310c772" configVersion="a5e36876d9ce724fbd6521476d96b32d00000000">
 			<Metadata name="Catalog.Номенклатура.Attribute.ТипНоменклатуры" id="0a89601d-680a-46c3-8838-7382594232e4"/>
 		</Metadata>
@@ -19,11 +27,15 @@
 			<Metadata name="Catalog.Сотрудники.Attribute.Отчество" id="be9ca4f6-87ef-4f6a-b314-076e5fc17fc3"/>
 			<Metadata name="Catalog.Сотрудники.Attribute.КонтактныйТелефон" id="defa1e7f-8328-4ba9-ab6c-ccd88f46bb97"/>
 		</Metadata>
-		<Metadata name="Configuration.Конфигурация" id="bf7fd7f7-d5f2-4af8-987a-4903e6ac7a60" configVersion="0b23cac7950f064088fef1679fa6525200000000"/>
+		<Metadata name="Configuration.Конфигурация" id="bf7fd7f7-d5f2-4af8-987a-4903e6ac7a60" configVersion="be11d9828f8051499187a0811bcb52d400000000"/>
 		<Metadata name="DefinedType.ФинансовыеДанные" id="0a1b5721-156f-422e-acae-7fb831bcca0f" configVersion="a78d0f8a0d34bf4c96a05ede3aa022f600000000"/>
 		<Metadata name="Enum.Пол" id="4ecc25dd-de3e-4bfd-b96a-500df6beaaeb" configVersion="9bf2cdfffbf16c4d9e7797ea97da3fab00000000">
 			<Metadata name="Enum.Пол.EnumValue.Мужской" id="773b7b19-8f30-4c97-a3c4-6a7b77dbf1b3"/>
 			<Metadata name="Enum.Пол.EnumValue.Женский" id="eecd5153-b17b-44cf-bd63-518d43c7530a"/>
+		</Metadata>
+		<Metadata name="Enum.ТипКонтрагента" id="3f61006d-1e8e-4e94-adab-c361e636f3f6" configVersion="79d65a2427772842b78f979e477380a500000000">
+			<Metadata name="Enum.ТипКонтрагента.EnumValue.Клиент" id="10bbb5e6-3259-4293-8e69-8e31c05985c0"/>
+			<Metadata name="Enum.ТипКонтрагента.EnumValue.Поставщик" id="7c07604e-f050-4654-92be-2507583b4152"/>
 		</Metadata>
 		<Metadata name="Enum.ТипНоменклатуры" id="83a919c6-e72c-4ef4-9a1b-ea95c9cde048" configVersion="99e9d16f04a8b74faf8fdd0d0ec23ff200000000">
 			<Metadata name="Enum.ТипНоменклатуры.EnumValue.Услуга" id="3bd4b0f0-8315-4485-8586-3bc391ea9330"/>

@@ -230,9 +230,11 @@
 			<Catalog>Номенклатура</Catalog>
 			<Catalog>Склады</Catalog>
 			<Catalog>ИсточникиПолученияИнформацииОКомпании</Catalog>
+			<Catalog>Контрагенты</Catalog>
 			<Enum>ТипОрганизации</Enum>
 			<Enum>Пол</Enum>
 			<Enum>ТипНоменклатуры</Enum>
+			<Enum>ТипКонтрагента</Enum>
 		</ChildObjects>
 	</Configuration>
 </MetaDataObject>
