@@ -227,6 +227,7 @@
 			<Catalog>Должности</Catalog>
 			<Catalog>Сотрудники</Catalog>
 			<Catalog>Номенклатура</Catalog>
+			<Catalog>Склады</Catalog>
 			<Enum>ТипОрганизации</Enum>
 			<Enum>Пол</Enum>
 			<Enum>ТипНоменклатуры</Enum>
