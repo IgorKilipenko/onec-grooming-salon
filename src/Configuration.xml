@@ -226,8 +226,10 @@
 			<Language>Русский</Language>
 			<Catalog>Должности</Catalog>
 			<Catalog>Сотрудники</Catalog>
+			<Catalog>Номенклатура</Catalog>
 			<Enum>ТипОрганизации</Enum>
 			<Enum>Пол</Enum>
+			<Enum>ТипНоменклатуры</Enum>
 		</ChildObjects>
 	</Configuration>
 </MetaDataObject>

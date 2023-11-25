@@ -3,6 +3,9 @@
 	<ConfigVersions>
 		<Metadata name="Catalog.Должности" id="9de7f829-0a88-4a4e-96f1-92c7134a5568" configVersion="2713f7982d7e1747bf22712d1d8b269200000000"/>
 		<Metadata name="Catalog.Должности.Predefined" id="9de7f829-0a88-4a4e-96f1-92c7134a5568.1c" configVersion="0292e7016d3868469308192b57988c7a00000000"/>
+		<Metadata name="Catalog.Номенклатура" id="ddac927d-70e8-4179-ade5-db76d310c772" configVersion="a5e36876d9ce724fbd6521476d96b32d00000000">
+			<Metadata name="Catalog.Номенклатура.Attribute.ТипНоменклатуры" id="0a89601d-680a-46c3-8838-7382594232e4"/>
+		</Metadata>
 		<Metadata name="Catalog.Сотрудники" id="22c35659-8f6f-4268-ab3d-94673f1123b8" configVersion="b657f18a02a38a44855bff18d6af9f7700000000">
 			<Metadata name="Catalog.Сотрудники.Attribute.Имя" id="1a632a75-4dd5-4337-93d4-bdb1ed07a420"/>
 			<Metadata name="Catalog.Сотрудники.Attribute.ДатаРождения" id="5d4d8d04-565d-4579-99e1-22c38faa4638"/>
@@ -12,10 +15,14 @@
 			<Metadata name="Catalog.Сотрудники.Attribute.Отчество" id="be9ca4f6-87ef-4f6a-b314-076e5fc17fc3"/>
 			<Metadata name="Catalog.Сотрудники.Attribute.КонтактныйТелефон" id="defa1e7f-8328-4ba9-ab6c-ccd88f46bb97"/>
 		</Metadata>
-		<Metadata name="Configuration.Конфигурация" id="bf7fd7f7-d5f2-4af8-987a-4903e6ac7a60" configVersion="52e04454021ded44bc7be18122c03d4000000000"/>
+		<Metadata name="Configuration.Конфигурация" id="bf7fd7f7-d5f2-4af8-987a-4903e6ac7a60" configVersion="8d3a07386f22f9479ebaa9cdd3ca60cd00000000"/>
 		<Metadata name="Enum.Пол" id="4ecc25dd-de3e-4bfd-b96a-500df6beaaeb" configVersion="9bf2cdfffbf16c4d9e7797ea97da3fab00000000">
 			<Metadata name="Enum.Пол.EnumValue.Мужской" id="773b7b19-8f30-4c97-a3c4-6a7b77dbf1b3"/>
 			<Metadata name="Enum.Пол.EnumValue.Женский" id="eecd5153-b17b-44cf-bd63-518d43c7530a"/>
+		</Metadata>
+		<Metadata name="Enum.ТипНоменклатуры" id="83a919c6-e72c-4ef4-9a1b-ea95c9cde048" configVersion="99e9d16f04a8b74faf8fdd0d0ec23ff200000000">
+			<Metadata name="Enum.ТипНоменклатуры.EnumValue.Услуга" id="3bd4b0f0-8315-4485-8586-3bc391ea9330"/>
+			<Metadata name="Enum.ТипНоменклатуры.EnumValue.Товар" id="a0826328-0fac-4714-881d-6ac58720d1e8"/>
 		</Metadata>
 		<Metadata name="Enum.ТипОрганизации" id="01251137-f4df-4b63-a692-3f5969abbb41" configVersion="cf67fab390ca7040b2e07bd0e88743e100000000">
 			<Metadata name="Enum.ТипОрганизации.EnumValue.ЮридическоеЛицо" id="4fa18d73-086e-435c-882a-4c710d7832a4"/>

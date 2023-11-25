@@ -1,1 +1,3 @@
-﻿Modified: Catalog.Сотрудники
+﻿New: Catalog.Номенклатура
+New: Enum.ТипНоменклатуры
+Modified: Configuration.Конфигурация
