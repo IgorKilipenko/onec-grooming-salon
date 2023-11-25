@@ -225,7 +225,9 @@
 		<ChildObjects>
 			<Language>Русский</Language>
 			<Catalog>Должности</Catalog>
+			<Catalog>Сотрудники</Catalog>
 			<Enum>ТипОрганизации</Enum>
+			<Enum>Пол</Enum>
 		</ChildObjects>
 	</Configuration>
 </MetaDataObject>
