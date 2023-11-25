@@ -1,2 +1,3 @@
-﻿New: Enum.ТипОрганизации
+﻿New: Catalog.Должности
+New: Catalog.Должности.Predefined
 Modified: Configuration.Конфигурация

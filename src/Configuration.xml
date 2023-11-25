@@ -224,6 +224,7 @@
 		</Properties>
 		<ChildObjects>
 			<Language>Русский</Language>
+			<Catalog>Должности</Catalog>
 			<Enum>ТипОрганизации</Enum>
 		</ChildObjects>
 	</Configuration>
