@@ -1,3 +1,2 @@
-﻿New: Catalog.Склады
-New: Catalog.Склады.Predefined
+﻿New: DefinedType.ФинансовыеДанные
 Modified: Configuration.Конфигурация

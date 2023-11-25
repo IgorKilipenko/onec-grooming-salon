@@ -17,7 +17,8 @@
 			<Metadata name="Catalog.Сотрудники.Attribute.Отчество" id="be9ca4f6-87ef-4f6a-b314-076e5fc17fc3"/>
 			<Metadata name="Catalog.Сотрудники.Attribute.КонтактныйТелефон" id="defa1e7f-8328-4ba9-ab6c-ccd88f46bb97"/>
 		</Metadata>
-		<Metadata name="Configuration.Конфигурация" id="bf7fd7f7-d5f2-4af8-987a-4903e6ac7a60" configVersion="7ef3f40519357c4abf9f7f2b4905030900000000"/>
+		<Metadata name="Configuration.Конфигурация" id="bf7fd7f7-d5f2-4af8-987a-4903e6ac7a60" configVersion="1bede5e414088940b5f36aaab187aa8400000000"/>
+		<Metadata name="DefinedType.ФинансовыеДанные" id="0a1b5721-156f-422e-acae-7fb831bcca0f" configVersion="a78d0f8a0d34bf4c96a05ede3aa022f600000000"/>
 		<Metadata name="Enum.Пол" id="4ecc25dd-de3e-4bfd-b96a-500df6beaaeb" configVersion="9bf2cdfffbf16c4d9e7797ea97da3fab00000000">
 			<Metadata name="Enum.Пол.EnumValue.Мужской" id="773b7b19-8f30-4c97-a3c4-6a7b77dbf1b3"/>
 			<Metadata name="Enum.Пол.EnumValue.Женский" id="eecd5153-b17b-44cf-bd63-518d43c7530a"/>

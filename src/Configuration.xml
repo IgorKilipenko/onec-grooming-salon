@@ -224,6 +224,7 @@
 		</Properties>
 		<ChildObjects>
 			<Language>Русский</Language>
+			<DefinedType>ФинансовыеДанные</DefinedType>
 			<Catalog>Должности</Catalog>
 			<Catalog>Сотрудники</Catalog>
 			<Catalog>Номенклатура</Catalog>
