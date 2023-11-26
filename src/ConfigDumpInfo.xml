@@ -26,12 +26,10 @@
 			<Metadata name="Catalog.Номенклатура.Attribute.ТипНоменклатуры" id="0a89601d-680a-46c3-8838-7382594232e4"/>
 		</Metadata>
 		<Metadata name="Catalog.Номенклатура.Predefined" id="ddac927d-70e8-4179-ade5-db76d310c772.1c" configVersion="132ddcd77345dc43a84d3116482f8f3800000000"/>
-		<Metadata name="Catalog.ПородыПитомцев" id="057d50b2-aff5-4910-accd-182ad2eb7a1d" configVersion="8f361c6fd52d6c45a95338272432613400000000">
+		<Metadata name="Catalog.ПородыПитомцев" id="057d50b2-aff5-4910-accd-182ad2eb7a1d" configVersion="bcab51ad0bf5a040a4a358367cadfd6c00000000">
 			<Metadata name="Catalog.ПородыПитомцев.Attribute.ВидПитомца" id="4702545f-c139-4268-8d37-9b0e6f210c0d"/>
-			<Metadata name="Catalog.ПородыПитомцев.Command.ЗаполнитьВидПитомцев" id="475922d4-6431-4d51-b7b1-6606f877207f"/>
 		</Metadata>
-		<Metadata name="Catalog.ПородыПитомцев.Command.ЗаполнитьВидПитомцев.CommandModule" id="475922d4-6431-4d51-b7b1-6606f877207f.2" configVersion="b9bd1e4969988a41af914d75bce9132b00000000"/>
-		<Metadata name="Catalog.ПородыПитомцев.Predefined" id="057d50b2-aff5-4910-accd-182ad2eb7a1d.1c" configVersion="feb5048ecc1904408a9535b8c7bc28c200000000"/>
+		<Metadata name="Catalog.ПородыПитомцев.Predefined" id="057d50b2-aff5-4910-accd-182ad2eb7a1d.1c" configVersion="f8195ac83ca57a488203be7e61ef84c800000000"/>
 		<Metadata name="Catalog.Склады" id="0480428c-d6d2-44da-9b73-d803664e1f65" configVersion="3d71da84abe04b4497e635ef9562f77500000000"/>
 		<Metadata name="Catalog.Склады.Predefined" id="0480428c-d6d2-44da-9b73-d803664e1f65.1c" configVersion="663c4bea72d877499dc430a7550e235200000000"/>
 		<Metadata name="Catalog.Сотрудники" id="22c35659-8f6f-4268-ab3d-94673f1123b8" configVersion="fa07d8aaf525704db46c9eeb3a5f8f5600000000">
