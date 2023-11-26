@@ -26,6 +26,10 @@
 			<Metadata name="Catalog.Номенклатура.Attribute.ТипНоменклатуры" id="0a89601d-680a-46c3-8838-7382594232e4"/>
 		</Metadata>
 		<Metadata name="Catalog.Номенклатура.Predefined" id="ddac927d-70e8-4179-ade5-db76d310c772.1c" configVersion="132ddcd77345dc43a84d3116482f8f3800000000"/>
+		<Metadata name="Catalog.ПородыПитомцев" id="057d50b2-aff5-4910-accd-182ad2eb7a1d" configVersion="c979d800b34926439a6d3903d7d4f14e00000000">
+			<Metadata name="Catalog.ПородыПитомцев.Attribute.ВидПитомца" id="4702545f-c139-4268-8d37-9b0e6f210c0d"/>
+		</Metadata>
+		<Metadata name="Catalog.ПородыПитомцев.Predefined" id="057d50b2-aff5-4910-accd-182ad2eb7a1d.1c" configVersion="feb5048ecc1904408a9535b8c7bc28c200000000"/>
 		<Metadata name="Catalog.Склады" id="0480428c-d6d2-44da-9b73-d803664e1f65" configVersion="3d71da84abe04b4497e635ef9562f77500000000"/>
 		<Metadata name="Catalog.Склады.Predefined" id="0480428c-d6d2-44da-9b73-d803664e1f65.1c" configVersion="663c4bea72d877499dc430a7550e235200000000"/>
 		<Metadata name="Catalog.Сотрудники" id="22c35659-8f6f-4268-ab3d-94673f1123b8" configVersion="fa07d8aaf525704db46c9eeb3a5f8f5600000000">
@@ -37,7 +41,7 @@
 			<Metadata name="Catalog.Сотрудники.Attribute.Отчество" id="be9ca4f6-87ef-4f6a-b314-076e5fc17fc3"/>
 			<Metadata name="Catalog.Сотрудники.Attribute.КонтактныйТелефон" id="defa1e7f-8328-4ba9-ab6c-ccd88f46bb97"/>
 		</Metadata>
-		<Metadata name="Configuration.Конфигурация" id="bf7fd7f7-d5f2-4af8-987a-4903e6ac7a60" configVersion="8f470e133f471c4884ed880bd9cbb2f200000000"/>
+		<Metadata name="Configuration.Конфигурация" id="bf7fd7f7-d5f2-4af8-987a-4903e6ac7a60" configVersion="c71384d256c5b741a5443ac105ea40e500000000"/>
 		<Metadata name="DefinedType.ФинансовыеДанные" id="0a1b5721-156f-422e-acae-7fb831bcca0f" configVersion="a78d0f8a0d34bf4c96a05ede3aa022f600000000"/>
 		<Metadata name="Enum.ВидПитомца" id="45c962dc-a266-4f18-a9f9-2b6e3d61376f" configVersion="5b54d77b46bf204eb2bdd6028d81c68e00000000">
 			<Metadata name="Enum.ВидПитомца.EnumValue.Кошка" id="156e5dd1-81f8-4138-ac9a-f06918cad374"/>

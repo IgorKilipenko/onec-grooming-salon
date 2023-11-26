@@ -1,0 +1,301 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<PredefinedData xmlns="http://v8.1c.ru/8.3/xcf/predef" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="CatalogPredefinedItems" version="2.16">
+	<Item id="7368546b-68fd-4bd0-aba9-36829bb23228">
+		<Name>Кошки</Name>
+		<Code>000000001</Code>
+		<Description>Кошки</Description>
+		<IsFolder>true</IsFolder>
+		<ChildItems>
+			<Item id="6de12db8-3b79-4d58-b4a5-0e0ede2fbf3c">
+				<Name>Абиссинская</Name>
+				<Code>000000003</Code>
+				<Description>Абиссинская</Description>
+				<IsFolder>false</IsFolder>
+			</Item>
+			<Item id="dbe71e27-bc4c-48f7-ad4c-fad32680e66c">
+				<Name>АвстралийскийМист</Name>
+				<Code>000000004</Code>
+				<Description>Австралийский мист</Description>
+				<IsFolder>false</IsFolder>
+			</Item>
+			<Item id="c101d2ad-54e6-4a8a-8d72-b080846d73c4">
+				<Name>АзиатскаяТабби</Name>
+				<Code>000000005</Code>
+				<Description>Азиатская (табби)</Description>
+				<IsFolder>false</IsFolder>
+			</Item>
+			<Item id="6c2ca7d9-a025-48a1-bbab-83c3bdd48557">
+				<Name>АмериканскийБобтейлДлинношерстный</Name>
+				<Code>000000006</Code>
+				<Description>Американский бобтейл длинношёрстный</Description>
+				<IsFolder>false</IsFolder>
+			</Item>
+			<Item id="3dc8beaf-4ec5-4d10-bdea-075b11ac355f">
+				<Name>БританскаяДлинношерстная</Name>
+				<Code>000000007</Code>
+				<Description>Британская длинношёрстная</Description>
+				<IsFolder>false</IsFolder>
+			</Item>
+			<Item id="7bc730a6-895d-4ac6-9f77-3302d4f9e513">
+				<Name>Гавана</Name>
+				<Code>000000008</Code>
+				<Description>Гавана</Description>
+				<IsFolder>false</IsFolder>
+			</Item>
+			<Item id="74a86614-68f7-469a-8bfd-0a9aae0b0b64">
+				<Name>КалифорнийскаяСияющая</Name>
+				<Code>000000009</Code>
+				<Description>Калифорнийская сияющая</Description>
+				<IsFolder>false</IsFolder>
+			</Item>
+			<Item id="8718c1ce-5e60-4cf1-a36b-19130b35a0b7">
+				<Name>Корат</Name>
+				<Code>000000010</Code>
+				<Description>Корат</Description>
+				<IsFolder>false</IsFolder>
+			</Item>
+			<Item id="674456c8-aad6-413c-941e-468cbd3f9e4d">
+				<Name>ЛапермДлинношерстный</Name>
+				<Code>000000011</Code>
+				<Description>Лаперм длинношёрстный</Description>
+				<IsFolder>false</IsFolder>
+			</Item>
+			<Item id="f779ac9e-0881-48c9-b3b5-026b511921e8">
+				<Name>МейнКун</Name>
+				<Code>000000012</Code>
+				<Description>Мейн-кун</Description>
+				<IsFolder>false</IsFolder>
+			</Item>
+			<Item id="fb2cf5fd-d0d5-4196-a621-c1ee3f6d58f0">
+				<Name>НемецкийРекс</Name>
+				<Code>000000013</Code>
+				<Description>Немецкий рекс</Description>
+				<IsFolder>false</IsFolder>
+			</Item>
+			<Item id="7bc4214c-7748-4f13-935b-75a205b85395">
+				<Name>ОрегонРекс</Name>
+				<Code>000000014</Code>
+				<Description>Орегон-рекс</Description>
+				<IsFolder>false</IsFolder>
+			</Item>
+			<Item id="4346e9d1-4428-4087-ad3d-bb4f22fcb66e">
+				<Name>Петерболд</Name>
+				<Code>000000015</Code>
+				<Description>Петерболд</Description>
+				<IsFolder>false</IsFolder>
+			</Item>
+			<Item id="9b34d859-2f65-4fa0-a0fd-e686ba977bf3">
+				<Name>Рагамаффин</Name>
+				<Code>000000016</Code>
+				<Description>Рагамаффин</Description>
+				<IsFolder>false</IsFolder>
+			</Item>
+			<Item id="90aa2ac4-68b7-4074-81f6-4c1343b52846">
+				<Name>Саванна</Name>
+				<Code>000000017</Code>
+				<Description>Саванна</Description>
+				<IsFolder>false</IsFolder>
+			</Item>
+			<Item id="5a05f5ab-dbcf-4466-a1ed-c61960673107">
+				<Name>Сибирская</Name>
+				<Code>000000018</Code>
+				<Description>Сибирская</Description>
+				<IsFolder>false</IsFolder>
+			</Item>
+			<Item id="b614678e-1f5e-488c-8b11-c3a921b7973e">
+				<Name>Тайская</Name>
+				<Code>000000019</Code>
+				<Description>Тайская</Description>
+				<IsFolder>false</IsFolder>
+			</Item>
+			<Item id="3c7b20f6-aa97-4dc1-a4be-0e3780809f90">
+				<Name>УкраинскийЛевкой</Name>
+				<Code>000000020</Code>
+				<Description>Украинский левкой</Description>
+				<IsFolder>false</IsFolder>
+			</Item>
+			<Item id="2ac0e618-de13-491e-9dd7-1f30947c23d4">
+				<Name>ФоринВайт</Name>
+				<Code>000000021</Code>
+				<Description>Форин Вайт</Description>
+				<IsFolder>false</IsFolder>
+			</Item>
+			<Item id="dbf8eba1-d344-4dbd-a76b-8ed36042fd40">
+				<Name>Хауси</Name>
+				<Code>000000023</Code>
+				<Description>Хауси</Description>
+				<IsFolder>false</IsFolder>
+			</Item>
+			<Item id="71969cc4-f5f5-45c0-ba54-93160de7057c">
+				<Name>Цейлонская</Name>
+				<Code>000000022</Code>
+				<Description>Цейлонская</Description>
+				<IsFolder>false</IsFolder>
+			</Item>
+			<Item id="67fc6e74-6a57-485a-969c-bfdf344245ec">
+				<Name>Шартрез</Name>
+				<Code>000000024</Code>
+				<Description>Шартрез</Description>
+				<IsFolder>false</IsFolder>
+			</Item>
+			<Item id="0210151c-f43a-4028-b104-6e56bb946897">
+				<Name>Эгейская</Name>
+				<Code>000000025</Code>
+				<Description>Эгейская</Description>
+				<IsFolder>false</IsFolder>
+			</Item>
+			<Item id="40ef653b-5990-45b3-963b-8bcde8b440a8">
+				<Name>Экзотическая</Name>
+				<Code>000000026</Code>
+				<Description>Экзотическая</Description>
+				<IsFolder>false</IsFolder>
+			</Item>
+			<Item id="13cd8662-a0e5-4d3d-b928-ce55b883c604">
+				<Name>ЯпонскийБобтейлДлинношерстный</Name>
+				<Code>000000027</Code>
+				<Description>Японский бобтейл длинношёрстный</Description>
+				<IsFolder>false</IsFolder>
+			</Item>
+		</ChildItems>
+	</Item>
+	<Item id="6133efc3-3ca5-464d-94ba-0ddd16c315ce">
+		<Name>Собаки</Name>
+		<Code>000000002</Code>
+		<Description>Собаки</Description>
+		<IsFolder>true</IsFolder>
+		<ChildItems>
+			<Item id="cb4ca90a-1335-4118-89a1-43dc55f196c5">
+				<Name>АвстралийскаяОвчарка</Name>
+				<Code>000000028</Code>
+				<Description>Австралийская овчарка (Аусси)</Description>
+				<IsFolder>false</IsFolder>
+			</Item>
+			<Item id="2bcba175-0a68-4e9f-bda4-fe93ddda1fa0">
+				<Name>Бигль</Name>
+				<Code>000000029</Code>
+				<Description>Бигль</Description>
+				<IsFolder>false</IsFolder>
+			</Item>
+			<Item id="6c62fb03-254f-4353-9c8a-b8b84441cf28">
+				<Name>ВаленсийскийРатер</Name>
+				<Code>000000030</Code>
+				<Description>Валенсийский ратер</Description>
+				<IsFolder>false</IsFolder>
+			</Item>
+			<Item id="e6e113f7-f226-49cf-b588-7c920a4134ed">
+				<Name>ГаванскийБишон</Name>
+				<Code>000000031</Code>
+				<Description>Гаванский бишон</Description>
+				<IsFolder>false</IsFolder>
+			</Item>
+			<Item id="202b37ec-e374-4ba4-8e3f-a37f2fe4485a">
+				<Name>Далматин</Name>
+				<Code>000000032</Code>
+				<Description>Далматин</Description>
+				<IsFolder>false</IsFolder>
+			</Item>
+			<Item id="67835408-406e-499d-87a2-cfe4f2a2db5b">
+				<Name>Евразиер</Name>
+				<Code>000000033</Code>
+				<Description>Евразиер</Description>
+				<IsFolder>false</IsFolder>
+			</Item>
+			<Item id="3e0a1516-e2d4-4d30-9325-1470a64cb746">
+				<Name>ЖесткошерстныйФокстерьер</Name>
+				<Code>000000034</Code>
+				<Description>Жесткошёрстный фокстерьер</Description>
+				<IsFolder>false</IsFolder>
+			</Item>
+			<Item id="4a8fff41-469a-4089-bc1d-8633d67c5721">
+				<Name>ЗападносибирскаяЛайка</Name>
+				<Code>000000035</Code>
+				<Description>Западносибирская лайка</Description>
+				<IsFolder>false</IsFolder>
+			</Item>
+			<Item id="b5644837-ec60-4cc8-bfd2-db990759efa3">
+				<Name>ИрландскийВодянойСпаниель</Name>
+				<Code>000000036</Code>
+				<Description>Ирландский водяной спаниель</Description>
+				<IsFolder>false</IsFolder>
+			</Item>
+			<Item id="16c70af3-9d95-4ca0-9a5b-cc649d0a554f">
+				<Name>ЙоркширскийТерьер</Name>
+				<Code>000000037</Code>
+				<Description>Йоркширский терьер</Description>
+				<IsFolder>false</IsFolder>
+			</Item>
+			<Item id="c3ed1418-db28-41c9-a17f-f6c4624f85c2">
+				<Name>КаДеБо</Name>
+				<Code>000000038</Code>
+				<Description>Ка-де-бо</Description>
+				<IsFolder>false</IsFolder>
+			</Item>
+			<Item id="818642b4-19ac-4cd9-8266-2c5da755feea">
+				<Name>РусскийТойтерьер</Name>
+				<Code>000000049</Code>
+				<Description>Русский тойтерьер</Description>
+				<IsFolder>false</IsFolder>
+			</Item>
+			<Item id="ef5f00b8-0a0e-4c13-9b7b-1b38bac1d33d">
+				<Name>Такса</Name>
+				<Code>000000039</Code>
+				<Description>Такса</Description>
+				<IsFolder>false</IsFolder>
+			</Item>
+			<Item id="29be3531-7782-4efb-9974-b058640fb10c">
+				<Name>Уиппет</Name>
+				<Code>000000040</Code>
+				<Description>Уиппет</Description>
+				<IsFolder>false</IsFolder>
+			</Item>
+			<Item id="3d28ce58-02e9-47af-9a98-d3656fec5ea9">
+				<Name>Фален</Name>
+				<Code>000000041</Code>
+				<Description>Фален</Description>
+				<IsFolder>false</IsFolder>
+			</Item>
+			<Item id="bb8ac862-97a4-4c97-bc2d-80fadb65eabd">
+				<Name>ХанаанскаяСобака</Name>
+				<Code>000000042</Code>
+				<Description>Ханаанская собака</Description>
+				<IsFolder>false</IsFolder>
+			</Item>
+			<Item id="3fdf3a2f-eb88-4813-aec5-b958d33a686b">
+				<Name>Цвергшнауцер</Name>
+				<Code>000000043</Code>
+				<Description>Цвергшнауцер</Description>
+				<IsFolder>false</IsFolder>
+			</Item>
+			<Item id="aa7e8c03-77f8-4705-bbd7-5afa8e720746">
+				<Name>Чихуахуа</Name>
+				<Code>000000044</Code>
+				<Description>Чихуахуа</Description>
+				<IsFolder>false</IsFolder>
+			</Item>
+			<Item id="4dbdb80f-533c-43e6-9da0-b7d1d190edd4">
+				<Name>Шапендуа</Name>
+				<Code>000000045</Code>
+				<Description>Шапендуа</Description>
+				<IsFolder>false</IsFolder>
+			</Item>
+			<Item id="be873d63-a933-4db9-8f13-28841126ccae">
+				<Name>ЭнтлебухерЭенненхунд</Name>
+				<Code>000000046</Code>
+				<Description>Энтлебухер эенненхунд</Description>
+				<IsFolder>false</IsFolder>
+			</Item>
+			<Item id="242fb615-e00a-4374-841c-26cc23eafeaf">
+				<Name>ЮжнорусскаяОвчарка</Name>
+				<Code>000000047</Code>
+				<Description>Южнорусская овчарка</Description>
+				<IsFolder>false</IsFolder>
+			</Item>
+			<Item id="c57c399c-6e2e-48af-a018-d0f040ca4be3">
+				<Name>ЯкутскаяЛайка</Name>
+				<Code>000000048</Code>
+				<Description>Якутская лайка</Description>
+				<IsFolder>false</IsFolder>
+			</Item>
+		</ChildItems>
+	</Item>
+</PredefinedData>

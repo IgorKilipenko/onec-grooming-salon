@@ -232,6 +232,7 @@
 			<Catalog>ИсточникиПолученияИнформацииОКомпании</Catalog>
 			<Catalog>Контрагенты</Catalog>
 			<Catalog>ДоговорыКонтрагентов</Catalog>
+			<Catalog>ПородыПитомцев</Catalog>
 			<Enum>ТипОрганизации</Enum>
 			<Enum>Пол</Enum>
 			<Enum>ТипНоменклатуры</Enum>
