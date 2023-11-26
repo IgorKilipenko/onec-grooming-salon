@@ -31,6 +31,7 @@
 			<Metadata name="Catalog.Номенклатура.Attribute.ТипНоменклатуры" id="0a89601d-680a-46c3-8838-7382594232e4"/>
 		</Metadata>
 		<Metadata name="Catalog.Номенклатура.Predefined" id="ddac927d-70e8-4179-ade5-db76d310c772.1c" configVersion="132ddcd77345dc43a84d3116482f8f3800000000"/>
+		<Metadata name="Catalog.Пользователи" id="a7a4423a-da2b-4dce-a107-979fe5fe8bdf" configVersion="9ba0976eeb84ef4f99deb6c02868b6fc00000000"/>
 		<Metadata name="Catalog.ПородыПитомцев" id="057d50b2-aff5-4910-accd-182ad2eb7a1d" configVersion="bcab51ad0bf5a040a4a358367cadfd6c00000000">
 			<Metadata name="Catalog.ПородыПитомцев.Attribute.ВидПитомца" id="4702545f-c139-4268-8d37-9b0e6f210c0d"/>
 		</Metadata>
@@ -46,7 +47,7 @@
 			<Metadata name="Catalog.Сотрудники.Attribute.Отчество" id="be9ca4f6-87ef-4f6a-b314-076e5fc17fc3"/>
 			<Metadata name="Catalog.Сотрудники.Attribute.КонтактныйТелефон" id="defa1e7f-8328-4ba9-ab6c-ccd88f46bb97"/>
 		</Metadata>
-		<Metadata name="Configuration.Конфигурация" id="bf7fd7f7-d5f2-4af8-987a-4903e6ac7a60" configVersion="33499ad951a0d84d8a5fbaa50a9b764c00000000"/>
+		<Metadata name="Configuration.Конфигурация" id="bf7fd7f7-d5f2-4af8-987a-4903e6ac7a60" configVersion="0177c6433de3e946ace1780ea024a04000000000"/>
 		<Metadata name="DefinedType.ФинансовыеДанные" id="0a1b5721-156f-422e-acae-7fb831bcca0f" configVersion="a78d0f8a0d34bf4c96a05ede3aa022f600000000"/>
 		<Metadata name="Document.ЗаписьКлиента" id="57b68005-3097-4a50-a8da-11276713c78c" configVersion="03998c8783a1b64ebb0f06ed3b138eba00000000">
 			<Metadata name="Document.ЗаписьКлиента.TabularSection.Услуги.Attribute.Стоимость" id="06030264-4866-457d-bc39-dd432cac2f81"/>

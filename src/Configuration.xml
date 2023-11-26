@@ -233,6 +233,7 @@
 			<Catalog>Контрагенты</Catalog>
 			<Catalog>ДоговорыКонтрагентов</Catalog>
 			<Catalog>ПородыПитомцев</Catalog>
+			<Catalog>Пользователи</Catalog>
 			<Document>ЗаписьКлиента</Document>
 			<Enum>ТипОрганизации</Enum>
 			<Enum>Пол</Enum>
