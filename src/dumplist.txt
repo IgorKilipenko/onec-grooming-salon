@@ -1,2 +1,2 @@
-﻿New: AccumulationRegister.ЗаказыКлиентов
-Modified: Configuration.Конфигурация
+﻿New: Document.ЗаписьКлиента.ObjectModule
+Modified: Document.ЗаписьКлиента
