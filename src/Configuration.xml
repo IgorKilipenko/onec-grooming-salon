@@ -244,6 +244,7 @@
 			<Enum>ВидПитомца</Enum>
 			<AccumulationRegister>Продажи</AccumulationRegister>
 			<AccumulationRegister>ТоварыНаСкладах</AccumulationRegister>
+			<AccumulationRegister>ЗаказыКлиентов</AccumulationRegister>
 		</ChildObjects>
 	</Configuration>
 </MetaDataObject>

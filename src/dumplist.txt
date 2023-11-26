@@ -1,2 +1,2 @@
-﻿New: Document.РегистрацияПоступленияТоваров.ObjectModule
-Modified: Document.РегистрацияПоступленияТоваров
+﻿New: AccumulationRegister.ЗаказыКлиентов
+Modified: Configuration.Конфигурация
