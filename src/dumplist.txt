@@ -1,2 +1,2 @@
-﻿New: Catalog.Номенклатура.Predefined
-Modified: Catalog.Номенклатура
+﻿New: Catalog.Контрагенты.Predefined
+Modified: Catalog.Контрагенты
