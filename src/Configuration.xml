@@ -236,6 +236,7 @@
 			<Catalog>Пользователи</Catalog>
 			<Document>ЗаписьКлиента</Document>
 			<Document>РеализацияТоваровИУслуг</Document>
+			<Document>РегистрацияПоступленияТоваров</Document>
 			<Enum>ТипОрганизации</Enum>
 			<Enum>Пол</Enum>
 			<Enum>ТипНоменклатуры</Enum>

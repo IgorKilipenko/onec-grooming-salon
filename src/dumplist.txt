@@ -1,1 +1,2 @@
-﻿Modified: Catalog.Пользователи
+﻿New: Document.РегистрацияПоступленияТоваров
+Modified: Configuration.Конфигурация
