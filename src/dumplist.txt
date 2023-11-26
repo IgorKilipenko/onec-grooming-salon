@@ -1,1 +1,1 @@
-﻿Modified: Document.РеализацияТоваровИУслуг
+﻿Modified: Catalog.Контрагенты
