@@ -1,2 +1,2 @@
-﻿New: Catalog.Контрагенты.Predefined
-Modified: Catalog.Контрагенты
+﻿New: Enum.ВидПитомца
+Modified: Configuration.Конфигурация

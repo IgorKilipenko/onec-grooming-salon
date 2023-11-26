@@ -236,6 +236,7 @@
 			<Enum>Пол</Enum>
 			<Enum>ТипНоменклатуры</Enum>
 			<Enum>ТипКонтрагента</Enum>
+			<Enum>ВидПитомца</Enum>
 		</ChildObjects>
 	</Configuration>
 </MetaDataObject>

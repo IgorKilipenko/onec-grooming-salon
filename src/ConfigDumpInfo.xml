@@ -37,8 +37,12 @@
 			<Metadata name="Catalog.Сотрудники.Attribute.Отчество" id="be9ca4f6-87ef-4f6a-b314-076e5fc17fc3"/>
 			<Metadata name="Catalog.Сотрудники.Attribute.КонтактныйТелефон" id="defa1e7f-8328-4ba9-ab6c-ccd88f46bb97"/>
 		</Metadata>
-		<Metadata name="Configuration.Конфигурация" id="bf7fd7f7-d5f2-4af8-987a-4903e6ac7a60" configVersion="3a6a0ac566b74f458cc9989b90ab205f00000000"/>
+		<Metadata name="Configuration.Конфигурация" id="bf7fd7f7-d5f2-4af8-987a-4903e6ac7a60" configVersion="8f470e133f471c4884ed880bd9cbb2f200000000"/>
 		<Metadata name="DefinedType.ФинансовыеДанные" id="0a1b5721-156f-422e-acae-7fb831bcca0f" configVersion="a78d0f8a0d34bf4c96a05ede3aa022f600000000"/>
+		<Metadata name="Enum.ВидПитомца" id="45c962dc-a266-4f18-a9f9-2b6e3d61376f" configVersion="5b54d77b46bf204eb2bdd6028d81c68e00000000">
+			<Metadata name="Enum.ВидПитомца.EnumValue.Кошка" id="156e5dd1-81f8-4138-ac9a-f06918cad374"/>
+			<Metadata name="Enum.ВидПитомца.EnumValue.Собака" id="817e8746-db18-4853-b48e-1a469936f110"/>
+		</Metadata>
 		<Metadata name="Enum.Пол" id="4ecc25dd-de3e-4bfd-b96a-500df6beaaeb" configVersion="9bf2cdfffbf16c4d9e7797ea97da3fab00000000">
 			<Metadata name="Enum.Пол.EnumValue.Мужской" id="773b7b19-8f30-4c97-a3c4-6a7b77dbf1b3"/>
 			<Metadata name="Enum.Пол.EnumValue.Женский" id="eecd5153-b17b-44cf-bd63-518d43c7530a"/>
