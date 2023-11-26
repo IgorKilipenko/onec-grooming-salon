@@ -71,8 +71,9 @@
 			<Metadata name="Enum.ТипКонтрагента.EnumValue.Клиент" id="10bbb5e6-3259-4293-8e69-8e31c05985c0"/>
 			<Metadata name="Enum.ТипКонтрагента.EnumValue.Поставщик" id="7c07604e-f050-4654-92be-2507583b4152"/>
 		</Metadata>
-		<Metadata name="Enum.ТипНоменклатуры" id="83a919c6-e72c-4ef4-9a1b-ea95c9cde048" configVersion="99e9d16f04a8b74faf8fdd0d0ec23ff200000000">
+		<Metadata name="Enum.ТипНоменклатуры" id="83a919c6-e72c-4ef4-9a1b-ea95c9cde048" configVersion="32b6a16b3a3392499a593ada59f8f14a00000000">
 			<Metadata name="Enum.ТипНоменклатуры.EnumValue.Услуга" id="3bd4b0f0-8315-4485-8586-3bc391ea9330"/>
+			<Metadata name="Enum.ТипНоменклатуры.EnumValue.Материал" id="55167cea-965e-4744-b4f4-49b70f998847"/>
 			<Metadata name="Enum.ТипНоменклатуры.EnumValue.Товар" id="a0826328-0fac-4714-881d-6ac58720d1e8"/>
 		</Metadata>
 		<Metadata name="Enum.ТипОрганизации" id="01251137-f4df-4b63-a692-3f5969abbb41" configVersion="cf67fab390ca7040b2e07bd0e88743e100000000">
