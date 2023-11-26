@@ -1,2 +1,2 @@
-﻿New: AccumulationRegister.Продажи
-Modified: Configuration.Конфигурация
+﻿Modified: Document.РеализацияТоваровИУслуг
+Modified: Document.РеализацияТоваровИУслуг.ObjectModule
