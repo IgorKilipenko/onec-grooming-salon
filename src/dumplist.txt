@@ -1,5 +1,2 @@
-﻿New: Document.РеализацияТоваровИУслуг.Command.Печать.CommandModule
-New: Document.РеализацияТоваровИУслуг.ManagerModule
-New: Document.РеализацияТоваровИУслуг.Template.Печать
-New: Document.РеализацияТоваровИУслуг.Template.Печать.Template
-Modified: Document.РеализацияТоваровИУслуг
+﻿New: AccumulationRegister.Продажи
+Modified: Configuration.Конфигурация
