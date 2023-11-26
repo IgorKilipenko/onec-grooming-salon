@@ -1,2 +1,2 @@
-﻿New: Document.РеализацияТоваровИУслуг
-Modified: Configuration.Конфигурация
+﻿New: Document.РеализацияТоваровИУслуг.ObjectModule
+Modified: Document.РеализацияТоваровИУслуг

@@ -59,7 +59,7 @@
 			<Metadata name="Document.ЗаписьКлиента.Attribute.ДатаЗаписи" id="f5a0ef06-9a5d-477b-9e8e-79a372a47d41"/>
 			<Metadata name="Document.ЗаписьКлиента.Attribute.Сотрудник" id="faeb8138-872b-4353-b2c4-3aa2f6b9a1e2"/>
 		</Metadata>
-		<Metadata name="Document.РеализацияТоваровИУслуг" id="e30ec35e-8c3a-40cf-a109-fc154d862130" configVersion="12514bf8c8cba540b1542f2f145eadf700000000">
+		<Metadata name="Document.РеализацияТоваровИУслуг" id="e30ec35e-8c3a-40cf-a109-fc154d862130" configVersion="d3cae9ef6942f04d943dde41ee5674b000000000">
 			<Metadata name="Document.РеализацияТоваровИУслуг.TabularSection.Товары.Attribute.Сумма" id="10a761de-8ecb-48c2-92d5-abff4ac92234"/>
 			<Metadata name="Document.РеализацияТоваровИУслуг.TabularSection.Услуги" id="1badd772-6c4a-48ce-9a4a-a44555e2f875"/>
 			<Metadata name="Document.РеализацияТоваровИУслуг.Attribute.СуммаДокумента" id="1e7c267d-f61f-4a4b-a478-173f78626219"/>
@@ -76,6 +76,7 @@
 			<Metadata name="Document.РеализацияТоваровИУслуг.Attribute.АвторДокумента" id="ec622177-5e73-4a2e-bb35-24da957937fc"/>
 			<Metadata name="Document.РеализацияТоваровИУслуг.Attribute.Основание" id="eece62c6-b430-4b07-a2a9-42c7d3968d43"/>
 		</Metadata>
+		<Metadata name="Document.РеализацияТоваровИУслуг.ObjectModule" id="e30ec35e-8c3a-40cf-a109-fc154d862130.0" configVersion="6c074906647fe243a7d37f1caa1300c800000000"/>
 		<Metadata name="Enum.ВидПитомца" id="45c962dc-a266-4f18-a9f9-2b6e3d61376f" configVersion="5b54d77b46bf204eb2bdd6028d81c68e00000000">
 			<Metadata name="Enum.ВидПитомца.EnumValue.Кошка" id="156e5dd1-81f8-4138-ac9a-f06918cad374"/>
 			<Metadata name="Enum.ВидПитомца.EnumValue.Собака" id="817e8746-db18-4853-b48e-1a469936f110"/>
