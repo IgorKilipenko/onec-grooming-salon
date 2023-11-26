@@ -1,3 +1,1 @@
-﻿New: Constant.ИспользоватьСклады
-New: FunctionalOption.ИспользоватьСклады
-Modified: Configuration.Конфигурация
+﻿Modified: Document.РеализацияТоваровИУслуг
