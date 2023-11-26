@@ -224,7 +224,9 @@
 		</Properties>
 		<ChildObjects>
 			<Language>Русский</Language>
+			<FunctionalOption>ИспользоватьСклады</FunctionalOption>
 			<DefinedType>ФинансовыеДанные</DefinedType>
+			<Constant>ИспользоватьСклады</Constant>
 			<Catalog>Должности</Catalog>
 			<Catalog>Сотрудники</Catalog>
 			<Catalog>Номенклатура</Catalog>

@@ -1,2 +1,3 @@
-﻿Modified: Document.РеализацияТоваровИУслуг
-Modified: Document.РеализацияТоваровИУслуг.ObjectModule
+﻿New: Constant.ИспользоватьСклады
+New: FunctionalOption.ИспользоватьСклады
+Modified: Configuration.Конфигурация

@@ -65,7 +65,8 @@
 			<Metadata name="Catalog.Сотрудники.Attribute.Отчество" id="be9ca4f6-87ef-4f6a-b314-076e5fc17fc3"/>
 			<Metadata name="Catalog.Сотрудники.Attribute.КонтактныйТелефон" id="defa1e7f-8328-4ba9-ab6c-ccd88f46bb97"/>
 		</Metadata>
-		<Metadata name="Configuration.Конфигурация" id="bf7fd7f7-d5f2-4af8-987a-4903e6ac7a60" configVersion="d3b59d2a56809a4ab7b033b20148ec7c00000000"/>
+		<Metadata name="Configuration.Конфигурация" id="bf7fd7f7-d5f2-4af8-987a-4903e6ac7a60" configVersion="8d2450e47cec1142b9c662fc3f07e38a00000000"/>
+		<Metadata name="Constant.ИспользоватьСклады" id="e09ea315-e523-4767-909f-3616479ceee2" configVersion="76ee4bb307e4f4429eb480ccca0828c500000000"/>
 		<Metadata name="DefinedType.ФинансовыеДанные" id="0a1b5721-156f-422e-acae-7fb831bcca0f" configVersion="a78d0f8a0d34bf4c96a05ede3aa022f600000000"/>
 		<Metadata name="Document.ЗаписьКлиента" id="57b68005-3097-4a50-a8da-11276713c78c" configVersion="7f88162e2f9919438df5e863ed95bb1e00000000">
 			<Metadata name="Document.ЗаписьКлиента.TabularSection.Услуги.Attribute.Стоимость" id="06030264-4866-457d-bc39-dd432cac2f81"/>
@@ -138,6 +139,7 @@
 			<Metadata name="Enum.ТипОрганизации.EnumValue.ЮридическоеЛицо" id="4fa18d73-086e-435c-882a-4c710d7832a4"/>
 			<Metadata name="Enum.ТипОрганизации.EnumValue.ИндивидуальныйПредприниматель" id="ad2d5ff1-d639-4008-a140-16287d79ebe0"/>
 		</Metadata>
+		<Metadata name="FunctionalOption.ИспользоватьСклады" id="9f180b36-b020-41d2-9562-6262802d378c" configVersion="5786049450eb7643add84bc76855b2a800000000"/>
 		<Metadata name="Language.Русский" id="f8b7a135-85ba-485d-bb43-041618aadaf7" configVersion="596bf6fab59d8c47b4836edbb53adfba00000000"/>
 	</ConfigVersions>
 </ConfigDumpInfo>
