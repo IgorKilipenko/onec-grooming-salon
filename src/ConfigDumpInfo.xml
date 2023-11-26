@@ -7,6 +7,11 @@
 			<Metadata name="AccumulationRegister.Продажи.Dimension.Клиент" id="abca71d7-9f2d-445e-817b-d0d353e949c8"/>
 			<Metadata name="AccumulationRegister.Продажи.Resource.Сумма" id="f71e7fc9-1c44-4561-b659-b571b48a3b46"/>
 		</Metadata>
+		<Metadata name="AccumulationRegister.ТоварыНаСкладах" id="5e7a41f4-9dbe-4b16-b83a-024cfbdb82c6" configVersion="ab26850b99e5dc48b2d4d18cffba522200000000">
+			<Metadata name="AccumulationRegister.ТоварыНаСкладах.Dimension.Склад" id="2cf131da-81f0-4645-a38e-8387c4c46173"/>
+			<Metadata name="AccumulationRegister.ТоварыНаСкладах.Resource.Количество" id="60371a72-4e70-4d6d-8787-bc81b791f969"/>
+			<Metadata name="AccumulationRegister.ТоварыНаСкладах.Dimension.Номенклатура" id="fda74b58-5428-41f4-bc2e-010df9c1d0e4"/>
+		</Metadata>
 		<Metadata name="Catalog.ДоговорыКонтрагентов" id="87b3d083-9850-4c56-9dc9-d0d816f36fc9" configVersion="f78dbf4218c7c340b62cf3262f6b4d9900000000">
 			<Metadata name="Catalog.ДоговорыКонтрагентов.Attribute.ДатаЗаключенияДоговора" id="1e36e7e1-52a4-408d-bb9e-49ba4c85a756"/>
 			<Metadata name="Catalog.ДоговорыКонтрагентов.Attribute.ВнешнийНомерДоговора" id="33837e67-1c7a-4571-b652-dc7753e1ac41"/>
@@ -53,7 +58,7 @@
 			<Metadata name="Catalog.Сотрудники.Attribute.Отчество" id="be9ca4f6-87ef-4f6a-b314-076e5fc17fc3"/>
 			<Metadata name="Catalog.Сотрудники.Attribute.КонтактныйТелефон" id="defa1e7f-8328-4ba9-ab6c-ccd88f46bb97"/>
 		</Metadata>
-		<Metadata name="Configuration.Конфигурация" id="bf7fd7f7-d5f2-4af8-987a-4903e6ac7a60" configVersion="379b445038e2fb48a9589dadd612561e00000000"/>
+		<Metadata name="Configuration.Конфигурация" id="bf7fd7f7-d5f2-4af8-987a-4903e6ac7a60" configVersion="50ef71dbe459864abc7842be4477105700000000"/>
 		<Metadata name="DefinedType.ФинансовыеДанные" id="0a1b5721-156f-422e-acae-7fb831bcca0f" configVersion="a78d0f8a0d34bf4c96a05ede3aa022f600000000"/>
 		<Metadata name="Document.ЗаписьКлиента" id="57b68005-3097-4a50-a8da-11276713c78c" configVersion="059ff7f887abb149912f1033b1a2863a00000000">
 			<Metadata name="Document.ЗаписьКлиента.TabularSection.Услуги.Attribute.Стоимость" id="06030264-4866-457d-bc39-dd432cac2f81"/>

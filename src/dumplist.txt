@@ -1,2 +1,2 @@
-﻿Modified: Document.РеализацияТоваровИУслуг
-Modified: Document.РеализацияТоваровИУслуг.ObjectModule
+﻿New: AccumulationRegister.ТоварыНаСкладах
+Modified: Configuration.Конфигурация
