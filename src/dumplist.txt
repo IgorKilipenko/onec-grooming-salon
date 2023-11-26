@@ -1,2 +1,1 @@
-﻿New: Catalog.Пользователи
-Modified: Configuration.Конфигурация
+﻿Modified: Document.ЗаписьКлиента
