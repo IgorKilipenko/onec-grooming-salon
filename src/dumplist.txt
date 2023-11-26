@@ -1,1 +1,2 @@
-﻿Modified: Document.РегистрацияПоступленияТоваров
+﻿New: Document.РегистрацияПоступленияТоваров.ObjectModule
+Modified: Document.РегистрацияПоступленияТоваров
