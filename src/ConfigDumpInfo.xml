@@ -78,7 +78,7 @@
 			<Metadata name="Document.ЗаписьКлиента.Attribute.Сотрудник" id="faeb8138-872b-4353-b2c4-3aa2f6b9a1e2"/>
 		</Metadata>
 		<Metadata name="Document.ЗаписьКлиента.ObjectModule" id="57b68005-3097-4a50-a8da-11276713c78c.0" configVersion="0cd99f47dd12ec42b6cecf7987f05c7100000000"/>
-		<Metadata name="Document.РеализацияТоваровИУслуг" id="e30ec35e-8c3a-40cf-a109-fc154d862130" configVersion="2d5fd8b08ac35d40908c2be7e3d2532300000000">
+		<Metadata name="Document.РеализацияТоваровИУслуг" id="e30ec35e-8c3a-40cf-a109-fc154d862130" configVersion="e640dd4131602146bb96d3a3fb0c0c5b00000000">
 			<Metadata name="Document.РеализацияТоваровИУслуг.TabularSection.Товары.Attribute.Сумма" id="10a761de-8ecb-48c2-92d5-abff4ac92234"/>
 			<Metadata name="Document.РеализацияТоваровИУслуг.TabularSection.Услуги" id="1badd772-6c4a-48ce-9a4a-a44555e2f875"/>
 			<Metadata name="Document.РеализацияТоваровИУслуг.Attribute.СуммаДокумента" id="1e7c267d-f61f-4a4b-a478-173f78626219"/>
@@ -98,7 +98,7 @@
 		</Metadata>
 		<Metadata name="Document.РеализацияТоваровИУслуг.Command.Печать.CommandModule" id="8b790c86-f950-41fe-a86f-8b776d4b0fe2.2" configVersion="5d2162ef87d9a944b597a489cd08853100000000"/>
 		<Metadata name="Document.РеализацияТоваровИУслуг.ManagerModule" id="e30ec35e-8c3a-40cf-a109-fc154d862130.2" configVersion="421ff017602044449ca8ad0ba4c1486d00000000"/>
-		<Metadata name="Document.РеализацияТоваровИУслуг.ObjectModule" id="e30ec35e-8c3a-40cf-a109-fc154d862130.0" configVersion="5e6abb874127394d91f558e247615a9100000000"/>
+		<Metadata name="Document.РеализацияТоваровИУслуг.ObjectModule" id="e30ec35e-8c3a-40cf-a109-fc154d862130.0" configVersion="2d22b1915810784fa830093237779bd200000000"/>
 		<Metadata name="Document.РеализацияТоваровИУслуг.Template.Печать" id="5785dba4-505a-4aaf-ad4f-ee20249b0cd0" configVersion="99365df437210d4eabe98244bec6209200000000"/>
 		<Metadata name="Document.РеализацияТоваровИУслуг.Template.Печать.Template" id="5785dba4-505a-4aaf-ad4f-ee20249b0cd0.0" configVersion="befb8df710ad124cb1719e8dc4f17c7500000000"/>
 		<Metadata name="Document.РегистрацияПоступленияТоваров" id="fae4f4d5-2dbe-45a9-b5c9-cb07edb71685" configVersion="bc86076a60a70a4fbb221a8ac7dd224300000000">
