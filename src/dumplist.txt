@@ -1,2 +1,6 @@
-﻿Modified: Document.РеализацияТоваровИУслуг
-Modified: Document.РеализацияТоваровИУслуг.ObjectModule
+﻿Modified: Catalog.ДоговорыКонтрагентов
+Modified: Catalog.Должности
+Modified: Catalog.ИсточникиПолученияИнформацииОКомпании
+Modified: Catalog.Контрагенты
+Modified: Catalog.Номенклатура
+Modified: Catalog.Склады
