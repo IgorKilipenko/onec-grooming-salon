@@ -1,3 +1,2 @@
-﻿New: Catalog.ПородыПитомцев
-New: Catalog.ПородыПитомцев.Predefined
-Modified: Configuration.Конфигурация
+﻿New: Catalog.ПородыПитомцев.Command.ЗаполнитьВидПитомцев.CommandModule
+Modified: Catalog.ПородыПитомцев
