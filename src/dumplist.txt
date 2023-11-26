@@ -1,2 +1,1 @@
-﻿New: Document.РегистрацияПоступленияТоваров
-Modified: Configuration.Конфигурация
+﻿Modified: Document.РегистрацияПоступленияТоваров

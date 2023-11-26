@@ -95,7 +95,7 @@
 		<Metadata name="Document.РеализацияТоваровИУслуг.ObjectModule" id="e30ec35e-8c3a-40cf-a109-fc154d862130.0" configVersion="5e6abb874127394d91f558e247615a9100000000"/>
 		<Metadata name="Document.РеализацияТоваровИУслуг.Template.Печать" id="5785dba4-505a-4aaf-ad4f-ee20249b0cd0" configVersion="99365df437210d4eabe98244bec6209200000000"/>
 		<Metadata name="Document.РеализацияТоваровИУслуг.Template.Печать.Template" id="5785dba4-505a-4aaf-ad4f-ee20249b0cd0.0" configVersion="befb8df710ad124cb1719e8dc4f17c7500000000"/>
-		<Metadata name="Document.РегистрацияПоступленияТоваров" id="fae4f4d5-2dbe-45a9-b5c9-cb07edb71685" configVersion="f60621343dfef145ba034a38d4b40f1200000000">
+		<Metadata name="Document.РегистрацияПоступленияТоваров" id="fae4f4d5-2dbe-45a9-b5c9-cb07edb71685" configVersion="b6fd8844250cb54380075ac0b93492ce00000000">
 			<Metadata name="Document.РегистрацияПоступленияТоваров.TabularSection.Товары.Attribute.Цена" id="02b11f2b-f879-4ad7-8693-2ecdad757738"/>
 			<Metadata name="Document.РегистрацияПоступленияТоваров.TabularSection.Товары" id="3c07db8e-d04c-44b2-b9ce-2031d54cd17b"/>
 			<Metadata name="Document.РегистрацияПоступленияТоваров.Attribute.ВходящийНомер" id="3f46ad42-2e89-47e1-93d6-c718a7a378c9"/>
@@ -103,6 +103,7 @@
 			<Metadata name="Document.РегистрацияПоступленияТоваров.Attribute.АвторДокумента" id="57f0c83b-4184-4b9d-86d9-15bdf454548a"/>
 			<Metadata name="Document.РегистрацияПоступленияТоваров.Attribute.СуммаДокумента" id="5cf3d2d2-ee03-40d4-bb48-e5750f78abda"/>
 			<Metadata name="Document.РегистрацияПоступленияТоваров.TabularSection.Товары.Attribute.Количество" id="6df322e7-7f2a-4a82-9eaf-a357bed8be21"/>
+			<Metadata name="Document.РегистрацияПоступленияТоваров.Attribute.Склад" id="7eeb480b-eb16-4ff2-9b41-1992316d3d92"/>
 			<Metadata name="Document.РегистрацияПоступленияТоваров.Attribute.Комментарий" id="88d5b2cf-4151-45bf-864a-902bc36f249b"/>
 			<Metadata name="Document.РегистрацияПоступленияТоваров.Attribute.ВходящаяДата" id="947c69c7-68a2-4209-827a-0dd60ea93c86"/>
 			<Metadata name="Document.РегистрацияПоступленияТоваров.Attribute.Поставщик" id="9fe6f52e-8e53-4aa4-879d-fdc745b11cf2"/>
