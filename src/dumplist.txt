@@ -1,1 +1,2 @@
-﻿Modified: Catalog.Сотрудники
+﻿New: Catalog.Номенклатура.Predefined
+Modified: Catalog.Номенклатура
