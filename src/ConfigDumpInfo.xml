@@ -46,8 +46,18 @@
 			<Metadata name="Catalog.Сотрудники.Attribute.Отчество" id="be9ca4f6-87ef-4f6a-b314-076e5fc17fc3"/>
 			<Metadata name="Catalog.Сотрудники.Attribute.КонтактныйТелефон" id="defa1e7f-8328-4ba9-ab6c-ccd88f46bb97"/>
 		</Metadata>
-		<Metadata name="Configuration.Конфигурация" id="bf7fd7f7-d5f2-4af8-987a-4903e6ac7a60" configVersion="c71384d256c5b741a5443ac105ea40e500000000"/>
+		<Metadata name="Configuration.Конфигурация" id="bf7fd7f7-d5f2-4af8-987a-4903e6ac7a60" configVersion="33499ad951a0d84d8a5fbaa50a9b764c00000000"/>
 		<Metadata name="DefinedType.ФинансовыеДанные" id="0a1b5721-156f-422e-acae-7fb831bcca0f" configVersion="a78d0f8a0d34bf4c96a05ede3aa022f600000000"/>
+		<Metadata name="Document.ЗаписьКлиента" id="57b68005-3097-4a50-a8da-11276713c78c" configVersion="03998c8783a1b64ebb0f06ed3b138eba00000000">
+			<Metadata name="Document.ЗаписьКлиента.TabularSection.Услуги.Attribute.Стоимость" id="06030264-4866-457d-bc39-dd432cac2f81"/>
+			<Metadata name="Document.ЗаписьКлиента.TabularSection.Услуги.Attribute.Услуга" id="4ba8ab84-3ee4-4060-9060-3d5cbc86fa57"/>
+			<Metadata name="Document.ЗаписьКлиента.TabularSection.Услуги" id="99254a02-90e3-4c50-9f3c-9e3a62b4ace9"/>
+			<Metadata name="Document.ЗаписьКлиента.Attribute.Комментарий" id="a126f7b6-6a30-4cb8-95fe-bba570bbdeab"/>
+			<Metadata name="Document.ЗаписьКлиента.Attribute.АвторДокумента" id="a9fefefa-b531-4c35-b04f-57bc4dd4a3c4"/>
+			<Metadata name="Document.ЗаписьКлиента.Attribute.Клиент" id="d3e648b2-fefb-4b8a-bc62-7d3132806851"/>
+			<Metadata name="Document.ЗаписьКлиента.Attribute.ДатаЗаписи" id="f5a0ef06-9a5d-477b-9e8e-79a372a47d41"/>
+			<Metadata name="Document.ЗаписьКлиента.Attribute.Сотрудник" id="faeb8138-872b-4353-b2c4-3aa2f6b9a1e2"/>
+		</Metadata>
 		<Metadata name="Enum.ВидПитомца" id="45c962dc-a266-4f18-a9f9-2b6e3d61376f" configVersion="5b54d77b46bf204eb2bdd6028d81c68e00000000">
 			<Metadata name="Enum.ВидПитомца.EnumValue.Кошка" id="156e5dd1-81f8-4138-ac9a-f06918cad374"/>
 			<Metadata name="Enum.ВидПитомца.EnumValue.Собака" id="817e8746-db18-4853-b48e-1a469936f110"/>

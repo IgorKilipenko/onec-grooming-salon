@@ -1,1 +1,2 @@
-﻿Modified: Catalog.Контрагенты
+﻿New: Document.ЗаписьКлиента
+Modified: Configuration.Конфигурация
