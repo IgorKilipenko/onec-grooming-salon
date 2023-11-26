@@ -1,1 +1,2 @@
-﻿Modified: Enum.ТипНоменклатуры
+﻿New: Document.РеализацияТоваровИУслуг
+Modified: Configuration.Конфигурация
