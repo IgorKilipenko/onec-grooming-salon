@@ -1,2 +1,1 @@
-﻿New: Document.РеализацияТоваровИУслуг.ObjectModule
-Modified: Document.РеализацияТоваровИУслуг
+﻿Modified: Document.ЗаписьКлиента
