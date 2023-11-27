@@ -1,2 +1,3 @@
-﻿New: Catalog.Организации
+﻿New: DefinedType.КоличествоТоваров
+New: DefinedType.КоличествоУслуг
 Modified: Configuration.ГрумингСалон

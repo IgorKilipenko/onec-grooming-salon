@@ -231,6 +231,8 @@
 			<Language>Русский</Language>
 			<FunctionalOption>ИспользоватьСклады</FunctionalOption>
 			<DefinedType>ФинансовыеДанные</DefinedType>
+			<DefinedType>КоличествоУслуг</DefinedType>
+			<DefinedType>КоличествоТоваров</DefinedType>
 			<Constant>ИспользоватьСклады</Constant>
 			<Catalog>Должности</Catalog>
 			<Catalog>Сотрудники</Catalog>
