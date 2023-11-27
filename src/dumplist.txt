@@ -1,1 +1,1 @@
-﻿Modified: FunctionalOption.ИспользоватьСклады
+﻿Modified: Catalog.Организации
