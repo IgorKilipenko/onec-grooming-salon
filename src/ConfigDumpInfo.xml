@@ -47,6 +47,13 @@
 			<Metadata name="Catalog.Номенклатура.Attribute.ТипНоменклатуры" id="0a89601d-680a-46c3-8838-7382594232e4"/>
 		</Metadata>
 		<Metadata name="Catalog.Номенклатура.Predefined" id="ddac927d-70e8-4179-ade5-db76d310c772.1c" configVersion="132ddcd77345dc43a84d3116482f8f3800000000"/>
+		<Metadata name="Catalog.Организации" id="d7c97d07-9721-4bff-af15-6b832647c24c" configVersion="0f802f5425ca5845bd09dfce53c340cf00000000">
+			<Metadata name="Catalog.Организации.Attribute.ГлавныйБухгалтер" id="0e7d9e9f-901b-4f39-8857-817e5bbdecb6"/>
+			<Metadata name="Catalog.Организации.Attribute.ДолжностьРуководителя" id="49aee31a-53d0-4e73-b6d6-1920e091b152"/>
+			<Metadata name="Catalog.Организации.Attribute.ИНН" id="9a8eca8b-ca31-422b-a0a1-af53ac40d2bc"/>
+			<Metadata name="Catalog.Организации.Attribute.ТипОрганизации" id="bdaba982-3b1c-4e84-9dc3-65ded2ed65fd"/>
+			<Metadata name="Catalog.Организации.Attribute.Руководитель" id="d4bfd845-00be-4150-8ca0-1ac0d0f00c1f"/>
+		</Metadata>
 		<Metadata name="Catalog.Пользователи" id="a7a4423a-da2b-4dce-a107-979fe5fe8bdf" configVersion="7ee4579fcd56ff4e862e4c82aba52ee200000000">
 			<Metadata name="Catalog.Пользователи.Attribute.Идентификатор" id="717e3df1-3069-429f-a0c3-8ace7f9c65d6"/>
 		</Metadata>
@@ -65,7 +72,7 @@
 			<Metadata name="Catalog.Сотрудники.Attribute.Отчество" id="be9ca4f6-87ef-4f6a-b314-076e5fc17fc3"/>
 			<Metadata name="Catalog.Сотрудники.Attribute.КонтактныйТелефон" id="defa1e7f-8328-4ba9-ab6c-ccd88f46bb97"/>
 		</Metadata>
-		<Metadata name="Configuration.ГрумингСалон" id="bf7fd7f7-d5f2-4af8-987a-4903e6ac7a60" configVersion="4aa0194d18ced043b6a9f660aa7489d600000000"/>
+		<Metadata name="Configuration.ГрумингСалон" id="bf7fd7f7-d5f2-4af8-987a-4903e6ac7a60" configVersion="1568eaf897320b4085aa5dd3c69b4c7200000000"/>
 		<Metadata name="Constant.ИспользоватьСклады" id="e09ea315-e523-4767-909f-3616479ceee2" configVersion="76ee4bb307e4f4429eb480ccca0828c500000000"/>
 		<Metadata name="DefinedType.ФинансовыеДанные" id="0a1b5721-156f-422e-acae-7fb831bcca0f" configVersion="a78d0f8a0d34bf4c96a05ede3aa022f600000000"/>
 		<Metadata name="Document.ЗаписьКлиента" id="57b68005-3097-4a50-a8da-11276713c78c" configVersion="7f88162e2f9919438df5e863ed95bb1e00000000">

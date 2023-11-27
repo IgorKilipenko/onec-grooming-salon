@@ -241,6 +241,7 @@
 			<Catalog>ДоговорыКонтрагентов</Catalog>
 			<Catalog>ПородыПитомцев</Catalog>
 			<Catalog>Пользователи</Catalog>
+			<Catalog>Организации</Catalog>
 			<Document>ЗаписьКлиента</Document>
 			<Document>РеализацияТоваровИУслуг</Document>
 			<Document>РегистрацияПоступленияТоваров</Document>

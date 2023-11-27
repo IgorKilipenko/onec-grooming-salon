@@ -1,0 +1,2 @@
+﻿New: Catalog.Организации
+Modified: Configuration.ГрумингСалон
