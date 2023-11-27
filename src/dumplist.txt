@@ -1,3 +1,5 @@
-﻿New: DefinedType.КомментарийКороткий
-New: DefinedType.КомментарийПолный
-Modified: Configuration.ГрумингСалон
+﻿Modified: Catalog.ДоговорыКонтрагентов
+Modified: Catalog.Контрагенты
+Modified: Document.ЗаписьКлиента
+Modified: Document.РеализацияТоваровИУслуг
+Modified: Document.РегистрацияПоступленияТоваров
