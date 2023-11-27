@@ -1,2 +1,1 @@
-﻿Modified: AccumulationRegister.ЗаказыКлиентов
-Modified: Document.ЗаписьКлиента
+﻿Modified: Catalog.Пользователи
