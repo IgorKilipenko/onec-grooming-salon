@@ -1,3 +1,2 @@
-﻿Modified: AccumulationRegister.ТоварыНаСкладах
-Modified: Document.РеализацияТоваровИУслуг
-Modified: Document.РегистрацияПоступленияТоваров
+﻿Modified: AccumulationRegister.ЗаказыКлиентов
+Modified: Document.ЗаписьКлиента
