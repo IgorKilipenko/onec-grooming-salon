@@ -54,9 +54,7 @@
 			<Metadata name="Catalog.Организации.Attribute.ТипОрганизации" id="bdaba982-3b1c-4e84-9dc3-65ded2ed65fd"/>
 			<Metadata name="Catalog.Организации.Attribute.Руководитель" id="d4bfd845-00be-4150-8ca0-1ac0d0f00c1f"/>
 		</Metadata>
-		<Metadata name="Catalog.Пользователи" id="a7a4423a-da2b-4dce-a107-979fe5fe8bdf" configVersion="ac1fbdceb34f5a42be9dc75ef9c81c3500000000">
-			<Metadata name="Catalog.Пользователи.Attribute.Идентификатор" id="717e3df1-3069-429f-a0c3-8ace7f9c65d6"/>
-		</Metadata>
+		<Metadata name="Catalog.Пользователи" id="a7a4423a-da2b-4dce-a107-979fe5fe8bdf" configVersion="3ab95bc99c2b1a4f98e95d7e6df58f3200000000"/>
 		<Metadata name="Catalog.ПородыПитомцев" id="057d50b2-aff5-4910-accd-182ad2eb7a1d" configVersion="bcab51ad0bf5a040a4a358367cadfd6c00000000">
 			<Metadata name="Catalog.ПородыПитомцев.Attribute.ВидПитомца" id="4702545f-c139-4268-8d37-9b0e6f210c0d"/>
 		</Metadata>

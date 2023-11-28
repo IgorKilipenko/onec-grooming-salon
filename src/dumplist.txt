@@ -1,5 +1,0 @@
-﻿Modified: Catalog.ДоговорыКонтрагентов
-Modified: Catalog.Контрагенты
-Modified: Document.ЗаписьКлиента
-Modified: Document.РеализацияТоваровИУслуг
-Modified: Document.РегистрацияПоступленияТоваров
