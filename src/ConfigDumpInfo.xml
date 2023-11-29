@@ -75,7 +75,7 @@
 		<Metadata name="DefinedType.КоличествоТоваров" id="af789118-a575-48ef-91d2-953bf7bb9c3d" configVersion="4edbdd8ac4dacc40b0944c25f4d7381900000000"/>
 		<Metadata name="DefinedType.КомментарийКороткий" id="05da5451-ae36-42e6-a9f8-928a3335e976" configVersion="d756f18746df71418aad9c3ac07664e200000000"/>
 		<Metadata name="DefinedType.КомментарийПолный" id="78f97855-6afc-4d20-810d-34369a2db293" configVersion="5b3e507dd81a5f4c840a28285165aad900000000"/>
-		<Metadata name="DefinedType.ФинансовыеДанные" id="0a1b5721-156f-422e-acae-7fb831bcca0f" configVersion="a78d0f8a0d34bf4c96a05ede3aa022f600000000"/>
+		<Metadata name="DefinedType.ФинансовыеДанные" id="0a1b5721-156f-422e-acae-7fb831bcca0f" configVersion="08618c95e7786942ae8fe32244c237f900000000"/>
 		<Metadata name="Document.ЗаписьКлиента" id="57b68005-3097-4a50-a8da-11276713c78c" configVersion="f6986ba760202543aa98193f0f14485300000000">
 			<Metadata name="Document.ЗаписьКлиента.TabularSection.Услуги.Attribute.Стоимость" id="06030264-4866-457d-bc39-dd432cac2f81"/>
 			<Metadata name="Document.ЗаписьКлиента.TabularSection.Услуги.Attribute.Услуга" id="4ba8ab84-3ee4-4060-9060-3d5cbc86fa57"/>
