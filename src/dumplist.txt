@@ -1,1 +1,1 @@
-﻿Modified: Document.ЗаписьКлиента
+﻿Modified: Catalog.Контрагенты
