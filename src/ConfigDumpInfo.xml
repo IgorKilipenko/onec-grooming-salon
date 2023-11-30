@@ -47,7 +47,7 @@
 			<Metadata name="Catalog.Номенклатура.Attribute.ТипНоменклатуры" id="0a89601d-680a-46c3-8838-7382594232e4"/>
 		</Metadata>
 		<Metadata name="Catalog.Номенклатура.Predefined" id="ddac927d-70e8-4179-ade5-db76d310c772.1c" configVersion="132ddcd77345dc43a84d3116482f8f3800000000"/>
-		<Metadata name="Catalog.Организации" id="d7c97d07-9721-4bff-af15-6b832647c24c" configVersion="5d3a7335a862c64ba21926efbfdb366b00000000">
+		<Metadata name="Catalog.Организации" id="d7c97d07-9721-4bff-af15-6b832647c24c" configVersion="c5eabebeab282a46a137467ae370338b00000000">
 			<Metadata name="Catalog.Организации.Attribute.ГлавныйБухгалтер" id="0e7d9e9f-901b-4f39-8857-817e5bbdecb6"/>
 			<Metadata name="Catalog.Организации.Attribute.ДолжностьРуководителя" id="49aee31a-53d0-4e73-b6d6-1920e091b152"/>
 			<Metadata name="Catalog.Организации.Attribute.ИНН" id="9a8eca8b-ca31-422b-a0a1-af53ac40d2bc"/>
