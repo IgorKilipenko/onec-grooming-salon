@@ -1,1 +1,2 @@
-﻿Modified: Catalog.Организации
+﻿Modified: Document.РеализацияТоваровИУслуг
+Modified: Document.РеализацияТоваровИУслуг.ObjectModule
