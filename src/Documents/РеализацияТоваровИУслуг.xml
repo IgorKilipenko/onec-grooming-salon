@@ -114,7 +114,7 @@
 					<ChoiceParameterLinks/>
 					<ChoiceParameters>
 						<app:item name="Отбор.ТипКонтрагента">
-							<app:value xsi:type="xr:DesignTimeRef">Enum.ТипКонтрагента.EnumValue.Клиент</app:value>
+							<app:value xsi:type="xr:DesignTimeRef">Enum.ТипыКонтрагентов.EnumValue.Клиент</app:value>
 						</app:item>
 					</ChoiceParameters>
 					<QuickChoice>Auto</QuickChoice>
@@ -413,7 +413,7 @@
 							<ChoiceParameterLinks/>
 							<ChoiceParameters>
 								<app:item name="Отбор.ТипНоменклатуры">
-									<app:value xsi:type="xr:DesignTimeRef">Enum.ТипНоменклатуры.EnumValue.Услуга</app:value>
+									<app:value xsi:type="xr:DesignTimeRef">Enum.ТипыНоменклатуры.EnumValue.Услуга</app:value>
 								</app:item>
 							</ChoiceParameters>
 							<QuickChoice>Auto</QuickChoice>
@@ -518,8 +518,8 @@
 							<ChoiceParameters>
 								<app:item name="Отбор.ТипНоменклатуры">
 									<app:value xsi:type="v8:FixedArray">
-										<v8:Value xsi:type="xr:DesignTimeRef">Enum.ТипНоменклатуры.EnumValue.Материал</v8:Value>
-										<v8:Value xsi:type="xr:DesignTimeRef">Enum.ТипНоменклатуры.EnumValue.Товар</v8:Value>
+										<v8:Value xsi:type="xr:DesignTimeRef">Enum.ТипыНоменклатуры.EnumValue.Материал</v8:Value>
+										<v8:Value xsi:type="xr:DesignTimeRef">Enum.ТипыНоменклатуры.EnumValue.Товар</v8:Value>
 									</app:value>
 								</app:item>
 							</ChoiceParameters>

@@ -98,7 +98,7 @@
 					</Synonym>
 					<Comment/>
 					<Type>
-						<v8:Type>cfg:EnumRef.ТипОрганизации</v8:Type>
+						<v8:Type>cfg:EnumRef.ТипыОрганизаций</v8:Type>
 					</Type>
 					<PasswordMode>false</PasswordMode>
 					<Format/>

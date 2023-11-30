@@ -2,25 +2,25 @@
 <MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.16">
 	<Enum uuid="45c962dc-a266-4f18-a9f9-2b6e3d61376f">
 		<InternalInfo>
-			<xr:GeneratedType name="EnumRef.ВидПитомца" category="Ref">
+			<xr:GeneratedType name="EnumRef.ВидыПитомцев" category="Ref">
 				<xr:TypeId>46580097-90b2-40df-90b3-4864e9d20b4b</xr:TypeId>
 				<xr:ValueId>66e59154-e6e3-4a4f-bab6-d88467a6af9e</xr:ValueId>
 			</xr:GeneratedType>
-			<xr:GeneratedType name="EnumManager.ВидПитомца" category="Manager">
+			<xr:GeneratedType name="EnumManager.ВидыПитомцев" category="Manager">
 				<xr:TypeId>0d340dd6-6ba2-4737-8c52-c84d02aa9358</xr:TypeId>
 				<xr:ValueId>d5ce7d66-6730-42e1-92ae-011fbbb5471a</xr:ValueId>
 			</xr:GeneratedType>
-			<xr:GeneratedType name="EnumList.ВидПитомца" category="List">
+			<xr:GeneratedType name="EnumList.ВидыПитомцев" category="List">
 				<xr:TypeId>69be389e-4d6e-4c24-85a3-60a09691399a</xr:TypeId>
 				<xr:ValueId>f2fc430f-a5aa-4b00-8bdd-040987dd7ee7</xr:ValueId>
 			</xr:GeneratedType>
 		</InternalInfo>
 		<Properties>
-			<Name>ВидПитомца</Name>
+			<Name>ВидыПитомцев</Name>
 			<Synonym>
 				<v8:item>
 					<v8:lang>ru</v8:lang>
-					<v8:content>Вид питомца</v8:content>
+					<v8:content>Виды питомцев</v8:content>
 				</v8:item>
 			</Synonym>
 			<Comment/>

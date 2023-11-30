@@ -1,2 +1,0 @@
-﻿Modified: Document.РеализацияТоваровИУслуг
-Modified: Document.РеализацияТоваровИУслуг.ObjectModule

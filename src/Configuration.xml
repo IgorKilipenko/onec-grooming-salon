@@ -248,11 +248,11 @@
 			<Document>ЗаписьКлиента</Document>
 			<Document>РеализацияТоваровИУслуг</Document>
 			<Document>РегистрацияПоступленияТоваров</Document>
-			<Enum>ТипОрганизации</Enum>
-			<Enum>Пол</Enum>
-			<Enum>ТипНоменклатуры</Enum>
-			<Enum>ТипКонтрагента</Enum>
-			<Enum>ВидПитомца</Enum>
+			<Enum>ТипыОрганизаций</Enum>
+			<Enum>ПолФизическогоЛица</Enum>
+			<Enum>ТипыНоменклатуры</Enum>
+			<Enum>ТипыКонтрагентов</Enum>
+			<Enum>ВидыПитомцев</Enum>
 			<AccumulationRegister>Продажи</AccumulationRegister>
 			<AccumulationRegister>ТоварыНаСкладах</AccumulationRegister>
 			<AccumulationRegister>ЗаказыКлиентов</AccumulationRegister>
