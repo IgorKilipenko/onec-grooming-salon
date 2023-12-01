@@ -87,7 +87,7 @@
 			<Metadata name="Document.ЗаписьКлиента.Attribute.Сотрудник" id="faeb8138-872b-4353-b2c4-3aa2f6b9a1e2"/>
 		</Metadata>
 		<Metadata name="Document.ЗаписьКлиента.ObjectModule" id="57b68005-3097-4a50-a8da-11276713c78c.0" configVersion="0cd99f47dd12ec42b6cecf7987f05c7100000000"/>
-		<Metadata name="Document.РеализацияТоваровИУслуг" id="e30ec35e-8c3a-40cf-a109-fc154d862130" configVersion="39ed444ad178ad43a0c70b3a35e17c4700000000">
+		<Metadata name="Document.РеализацияТоваровИУслуг" id="e30ec35e-8c3a-40cf-a109-fc154d862130" configVersion="ff6bb7be1a2c17439b8b30e117fb52a300000000">
 			<Metadata name="Document.РеализацияТоваровИУслуг.TabularSection.Товары.Attribute.Сумма" id="10a761de-8ecb-48c2-92d5-abff4ac92234"/>
 			<Metadata name="Document.РеализацияТоваровИУслуг.TabularSection.Услуги" id="1badd772-6c4a-48ce-9a4a-a44555e2f875"/>
 			<Metadata name="Document.РеализацияТоваровИУслуг.Attribute.СуммаДокумента" id="1e7c267d-f61f-4a4b-a478-173f78626219"/>
@@ -106,6 +106,8 @@
 			<Metadata name="Document.РеализацияТоваровИУслуг.Attribute.Основание" id="eece62c6-b430-4b07-a2a9-42c7d3968d43"/>
 		</Metadata>
 		<Metadata name="Document.РеализацияТоваровИУслуг.Command.Печать.CommandModule" id="8b790c86-f950-41fe-a86f-8b776d4b0fe2.2" configVersion="5d2162ef87d9a944b597a489cd08853100000000"/>
+		<Metadata name="Document.РеализацияТоваровИУслуг.Form.ФормаДокумента" id="765c5c56-d172-466c-9731-13cbd190b871" configVersion="f348618986417949a157c4bcfee9949300000000"/>
+		<Metadata name="Document.РеализацияТоваровИУслуг.Form.ФормаДокумента.Form" id="765c5c56-d172-466c-9731-13cbd190b871.0" configVersion="be6807eb0648954db8f6f30bb828c34c00000000"/>
 		<Metadata name="Document.РеализацияТоваровИУслуг.ManagerModule" id="e30ec35e-8c3a-40cf-a109-fc154d862130.2" configVersion="421ff017602044449ca8ad0ba4c1486d00000000"/>
 		<Metadata name="Document.РеализацияТоваровИУслуг.ObjectModule" id="e30ec35e-8c3a-40cf-a109-fc154d862130.0" configVersion="b3fd72225ec5e847b271e3e7336f57eb00000000"/>
 		<Metadata name="Document.РеализацияТоваровИУслуг.Template.Печать" id="5785dba4-505a-4aaf-ad4f-ee20249b0cd0" configVersion="99365df437210d4eabe98244bec6209200000000"/>

@@ -1,1 +1,3 @@
-﻿Modified: Catalog.Контрагенты
+﻿New: Document.РеализацияТоваровИУслуг.Form.ФормаДокумента
+New: Document.РеализацияТоваровИУслуг.Form.ФормаДокумента.Form
+Modified: Document.РеализацияТоваровИУслуг
