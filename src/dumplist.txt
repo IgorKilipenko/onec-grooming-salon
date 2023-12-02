@@ -1,3 +1,2 @@
-﻿New: Document.РеализацияТоваровИУслуг.Form.ФормаДокумента
-New: Document.РеализацияТоваровИУслуг.Form.ФормаДокумента.Form
-Modified: Document.РеализацияТоваровИУслуг
+﻿Modified: Document.РеализацияТоваровИУслуг.Form.ФормаДокумента
+Modified: Document.РеализацияТоваровИУслуг.Form.ФормаДокумента.Form
