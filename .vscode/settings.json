@@ -3,13 +3,13 @@
 	//  - off: No traces
 	//  - messages: Error only
 	//  - verbose: Full log
-	"bsl.trace.server": "messages",
+	"bsl.trace.server": "off",
 
 	// Controls whether auto detection of opm scripts is on or off. Default is on.
 	"language-1c-bsl.autoDetect": "on",
 
 	// Download the BSL Language Server from GitHub
-	"language-1c-bsl.downloadLanguageServer": true,
+	"language-1c-bsl.downloadLanguageServer": false,
 
 	// Paths to dynamic snippets' files
 	"language-1c-bsl.dynamicSnippets": [],
@@ -45,6 +45,7 @@
 
 	// Path to BSL Language Server jar-file. Leave default value to use bundled language server. Relative to vsc-language-1c-bsl folder.
 	"language-1c-bsl.languageServerExternalJarPath": "~/development/bsl-language-server/bsl-language-server-0.22.0-exec.jar",
+	//"language-1c-bsl.languageServerExternalJarPath": "",
 
 	// BSL Language server download channel. Use `prerelease` if you want to check latest release candidates
 	"language-1c-bsl.languageServerReleaseChannel": "stable",

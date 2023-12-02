@@ -8,5 +8,6 @@
                 "checkUnknownModuleType": false
             }
         }
-    }
+    },
+    "configurationRoot": "./src"
 }

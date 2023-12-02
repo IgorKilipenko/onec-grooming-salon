@@ -74,7 +74,7 @@
                 "Администратор",
                 "-p",
                 "Секрет",
-                "/home/igor/Documents/_onec_dbs/grooming-salon-db/storage",
+                "~/Documents/_onec_dbs/grooming-salon-db/storage",
                 "${workspaceRoot}/src"
             ],
             "group": "none",
