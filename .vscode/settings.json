@@ -33,7 +33,7 @@
 	"language-1c-bsl.languageServerEnabled": true,
 
 	// Use external bsl-language-server.jar
-	"language-1c-bsl.languageServerExternalJar": true,
+	"language-1c-bsl.languageServerExternalJar": false,
 
 	// Additional java options.
 	"language-1c-bsl.languageServerExternalJarJavaOpts": [
