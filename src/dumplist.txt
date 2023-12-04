@@ -1,2 +1,1 @@
-﻿Modified: Document.РеализацияТоваровИУслуг.Form.ФормаДокумента
-Modified: Document.РеализацияТоваровИУслуг.Form.ФормаДокумента.Form
+﻿Modified: Configuration.ГрумингСалон
