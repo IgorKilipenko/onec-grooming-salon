@@ -1,2 +1,3 @@
-﻿Modified: Document.РеализацияТоваровИУслуг.Form.ФормаДокумента
-Modified: Document.РеализацияТоваровИУслуг.Form.ФормаДокумента.Form
+﻿New: Catalog.Организации.Form.ФормаЭлемента
+New: Catalog.Организации.Form.ФормаЭлемента.Form
+Modified: Catalog.Организации
