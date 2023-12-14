@@ -72,7 +72,9 @@
 			<Metadata name="Catalog.Сотрудники.Attribute.Отчество" id="be9ca4f6-87ef-4f6a-b314-076e5fc17fc3"/>
 			<Metadata name="Catalog.Сотрудники.Attribute.КонтактныйТелефон" id="defa1e7f-8328-4ba9-ab6c-ccd88f46bb97"/>
 		</Metadata>
-		<Metadata name="Configuration.ГрумингСалон" id="bf7fd7f7-d5f2-4af8-987a-4903e6ac7a60" configVersion="4573a1a8d21b6a4ca23012f054ae864c00000000"/>
+		<Metadata name="CommonModule.РаботаСоСтрками" id="f25e72ba-9dba-464f-a0c5-62d781085031" configVersion="986014d3d746ef46baba50cc68a77b2700000000"/>
+		<Metadata name="CommonModule.РаботаСоСтрками.Module" id="f25e72ba-9dba-464f-a0c5-62d781085031.0" configVersion="7fe2d39ba6219243b4cd0871c1f4572e00000000"/>
+		<Metadata name="Configuration.ГрумингСалон" id="bf7fd7f7-d5f2-4af8-987a-4903e6ac7a60" configVersion="a8f7307b6bc2a7419ed6f2a198d3ae4e00000000"/>
 		<Metadata name="Constant.ИспользоватьСклады" id="e09ea315-e523-4767-909f-3616479ceee2" configVersion="76ee4bb307e4f4429eb480ccca0828c500000000"/>
 		<Metadata name="DefinedType.КоличествоТоваров" id="af789118-a575-48ef-91d2-953bf7bb9c3d" configVersion="4edbdd8ac4dacc40b0944c25f4d7381900000000"/>
 		<Metadata name="DefinedType.КомментарийКороткий" id="05da5451-ae36-42e6-a9f8-928a3335e976" configVersion="d756f18746df71418aad9c3ac07664e200000000"/>

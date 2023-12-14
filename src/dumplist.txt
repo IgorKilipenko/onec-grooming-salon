@@ -1,2 +1,3 @@
-﻿Modified: Catalog.Организации.Form.ФормаЭлемента
-Modified: Catalog.Организации.Form.ФормаЭлемента.Form
+﻿New: CommonModule.РаботаСоСтрками
+New: CommonModule.РаботаСоСтрками.Module
+Modified: Configuration.ГрумингСалон
