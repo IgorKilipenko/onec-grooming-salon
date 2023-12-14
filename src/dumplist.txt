@@ -1,3 +1,0 @@
-﻿New: CommonModule.РаботаСоСтрками
-New: CommonModule.РаботаСоСтрками.Module
-Modified: Configuration.ГрумингСалон
