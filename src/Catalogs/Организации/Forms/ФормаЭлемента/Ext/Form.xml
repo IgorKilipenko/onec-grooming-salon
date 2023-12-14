@@ -3,6 +3,9 @@
 	<WindowOpeningMode>LockOwnerWindow</WindowOpeningMode>
 	<UseForFoldersAndItems>Items</UseForFoldersAndItems>
 	<AutoCommandBar name="ФормаКоманднаяПанель" id="-1"/>
+	<Events>
+		<Event name="OnOpen">ПриОткрытии</Event>
+	</Events>
 	<ChildItems>
 		<RadioButtonField name="ТипОрганизации" id="7">
 			<DataPath>Объект.ТипОрганизации</DataPath>
@@ -38,6 +41,9 @@
 			</ChoiceList>
 			<ContextMenu name="ТипОрганизацииКонтекстноеМеню" id="8"/>
 			<ExtendedTooltip name="ТипОрганизацииРасширеннаяПодсказка" id="9"/>
+			<Events>
+				<Event name="OnChange">ТипОрганизацииПриИзменении</Event>
+			</Events>
 		</RadioButtonField>
 		<InputField name="Код" id="1">
 			<DataPath>Объект.Code</DataPath>

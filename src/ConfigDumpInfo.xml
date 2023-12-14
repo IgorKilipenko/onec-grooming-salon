@@ -54,8 +54,8 @@
 			<Metadata name="Catalog.Организации.Attribute.ТипОрганизации" id="bdaba982-3b1c-4e84-9dc3-65ded2ed65fd"/>
 			<Metadata name="Catalog.Организации.Attribute.Руководитель" id="d4bfd845-00be-4150-8ca0-1ac0d0f00c1f"/>
 		</Metadata>
-		<Metadata name="Catalog.Организации.Form.ФормаЭлемента" id="326cde0a-28a1-4d57-82b1-43a34cdf9c16" configVersion="faeaaed5dad7da40a6f77e8303208acb00000000"/>
-		<Metadata name="Catalog.Организации.Form.ФормаЭлемента.Form" id="326cde0a-28a1-4d57-82b1-43a34cdf9c16.0" configVersion="9913bda299a8454cb372781aaf40222b00000000"/>
+		<Metadata name="Catalog.Организации.Form.ФормаЭлемента" id="326cde0a-28a1-4d57-82b1-43a34cdf9c16" configVersion="cb768302ccdd2640af1d6c6200d9ea4a00000000"/>
+		<Metadata name="Catalog.Организации.Form.ФормаЭлемента.Form" id="326cde0a-28a1-4d57-82b1-43a34cdf9c16.0" configVersion="8ce2ab9c3ba0414fa2d883f73cf5073100000000"/>
 		<Metadata name="Catalog.Пользователи" id="a7a4423a-da2b-4dce-a107-979fe5fe8bdf" configVersion="3ab95bc99c2b1a4f98e95d7e6df58f3200000000"/>
 		<Metadata name="Catalog.ПородыПитомцев" id="057d50b2-aff5-4910-accd-182ad2eb7a1d" configVersion="bcab51ad0bf5a040a4a358367cadfd6c00000000">
 			<Metadata name="Catalog.ПородыПитомцев.Attribute.ВидПитомца" id="4702545f-c139-4268-8d37-9b0e6f210c0d"/>
