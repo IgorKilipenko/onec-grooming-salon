@@ -6,7 +6,8 @@
         "parameters": {
             "CodeOutOfRegion": {
                 "checkUnknownModuleType": false
-            }
+            },
+            "IfElseIfEndsWithElse": false
         }
     },
     "configurationRoot": "./src"
