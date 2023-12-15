@@ -1,3 +1,5 @@
-﻿New: Catalog.Организации.Form.ФормаСписка
-New: Catalog.Организации.Form.ФормаСписка.Form
-Modified: Catalog.Организации
+﻿New: Catalog.Контрагенты.Form.ФормаСписка
+New: Catalog.Контрагенты.Form.ФормаСписка.Form
+New: Catalog.Контрагенты.Form.ФормаЭлемента
+New: Catalog.Контрагенты.Form.ФормаЭлемента.Form
+Modified: Catalog.Контрагенты
