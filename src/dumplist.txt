@@ -1,0 +1,5 @@
+﻿New: Catalog.ПородыПитомцев.Form.ФормаСписка
+New: Catalog.ПородыПитомцев.Form.ФормаСписка.Form
+New: Catalog.ПородыПитомцев.Form.ФормаЭлемента
+New: Catalog.ПородыПитомцев.Form.ФормаЭлемента.Form
+Modified: Catalog.ПородыПитомцев
