@@ -1,5 +1,4 @@
-﻿New: Catalog.Контрагенты.Form.ФормаСписка
-New: Catalog.Контрагенты.Form.ФормаСписка.Form
-New: Catalog.Контрагенты.Form.ФормаЭлемента
-New: Catalog.Контрагенты.Form.ФормаЭлемента.Form
-Modified: Catalog.Контрагенты
+﻿Modified: Catalog.Контрагенты.Form.ФормаСписка
+Modified: Catalog.Контрагенты.Form.ФормаСписка.Form
+Modified: Catalog.Контрагенты.Form.ФормаЭлемента
+Modified: Catalog.Контрагенты.Form.ФормаЭлемента.Form

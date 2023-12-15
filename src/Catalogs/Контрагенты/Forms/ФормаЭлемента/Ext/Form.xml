@@ -3,6 +3,10 @@
 	<WindowOpeningMode>LockOwnerWindow</WindowOpeningMode>
 	<UseForFoldersAndItems>Items</UseForFoldersAndItems>
 	<AutoCommandBar name="ФормаКоманднаяПанель" id="-1"/>
+	<Events>
+		<Event name="OnOpen">ПриОткрытии</Event>
+		<Event name="BeforeWrite">ПередЗаписью</Event>
+	</Events>
 	<ChildItems>
 		<RadioButtonField name="ТипКонтрагента" id="10">
 			<DataPath>Объект.ТипКонтрагента</DataPath>
@@ -28,6 +32,9 @@
 			</ChoiceList>
 			<ContextMenu name="ТипКонтрагентаКонтекстноеМеню" id="11"/>
 			<ExtendedTooltip name="ТипКонтрагентаРасширеннаяПодсказка" id="12"/>
+			<Events>
+				<Event name="OnChange">ТипКонтрагентаПриИзменении</Event>
+			</Events>
 		</RadioButtonField>
 		<InputField name="Код" id="1">
 			<DataPath>Объект.Code</DataPath>
@@ -38,12 +45,6 @@
 		</InputField>
 		<InputField name="Наименование" id="4">
 			<DataPath>Объект.Description</DataPath>
-			<Title>
-				<v8:item>
-					<v8:lang>ru</v8:lang>
-					<v8:content>Ф.И.О. клиента</v8:content>
-				</v8:item>
-			</Title>
 			<EditMode>EnterOnInput</EditMode>
 			<ExtendedEditMultipleValues>true</ExtendedEditMultipleValues>
 			<ContextMenu name="НаименованиеКонтекстноеМеню" id="5"/>
