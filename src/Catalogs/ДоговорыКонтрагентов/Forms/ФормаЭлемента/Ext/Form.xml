@@ -62,6 +62,9 @@
 					<ExtendedEditMultipleValues>true</ExtendedEditMultipleValues>
 					<ContextMenu name="ДатаЗаключенияДоговораКонтекстноеМеню" id="14"/>
 					<ExtendedTooltip name="ДатаЗаключенияДоговораРасширеннаяПодсказка" id="15"/>
+					<Events>
+						<Event name="OnChange">ДатаЗаключенияДоговораПриИзменении</Event>
+					</Events>
 				</InputField>
 				<InputField name="ДатаОкончанияДоговора" id="16">
 					<DataPath>Объект.ДатаОкончанияДоговора</DataPath>
