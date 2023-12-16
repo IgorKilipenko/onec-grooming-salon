@@ -229,7 +229,7 @@
 		</Properties>
 		<ChildObjects>
 			<Language>Русский</Language>
-			<CommonModule>РаботаСоСтркамиВызовСервера</CommonModule>
+			<CommonModule>РаботаСоСтрокамиВызовСервера</CommonModule>
 			<FunctionalOption>ИспользоватьСклады</FunctionalOption>
 			<DefinedType>ФинансовыеДанные</DefinedType>
 			<DefinedType>КоличествоТоваров</DefinedType>
