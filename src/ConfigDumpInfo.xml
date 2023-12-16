@@ -64,8 +64,8 @@
 		</Metadata>
 		<Metadata name="Catalog.Организации.Form.ФормаСписка" id="ebb2c535-a739-4987-ab15-fd3b63d96c96" configVersion="eb5fe4e0582dd24db8336dc641c9aca700000000"/>
 		<Metadata name="Catalog.Организации.Form.ФормаСписка.Form" id="ebb2c535-a739-4987-ab15-fd3b63d96c96.0" configVersion="c7d6807f01a39b4d81f1e14698708ec700000000"/>
-		<Metadata name="Catalog.Организации.Form.ФормаЭлемента" id="326cde0a-28a1-4d57-82b1-43a34cdf9c16" configVersion="cb768302ccdd2640af1d6c6200d9ea4a00000000"/>
-		<Metadata name="Catalog.Организации.Form.ФормаЭлемента.Form" id="326cde0a-28a1-4d57-82b1-43a34cdf9c16.0" configVersion="8ce2ab9c3ba0414fa2d883f73cf5073100000000"/>
+		<Metadata name="Catalog.Организации.Form.ФормаЭлемента" id="326cde0a-28a1-4d57-82b1-43a34cdf9c16" configVersion="30e896f13e76dc46871033530059888f00000000"/>
+		<Metadata name="Catalog.Организации.Form.ФормаЭлемента.Form" id="326cde0a-28a1-4d57-82b1-43a34cdf9c16.0" configVersion="97e0c7e5fe5e594eb036cb5f9a3d994300000000"/>
 		<Metadata name="Catalog.Пользователи" id="a7a4423a-da2b-4dce-a107-979fe5fe8bdf" configVersion="3ab95bc99c2b1a4f98e95d7e6df58f3200000000"/>
 		<Metadata name="Catalog.ПородыПитомцев" id="057d50b2-aff5-4910-accd-182ad2eb7a1d" configVersion="eae028562e031a48807741492cbe080800000000">
 			<Metadata name="Catalog.ПородыПитомцев.Attribute.ВидПитомца" id="4702545f-c139-4268-8d37-9b0e6f210c0d"/>
@@ -86,8 +86,8 @@
 			<Metadata name="Catalog.Сотрудники.Attribute.Отчество" id="be9ca4f6-87ef-4f6a-b314-076e5fc17fc3"/>
 			<Metadata name="Catalog.Сотрудники.Attribute.КонтактныйТелефон" id="defa1e7f-8328-4ba9-ab6c-ccd88f46bb97"/>
 		</Metadata>
-		<Metadata name="CommonModule.РаботаСоСтрокамиВызовСервера" id="f25e72ba-9dba-464f-a0c5-62d781085031" configVersion="48887ec1fa26ce4f924a94110f3b5fe700000000"/>
-		<Metadata name="CommonModule.РаботаСоСтрокамиВызовСервера.Module" id="f25e72ba-9dba-464f-a0c5-62d781085031.0" configVersion="e45162ae71d237409f55edd617f047ae00000000"/>
+		<Metadata name="CommonModule.РаботаСоСтрокамиВызовСервера" id="f25e72ba-9dba-464f-a0c5-62d781085031" configVersion="b9e980f49e3fea4f9244215d6f4900ef00000000"/>
+		<Metadata name="CommonModule.РаботаСоСтрокамиВызовСервера.Module" id="f25e72ba-9dba-464f-a0c5-62d781085031.0" configVersion="ff3acf8e34a6a84fb4a2da7b9145219c00000000"/>
 		<Metadata name="Configuration.ГрумингСалон" id="bf7fd7f7-d5f2-4af8-987a-4903e6ac7a60" configVersion="a3bb2c3e4d198a45b84583fa7b13d58e00000000"/>
 		<Metadata name="Constant.ИспользоватьСклады" id="e09ea315-e523-4767-909f-3616479ceee2" configVersion="76ee4bb307e4f4429eb480ccca0828c500000000"/>
 		<Metadata name="DefinedType.КоличествоТоваров" id="af789118-a575-48ef-91d2-953bf7bb9c3d" configVersion="4edbdd8ac4dacc40b0944c25f4d7381900000000"/>
