@@ -48,8 +48,8 @@
 		</Metadata>
 		<Metadata name="Catalog.Контрагенты.Form.ФормаСписка" id="cf5d5c6e-2bb0-4af6-9bc1-8f63e5006cbd" configVersion="67485a8f57e44a49a50def815967134500000000"/>
 		<Metadata name="Catalog.Контрагенты.Form.ФормаСписка.Form" id="cf5d5c6e-2bb0-4af6-9bc1-8f63e5006cbd.0" configVersion="7d364f07a2488a408868e0022a34144600000000"/>
-		<Metadata name="Catalog.Контрагенты.Form.ФормаЭлемента" id="5d6b0772-d2b4-4522-ae06-a0e71461ae2b" configVersion="d400acbdcac3e043a6a3f2944d21de0900000000"/>
-		<Metadata name="Catalog.Контрагенты.Form.ФормаЭлемента.Form" id="5d6b0772-d2b4-4522-ae06-a0e71461ae2b.0" configVersion="d49309ded12c484fb9fd7426142767ba00000000"/>
+		<Metadata name="Catalog.Контрагенты.Form.ФормаЭлемента" id="5d6b0772-d2b4-4522-ae06-a0e71461ae2b" configVersion="38a63feaf4250e4e91244595dbe3171b00000000"/>
+		<Metadata name="Catalog.Контрагенты.Form.ФормаЭлемента.Form" id="5d6b0772-d2b4-4522-ae06-a0e71461ae2b.0" configVersion="97a1bcf49b727c40a3d80c630182f07500000000"/>
 		<Metadata name="Catalog.Контрагенты.Predefined" id="ada3771f-5234-4e8d-ae75-e5e189dc538c.1c" configVersion="ea7e1bd011eed440a323437d27292db200000000"/>
 		<Metadata name="Catalog.Номенклатура" id="ddac927d-70e8-4179-ade5-db76d310c772" configVersion="ab21662aac42f4429c33cd8205f511f600000000">
 			<Metadata name="Catalog.Номенклатура.Attribute.ТипНоменклатуры" id="0a89601d-680a-46c3-8838-7382594232e4"/>
