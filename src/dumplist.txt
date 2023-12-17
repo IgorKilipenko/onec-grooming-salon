@@ -1,7 +1,7 @@
-﻿New: Catalog.Сотрудники.ManagerModule
-New: Catalog.Сотрудники.ObjectModule
+﻿Modified: Catalog.Номенклатура.Form.ФормаЭлемента
+Modified: Catalog.Номенклатура.Form.ФормаЭлемента.Form
 Modified: Catalog.Сотрудники
-Modified: Catalog.Сотрудники.Form.ФормаСписка
-Modified: Catalog.Сотрудники.Form.ФормаСписка.Form
 Modified: Catalog.Сотрудники.Form.ФормаЭлемента
 Modified: Catalog.Сотрудники.Form.ФормаЭлемента.Form
+Modified: Catalog.Сотрудники.ManagerModule
+Modified: Catalog.Сотрудники.ObjectModule
