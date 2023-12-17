@@ -1,0 +1,5 @@
+﻿New: Catalog.Сотрудники.Form.ФормаСписка
+New: Catalog.Сотрудники.Form.ФормаСписка.Form
+New: Catalog.Сотрудники.Form.ФормаЭлемента
+New: Catalog.Сотрудники.Form.ФормаЭлемента.Form
+Modified: Catalog.Сотрудники
