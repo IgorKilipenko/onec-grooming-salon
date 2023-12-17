@@ -92,8 +92,8 @@
 		</Metadata>
 		<Metadata name="Catalog.Сотрудники.Form.ФормаСписка" id="31f08b8c-1e99-45af-aa5c-411b2ae50ed0" configVersion="f30fe8b8927b024288cf5e90a50a4a0100000000"/>
 		<Metadata name="Catalog.Сотрудники.Form.ФормаСписка.Form" id="31f08b8c-1e99-45af-aa5c-411b2ae50ed0.0" configVersion="ec879d9b145d5f45b0699eb205a3b65400000000"/>
-		<Metadata name="Catalog.Сотрудники.Form.ФормаЭлемента" id="df4cccd0-5f50-4d0f-b8e0-76e2e7360562" configVersion="08bcda88e0531942a5e63d18b131c25900000000"/>
-		<Metadata name="Catalog.Сотрудники.Form.ФормаЭлемента.Form" id="df4cccd0-5f50-4d0f-b8e0-76e2e7360562.0" configVersion="4e892099645d224aab9847b74242263900000000"/>
+		<Metadata name="Catalog.Сотрудники.Form.ФормаЭлемента" id="df4cccd0-5f50-4d0f-b8e0-76e2e7360562" configVersion="dc2c380661ed0a40b6e126e64e6057a800000000"/>
+		<Metadata name="Catalog.Сотрудники.Form.ФормаЭлемента.Form" id="df4cccd0-5f50-4d0f-b8e0-76e2e7360562.0" configVersion="c85101a1b4b8854da978c66bdc8362b000000000"/>
 		<Metadata name="Catalog.Сотрудники.ManagerModule" id="22c35659-8f6f-4268-ab3d-94673f1123b8.3" configVersion="765f17112039e648b226a64120115b1800000000"/>
 		<Metadata name="Catalog.Сотрудники.ObjectModule" id="22c35659-8f6f-4268-ab3d-94673f1123b8.0" configVersion="280eba7e051e674584b2c4baa1989f7500000000"/>
 		<Metadata name="CommonModule.РаботаСоСтрокамиВызовСервера" id="f25e72ba-9dba-464f-a0c5-62d781085031" configVersion="b9e980f49e3fea4f9244215d6f4900ef00000000"/>
