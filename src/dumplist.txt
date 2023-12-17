@@ -1,5 +1,7 @@
-﻿New: Catalog.Сотрудники.Form.ФормаСписка
-New: Catalog.Сотрудники.Form.ФормаСписка.Form
-New: Catalog.Сотрудники.Form.ФормаЭлемента
-New: Catalog.Сотрудники.Form.ФормаЭлемента.Form
+﻿New: Catalog.Сотрудники.ManagerModule
+New: Catalog.Сотрудники.ObjectModule
 Modified: Catalog.Сотрудники
+Modified: Catalog.Сотрудники.Form.ФормаСписка
+Modified: Catalog.Сотрудники.Form.ФормаСписка.Form
+Modified: Catalog.Сотрудники.Form.ФормаЭлемента
+Modified: Catalog.Сотрудники.Form.ФормаЭлемента.Form

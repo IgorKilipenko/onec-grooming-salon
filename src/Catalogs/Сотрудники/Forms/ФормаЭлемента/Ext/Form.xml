@@ -3,6 +3,9 @@
 	<WindowOpeningMode>LockOwnerWindow</WindowOpeningMode>
 	<UseForFoldersAndItems>Items</UseForFoldersAndItems>
 	<AutoCommandBar name="ФормаКоманднаяПанель" id="-1"/>
+	<Events>
+		<Event name="BeforeWrite">ПередЗаписью</Event>
+	</Events>
 	<ChildItems>
 		<InputField name="Код" id="1">
 			<DataPath>Объект.Code</DataPath>
@@ -25,6 +28,9 @@
 			<ExtendedEditMultipleValues>true</ExtendedEditMultipleValues>
 			<ContextMenu name="ФамилияКонтекстноеМеню" id="8"/>
 			<ExtendedTooltip name="ФамилияРасширеннаяПодсказка" id="9"/>
+			<Events>
+				<Event name="OnChange">ФамилияПриИзменении</Event>
+			</Events>
 		</InputField>
 		<InputField name="Имя" id="10">
 			<DataPath>Объект.Имя</DataPath>
@@ -32,6 +38,9 @@
 			<ExtendedEditMultipleValues>true</ExtendedEditMultipleValues>
 			<ContextMenu name="ИмяКонтекстноеМеню" id="11"/>
 			<ExtendedTooltip name="ИмяРасширеннаяПодсказка" id="12"/>
+			<Events>
+				<Event name="OnChange">ИмяПриИзменении</Event>
+			</Events>
 		</InputField>
 		<InputField name="Отчество" id="13">
 			<DataPath>Объект.Отчество</DataPath>
@@ -39,6 +48,9 @@
 			<ExtendedEditMultipleValues>true</ExtendedEditMultipleValues>
 			<ContextMenu name="ОтчествоКонтекстноеМеню" id="14"/>
 			<ExtendedTooltip name="ОтчествоРасширеннаяПодсказка" id="15"/>
+			<Events>
+				<Event name="OnChange">ОтчествоПриИзменении</Event>
+			</Events>
 		</InputField>
 		<InputField name="Пол" id="16">
 			<DataPath>Объект.Пол</DataPath>
