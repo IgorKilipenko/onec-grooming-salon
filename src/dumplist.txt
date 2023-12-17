@@ -1,4 +1,5 @@
-﻿Modified: Catalog.Сотрудники.Form.ФормаЭлемента
-Modified: Catalog.Сотрудники.Form.ФормаЭлемента.Form
-Modified: CommonModule.РаботаСоСтрокамиВызовСервера
-Modified: CommonModule.РаботаСоСтрокамиВызовСервера.Module
+﻿New: Catalog.Сотрудники.Form.ФормаВыбора
+New: Catalog.Сотрудники.Form.ФормаВыбора.Form
+Modified: Catalog.Сотрудники
+Modified: Catalog.Сотрудники.Form.ФормаСписка
+Modified: Catalog.Сотрудники.Form.ФормаСписка.Form

@@ -81,7 +81,7 @@
 		<Metadata name="Catalog.ПородыПитомцев.Predefined" id="057d50b2-aff5-4910-accd-182ad2eb7a1d.1c" configVersion="f8195ac83ca57a488203be7e61ef84c800000000"/>
 		<Metadata name="Catalog.Склады" id="0480428c-d6d2-44da-9b73-d803664e1f65" configVersion="d2727efff7b58947991a2d58684917eb00000000"/>
 		<Metadata name="Catalog.Склады.Predefined" id="0480428c-d6d2-44da-9b73-d803664e1f65.1c" configVersion="663c4bea72d877499dc430a7550e235200000000"/>
-		<Metadata name="Catalog.Сотрудники" id="22c35659-8f6f-4268-ab3d-94673f1123b8" configVersion="de79aa259b5f744f809c31e3aa32e38c00000000">
+		<Metadata name="Catalog.Сотрудники" id="22c35659-8f6f-4268-ab3d-94673f1123b8" configVersion="ede04defda328540812590926674395600000000">
 			<Metadata name="Catalog.Сотрудники.Attribute.Имя" id="1a632a75-4dd5-4337-93d4-bdb1ed07a420"/>
 			<Metadata name="Catalog.Сотрудники.Attribute.ДатаРождения" id="5d4d8d04-565d-4579-99e1-22c38faa4638"/>
 			<Metadata name="Catalog.Сотрудники.Attribute.Должность" id="65a9fa94-5da9-4ffa-b568-89974e49490d"/>
@@ -90,8 +90,10 @@
 			<Metadata name="Catalog.Сотрудники.Attribute.Отчество" id="be9ca4f6-87ef-4f6a-b314-076e5fc17fc3"/>
 			<Metadata name="Catalog.Сотрудники.Attribute.КонтактныйТелефон" id="defa1e7f-8328-4ba9-ab6c-ccd88f46bb97"/>
 		</Metadata>
-		<Metadata name="Catalog.Сотрудники.Form.ФормаСписка" id="31f08b8c-1e99-45af-aa5c-411b2ae50ed0" configVersion="f30fe8b8927b024288cf5e90a50a4a0100000000"/>
-		<Metadata name="Catalog.Сотрудники.Form.ФормаСписка.Form" id="31f08b8c-1e99-45af-aa5c-411b2ae50ed0.0" configVersion="ec879d9b145d5f45b0699eb205a3b65400000000"/>
+		<Metadata name="Catalog.Сотрудники.Form.ФормаВыбора" id="ebd5bc50-af90-4284-83cd-7eec57832dcb" configVersion="f26b97e2789a1748868fe091598387ef00000000"/>
+		<Metadata name="Catalog.Сотрудники.Form.ФормаВыбора.Form" id="ebd5bc50-af90-4284-83cd-7eec57832dcb.0" configVersion="eeb5a40d374600449f9566b47c15f09500000000"/>
+		<Metadata name="Catalog.Сотрудники.Form.ФормаСписка" id="31f08b8c-1e99-45af-aa5c-411b2ae50ed0" configVersion="7f58047aa5890b418d56f425035798d600000000"/>
+		<Metadata name="Catalog.Сотрудники.Form.ФормаСписка.Form" id="31f08b8c-1e99-45af-aa5c-411b2ae50ed0.0" configVersion="617d8ea58801aa46b84fe9099b5c03ef00000000"/>
 		<Metadata name="Catalog.Сотрудники.Form.ФормаЭлемента" id="df4cccd0-5f50-4d0f-b8e0-76e2e7360562" configVersion="8827f06c8c9ddb429f328c9cf1cb876700000000"/>
 		<Metadata name="Catalog.Сотрудники.Form.ФормаЭлемента.Form" id="df4cccd0-5f50-4d0f-b8e0-76e2e7360562.0" configVersion="95d632d322e5744294dfc29f9d8d598a00000000"/>
 		<Metadata name="Catalog.Сотрудники.ManagerModule" id="22c35659-8f6f-4268-ab3d-94673f1123b8.3" configVersion="765f17112039e648b226a64120115b1800000000"/>
