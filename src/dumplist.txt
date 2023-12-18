@@ -1,5 +1,12 @@
-﻿New: Configuration.ГрумингСалон.SessionModule
-New: Role.ПолныеПрава
-New: Role.ПолныеПрава.Rights
-New: SessionParameter.ТекущийПользователь
-Modified: Configuration.ГрумингСалон
+﻿Modified: Configuration.ГрумингСалон
+Modified: Document.ЗаписьКлиента
+Modified: Document.ЗаписьКлиента.Form.ФормаДокумента
+Modified: Document.ЗаписьКлиента.Form.ФормаДокумента.Form
+Modified: Document.РеализацияТоваровИУслуг
+Modified: Document.РеализацияТоваровИУслуг.Form.ФормаДокумента
+Modified: Document.РеализацияТоваровИУслуг.Form.ФормаДокумента.Form
+Modified: Document.РеализацияТоваровИУслуг.ObjectModule
+Modified: Document.РегистрацияПоступленияТоваров
+Modified: Document.РегистрацияПоступленияТоваров.Form.ФормаДокумента
+Modified: Document.РегистрацияПоступленияТоваров.Form.ФормаДокумента.Form
+Modified: Document.РегистрацияПоступленияТоваров.ObjectModule
