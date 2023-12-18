@@ -1,4 +1,5 @@
-﻿Modified: Document.РеализацияТоваровИУслуг
-Modified: Document.РеализацияТоваровИУслуг.ManagerModule
-Modified: Document.РеализацияТоваровИУслуг.Template.Печать
-Modified: Document.РеализацияТоваровИУслуг.Template.Печать.Template
+﻿New: Document.РегистрацияПоступленияТоваров.Form.ФормаДокумента
+New: Document.РегистрацияПоступленияТоваров.Form.ФормаДокумента.Form
+New: Document.РегистрацияПоступленияТоваров.Form.ФормаСписка
+New: Document.РегистрацияПоступленияТоваров.Form.ФормаСписка.Form
+Modified: Document.РегистрацияПоступленияТоваров

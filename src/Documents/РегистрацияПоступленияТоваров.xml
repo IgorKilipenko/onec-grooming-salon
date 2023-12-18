@@ -28,7 +28,7 @@
 			<Synonym>
 				<v8:item>
 					<v8:lang>ru</v8:lang>
-					<v8:content>Регистрация поступления товаров</v8:content>
+					<v8:content>Поступления товаров</v8:content>
 				</v8:item>
 			</Synonym>
 			<Comment/>
@@ -49,8 +49,8 @@
 			<SearchStringModeOnInputByString>Begin</SearchStringModeOnInputByString>
 			<FullTextSearchOnInputByString>DontUse</FullTextSearchOnInputByString>
 			<ChoiceDataGetModeOnInputByString>Directly</ChoiceDataGetModeOnInputByString>
-			<DefaultObjectForm/>
-			<DefaultListForm/>
+			<DefaultObjectForm>Document.РегистрацияПоступленияТоваров.Form.ФормаДокумента</DefaultObjectForm>
+			<DefaultListForm>Document.РегистрацияПоступленияТоваров.Form.ФормаСписка</DefaultListForm>
 			<DefaultChoiceForm/>
 			<AuxiliaryObjectForm/>
 			<AuxiliaryListForm/>
@@ -282,7 +282,7 @@
 					<MaxValue xsi:nil="true"/>
 					<FillFromFillingValue>false</FillFromFillingValue>
 					<FillValue xsi:nil="true"/>
-					<FillChecking>ShowError</FillChecking>
+					<FillChecking>DontCheck</FillChecking>
 					<ChoiceFoldersAndItems>Items</ChoiceFoldersAndItems>
 					<ChoiceParameterLinks/>
 					<ChoiceParameters/>
@@ -413,6 +413,8 @@
 					<DataHistory>Use</DataHistory>
 				</Properties>
 			</Attribute>
+			<Form>ФормаДокумента</Form>
+			<Form>ФормаСписка</Form>
 			<TabularSection uuid="3c07db8e-d04c-44b2-b9ce-2031d54cd17b">
 				<InternalInfo>
 					<xr:GeneratedType name="DocumentTabularSection.РегистрацияПоступленияТоваров.Товары" category="TabularSection">
@@ -465,6 +467,50 @@
 							<ChoiceParameterLinks/>
 							<ChoiceParameters>
 								<app:item name="Отбор.ТипНоменклатуры">
+									<app:value xsi:type="v8:FixedArray">
+										<v8:Value xsi:type="xr:DesignTimeRef">Enum.ТипыНоменклатуры.EnumValue.Товар</v8:Value>
+										<v8:Value xsi:type="xr:DesignTimeRef">Enum.ТипыНоменклатуры.EnumValue.Материал</v8:Value>
+									</app:value>
+								</app:item>
+							</ChoiceParameters>
+							<QuickChoice>Auto</QuickChoice>
+							<CreateOnInput>Auto</CreateOnInput>
+							<ChoiceForm/>
+							<LinkByType/>
+							<ChoiceHistoryOnInput>Auto</ChoiceHistoryOnInput>
+							<Indexing>DontIndex</Indexing>
+							<FullTextSearch>Use</FullTextSearch>
+							<DataHistory>Use</DataHistory>
+						</Properties>
+					</Attribute>
+					<Attribute uuid="17043427-a9eb-4685-8a7d-c471bbf86111">
+						<Properties>
+							<Name>ТипНоменклатуры</Name>
+							<Synonym>
+								<v8:item>
+									<v8:lang>ru</v8:lang>
+									<v8:content>Тип номенклатуры</v8:content>
+								</v8:item>
+							</Synonym>
+							<Comment/>
+							<Type>
+								<v8:Type>cfg:EnumRef.ТипыНоменклатуры</v8:Type>
+							</Type>
+							<PasswordMode>false</PasswordMode>
+							<Format/>
+							<EditFormat/>
+							<ToolTip/>
+							<MarkNegatives>false</MarkNegatives>
+							<Mask/>
+							<MultiLine>false</MultiLine>
+							<ExtendedEdit>false</ExtendedEdit>
+							<MinValue xsi:nil="true"/>
+							<MaxValue xsi:nil="true"/>
+							<FillChecking>ShowError</FillChecking>
+							<ChoiceFoldersAndItems>Items</ChoiceFoldersAndItems>
+							<ChoiceParameterLinks/>
+							<ChoiceParameters>
+								<app:item name="Отбор.Ссылка">
 									<app:value xsi:type="v8:FixedArray">
 										<v8:Value xsi:type="xr:DesignTimeRef">Enum.ТипыНоменклатуры.EnumValue.Товар</v8:Value>
 										<v8:Value xsi:type="xr:DesignTimeRef">Enum.ТипыНоменклатуры.EnumValue.Материал</v8:Value>

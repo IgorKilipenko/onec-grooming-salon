@@ -148,8 +148,9 @@
 		<Metadata name="Document.РеализацияТоваровИУслуг.ObjectModule" id="e30ec35e-8c3a-40cf-a109-fc154d862130.0" configVersion="95afbee8d794c8469cdf1eede86a71b100000000"/>
 		<Metadata name="Document.РеализацияТоваровИУслуг.Template.Печать" id="5785dba4-505a-4aaf-ad4f-ee20249b0cd0" configVersion="9c34326a0ca9ff47b3ee170fef88680800000000"/>
 		<Metadata name="Document.РеализацияТоваровИУслуг.Template.Печать.Template" id="5785dba4-505a-4aaf-ad4f-ee20249b0cd0.0" configVersion="1bea5e22436adc448a79b216f150ff3000000000"/>
-		<Metadata name="Document.РегистрацияПоступленияТоваров" id="fae4f4d5-2dbe-45a9-b5c9-cb07edb71685" configVersion="4b36d4ddc1833a479cd7260eededf99b00000000">
+		<Metadata name="Document.РегистрацияПоступленияТоваров" id="fae4f4d5-2dbe-45a9-b5c9-cb07edb71685" configVersion="75befb0ce49c69419132f5cb0409c3fe00000000">
 			<Metadata name="Document.РегистрацияПоступленияТоваров.TabularSection.Товары.Attribute.Цена" id="02b11f2b-f879-4ad7-8693-2ecdad757738"/>
+			<Metadata name="Document.РегистрацияПоступленияТоваров.TabularSection.Товары.Attribute.ТипНоменклатуры" id="17043427-a9eb-4685-8a7d-c471bbf86111"/>
 			<Metadata name="Document.РегистрацияПоступленияТоваров.TabularSection.Товары" id="3c07db8e-d04c-44b2-b9ce-2031d54cd17b"/>
 			<Metadata name="Document.РегистрацияПоступленияТоваров.Attribute.ВходящийНомер" id="3f46ad42-2e89-47e1-93d6-c718a7a378c9"/>
 			<Metadata name="Document.РегистрацияПоступленияТоваров.TabularSection.Товары.Attribute.Сумма" id="53f6d976-e35f-4673-a07e-e1c20b005292"/>
@@ -163,6 +164,10 @@
 			<Metadata name="Document.РегистрацияПоступленияТоваров.Attribute.ДоговорПоставщика" id="d8b3937d-6c8a-4ab9-be89-31ef0ec73f6c"/>
 			<Metadata name="Document.РегистрацияПоступленияТоваров.TabularSection.Товары.Attribute.Номенклатура" id="eaf38232-f5c0-4e36-a916-06105e8160c6"/>
 		</Metadata>
+		<Metadata name="Document.РегистрацияПоступленияТоваров.Form.ФормаДокумента" id="23d44af0-0557-48c3-bf2a-0203929c4871" configVersion="8abf472ade19714f9223efe21c8ab2f500000000"/>
+		<Metadata name="Document.РегистрацияПоступленияТоваров.Form.ФормаДокумента.Form" id="23d44af0-0557-48c3-bf2a-0203929c4871.0" configVersion="8e033478fb7a774c87730dfb9799ecca00000000"/>
+		<Metadata name="Document.РегистрацияПоступленияТоваров.Form.ФормаСписка" id="667b6c24-9bca-4f1e-a393-5c31fa4535a4" configVersion="594af89be4e19e4ab97c5324ce5a102900000000"/>
+		<Metadata name="Document.РегистрацияПоступленияТоваров.Form.ФормаСписка.Form" id="667b6c24-9bca-4f1e-a393-5c31fa4535a4.0" configVersion="d5cfb155a5690b4680128d2f6784b19e00000000"/>
 		<Metadata name="Document.РегистрацияПоступленияТоваров.ObjectModule" id="fae4f4d5-2dbe-45a9-b5c9-cb07edb71685.0" configVersion="d63fce6db45561458a4259575a0978db00000000"/>
 		<Metadata name="Enum.ВидыПитомцев" id="45c962dc-a266-4f18-a9f9-2b6e3d61376f" configVersion="d1ac6dee2f0f584c8cda7cb0b487958b00000000">
 			<Metadata name="Enum.ВидыПитомцев.EnumValue.Кошка" id="156e5dd1-81f8-4138-ac9a-f06918cad374"/>
