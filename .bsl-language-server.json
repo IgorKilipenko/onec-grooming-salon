@@ -7,7 +7,8 @@
             "CodeOutOfRegion": {
                 "checkUnknownModuleType": false
             },
-            "IfElseIfEndsWithElse": false
+            "IfElseIfEndsWithElse": false,
+            "DuplicateStringLiteral": false
         }
     },
     "configurationRoot": "./src"
