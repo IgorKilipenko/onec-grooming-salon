@@ -1,5 +1,2 @@
-﻿Modified: Document.РегистрацияПоступленияТоваров
-Modified: Document.РегистрацияПоступленияТоваров.Form.ФормаДокумента
-Modified: Document.РегистрацияПоступленияТоваров.Form.ФормаДокумента.Form
-Modified: Document.РегистрацияПоступленияТоваров.Form.ФормаСписка
-Modified: Document.РегистрацияПоступленияТоваров.Form.ФормаСписка.Form
+﻿New: Catalog.Номенклатура.ManagerModule
+Modified: Catalog.Номенклатура
