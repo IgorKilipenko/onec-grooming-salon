@@ -1,2 +1,3 @@
-﻿Modified: Document.ЗаписьКлиента.Form.ФормаДокумента
-Modified: Document.ЗаписьКлиента.Form.ФормаДокумента.Form
+﻿New: Document.ЗаписьКлиента.Form.ФормаСписка
+New: Document.ЗаписьКлиента.Form.ФормаСписка.Form
+Modified: Document.ЗаписьКлиента
