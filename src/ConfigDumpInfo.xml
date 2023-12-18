@@ -116,8 +116,8 @@
 			<Metadata name="Document.ЗаписьКлиента.Attribute.ДатаЗаписи" id="f5a0ef06-9a5d-477b-9e8e-79a372a47d41"/>
 			<Metadata name="Document.ЗаписьКлиента.Attribute.Сотрудник" id="faeb8138-872b-4353-b2c4-3aa2f6b9a1e2"/>
 		</Metadata>
-		<Metadata name="Document.ЗаписьКлиента.Form.ФормаДокумента" id="72556142-657e-4e58-9dd9-0c290943e372" configVersion="63d5456485d96f44b1322fff265b54f200000000"/>
-		<Metadata name="Document.ЗаписьКлиента.Form.ФормаДокумента.Form" id="72556142-657e-4e58-9dd9-0c290943e372.0" configVersion="689864f77f5e9d41b6043cf0aad1301100000000"/>
+		<Metadata name="Document.ЗаписьКлиента.Form.ФормаДокумента" id="72556142-657e-4e58-9dd9-0c290943e372" configVersion="ac3ae2fb23237f4c95c26534b04b9f9e00000000"/>
+		<Metadata name="Document.ЗаписьКлиента.Form.ФормаДокумента.Form" id="72556142-657e-4e58-9dd9-0c290943e372.0" configVersion="3fc8af7d175d1a428420c9f4a46aaa1000000000"/>
 		<Metadata name="Document.ЗаписьКлиента.ObjectModule" id="57b68005-3097-4a50-a8da-11276713c78c.0" configVersion="386c1e26efe06f45a1d2b8cb2717532a00000000"/>
 		<Metadata name="Document.РеализацияТоваровИУслуг" id="e30ec35e-8c3a-40cf-a109-fc154d862130" configVersion="667dd879be04f343ba7c5436db74941300000000">
 			<Metadata name="Document.РеализацияТоваровИУслуг.TabularSection.Товары.Attribute.Сумма" id="10a761de-8ecb-48c2-92d5-abff4ac92234"/>
