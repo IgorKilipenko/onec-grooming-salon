@@ -1,5 +1,5 @@
-﻿New: Catalog.Пользователи.Form.ФормаСписка
-New: Catalog.Пользователи.Form.ФормаСписка.Form
-New: Catalog.Пользователи.Form.ФормаЭлемента
-New: Catalog.Пользователи.Form.ФормаЭлемента.Form
-Modified: Catalog.Пользователи
+﻿New: Configuration.ГрумингСалон.SessionModule
+New: Role.ПолныеПрава
+New: Role.ПолныеПрава.Rights
+New: SessionParameter.ТекущийПользователь
+Modified: Configuration.ГрумингСалон

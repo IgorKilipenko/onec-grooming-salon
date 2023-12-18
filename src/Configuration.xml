@@ -229,6 +229,8 @@
 		</Properties>
 		<ChildObjects>
 			<Language>Русский</Language>
+			<SessionParameter>ТекущийПользователь</SessionParameter>
+			<Role>ПолныеПрава</Role>
 			<CommonModule>РаботаСоСтрокамиВызовСервера</CommonModule>
 			<FunctionalOption>ИспользоватьСклады</FunctionalOption>
 			<DefinedType>ФинансовыеДанные</DefinedType>
