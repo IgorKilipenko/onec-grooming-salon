@@ -1,4 +1,0 @@
-﻿New: Document.ЗаписьКлиента.Form.ФормаДокумента
-New: Document.ЗаписьКлиента.Form.ФормаДокумента.Form
-Modified: Document.ЗаписьКлиента
-Modified: Document.ЗаписьКлиента.ObjectModule
