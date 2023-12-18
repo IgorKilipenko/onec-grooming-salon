@@ -232,7 +232,7 @@
 			</c>
 			<c>
 				<c>
-					<f>14</f>
+					<f>15</f>
 					<parameter>Дата</parameter>
 				</c>
 			</c>
@@ -304,7 +304,7 @@
 			</c>
 			<c>
 				<c>
-					<f>14</f>
+					<f>16</f>
 					<parameter>Основание</parameter>
 				</c>
 			</c>
@@ -323,12 +323,12 @@
 			<columnsID>2fb25012-3eee-4bf9-b2ae-f3237a31c354</columnsID>
 			<c>
 				<c>
-					<f>15</f>
+					<f>17</f>
 				</c>
 			</c>
 			<c>
 				<c>
-					<f>16</f>
+					<f>18</f>
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
@@ -339,7 +339,7 @@
 			</c>
 			<c>
 				<c>
-					<f>16</f>
+					<f>18</f>
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
@@ -350,7 +350,7 @@
 			</c>
 			<c>
 				<c>
-					<f>16</f>
+					<f>18</f>
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
@@ -368,19 +368,19 @@
 			<c>
 				<i>1</i>
 				<c>
-					<f>17</f>
+					<f>19</f>
 					<parameter>НомерСтроки</parameter>
 				</c>
 			</c>
 			<c>
 				<c>
-					<f>18</f>
+					<f>20</f>
 					<parameter>Услуга</parameter>
 				</c>
 			</c>
 			<c>
 				<c>
-					<f>18</f>
+					<f>21</f>
 					<parameter>Стоимость</parameter>
 				</c>
 			</c>
@@ -399,12 +399,12 @@
 			<columnsID>2baf85c1-00b1-4ccc-b9d8-6c8d0c4399f6</columnsID>
 			<c>
 				<c>
-					<f>15</f>
+					<f>17</f>
 				</c>
 			</c>
 			<c>
 				<c>
-					<f>16</f>
+					<f>18</f>
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
@@ -415,7 +415,7 @@
 			</c>
 			<c>
 				<c>
-					<f>16</f>
+					<f>18</f>
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
@@ -426,7 +426,7 @@
 			</c>
 			<c>
 				<c>
-					<f>16</f>
+					<f>18</f>
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
@@ -437,7 +437,7 @@
 			</c>
 			<c>
 				<c>
-					<f>16</f>
+					<f>18</f>
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
@@ -448,7 +448,7 @@
 			</c>
 			<c>
 				<c>
-					<f>16</f>
+					<f>18</f>
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
@@ -466,31 +466,31 @@
 			<c>
 				<i>1</i>
 				<c>
-					<f>17</f>
+					<f>19</f>
 					<parameter>НомерСтроки</parameter>
 				</c>
 			</c>
 			<c>
 				<c>
-					<f>18</f>
+					<f>20</f>
 					<parameter>Товар</parameter>
 				</c>
 			</c>
 			<c>
 				<c>
-					<f>19</f>
+					<f>22</f>
 					<parameter>Количество</parameter>
 				</c>
 			</c>
 			<c>
 				<c>
-					<f>18</f>
+					<f>21</f>
 					<parameter>Цена</parameter>
 				</c>
 			</c>
 			<c>
 				<c>
-					<f>18</f>
+					<f>21</f>
 					<parameter>Сумма</parameter>
 				</c>
 			</c>
@@ -521,7 +521,7 @@
 			</c>
 			<c>
 				<c>
-					<f>14</f>
+					<f>23</f>
 					<parameter>СуммаДокумента</parameter>
 				</c>
 			</c>
@@ -552,7 +552,7 @@
 		</row>
 	</rowsItem>
 	<templateMode>true</templateMode>
-	<defaultFormatIndex>20</defaultFormatIndex>
+	<defaultFormatIndex>24</defaultFormatIndex>
 	<height>22</height>
 	<vgRows>22</vgRows>
 	<merge>
@@ -715,6 +715,25 @@
 		<markNegatives>false</markNegatives>
 	</format>
 	<format>
+		<verticalAlignment>Top</verticalAlignment>
+		<textPlacement>Wrap</textPlacement>
+		<fillType>Parameter</fillType>
+		<markNegatives>false</markNegatives>
+		<format>
+			<v8:item>
+				<v8:lang>ru</v8:lang>
+				<v8:content>Л=ru_RU</v8:content>
+			</v8:item>
+		</format>
+	</format>
+	<format>
+		<verticalAlignment>Top</verticalAlignment>
+		<textPlacement>Wrap</textPlacement>
+		<fillType>Parameter</fillType>
+		<markNegatives>false</markNegatives>
+		<format/>
+	</format>
+	<format>
 		<columnSizeChange>QuickChange</columnSizeChange>
 	</format>
 	<format>
@@ -742,6 +761,19 @@
 	</format>
 	<format>
 		<border>0</border>
+		<verticalAlignment>Top</verticalAlignment>
+		<textPlacement>Wrap</textPlacement>
+		<fillType>Parameter</fillType>
+		<markNegatives>false</markNegatives>
+		<format>
+			<v8:item>
+				<v8:lang>ru</v8:lang>
+				<v8:content>Л=ru_RU; ЧДЦ=2; ЧРД=,; ЧРГ=' '; ЧГ=3,0; ЧО=0</v8:content>
+			</v8:item>
+		</format>
+	</format>
+	<format>
+		<border>0</border>
 		<horizontalAlignment>Right</horizontalAlignment>
 		<verticalAlignment>Top</verticalAlignment>
 		<textPlacement>Block</textPlacement>
@@ -750,7 +782,20 @@
 		<format>
 			<v8:item>
 				<v8:lang>ru</v8:lang>
-				<v8:content>ЧЦ=10;ЧДЦ=3</v8:content>
+				<v8:content>Л=ru_RU; ЧЦ=10; ЧДЦ=3; ЧРД=,; ЧРГ=' '; ЧГ=3,0; ЧО=0</v8:content>
+			</v8:item>
+		</format>
+	</format>
+	<format>
+		<horizontalAlignment>Left</horizontalAlignment>
+		<verticalAlignment>Top</verticalAlignment>
+		<textPlacement>Wrap</textPlacement>
+		<fillType>Parameter</fillType>
+		<markNegatives>false</markNegatives>
+		<format>
+			<v8:item>
+				<v8:lang>ru</v8:lang>
+				<v8:content>Л=ru_RU; ЧДЦ=2; ЧРД=,; ЧРГ=' '; ЧГ=3,0; ЧО=0</v8:content>
 			</v8:item>
 		</format>
 	</format>
