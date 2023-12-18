@@ -4,6 +4,9 @@
 	<UsePostingMode>Auto</UsePostingMode>
 	<RepostOnWrite>true</RepostOnWrite>
 	<AutoCommandBar name="ФормаКоманднаяПанель" id="-1"/>
+	<Events>
+		<Event name="BeforeWrite">ПередЗаписью</Event>
+	</Events>
 	<ChildItems>
 		<UsualGroup name="ГруппаШапка" id="59">
 			<Title>
@@ -176,6 +179,9 @@
 					<ExtendedEditMultipleValues>true</ExtendedEditMultipleValues>
 					<ContextMenu name="ТоварыНоменклатураКонтекстноеМеню" id="48"/>
 					<ExtendedTooltip name="ТоварыНоменклатураРасширеннаяПодсказка" id="49"/>
+					<Events>
+						<Event name="OnChange">ТоварыНоменклатураПриИзменении</Event>
+					</Events>
 				</InputField>
 				<InputField name="ТоварыТипНоменклатуры" id="69">
 					<DataPath>Объект.Товары.ТипНоменклатуры</DataPath>
@@ -191,6 +197,9 @@
 					<ExtendedEditMultipleValues>true</ExtendedEditMultipleValues>
 					<ContextMenu name="ТоварыКоличествоКонтекстноеМеню" id="51"/>
 					<ExtendedTooltip name="ТоварыКоличествоРасширеннаяПодсказка" id="52"/>
+					<Events>
+						<Event name="OnChange">ТоварыКоличествоПриИзменении</Event>
+					</Events>
 				</InputField>
 				<InputField name="ТоварыЦена" id="53">
 					<DataPath>Объект.Товары.Цена</DataPath>
@@ -198,9 +207,13 @@
 					<ExtendedEditMultipleValues>true</ExtendedEditMultipleValues>
 					<ContextMenu name="ТоварыЦенаКонтекстноеМеню" id="54"/>
 					<ExtendedTooltip name="ТоварыЦенаРасширеннаяПодсказка" id="55"/>
+					<Events>
+						<Event name="OnChange">ТоварыЦенаПриИзменении</Event>
+					</Events>
 				</InputField>
 				<InputField name="ТоварыСумма" id="56">
 					<DataPath>Объект.Товары.Сумма</DataPath>
+					<ReadOnly>true</ReadOnly>
 					<EditMode>EnterOnInput</EditMode>
 					<FooterDataPath>Объект.Товары.TotalСумма</FooterDataPath>
 					<FooterText>

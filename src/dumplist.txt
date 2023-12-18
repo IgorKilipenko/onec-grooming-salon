@@ -1,2 +1,3 @@
-﻿New: Catalog.Номенклатура.ManagerModule
-Modified: Catalog.Номенклатура
+﻿Modified: Document.РегистрацияПоступленияТоваров
+Modified: Document.РегистрацияПоступленияТоваров.Form.ФормаДокумента
+Modified: Document.РегистрацияПоступленияТоваров.Form.ФормаДокумента.Form
