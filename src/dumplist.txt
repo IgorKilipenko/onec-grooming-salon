@@ -1,3 +1,7 @@
-﻿New: Document.ЗаписьКлиента.Form.ФормаСписка
-New: Document.ЗаписьКлиента.Form.ФормаСписка.Form
-Modified: Document.ЗаписьКлиента
+﻿New: Document.РеализацияТоваровИУслуг.Form.ФормаСписка
+New: Document.РеализацияТоваровИУслуг.Form.ФормаСписка.Form
+Modified: Document.РеализацияТоваровИУслуг
+Modified: Document.РеализацияТоваровИУслуг.Form.ФормаДокумента
+Modified: Document.РеализацияТоваровИУслуг.Form.ФормаДокумента.Form
+Modified: Document.РеализацияТоваровИУслуг.ManagerModule
+Modified: Document.РеализацияТоваровИУслуг.ObjectModule

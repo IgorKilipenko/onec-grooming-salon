@@ -5,7 +5,7 @@
 	<RepostOnWrite>true</RepostOnWrite>
 	<AutoCommandBar name="ФормаКоманднаяПанель" id="-1"/>
 	<Events>
-		<Event name="OnOpen">ПриОткрытииФормы</Event>
+		<Event name="BeforeWrite">ПередЗаписью</Event>
 	</Events>
 	<ChildItems>
 		<InputField name="Номер" id="1">
@@ -36,13 +36,6 @@
 			<ContextMenu name="СотрудникКонтекстноеМеню" id="11"/>
 			<ExtendedTooltip name="СотрудникРасширеннаяПодсказка" id="12"/>
 		</InputField>
-		<InputField name="Основание" id="13">
-			<DataPath>Объект.Основание</DataPath>
-			<EditMode>EnterOnInput</EditMode>
-			<ExtendedEditMultipleValues>true</ExtendedEditMultipleValues>
-			<ContextMenu name="ОснованиеКонтекстноеМеню" id="14"/>
-			<ExtendedTooltip name="ОснованиеРасширеннаяПодсказка" id="15"/>
-		</InputField>
 		<InputField name="Склад" id="16">
 			<DataPath>Объект.Склад</DataPath>
 			<EditMode>EnterOnInput</EditMode>
@@ -50,27 +43,13 @@
 			<ContextMenu name="СкладКонтекстноеМеню" id="17"/>
 			<ExtendedTooltip name="СкладРасширеннаяПодсказка" id="18"/>
 		</InputField>
-		<InputField name="СуммаДокумента" id="19">
-			<DataPath>Объект.СуммаДокумента</DataPath>
+		<LabelField name="Основание" id="13">
+			<DataPath>Объект.Основание</DataPath>
 			<EditMode>EnterOnInput</EditMode>
-			<ExtendedEditMultipleValues>true</ExtendedEditMultipleValues>
-			<ContextMenu name="СуммаДокументаКонтекстноеМеню" id="20"/>
-			<ExtendedTooltip name="СуммаДокументаРасширеннаяПодсказка" id="21"/>
-		</InputField>
-		<InputField name="Комментарий" id="22">
-			<DataPath>Объект.Комментарий</DataPath>
-			<EditMode>EnterOnInput</EditMode>
-			<ExtendedEditMultipleValues>true</ExtendedEditMultipleValues>
-			<ContextMenu name="КомментарийКонтекстноеМеню" id="23"/>
-			<ExtendedTooltip name="КомментарийРасширеннаяПодсказка" id="24"/>
-		</InputField>
-		<InputField name="АвторДокумента" id="25">
-			<DataPath>Объект.АвторДокумента</DataPath>
-			<EditMode>EnterOnInput</EditMode>
-			<ExtendedEditMultipleValues>true</ExtendedEditMultipleValues>
-			<ContextMenu name="АвторДокументаКонтекстноеМеню" id="26"/>
-			<ExtendedTooltip name="АвторДокументаРасширеннаяПодсказка" id="27"/>
-		</InputField>
+			<Hiperlink>true</Hiperlink>
+			<ContextMenu name="ОснованиеКонтекстноеМеню" id="14"/>
+			<ExtendedTooltip name="ОснованиеРасширеннаяПодсказка" id="15"/>
+		</LabelField>
 		<Pages name="Страницы" id="28">
 			<Title>
 				<v8:item>
@@ -91,6 +70,7 @@
 					<ChildItems>
 						<Table name="Услуги" id="32">
 							<Representation>List</Representation>
+							<Footer>true</Footer>
 							<AutoInsertNewRow>true</AutoInsertNewRow>
 							<EnableStartDrag>true</EnableStartDrag>
 							<EnableDrag>true</EnableDrag>
@@ -140,6 +120,13 @@
 								<InputField name="УслугиСтоимость" id="51">
 									<DataPath>Объект.Услуги.Стоимость</DataPath>
 									<EditMode>EnterOnInput</EditMode>
+									<FooterDataPath>Объект.Услуги.TotalСтоимость</FooterDataPath>
+									<FooterText>
+										<v8:item>
+											<v8:lang>ru</v8:lang>
+											<v8:content>Итого:</v8:content>
+										</v8:item>
+									</FooterText>
 									<ExtendedEditMultipleValues>true</ExtendedEditMultipleValues>
 									<ContextMenu name="УслугиСтоимостьКонтекстноеМеню" id="52"/>
 									<ExtendedTooltip name="УслугиСтоимостьРасширеннаяПодсказка" id="53"/>
@@ -162,6 +149,7 @@
 					<ChildItems>
 						<Table name="Товары" id="56">
 							<Representation>List</Representation>
+							<Footer>true</Footer>
 							<AutoInsertNewRow>true</AutoInsertNewRow>
 							<EnableStartDrag>true</EnableStartDrag>
 							<EnableDrag>true</EnableDrag>
@@ -232,12 +220,16 @@
 									<DataPath>Объект.Товары.Сумма</DataPath>
 									<Enabled>false</Enabled>
 									<EditMode>EnterOnInput</EditMode>
+									<FooterDataPath>Объект.Товары.TotalСумма</FooterDataPath>
+									<FooterText>
+										<v8:item>
+											<v8:lang>ru</v8:lang>
+											<v8:content>Итого:</v8:content>
+										</v8:item>
+									</FooterText>
 									<ExtendedEditMultipleValues>true</ExtendedEditMultipleValues>
 									<ContextMenu name="ТоварыСуммаКонтекстноеМеню" id="82"/>
 									<ExtendedTooltip name="ТоварыСуммаРасширеннаяПодсказка" id="83"/>
-									<Events>
-										<Event name="OnChange">ТоварыСуммаПриИзменении</Event>
-									</Events>
 								</InputField>
 							</ChildItems>
 						</Table>
@@ -245,6 +237,47 @@
 				</Page>
 			</ChildItems>
 		</Pages>
+		<InputField name="СуммаДокумента" id="19">
+			<DataPath>Объект.СуммаДокумента</DataPath>
+			<ReadOnly>true</ReadOnly>
+			<EditMode>EnterOnInput</EditMode>
+			<ExtendedEditMultipleValues>true</ExtendedEditMultipleValues>
+			<ContextMenu name="СуммаДокументаКонтекстноеМеню" id="20"/>
+			<ExtendedTooltip name="СуммаДокументаРасширеннаяПодсказка" id="21"/>
+		</InputField>
+		<UsualGroup name="ГруппаПодвал" id="84">
+			<Title>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>Группа подвал</v8:content>
+				</v8:item>
+			</Title>
+			<ToolTip>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>Группа подвал</v8:content>
+				</v8:item>
+			</ToolTip>
+			<Representation>None</Representation>
+			<ShowTitle>false</ShowTitle>
+			<ExtendedTooltip name="ГруппаПодвалРасширеннаяПодсказка" id="85"/>
+			<ChildItems>
+				<InputField name="Комментарий" id="22">
+					<DataPath>Объект.Комментарий</DataPath>
+					<EditMode>EnterOnInput</EditMode>
+					<ExtendedEditMultipleValues>true</ExtendedEditMultipleValues>
+					<ContextMenu name="КомментарийКонтекстноеМеню" id="23"/>
+					<ExtendedTooltip name="КомментарийРасширеннаяПодсказка" id="24"/>
+				</InputField>
+				<InputField name="АвторДокумента" id="25">
+					<DataPath>Объект.АвторДокумента</DataPath>
+					<EditMode>EnterOnInput</EditMode>
+					<ExtendedEditMultipleValues>true</ExtendedEditMultipleValues>
+					<ContextMenu name="АвторДокументаКонтекстноеМеню" id="26"/>
+					<ExtendedTooltip name="АвторДокументаРасширеннаяПодсказка" id="27"/>
+				</InputField>
+			</ChildItems>
+		</UsualGroup>
 	</ChildItems>
 	<Attributes>
 		<Attribute name="Объект" id="1">
@@ -258,4 +291,23 @@
 			</UseAlways>
 		</Attribute>
 	</Attributes>
+	<CommandInterface>
+		<NavigationPanel>
+			<Item>
+				<Command>AccumulationRegister.ЗаказыКлиентов.StandardCommand.OpenByRecorder</Command>
+				<Type>Auto</Type>
+				<DefaultVisible>false</DefaultVisible>
+			</Item>
+			<Item>
+				<Command>AccumulationRegister.Продажи.StandardCommand.OpenByRecorder</Command>
+				<Type>Auto</Type>
+				<DefaultVisible>false</DefaultVisible>
+			</Item>
+			<Item>
+				<Command>AccumulationRegister.ТоварыНаСкладах.StandardCommand.OpenByRecorder</Command>
+				<Type>Auto</Type>
+				<DefaultVisible>false</DefaultVisible>
+			</Item>
+		</NavigationPanel>
+	</CommandInterface>
 </Form>
