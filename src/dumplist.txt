@@ -1,5 +1,2 @@
-﻿Modified: Catalog.Сотрудники
-Modified: Catalog.Сотрудники.Form.ФормаЭлемента
-Modified: Catalog.Сотрудники.Form.ФормаЭлемента.Form
-Modified: Catalog.Сотрудники.ManagerModule
-Modified: Catalog.Сотрудники.ObjectModule
+﻿Modified: CommonModule.РаботаСоСтрокамиВызовСервера
+Modified: CommonModule.РаботаСоСтрокамиВызовСервера.Module
