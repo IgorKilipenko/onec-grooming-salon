@@ -1,2 +1,5 @@
-﻿Modified: Document.РегистрацияПоступленияТоваров.Form.ФормаДокумента
-Modified: Document.РегистрацияПоступленияТоваров.Form.ФормаДокумента.Form
+﻿New: Catalog.Пользователи.Form.ФормаСписка
+New: Catalog.Пользователи.Form.ФормаСписка.Form
+New: Catalog.Пользователи.Form.ФормаЭлемента
+New: Catalog.Пользователи.Form.ФормаЭлемента.Form
+Modified: Catalog.Пользователи
