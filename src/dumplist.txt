@@ -1,6 +1,4 @@
-﻿New: Document.РеализацияТоваровИУслуг.Form.ФормаСписка
-New: Document.РеализацияТоваровИУслуг.Form.ФормаСписка.Form
-Modified: Document.РеализацияТоваровИУслуг
+﻿Modified: Document.РеализацияТоваровИУслуг
 Modified: Document.РеализацияТоваровИУслуг.Form.ФормаДокумента
 Modified: Document.РеализацияТоваровИУслуг.Form.ФормаДокумента.Form
 Modified: Document.РеализацияТоваровИУслуг.ManagerModule
