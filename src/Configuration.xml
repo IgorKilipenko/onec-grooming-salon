@@ -230,6 +230,10 @@
 		<ChildObjects>
 			<Language>Русский</Language>
 			<Subsystem>Справочники</Subsystem>
+			<Subsystem>Покупки</Subsystem>
+			<Subsystem>Продажи</Subsystem>
+			<Subsystem>Персонал</Subsystem>
+			<Subsystem>Настройки</Subsystem>
 			<SessionParameter>ТекущийПользователь</SessionParameter>
 			<Role>ПолныеПрава</Role>
 			<CommonModule>РаботаСоСтрокамиВызовСервера</CommonModule>

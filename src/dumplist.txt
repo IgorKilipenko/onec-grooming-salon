@@ -1,6 +1,0 @@
-﻿New: Subsystem.Справочники
-New: Subsystem.Справочники.Subsystem.Пользователи
-New: Subsystem.Справочники.Subsystem.Пользователи.CommandInterface
-New: Subsystem.Справочники.Subsystem.Продажи
-New: Subsystem.Справочники.Subsystem.Продажи.CommandInterface
-Modified: Configuration.ГрумингСалон

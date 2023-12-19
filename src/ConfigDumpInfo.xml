@@ -105,7 +105,11 @@
 		<Metadata name="Catalog.Сотрудники.ObjectModule" id="22c35659-8f6f-4268-ab3d-94673f1123b8.0" configVersion="10ba75753395b1418b5f79cabdadf25b00000000"/>
 		<Metadata name="CommonModule.РаботаСоСтрокамиВызовСервера" id="f25e72ba-9dba-464f-a0c5-62d781085031" configVersion="6759b2f83bf13c469b6127dbf2473ec100000000"/>
 		<Metadata name="CommonModule.РаботаСоСтрокамиВызовСервера.Module" id="f25e72ba-9dba-464f-a0c5-62d781085031.0" configVersion="f836831057e47f459e88f802007eeb8100000000"/>
-		<Metadata name="Configuration.ГрумингСалон" id="bf7fd7f7-d5f2-4af8-987a-4903e6ac7a60" configVersion="b8f4c3d870faba469061e2d548c4f6aa00000000"/>
+		<Metadata name="Configuration.ГрумингСалон" id="bf7fd7f7-d5f2-4af8-987a-4903e6ac7a60" configVersion="c4f25cb3f0f74e42bc7d2c457cd1d93900000000"/>
+		<Metadata name="Configuration.ГрумингСалон.ClientApplicationInterface" id="5b918c7f-f6dd-47f1-8449-205108ad3f01.b" configVersion="08c78f158b9d7b498fd344522cb6427600000000"/>
+		<Metadata name="Configuration.ГрумингСалон.CommandInterface" id="5b918c7f-f6dd-47f1-8449-205108ad3f01.a" configVersion="e7750e0aa01cd642b0ec90b27736520e00000000"/>
+		<Metadata name="Configuration.ГрумингСалон.HomePageWorkArea" id="5b918c7f-f6dd-47f1-8449-205108ad3f01.8" configVersion="4179c0dbdf2c594793ec75fbde26fce100000000"/>
+		<Metadata name="Configuration.ГрумингСалон.MainSectionCommandInterface" id="5b918c7f-f6dd-47f1-8449-205108ad3f01.9" configVersion="a421dcd93f83d54695549ad448e2bc8300000000"/>
 		<Metadata name="Configuration.ГрумингСалон.SessionModule" id="5b918c7f-f6dd-47f1-8449-205108ad3f01.7" configVersion="c5d2cf5e58ae454ab631d40eafac829f00000000"/>
 		<Metadata name="Constant.ИспользоватьСклады" id="e09ea315-e523-4767-909f-3616479ceee2" configVersion="76ee4bb307e4f4429eb480ccca0828c500000000"/>
 		<Metadata name="DefinedType.КоличествоТоваров" id="af789118-a575-48ef-91d2-953bf7bb9c3d" configVersion="4edbdd8ac4dacc40b0944c25f4d7381900000000"/>
@@ -201,10 +205,24 @@
 		<Metadata name="Role.ПолныеПрава" id="00767566-1e0d-461c-8d28-0d2b2e3ae3d5" configVersion="7908ab6f3d88f34f8f29afb16a37d06f00000000"/>
 		<Metadata name="Role.ПолныеПрава.Rights" id="00767566-1e0d-461c-8d28-0d2b2e3ae3d5.0" configVersion="b1583d3910bde74ebe3ef440614c2bbe00000000"/>
 		<Metadata name="SessionParameter.ТекущийПользователь" id="643310eb-9d42-4b35-a3c0-0112db602cea" configVersion="14ec5aaca870fd4f9b450e758bf8e8e900000000"/>
+		<Metadata name="Subsystem.Настройки" id="c0f6f859-99d5-4013-9c1f-1dd790eacd15" configVersion="fd61a65ec547fa4a97fb1cd917ee96ef00000000"/>
+		<Metadata name="Subsystem.Настройки.Subsystem.Сервис" id="19d6e9c1-cdbd-4022-884f-9ebf01e49de3" configVersion="f3b08b94235ee342961f094c51891fe400000000"/>
+		<Metadata name="Subsystem.Настройки.Subsystem.Справочники" id="eace7f36-9d46-4fc5-9f93-320a5e72950e" configVersion="e9d772a49ec0f94f9abe8ae93d7b57a800000000"/>
+		<Metadata name="Subsystem.Персонал" id="7b432749-2056-4bf0-a319-6cb8f4686d1d" configVersion="6fb9f41ba6e0034b9b93701c5a4919f900000000"/>
+		<Metadata name="Subsystem.Персонал.Subsystem.Справочники" id="ce77fbe5-febc-4733-b4be-1e618770f870" configVersion="0b01a937717e864c9fc3fb4d1fbe69ff00000000"/>
+		<Metadata name="Subsystem.Персонал.Subsystem.Справочники.CommandInterface" id="ce77fbe5-febc-4733-b4be-1e618770f870.1" configVersion="45817c92c5587b4caa5d5cdebdb34ac700000000"/>
+		<Metadata name="Subsystem.Покупки" id="10a5b600-c546-4df3-afd5-5345402554bf" configVersion="029fa5ed3e3af74aa02088e90949db0c00000000"/>
+		<Metadata name="Subsystem.Покупки.Subsystem.Покупки" id="8858fa7e-f844-445a-9b47-3be609ace23a" configVersion="d53fee1e2b2fae45b150a504542b316b00000000"/>
+		<Metadata name="Subsystem.Покупки.Subsystem.Справочники" id="454bc083-079c-4485-ad12-79ed55ad36d0" configVersion="a7a05f426056bc40a7b40d69a4e55fd400000000"/>
+		<Metadata name="Subsystem.Продажи" id="870249ff-28b7-4486-a7e5-6d5d3dd842ae" configVersion="341b957c37e3584a83e52f086fa2c31000000000"/>
+		<Metadata name="Subsystem.Продажи.Subsystem.Продажи" id="9d1ae763-a433-4054-b652-2191cf09c628" configVersion="f514493a56068f4a94fd3efd56de93ce00000000"/>
+		<Metadata name="Subsystem.Продажи.Subsystem.Продажи.CommandInterface" id="9d1ae763-a433-4054-b652-2191cf09c628.1" configVersion="05f43c1bb84a5e4fa839ed3b8fc604e700000000"/>
+		<Metadata name="Subsystem.Продажи.Subsystem.Справочники" id="723642f8-ebf9-4e61-9191-83fb4ef4637c" configVersion="6108d388e415b84c880ad0c37824c13600000000"/>
+		<Metadata name="Subsystem.Продажи.Subsystem.Справочники.CommandInterface" id="723642f8-ebf9-4e61-9191-83fb4ef4637c.1" configVersion="3a1170c149b18743994d456ec8201c3500000000"/>
 		<Metadata name="Subsystem.Справочники" id="343e4324-dd6f-4aa8-b283-ecb70c4f6c69" configVersion="ad2ec6330bb3c049beeb39e5de64a9bd00000000"/>
-		<Metadata name="Subsystem.Справочники.Subsystem.Пользователи" id="7f21d6c8-b0bb-48ea-83c0-528e51c139de" configVersion="e5ff5fa15c1e4546ae274889c4d461f800000000"/>
-		<Metadata name="Subsystem.Справочники.Subsystem.Пользователи.CommandInterface" id="7f21d6c8-b0bb-48ea-83c0-528e51c139de.1" configVersion="145a7c9cff06744abafd0d52d1ad8d2900000000"/>
-		<Metadata name="Subsystem.Справочники.Subsystem.Продажи" id="e038da8a-ef1b-4be5-be6c-cbf67487d1f4" configVersion="3c2d8a5089c77f4c92ab8c871abf541700000000"/>
-		<Metadata name="Subsystem.Справочники.Subsystem.Продажи.CommandInterface" id="e038da8a-ef1b-4be5-be6c-cbf67487d1f4.1" configVersion="c015d52c222bc74cab382ec5c10ce6a500000000"/>
+		<Metadata name="Subsystem.Справочники.Subsystem.Персонал" id="7f21d6c8-b0bb-48ea-83c0-528e51c139de" configVersion="9046f07cc24a524695e9f19e7e26c3a500000000"/>
+		<Metadata name="Subsystem.Справочники.Subsystem.Персонал.CommandInterface" id="7f21d6c8-b0bb-48ea-83c0-528e51c139de.1" configVersion="3899b109fc74d74d9a9aafb50b6c18c600000000"/>
+		<Metadata name="Subsystem.Справочники.Subsystem.Продажи" id="e038da8a-ef1b-4be5-be6c-cbf67487d1f4" configVersion="454f3222686c774bbc16e2bfbba0d73100000000"/>
+		<Metadata name="Subsystem.Справочники.Subsystem.Продажи.CommandInterface" id="e038da8a-ef1b-4be5-be6c-cbf67487d1f4.1" configVersion="e3f4715475334543ae658269bfec27d800000000"/>
 	</ConfigVersions>
 </ConfigDumpInfo>
