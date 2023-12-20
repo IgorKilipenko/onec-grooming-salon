@@ -1,7 +1,2 @@
-﻿Modified: Catalog.Сотрудники.Form.ФормаЭлемента
-Modified: Catalog.Сотрудники.Form.ФормаЭлемента.Form
-Modified: Document.ЗаписьКлиента
-Modified: Document.ЗаписьКлиента.Form.ФормаДокумента
-Modified: Document.ЗаписьКлиента.Form.ФормаДокумента.Form
-Modified: Document.РеализацияТоваровИУслуг
-Modified: Document.РеализацияТоваровИУслуг.ObjectModule
+﻿Modified: Configuration.ГрумингСалон
+Modified: Configuration.ГрумингСалон.ClientApplicationInterface
