@@ -91,7 +91,7 @@
 		<ChildObjects>
 			<Attribute uuid="33837e67-1c7a-4571-b652-dc7753e1ac41">
 				<Properties>
-					<Name>ВнешнийНомерДоговора</Name>
+					<Name>ВнешнийНомер</Name>
 					<Synonym>
 						<v8:item>
 							<v8:lang>ru</v8:lang>

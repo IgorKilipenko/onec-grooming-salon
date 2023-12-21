@@ -80,7 +80,7 @@
 					<ExtendedTooltip name="НаименованиеРасширеннаяПодсказка" id="18"/>
 				</LabelField>
 				<LabelField name="ВнешнийНомерДоговора" id="22">
-					<DataPath>Список.ВнешнийНомерДоговора</DataPath>
+					<DataPath>~Список.ВнешнийНомерДоговора</DataPath>
 					<ContextMenu name="ВнешнийНомерДоговораКонтекстноеМеню" id="23"/>
 					<ExtendedTooltip name="ВнешнийНомерДоговораРасширеннаяПодсказка" id="24"/>
 				</LabelField>

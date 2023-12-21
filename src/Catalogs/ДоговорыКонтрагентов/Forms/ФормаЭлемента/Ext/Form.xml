@@ -31,7 +31,7 @@
 			<ExtendedTooltip name="ВладелецРасширеннаяПодсказка" id="9"/>
 		</InputField>
 		<InputField name="ВнешнийНомерДоговора" id="10">
-			<DataPath>Объект.ВнешнийНомерДоговора</DataPath>
+			<DataPath>Объект.ВнешнийНомер</DataPath>
 			<EditMode>EnterOnInput</EditMode>
 			<ExtendedEditMultipleValues>true</ExtendedEditMultipleValues>
 			<ContextMenu name="ВнешнийНомерДоговораКонтекстноеМеню" id="11"/>
