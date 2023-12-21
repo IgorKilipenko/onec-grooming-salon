@@ -1,2 +1,15 @@
-﻿Modified: Catalog.ДоговорыКонтрагентов.Form.ФормаЭлемента
-Modified: Catalog.ДоговорыКонтрагентов.Form.ФормаЭлемента.Form
+﻿New: CommonModule.РаботаСДокументамиСервер
+New: CommonModule.РаботаСДокументамиСервер.Module
+Modified: Configuration.ГрумингСалон
+Modified: Document.ЗаписьКлиента
+Modified: Document.ЗаписьКлиента.Form.ФормаДокумента
+Modified: Document.ЗаписьКлиента.Form.ФормаДокумента.Form
+Modified: Document.ЗаписьКлиента.ObjectModule
+Modified: Document.ПоступленияТоваров
+Modified: Document.ПоступленияТоваров.Form.ФормаДокумента
+Modified: Document.ПоступленияТоваров.Form.ФормаДокумента.Form
+Modified: Document.ПоступленияТоваров.ObjectModule
+Modified: Document.РеализацияТоваровИУслуг
+Modified: Document.РеализацияТоваровИУслуг.Form.ФормаДокумента
+Modified: Document.РеализацияТоваровИУслуг.Form.ФормаДокумента.Form
+Modified: Document.РеализацияТоваровИУслуг.ObjectModule
