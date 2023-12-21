@@ -85,7 +85,7 @@
 					<ExtendedTooltip name="ВнешнийНомерДоговораРасширеннаяПодсказка" id="24"/>
 				</LabelField>
 				<LabelField name="ДатаЗаключенияДоговора" id="25">
-					<DataPath>Список.ДатаЗаключенияДоговора</DataPath>
+					<DataPath>~Список.ДатаЗаключенияДоговора</DataPath>
 					<ContextMenu name="ДатаЗаключенияДоговораКонтекстноеМеню" id="26"/>
 					<ExtendedTooltip name="ДатаЗаключенияДоговораРасширеннаяПодсказка" id="27"/>
 				</LabelField>

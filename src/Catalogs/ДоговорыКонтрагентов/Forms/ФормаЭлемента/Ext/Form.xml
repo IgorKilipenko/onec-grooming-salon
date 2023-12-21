@@ -57,7 +57,7 @@
 			<ExtendedTooltip name="ГруппаПериодРасширеннаяПодсказка" id="26"/>
 			<ChildItems>
 				<InputField name="ДатаЗаключенияДоговора" id="13">
-					<DataPath>Объект.ДатаЗаключенияДоговора</DataPath>
+					<DataPath>Объект.ДатаЗаключения</DataPath>
 					<EditMode>EnterOnInput</EditMode>
 					<ExtendedEditMultipleValues>true</ExtendedEditMultipleValues>
 					<ContextMenu name="ДатаЗаключенияДоговораКонтекстноеМеню" id="14"/>
