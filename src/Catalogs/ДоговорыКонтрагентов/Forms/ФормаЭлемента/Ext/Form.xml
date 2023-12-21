@@ -67,7 +67,7 @@
 					</Events>
 				</InputField>
 				<InputField name="ДатаОкончанияДоговора" id="16">
-					<DataPath>Объект.ДатаОкончанияДоговора</DataPath>
+					<DataPath>Объект.ДатаОкончания</DataPath>
 					<Title>
 						<v8:item>
 							<v8:lang>ru</v8:lang>

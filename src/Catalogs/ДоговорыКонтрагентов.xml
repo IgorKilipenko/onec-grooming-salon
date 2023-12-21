@@ -178,11 +178,11 @@
 			</Attribute>
 			<Attribute uuid="f1a87ae9-fe2d-4234-9138-2469ca8268bc">
 				<Properties>
-					<Name>ДатаОкончанияДоговора</Name>
+					<Name>ДатаОкончания</Name>
 					<Synonym>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Дата окончания договора</v8:content>
+							<v8:content>Дата окончания</v8:content>
 						</v8:item>
 					</Synonym>
 					<Comment/>
