@@ -30,12 +30,12 @@
 			<ContextMenu name="ВладелецКонтекстноеМеню" id="8"/>
 			<ExtendedTooltip name="ВладелецРасширеннаяПодсказка" id="9"/>
 		</InputField>
-		<InputField name="ВнешнийНомерДоговора" id="10">
+		<InputField name="ВнешнийНомер" id="10">
 			<DataPath>Объект.ВнешнийНомер</DataPath>
 			<EditMode>EnterOnInput</EditMode>
 			<ExtendedEditMultipleValues>true</ExtendedEditMultipleValues>
-			<ContextMenu name="ВнешнийНомерДоговораКонтекстноеМеню" id="11"/>
-			<ExtendedTooltip name="ВнешнийНомерДоговораРасширеннаяПодсказка" id="12"/>
+			<ContextMenu name="ВнешнийНомерКонтекстноеМеню" id="11"/>
+			<ExtendedTooltip name="ВнешнийНомерРасширеннаяПодсказка" id="12"/>
 		</InputField>
 		<UsualGroup name="ГруппаПериод" id="25">
 			<EnableContentChange>true</EnableContentChange>
@@ -56,17 +56,17 @@
 			<ShowTitle>false</ShowTitle>
 			<ExtendedTooltip name="ГруппаПериодРасширеннаяПодсказка" id="26"/>
 			<ChildItems>
-				<InputField name="ДатаЗаключенияДоговора" id="13">
+				<InputField name="ДатаЗаключения" id="13">
 					<DataPath>Объект.ДатаЗаключения</DataPath>
 					<EditMode>EnterOnInput</EditMode>
 					<ExtendedEditMultipleValues>true</ExtendedEditMultipleValues>
-					<ContextMenu name="ДатаЗаключенияДоговораКонтекстноеМеню" id="14"/>
-					<ExtendedTooltip name="ДатаЗаключенияДоговораРасширеннаяПодсказка" id="15"/>
+					<ContextMenu name="ДатаЗаключенияКонтекстноеМеню" id="14"/>
+					<ExtendedTooltip name="ДатаЗаключенияРасширеннаяПодсказка" id="15"/>
 					<Events>
 						<Event name="OnChange">ДатаЗаключенияДоговораПриИзменении</Event>
 					</Events>
 				</InputField>
-				<InputField name="ДатаОкончанияДоговора" id="16">
+				<InputField name="ДатаОкончания" id="16">
 					<DataPath>Объект.ДатаОкончания</DataPath>
 					<Title>
 						<v8:item>
@@ -76,17 +76,17 @@
 					</Title>
 					<EditMode>EnterOnInput</EditMode>
 					<ExtendedEditMultipleValues>true</ExtendedEditMultipleValues>
-					<ContextMenu name="ДатаОкончанияДоговораКонтекстноеМеню" id="17"/>
-					<ExtendedTooltip name="ДатаОкончанияДоговораРасширеннаяПодсказка" id="18"/>
+					<ContextMenu name="ДатаОкончанияКонтекстноеМеню" id="17"/>
+					<ExtendedTooltip name="ДатаОкончанияРасширеннаяПодсказка" id="18"/>
 				</InputField>
 			</ChildItems>
 		</UsualGroup>
-		<CheckBoxField name="ПризнакБессрочногоДоговора" id="19">
+		<CheckBoxField name="ПризнакБессрочного" id="19">
 			<DataPath>Объект.ПризнакБессрочного</DataPath>
 			<EditMode>EnterOnInput</EditMode>
 			<CheckBoxType>Auto</CheckBoxType>
-			<ContextMenu name="ПризнакБессрочногоДоговораКонтекстноеМеню" id="20"/>
-			<ExtendedTooltip name="ПризнакБессрочногоДоговораРасширеннаяПодсказка" id="21"/>
+			<ContextMenu name="ПризнакБессрочногоКонтекстноеМеню" id="20"/>
+			<ExtendedTooltip name="ПризнакБессрочногоРасширеннаяПодсказка" id="21"/>
 			<Events>
 				<Event name="OnChange">ПризнакБессрочногоДоговораПриИзменении</Event>
 			</Events>
