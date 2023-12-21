@@ -36,6 +36,9 @@
 			<ExtendedEditMultipleValues>true</ExtendedEditMultipleValues>
 			<ContextMenu name="ВнешнийНомерКонтекстноеМеню" id="11"/>
 			<ExtendedTooltip name="ВнешнийНомерРасширеннаяПодсказка" id="12"/>
+			<Events>
+				<Event name="OnChange">ВнешнийНомерПриИзменении</Event>
+			</Events>
 		</InputField>
 		<UsualGroup name="ГруппаПериод" id="25">
 			<EnableContentChange>true</EnableContentChange>

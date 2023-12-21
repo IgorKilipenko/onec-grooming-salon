@@ -1,4 +1,2 @@
-﻿New: CommandGroup.Настройки
-Modified: Configuration.ГрумингСалон
-Modified: Configuration.ГрумингСалон.ClientApplicationInterface
-Modified: Configuration.ГрумингСалон.MainSectionCommandInterface
+﻿Modified: Catalog.ДоговорыКонтрагентов.Form.ФормаЭлемента
+Modified: Catalog.ДоговорыКонтрагентов.Form.ФормаЭлемента.Form
