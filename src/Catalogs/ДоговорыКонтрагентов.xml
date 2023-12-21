@@ -221,7 +221,7 @@
 			</Attribute>
 			<Attribute uuid="b19c25c8-f839-45be-9e7f-22329af6b8ba">
 				<Properties>
-					<Name>ПризнакБессрочногоДоговора</Name>
+					<Name>ПризнакБессрочного</Name>
 					<Synonym>
 						<v8:item>
 							<v8:lang>ru</v8:lang>

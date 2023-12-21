@@ -82,7 +82,7 @@
 			</ChildItems>
 		</UsualGroup>
 		<CheckBoxField name="ПризнакБессрочногоДоговора" id="19">
-			<DataPath>Объект.ПризнакБессрочногоДоговора</DataPath>
+			<DataPath>Объект.ПризнакБессрочного</DataPath>
 			<EditMode>EnterOnInput</EditMode>
 			<CheckBoxType>Auto</CheckBoxType>
 			<ContextMenu name="ПризнакБессрочногоДоговораКонтекстноеМеню" id="20"/>
