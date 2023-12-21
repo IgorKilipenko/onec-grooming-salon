@@ -255,7 +255,7 @@
 			<Catalog>Организации</Catalog>
 			<Document>ЗаписьКлиента</Document>
 			<Document>РеализацияТоваровИУслуг</Document>
-			<Document>РегистрацияПоступленияТоваров</Document>
+			<Document>ПоступленияТоваров</Document>
 			<Enum>ТипыОрганизаций</Enum>
 			<Enum>ПолФизическогоЛица</Enum>
 			<Enum>ТипыНоменклатуры</Enum>

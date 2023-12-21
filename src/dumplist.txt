@@ -1,2 +1,0 @@
-﻿Modified: Configuration.ГрумингСалон
-Modified: Configuration.ГрумингСалон.ClientApplicationInterface

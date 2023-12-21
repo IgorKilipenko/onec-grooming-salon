@@ -15,7 +15,7 @@
 			<Content>
 				<xr:Object>Catalog.Склады</xr:Object>
 				<xr:Object>Document.РеализацияТоваровИУслуг.Attribute.Склад</xr:Object>
-				<xr:Object>Document.РегистрацияПоступленияТоваров.Attribute.Склад</xr:Object>
+				<xr:Object>Document.ПоступленияТоваров.Attribute.Склад</xr:Object>
 				<xr:Object>AccumulationRegister.ТоварыНаСкладах.Dimension.Склад</xr:Object>
 			</Content>
 		</Properties>
