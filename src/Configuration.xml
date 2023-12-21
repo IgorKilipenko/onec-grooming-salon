@@ -242,6 +242,7 @@
 			<DefinedType>КоличествоТоваров</DefinedType>
 			<DefinedType>КомментарийКороткий</DefinedType>
 			<DefinedType>КомментарийПолный</DefinedType>
+			<CommandGroup>Настройки</CommandGroup>
 			<Constant>ИспользоватьСклады</Constant>
 			<Catalog>Должности</Catalog>
 			<Catalog>Сотрудники</Catalog>

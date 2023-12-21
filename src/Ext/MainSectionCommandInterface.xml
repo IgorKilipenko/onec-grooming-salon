@@ -9,18 +9,19 @@
 	</CommandsVisibility>
 	<CommandsPlacement>
 		<Command name="Catalog.Организации.StandardCommand.OpenList">
-			<CommandGroup>NavigationPanelOrdinary</CommandGroup>
+			<CommandGroup>CommandGroup.Настройки</CommandGroup>
 			<Placement>Manual</Placement>
 		</Command>
 	</CommandsPlacement>
 	<CommandsOrder>
 		<Command name="Catalog.Организации.StandardCommand.OpenList">
-			<CommandGroup>NavigationPanelOrdinary</CommandGroup>
+			<CommandGroup>CommandGroup.Настройки</CommandGroup>
 		</Command>
 	</CommandsOrder>
 	<GroupsOrder>
 		<Group>NavigationPanelImportant</Group>
 		<Group>NavigationPanelOrdinary</Group>
+		<Group>CommandGroup.Настройки</Group>
 		<Group>NavigationPanelSeeAlso</Group>
 	</GroupsOrder>
 </CommandInterface>
