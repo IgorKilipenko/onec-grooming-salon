@@ -215,8 +215,8 @@
 			<Metadata name="InformationRegister.ЦеныНоменклатуры.Dimension.Номенклатура" id="89db17da-fc81-4d99-8f01-e378e33afd98"/>
 			<Metadata name="InformationRegister.ЦеныНоменклатуры.Dimension.ВидЦены" id="e868e4a2-6b92-44ef-885e-ccfc93ed1b85"/>
 		</Metadata>
-		<Metadata name="InformationRegister.ЦеныНоменклатуры.Form.ФормаЗаписи" id="c2a45498-ed9e-4ced-bc2d-2438928c72c2" configVersion="a49bd2eac7f692479c3b83ba982f989600000000"/>
-		<Metadata name="InformationRegister.ЦеныНоменклатуры.Form.ФормаЗаписи.Form" id="c2a45498-ed9e-4ced-bc2d-2438928c72c2.0" configVersion="2e4e58be8da7284ea9fcfa4ba28668e300000000"/>
+		<Metadata name="InformationRegister.ЦеныНоменклатуры.Form.ФормаЗаписи" id="c2a45498-ed9e-4ced-bc2d-2438928c72c2" configVersion="7aa23413bfa30f4898611e88f83f54a200000000"/>
+		<Metadata name="InformationRegister.ЦеныНоменклатуры.Form.ФормаЗаписи.Form" id="c2a45498-ed9e-4ced-bc2d-2438928c72c2.0" configVersion="366e26006741894494896d737d331d7800000000"/>
 		<Metadata name="InformationRegister.ЦеныНоменклатуры.Form.ФормаСписка" id="bf6103b0-a4c6-469a-b0b4-7a91b0eab483" configVersion="6d1ae80da503c14d97582a2fb51ff57b00000000"/>
 		<Metadata name="InformationRegister.ЦеныНоменклатуры.Form.ФормаСписка.Form" id="bf6103b0-a4c6-469a-b0b4-7a91b0eab483.0" configVersion="144a48fe4f7b524ca404a2146ec5a45600000000"/>
 		<Metadata name="Language.Русский" id="f8b7a135-85ba-485d-bb43-041618aadaf7" configVersion="596bf6fab59d8c47b4836edbb53adfba00000000"/>

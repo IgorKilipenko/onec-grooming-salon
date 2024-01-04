@@ -1,3 +1,2 @@
-﻿New: CommonModule.РаботаСЦенамиВызовСеревера
-New: CommonModule.РаботаСЦенамиВызовСеревера.Module
-Modified: Configuration.ГрумингСалон
+﻿Modified: InformationRegister.ЦеныНоменклатуры.Form.ФормаЗаписи
+Modified: InformationRegister.ЦеныНоменклатуры.Form.ФормаЗаписи.Form

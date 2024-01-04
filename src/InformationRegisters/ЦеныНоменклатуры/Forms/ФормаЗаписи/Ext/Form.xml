@@ -23,7 +23,6 @@
 		</InputField>
 		<InputField name="Цена" id="10">
 			<DataPath>Запись.Цена</DataPath>
-			<ReadOnly>true</ReadOnly>
 			<ExtendedEditMultipleValues>true</ExtendedEditMultipleValues>
 			<ContextMenu name="ЦенаКонтекстноеМеню" id="11"/>
 			<ExtendedTooltip name="ЦенаРасширеннаяПодсказка" id="12"/>
