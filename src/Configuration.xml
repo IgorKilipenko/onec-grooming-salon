@@ -263,6 +263,8 @@
 			<Enum>ТипыНоменклатуры</Enum>
 			<Enum>ТипыКонтрагентов</Enum>
 			<Enum>ВидыПитомцев</Enum>
+			<Enum>ВидыЦены</Enum>
+			<InformationRegister>ЦеныНоменклатуры</InformationRegister>
 			<AccumulationRegister>Продажи</AccumulationRegister>
 			<AccumulationRegister>ТоварыНаСкладах</AccumulationRegister>
 			<AccumulationRegister>ЗаказыКлиентов</AccumulationRegister>

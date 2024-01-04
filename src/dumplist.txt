@@ -1,2 +1,8 @@
-﻿Modified: Document.РеализацияТоваровИУслуг.Form.ФормаДокумента
-Modified: Document.РеализацияТоваровИУслуг.Form.ФормаДокумента.Form
+﻿New: Enum.ВидыЦены
+New: InformationRegister.ЦеныНоменклатуры
+New: InformationRegister.ЦеныНоменклатуры.Form.ФормаЗаписи
+New: InformationRegister.ЦеныНоменклатуры.Form.ФормаЗаписи.Form
+New: InformationRegister.ЦеныНоменклатуры.Form.ФормаСписка
+New: InformationRegister.ЦеныНоменклатуры.Form.ФормаСписка.Form
+Modified: Configuration.ГрумингСалон
+Modified: Subsystem.Продажи.Subsystem.Продажи

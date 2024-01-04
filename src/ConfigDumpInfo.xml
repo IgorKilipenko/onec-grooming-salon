@@ -108,7 +108,7 @@
 		<Metadata name="CommonModule.РаботаСДокументами.Module" id="36b2d7f6-45fd-48ae-8543-9173c6c2595c.0" configVersion="b9ba4c84f8338d4c86827dec4329e60300000000"/>
 		<Metadata name="CommonModule.РаботаСоСтрокамиВызовСервера" id="f25e72ba-9dba-464f-a0c5-62d781085031" configVersion="6759b2f83bf13c469b6127dbf2473ec100000000"/>
 		<Metadata name="CommonModule.РаботаСоСтрокамиВызовСервера.Module" id="f25e72ba-9dba-464f-a0c5-62d781085031.0" configVersion="f836831057e47f459e88f802007eeb8100000000"/>
-		<Metadata name="Configuration.ГрумингСалон" id="bf7fd7f7-d5f2-4af8-987a-4903e6ac7a60" configVersion="55ba6e005b773f4f8e363ae767dd9f8a00000000"/>
+		<Metadata name="Configuration.ГрумингСалон" id="bf7fd7f7-d5f2-4af8-987a-4903e6ac7a60" configVersion="6f57365b758f0840bef5468c861496bd00000000"/>
 		<Metadata name="Configuration.ГрумингСалон.ClientApplicationInterface" id="5b918c7f-f6dd-47f1-8449-205108ad3f01.b" configVersion="082feec38197434fab4f12afbc17d65100000000"/>
 		<Metadata name="Configuration.ГрумингСалон.CommandInterface" id="5b918c7f-f6dd-47f1-8449-205108ad3f01.a" configVersion="e7750e0aa01cd642b0ec90b27736520e00000000"/>
 		<Metadata name="Configuration.ГрумингСалон.HomePageWorkArea" id="5b918c7f-f6dd-47f1-8449-205108ad3f01.8" configVersion="4179c0dbdf2c594793ec75fbde26fce100000000"/>
@@ -186,6 +186,10 @@
 			<Metadata name="Enum.ВидыПитомцев.EnumValue.Кошка" id="156e5dd1-81f8-4138-ac9a-f06918cad374"/>
 			<Metadata name="Enum.ВидыПитомцев.EnumValue.Собака" id="817e8746-db18-4853-b48e-1a469936f110"/>
 		</Metadata>
+		<Metadata name="Enum.ВидыЦены" id="beb20e8b-7454-42ea-a266-29bbadb9d65f" configVersion="eb457459d291874fb6e59d955ab85ff800000000">
+			<Metadata name="Enum.ВидыЦены.EnumValue.Дисконт" id="0e41796b-9303-4de8-b293-eb2259f68b12"/>
+			<Metadata name="Enum.ВидыЦены.EnumValue.Розничная" id="a4b0b7a8-d00a-4cac-8c83-538bb3471a01"/>
+		</Metadata>
 		<Metadata name="Enum.ПолФизическогоЛица" id="4ecc25dd-de3e-4bfd-b96a-500df6beaaeb" configVersion="536edab13f086046a4517b5fd030009c00000000">
 			<Metadata name="Enum.ПолФизическогоЛица.EnumValue.Мужской" id="773b7b19-8f30-4c97-a3c4-6a7b77dbf1b3"/>
 			<Metadata name="Enum.ПолФизическогоЛица.EnumValue.Женский" id="eecd5153-b17b-44cf-bd63-518d43c7530a"/>
@@ -204,6 +208,15 @@
 			<Metadata name="Enum.ТипыОрганизаций.EnumValue.ИндивидуальныйПредприниматель" id="ad2d5ff1-d639-4008-a140-16287d79ebe0"/>
 		</Metadata>
 		<Metadata name="FunctionalOption.ИспользоватьСклады" id="9f180b36-b020-41d2-9562-6262802d378c" configVersion="b415161acc9ae647ab04fb3570796f4600000000"/>
+		<Metadata name="InformationRegister.ЦеныНоменклатуры" id="3575a8a7-306b-4087-b12a-90278b19cac5" configVersion="deb3893a6c23614688dd05629149420600000000">
+			<Metadata name="InformationRegister.ЦеныНоменклатуры.Resource.Цена" id="88f1f307-1a41-4a84-a6aa-f96f1dc11d65"/>
+			<Metadata name="InformationRegister.ЦеныНоменклатуры.Dimension.Номенклатура" id="89db17da-fc81-4d99-8f01-e378e33afd98"/>
+			<Metadata name="InformationRegister.ЦеныНоменклатуры.Dimension.ВидЦены" id="e868e4a2-6b92-44ef-885e-ccfc93ed1b85"/>
+		</Metadata>
+		<Metadata name="InformationRegister.ЦеныНоменклатуры.Form.ФормаЗаписи" id="c2a45498-ed9e-4ced-bc2d-2438928c72c2" configVersion="a49bd2eac7f692479c3b83ba982f989600000000"/>
+		<Metadata name="InformationRegister.ЦеныНоменклатуры.Form.ФормаЗаписи.Form" id="c2a45498-ed9e-4ced-bc2d-2438928c72c2.0" configVersion="2e4e58be8da7284ea9fcfa4ba28668e300000000"/>
+		<Metadata name="InformationRegister.ЦеныНоменклатуры.Form.ФормаСписка" id="bf6103b0-a4c6-469a-b0b4-7a91b0eab483" configVersion="6d1ae80da503c14d97582a2fb51ff57b00000000"/>
+		<Metadata name="InformationRegister.ЦеныНоменклатуры.Form.ФормаСписка.Form" id="bf6103b0-a4c6-469a-b0b4-7a91b0eab483.0" configVersion="144a48fe4f7b524ca404a2146ec5a45600000000"/>
 		<Metadata name="Language.Русский" id="f8b7a135-85ba-485d-bb43-041618aadaf7" configVersion="596bf6fab59d8c47b4836edbb53adfba00000000"/>
 		<Metadata name="Role.ПолныеПрава" id="00767566-1e0d-461c-8d28-0d2b2e3ae3d5" configVersion="7908ab6f3d88f34f8f29afb16a37d06f00000000"/>
 		<Metadata name="Role.ПолныеПрава.Rights" id="00767566-1e0d-461c-8d28-0d2b2e3ae3d5.0" configVersion="b1583d3910bde74ebe3ef440614c2bbe00000000"/>
@@ -218,7 +231,7 @@
 		<Metadata name="Subsystem.Покупки.Subsystem.Покупки" id="8858fa7e-f844-445a-9b47-3be609ace23a" configVersion="d53fee1e2b2fae45b150a504542b316b00000000"/>
 		<Metadata name="Subsystem.Покупки.Subsystem.Справочники" id="454bc083-079c-4485-ad12-79ed55ad36d0" configVersion="a7a05f426056bc40a7b40d69a4e55fd400000000"/>
 		<Metadata name="Subsystem.Продажи" id="870249ff-28b7-4486-a7e5-6d5d3dd842ae" configVersion="341b957c37e3584a83e52f086fa2c31000000000"/>
-		<Metadata name="Subsystem.Продажи.Subsystem.Продажи" id="9d1ae763-a433-4054-b652-2191cf09c628" configVersion="f514493a56068f4a94fd3efd56de93ce00000000"/>
+		<Metadata name="Subsystem.Продажи.Subsystem.Продажи" id="9d1ae763-a433-4054-b652-2191cf09c628" configVersion="128ce7790a59e842b125543d56f8f5be00000000"/>
 		<Metadata name="Subsystem.Продажи.Subsystem.Продажи.CommandInterface" id="9d1ae763-a433-4054-b652-2191cf09c628.1" configVersion="05f43c1bb84a5e4fa839ed3b8fc604e700000000"/>
 		<Metadata name="Subsystem.Продажи.Subsystem.Справочники" id="723642f8-ebf9-4e61-9191-83fb4ef4637c" configVersion="6108d388e415b84c880ad0c37824c13600000000"/>
 		<Metadata name="Subsystem.Продажи.Subsystem.Справочники.CommandInterface" id="723642f8-ebf9-4e61-9191-83fb4ef4637c.1" configVersion="3a1170c149b18743994d456ec8201c3500000000"/>
