@@ -1,1 +1,3 @@
-﻿Modified: Configuration.ГрумингСалон
+﻿New: CommonModule.РаботаСЦенамиВызовСеревера
+New: CommonModule.РаботаСЦенамиВызовСеревера.Module
+Modified: Configuration.ГрумингСалон
