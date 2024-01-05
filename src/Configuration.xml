@@ -238,7 +238,7 @@
 			<Role>ПолныеПрава</Role>
 			<CommonModule>РаботаСоСтрокамиВызовСервера</CommonModule>
 			<CommonModule>РаботаСДокументами</CommonModule>
-			<CommonModule>РаботаСЦенамиВызовСеревера</CommonModule>
+			<CommonModule>РаботаСЦенамиВызовСервера</CommonModule>
 			<FunctionalOption>ИспользоватьСклады</FunctionalOption>
 			<DefinedType>ФинансовыеДанные</DefinedType>
 			<DefinedType>КоличествоТоваров</DefinedType>

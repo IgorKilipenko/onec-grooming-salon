@@ -1,2 +1,0 @@
-﻿Modified: Document.РеализацияТоваровИУслуг.Form.ФормаДокумента
-Modified: Document.РеализацияТоваровИУслуг.Form.ФормаДокумента.Form
