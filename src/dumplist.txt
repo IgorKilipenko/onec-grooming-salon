@@ -1,0 +1,11 @@
+﻿New: Document.ПеремещениеТоваров
+New: Document.ПеремещениеТоваров.Form.ФормаДокумента
+New: Document.ПеремещениеТоваров.Form.ФормаДокумента.Form
+New: Document.ПеремещениеТоваров.Form.ФормаСписка
+New: Document.ПеремещениеТоваров.Form.ФормаСписка.Form
+New: Document.ПеремещениеТоваров.ObjectModule
+Modified: Configuration.ГрумингСалон
+Modified: DefinedType.КомментарийПолный
+Modified: Document.РеализацияТоваровИУслуг
+Modified: Subsystem.Покупки.Subsystem.Покупки
+Modified: Subsystem.Продажи.Subsystem.Продажи
