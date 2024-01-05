@@ -1,2 +1,2 @@
-﻿Modified: InformationRegister.ЦеныНоменклатуры.Form.ФормаЗаписи
-Modified: InformationRegister.ЦеныНоменклатуры.Form.ФормаЗаписи.Form
+﻿Modified: Document.РеализацияТоваровИУслуг.Form.ФормаДокумента
+Modified: Document.РеализацияТоваровИУслуг.Form.ФормаДокумента.Form
