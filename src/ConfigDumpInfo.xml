@@ -136,7 +136,7 @@
 		<Metadata name="Document.ЗаписьКлиента.Form.ФормаСписка" id="6cd4f6c1-7e0f-4006-bb9e-2cc4f4d1573e" configVersion="7b0d25d22fd9114c9a16764b587c368300000000"/>
 		<Metadata name="Document.ЗаписьКлиента.Form.ФормаСписка.Form" id="6cd4f6c1-7e0f-4006-bb9e-2cc4f4d1573e.0" configVersion="bc2ebccf3063c849b6b8e966074837e200000000"/>
 		<Metadata name="Document.ЗаписьКлиента.ObjectModule" id="57b68005-3097-4a50-a8da-11276713c78c.0" configVersion="334ccbe9add7e941ad83e0b21227421700000000"/>
-		<Metadata name="Document.ПеремещениеТоваров" id="89465a4b-bf48-4f3e-923c-efa4c2dde550" configVersion="cddb9505885f6349a9b6f82adf760f6b00000000">
+		<Metadata name="Document.ПеремещениеТоваров" id="89465a4b-bf48-4f3e-923c-efa4c2dde550" configVersion="8073e9f8799f24478995a61a954bf8ea00000000">
 			<Metadata name="Document.ПеремещениеТоваров.Attribute.СкладПолучатель" id="1f0520f6-8b3f-449b-9fa4-5ba79da6e3de"/>
 			<Metadata name="Document.ПеремещениеТоваров.TabularSection.Товары.Attribute.Товар" id="271ea18f-aa33-4159-8aa0-14b064051a5f"/>
 			<Metadata name="Document.ПеремещениеТоваров.TabularSection.Товары" id="3526399a-3488-4e78-a446-333de1ff0928"/>
@@ -145,11 +145,11 @@
 			<Metadata name="Document.ПеремещениеТоваров.Attribute.Комментарий" id="7f481351-f95b-434b-9f26-2841227490ae"/>
 			<Metadata name="Document.ПеремещениеТоваров.Attribute.СкладОтправитель" id="dd1734a8-8b80-44c0-a693-2965c86ba67b"/>
 		</Metadata>
-		<Metadata name="Document.ПеремещениеТоваров.Form.ФормаДокумента" id="91f266e3-a999-47e5-be9a-4259cc1a42b0" configVersion="c965132e9306384e8bb4b1e4bfccd32000000000"/>
-		<Metadata name="Document.ПеремещениеТоваров.Form.ФормаДокумента.Form" id="91f266e3-a999-47e5-be9a-4259cc1a42b0.0" configVersion="5c872e2827c48243b5761b72dd678cc600000000"/>
+		<Metadata name="Document.ПеремещениеТоваров.Form.ФормаДокумента" id="91f266e3-a999-47e5-be9a-4259cc1a42b0" configVersion="ad4ddb8754d5ec4a9dbe7722ff43a19d00000000"/>
+		<Metadata name="Document.ПеремещениеТоваров.Form.ФормаДокумента.Form" id="91f266e3-a999-47e5-be9a-4259cc1a42b0.0" configVersion="80ff1ed0f8a202449fbd19c31c512d6600000000"/>
 		<Metadata name="Document.ПеремещениеТоваров.Form.ФормаСписка" id="bf14f037-e5d5-41a7-a989-0dfac6295c06" configVersion="63c158413ed0324eb9dbd106bd6e852b00000000"/>
 		<Metadata name="Document.ПеремещениеТоваров.Form.ФормаСписка.Form" id="bf14f037-e5d5-41a7-a989-0dfac6295c06.0" configVersion="2b845f27ebac9e409473ff0f7240cea600000000"/>
-		<Metadata name="Document.ПеремещениеТоваров.ObjectModule" id="89465a4b-bf48-4f3e-923c-efa4c2dde550.0" configVersion="f22f277ddaa63e49aa5f7c3470b7650100000000"/>
+		<Metadata name="Document.ПеремещениеТоваров.ObjectModule" id="89465a4b-bf48-4f3e-923c-efa4c2dde550.0" configVersion="088a275a187bab43a62c69cfb397daa400000000"/>
 		<Metadata name="Document.ПоступленияТоваров" id="fae4f4d5-2dbe-45a9-b5c9-cb07edb71685" configVersion="bae897103ecb6e4499273b3cdaaa7e4d00000000">
 			<Metadata name="Document.ПоступленияТоваров.TabularSection.Товары.Attribute.Цена" id="02b11f2b-f879-4ad7-8693-2ecdad757738"/>
 			<Metadata name="Document.ПоступленияТоваров.TabularSection.Товары.Attribute.ТипНоменклатуры" id="17043427-a9eb-4685-8a7d-c471bbf86111"/>
