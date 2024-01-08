@@ -110,7 +110,7 @@
 		<Metadata name="CommonModule.РаботаСЦенамиВызовСервера.Module" id="df3a1745-2e2e-4ba2-ad91-a5dbade3b8af.0" configVersion="c48881344e5c6e4ab6ce394b86266d4100000000"/>
 		<Metadata name="CommonModule.РаботаСоСтрокамиВызовСервера" id="f25e72ba-9dba-464f-a0c5-62d781085031" configVersion="6759b2f83bf13c469b6127dbf2473ec100000000"/>
 		<Metadata name="CommonModule.РаботаСоСтрокамиВызовСервера.Module" id="f25e72ba-9dba-464f-a0c5-62d781085031.0" configVersion="f836831057e47f459e88f802007eeb8100000000"/>
-		<Metadata name="Configuration.ГрумингСалон" id="bf7fd7f7-d5f2-4af8-987a-4903e6ac7a60" configVersion="e2a82995d0428841a4aad61eec0ec9fc00000000"/>
+		<Metadata name="Configuration.ГрумингСалон" id="bf7fd7f7-d5f2-4af8-987a-4903e6ac7a60" configVersion="2b81367d0da2d44386e500ff6f607e2f00000000"/>
 		<Metadata name="Configuration.ГрумингСалон.ClientApplicationInterface" id="5b918c7f-f6dd-47f1-8449-205108ad3f01.b" configVersion="082feec38197434fab4f12afbc17d65100000000"/>
 		<Metadata name="Configuration.ГрумингСалон.CommandInterface" id="5b918c7f-f6dd-47f1-8449-205108ad3f01.a" configVersion="e7750e0aa01cd642b0ec90b27736520e00000000"/>
 		<Metadata name="Configuration.ГрумингСалон.HomePageWorkArea" id="5b918c7f-f6dd-47f1-8449-205108ad3f01.8" configVersion="4179c0dbdf2c594793ec75fbde26fce100000000"/>
@@ -234,6 +234,11 @@
 		<Metadata name="InformationRegister.ЦеныНоменклатуры.Form.ФормаСписка" id="bf6103b0-a4c6-469a-b0b4-7a91b0eab483" configVersion="6d1ae80da503c14d97582a2fb51ff57b00000000"/>
 		<Metadata name="InformationRegister.ЦеныНоменклатуры.Form.ФормаСписка.Form" id="bf6103b0-a4c6-469a-b0b4-7a91b0eab483.0" configVersion="144a48fe4f7b524ca404a2146ec5a45600000000"/>
 		<Metadata name="Language.Русский" id="f8b7a135-85ba-485d-bb43-041618aadaf7" configVersion="596bf6fab59d8c47b4836edbb53adfba00000000"/>
+		<Metadata name="Report.ОтчётПоОказаннымУслугам" id="d489ff64-8a45-45fa-8784-463d7805b9bc" configVersion="ff6995c5450ef8498613d050a777b3e700000000"/>
+		<Metadata name="Report.ОтчётПоОказаннымУслугам.Form.ФормаОтчета" id="be546a80-f08f-4fa4-9051-9212202ae147" configVersion="9d3e3563479439459d16fa6bef6c3a9400000000"/>
+		<Metadata name="Report.ОтчётПоОказаннымУслугам.Form.ФормаОтчета.Form" id="be546a80-f08f-4fa4-9051-9212202ae147.0" configVersion="acd01b255513b040bb75495e6a4ff9c300000000"/>
+		<Metadata name="Report.ОтчётПоОказаннымУслугам.Template.ОсновнаяСхемаКомпоновкиДанных" id="ac4885af-718e-4022-ac79-a31dfa5a627b" configVersion="627beb3684823749ac650fa33d49686500000000"/>
+		<Metadata name="Report.ОтчётПоОказаннымУслугам.Template.ОсновнаяСхемаКомпоновкиДанных.Template" id="ac4885af-718e-4022-ac79-a31dfa5a627b.0" configVersion="f9ae4b4632f3e04abcd22eac6411b01e00000000"/>
 		<Metadata name="Role.ПолныеПрава" id="00767566-1e0d-461c-8d28-0d2b2e3ae3d5" configVersion="7908ab6f3d88f34f8f29afb16a37d06f00000000"/>
 		<Metadata name="Role.ПолныеПрава.Rights" id="00767566-1e0d-461c-8d28-0d2b2e3ae3d5.0" configVersion="b1583d3910bde74ebe3ef440614c2bbe00000000"/>
 		<Metadata name="SessionParameter.ТекущийПользователь" id="643310eb-9d42-4b35-a3c0-0112db602cea" configVersion="14ec5aaca870fd4f9b450e758bf8e8e900000000"/>
