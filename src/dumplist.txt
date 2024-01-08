@@ -1,2 +1,12 @@
-﻿Modified: Report.ОтчётПоОказаннымУслугам.Template.ОсновнаяСхемаКомпоновкиДанных
-Modified: Report.ОтчётПоОказаннымУслугам.Template.ОсновнаяСхемаКомпоновкиДанных.Template
+﻿New: Report.Отчет1
+New: Report.Отчет1.Template.ОсновнаяСхемаКомпоновкиДанных
+New: Report.Отчет1.Template.ОсновнаяСхемаКомпоновкиДанных.Template
+New: Report.ОтчётПоТоварамНаСкладах
+New: Report.ОтчётПоТоварамНаСкладах.Form.ФормаНастроек
+New: Report.ОтчётПоТоварамНаСкладах.Form.ФормаНастроек.Form
+New: Report.ОтчётПоТоварамНаСкладах.Form.ФормаОтчета
+New: Report.ОтчётПоТоварамНаСкладах.Form.ФормаОтчета.Form
+New: Report.ОтчётПоТоварамНаСкладах.ObjectModule
+New: Report.ОтчётПоТоварамНаСкладах.Template.ОсновнаяСхемаКомпоновкиДанных
+New: Report.ОтчётПоТоварамНаСкладах.Template.ОсновнаяСхемаКомпоновкиДанных.Template
+Modified: Configuration.ГрумингСалон
