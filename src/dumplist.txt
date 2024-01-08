@@ -1,2 +1,2 @@
-﻿Modified: Document.ЗаписьКлиента.Form.ФормаДокумента
-Modified: Document.ЗаписьКлиента.Form.ФормаДокумента.Form
+﻿Modified: Report.ОтчётПоОказаннымУслугам.Template.ОсновнаяСхемаКомпоновкиДанных
+Modified: Report.ОтчётПоОказаннымУслугам.Template.ОсновнаяСхемаКомпоновкиДанных.Template

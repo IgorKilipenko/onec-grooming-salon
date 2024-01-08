@@ -237,8 +237,8 @@
 		<Metadata name="Report.ОтчётПоОказаннымУслугам" id="d489ff64-8a45-45fa-8784-463d7805b9bc" configVersion="ff6995c5450ef8498613d050a777b3e700000000"/>
 		<Metadata name="Report.ОтчётПоОказаннымУслугам.Form.ФормаОтчета" id="be546a80-f08f-4fa4-9051-9212202ae147" configVersion="9d3e3563479439459d16fa6bef6c3a9400000000"/>
 		<Metadata name="Report.ОтчётПоОказаннымУслугам.Form.ФормаОтчета.Form" id="be546a80-f08f-4fa4-9051-9212202ae147.0" configVersion="acd01b255513b040bb75495e6a4ff9c300000000"/>
-		<Metadata name="Report.ОтчётПоОказаннымУслугам.Template.ОсновнаяСхемаКомпоновкиДанных" id="ac4885af-718e-4022-ac79-a31dfa5a627b" configVersion="627beb3684823749ac650fa33d49686500000000"/>
-		<Metadata name="Report.ОтчётПоОказаннымУслугам.Template.ОсновнаяСхемаКомпоновкиДанных.Template" id="ac4885af-718e-4022-ac79-a31dfa5a627b.0" configVersion="f9ae4b4632f3e04abcd22eac6411b01e00000000"/>
+		<Metadata name="Report.ОтчётПоОказаннымУслугам.Template.ОсновнаяСхемаКомпоновкиДанных" id="ac4885af-718e-4022-ac79-a31dfa5a627b" configVersion="5c862f315265fe4cac321589a3c953b300000000"/>
+		<Metadata name="Report.ОтчётПоОказаннымУслугам.Template.ОсновнаяСхемаКомпоновкиДанных.Template" id="ac4885af-718e-4022-ac79-a31dfa5a627b.0" configVersion="00263b288f01a04ea8f9fc0e21fe8a7400000000"/>
 		<Metadata name="Role.ПолныеПрава" id="00767566-1e0d-461c-8d28-0d2b2e3ae3d5" configVersion="7908ab6f3d88f34f8f29afb16a37d06f00000000"/>
 		<Metadata name="Role.ПолныеПрава.Rights" id="00767566-1e0d-461c-8d28-0d2b2e3ae3d5.0" configVersion="b1583d3910bde74ebe3ef440614c2bbe00000000"/>
 		<Metadata name="SessionParameter.ТекущийПользователь" id="643310eb-9d42-4b35-a3c0-0112db602cea" configVersion="14ec5aaca870fd4f9b450e758bf8e8e900000000"/>
