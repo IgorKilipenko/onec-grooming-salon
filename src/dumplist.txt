@@ -1,2 +1,2 @@
-﻿Modified: Catalog.Сотрудники
-Modified: Catalog.Сотрудники.ObjectModule
+﻿Modified: Document.РеализацияТоваровИУслуг.Form.ФормаДокумента
+Modified: Document.РеализацияТоваровИУслуг.Form.ФормаДокумента.Form
