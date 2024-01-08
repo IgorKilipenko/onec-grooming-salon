@@ -1,6 +1,2 @@
-﻿New: Report.ОтчётПоОказаннымУслугам
-New: Report.ОтчётПоОказаннымУслугам.Form.ФормаОтчета
-New: Report.ОтчётПоОказаннымУслугам.Form.ФормаОтчета.Form
-New: Report.ОтчётПоОказаннымУслугам.Template.ОсновнаяСхемаКомпоновкиДанных
-New: Report.ОтчётПоОказаннымУслугам.Template.ОсновнаяСхемаКомпоновкиДанных.Template
-Modified: Configuration.ГрумингСалон
+﻿Modified: Catalog.Сотрудники
+Modified: Catalog.Сотрудники.ObjectModule
