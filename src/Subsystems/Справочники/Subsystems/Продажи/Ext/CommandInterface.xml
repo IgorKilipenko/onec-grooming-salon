@@ -32,27 +32,4 @@
 			</Visibility>
 		</Command>
 	</CommandsVisibility>
-	<CommandsOrder>
-		<Command name="Catalog.Номенклатура.StandardCommand.OpenList">
-			<CommandGroup>NavigationPanelOrdinary</CommandGroup>
-		</Command>
-		<Command name="Catalog.ИсточникиПолученияИнформацииОКомпании.StandardCommand.OpenList">
-			<CommandGroup>NavigationPanelOrdinary</CommandGroup>
-		</Command>
-		<Command name="Catalog.ДоговорыКонтрагентов.StandardCommand.OpenList">
-			<CommandGroup>NavigationPanelOrdinary</CommandGroup>
-		</Command>
-		<Command name="Catalog.Контрагенты.StandardCommand.OpenList">
-			<CommandGroup>NavigationPanelOrdinary</CommandGroup>
-		</Command>
-		<Command name="Catalog.ПородыПитомцев.StandardCommand.OpenList">
-			<CommandGroup>NavigationPanelOrdinary</CommandGroup>
-		</Command>
-		<Command name="Catalog.Склады.StandardCommand.OpenList">
-			<CommandGroup>NavigationPanelOrdinary</CommandGroup>
-		</Command>
-	</CommandsOrder>
-	<GroupsOrder>
-		<Group>NavigationPanelOrdinary</Group>
-	</GroupsOrder>
 </CommandInterface>
