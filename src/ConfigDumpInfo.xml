@@ -104,7 +104,7 @@
 		<Metadata name="Catalog.Сотрудники.ManagerModule" id="22c35659-8f6f-4268-ab3d-94673f1123b8.3" configVersion="af4b193ba0609b4b83fa510243b976fd00000000"/>
 		<Metadata name="Catalog.Сотрудники.ObjectModule" id="22c35659-8f6f-4268-ab3d-94673f1123b8.0" configVersion="65f0b54c4fdabf4fbed264878cda4af300000000"/>
 		<Metadata name="CommandGroup.Настройки" id="ca3c66ff-2001-4b7f-b7e5-34c2ba1549ae" configVersion="5dd31403552ff843a68abce05de5607a00000000"/>
-		<Metadata name="CommonModule.РаботаСДокументами" id="36b2d7f6-45fd-48ae-8543-9173c6c2595c" configVersion="3a2a1103110c8f479644f9c199dcfebd00000000"/>
+		<Metadata name="CommonModule.РаботаСДокументами" id="36b2d7f6-45fd-48ae-8543-9173c6c2595c" configVersion="2d310893614dfa428dff0035e231a28000000000"/>
 		<Metadata name="CommonModule.РаботаСДокументами.Module" id="36b2d7f6-45fd-48ae-8543-9173c6c2595c.0" configVersion="b9ba4c84f8338d4c86827dec4329e60300000000"/>
 		<Metadata name="CommonModule.РаботаСДокументамиКлиент" id="9d6855cc-ebea-40ef-99eb-c52fac488dd8" configVersion="33d397bb29d255478339aaa8a45c06d400000000"/>
 		<Metadata name="CommonModule.РаботаСДокументамиКлиент.Module" id="9d6855cc-ebea-40ef-99eb-c52fac488dd8.0" configVersion="7211fdb75212a7498f9ff92123bbb40400000000"/>
