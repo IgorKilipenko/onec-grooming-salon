@@ -5,7 +5,7 @@
 	<RepostOnWrite>true</RepostOnWrite>
 	<AutoCommandBar name="ФормаКоманднаяПанель" id="-1"/>
 	<Events>
-		<Event name="BeforeWrite">ПередЗаписью</Event>
+		<Event name="OnOpen">ПриОткрытии</Event>
 	</Events>
 	<ChildItems>
 		<UsualGroup name="ГруппаШапка" id="59">
@@ -166,6 +166,9 @@
 				<ContextMenu name="ТоварыУправлениеПоискомКонтекстноеМеню" id="42"/>
 				<ExtendedTooltip name="ТоварыУправлениеПоискомРасширеннаяПодсказка" id="43"/>
 			</SearchControlAddition>
+			<Events>
+				<Event name="AfterDeleteRow">ТоварыПослеУдаления</Event>
+			</Events>
 			<ChildItems>
 				<LabelField name="ТоварыНомерСтроки" id="44">
 					<DataPath>Объект.Товары.LineNumber</DataPath>
