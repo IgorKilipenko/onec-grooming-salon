@@ -1,0 +1,3 @@
+﻿New: CommonModule.РаботаСДокументамиКлиент
+New: CommonModule.РаботаСДокументамиКлиент.Module
+Modified: Configuration.ГрумингСалон
