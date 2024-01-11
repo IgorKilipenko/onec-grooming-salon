@@ -6,7 +6,6 @@
 	<AutoCommandBar name="ФормаКоманднаяПанель" id="-1"/>
 	<Events>
 		<Event name="OnOpen">ПриОткрытии</Event>
-		<Event name="BeforeWrite">ПередЗаписью</Event>
 	</Events>
 	<ChildItems>
 		<InputField name="Номер" id="1">
@@ -104,6 +103,9 @@
 								<ContextMenu name="УслугиУправлениеПоискомКонтекстноеМеню" id="43"/>
 								<ExtendedTooltip name="УслугиУправлениеПоискомРасширеннаяПодсказка" id="44"/>
 							</SearchControlAddition>
+							<Events>
+								<Event name="AfterDeleteRow">УслугиПослеУдаления</Event>
+							</Events>
 							<ChildItems>
 								<LabelField name="УслугиНомерСтроки" id="45">
 									<DataPath>Объект.Услуги.LineNumber</DataPath>
@@ -117,9 +119,13 @@
 									<ExtendedEditMultipleValues>true</ExtendedEditMultipleValues>
 									<ContextMenu name="УслугиУслугаКонтекстноеМеню" id="49"/>
 									<ExtendedTooltip name="УслугиУслугаРасширеннаяПодсказка" id="50"/>
+									<Events>
+										<Event name="OnChange">УслугиУслугаПриИзменении</Event>
+									</Events>
 								</InputField>
 								<InputField name="УслугиСтоимость" id="51">
 									<DataPath>Объект.Услуги.Стоимость</DataPath>
+									<ReadOnly>true</ReadOnly>
 									<EditMode>EnterOnInput</EditMode>
 									<FooterDataPath>Объект.Услуги.TotalСтоимость</FooterDataPath>
 									<FooterText>
@@ -131,9 +137,6 @@
 									<ExtendedEditMultipleValues>true</ExtendedEditMultipleValues>
 									<ContextMenu name="УслугиСтоимостьКонтекстноеМеню" id="52"/>
 									<ExtendedTooltip name="УслугиСтоимостьРасширеннаяПодсказка" id="53"/>
-									<Events>
-										<Event name="OnChange">УслугиСтоимостьПриИзменении</Event>
-									</Events>
 								</InputField>
 							</ChildItems>
 						</Table>
@@ -183,6 +186,9 @@
 								<ContextMenu name="ТоварыУправлениеПоискомКонтекстноеМеню" id="67"/>
 								<ExtendedTooltip name="ТоварыУправлениеПоискомРасширеннаяПодсказка" id="68"/>
 							</SearchControlAddition>
+							<Events>
+								<Event name="AfterDeleteRow">ТоварыПослеУдаления</Event>
+							</Events>
 							<ChildItems>
 								<LabelField name="ТоварыНомерСтроки" id="69">
 									<DataPath>Объект.Товары.LineNumber</DataPath>
@@ -196,6 +202,9 @@
 									<ExtendedEditMultipleValues>true</ExtendedEditMultipleValues>
 									<ContextMenu name="ТоварыТоварКонтекстноеМеню" id="73"/>
 									<ExtendedTooltip name="ТоварыТоварРасширеннаяПодсказка" id="74"/>
+									<Events>
+										<Event name="OnChange">ТоварыТоварПриИзменении</Event>
+									</Events>
 								</InputField>
 								<InputField name="ТоварыКоличество" id="75">
 									<DataPath>Объект.Товары.Количество</DataPath>
@@ -209,13 +218,11 @@
 								</InputField>
 								<InputField name="ТоварыЦена" id="78">
 									<DataPath>Объект.Товары.Цена</DataPath>
+									<ReadOnly>true</ReadOnly>
 									<EditMode>EnterOnInput</EditMode>
 									<ExtendedEditMultipleValues>true</ExtendedEditMultipleValues>
 									<ContextMenu name="ТоварыЦенаКонтекстноеМеню" id="79"/>
 									<ExtendedTooltip name="ТоварыЦенаРасширеннаяПодсказка" id="80"/>
-									<Events>
-										<Event name="OnChange">ТоварыЦенаПриИзменении</Event>
-									</Events>
 								</InputField>
 								<InputField name="ТоварыСумма" id="81">
 									<DataPath>Объект.Товары.Сумма</DataPath>

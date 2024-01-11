@@ -149,6 +149,9 @@
 					<ExtendedEditMultipleValues>true</ExtendedEditMultipleValues>
 					<ContextMenu name="УслугиУслугаКонтекстноеМеню" id="39"/>
 					<ExtendedTooltip name="УслугиУслугаРасширеннаяПодсказка" id="40"/>
+					<Events>
+						<Event name="OnChange">УслугиУслугаПриИзменении</Event>
+					</Events>
 				</InputField>
 				<InputField name="УслугиСтоимость" id="41">
 					<DataPath>Объект.Услуги.Стоимость</DataPath>

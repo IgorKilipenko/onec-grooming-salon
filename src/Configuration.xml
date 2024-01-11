@@ -49,7 +49,7 @@
 			<ScriptVariant>Russian</ScriptVariant>
 			<DefaultRoles/>
 			<Vendor>Игорь Килипенко</Vendor>
-			<Version>Спринт 2</Version>
+			<Version>Спринт 3</Version>
 			<UpdateCatalogAddress/>
 			<IncludeHelpInContents>false</IncludeHelpInContents>
 			<UseManagedFormInOrdinaryApplication>false</UseManagedFormInOrdinaryApplication>
@@ -238,6 +238,8 @@
 			<Role>ПолныеПрава</Role>
 			<CommonModule>РаботаСоСтрокамиВызовСервера</CommonModule>
 			<CommonModule>РаботаСДокументами</CommonModule>
+			<CommonModule>РаботаСЦенамиВызовСервера</CommonModule>
+			<CommonModule>РаботаСДокументамиКлиентСервер</CommonModule>
 			<FunctionalOption>ИспользоватьСклады</FunctionalOption>
 			<DefinedType>ФинансовыеДанные</DefinedType>
 			<DefinedType>КоличествоТоваров</DefinedType>
@@ -258,11 +260,16 @@
 			<Document>ЗаписьКлиента</Document>
 			<Document>РеализацияТоваровИУслуг</Document>
 			<Document>ПоступленияТоваров</Document>
+			<Document>ПеремещениеТоваров</Document>
 			<Enum>ТипыОрганизаций</Enum>
 			<Enum>ПолФизическогоЛица</Enum>
 			<Enum>ТипыНоменклатуры</Enum>
 			<Enum>ТипыКонтрагентов</Enum>
 			<Enum>ВидыПитомцев</Enum>
+			<Enum>ВидыЦены</Enum>
+			<Report>ОтчётПоОказаннымУслугам</Report>
+			<Report>ОтчётПоТоварамНаСкладах</Report>
+			<InformationRegister>ЦеныНоменклатуры</InformationRegister>
 			<AccumulationRegister>Продажи</AccumulationRegister>
 			<AccumulationRegister>ТоварыНаСкладах</AccumulationRegister>
 			<AccumulationRegister>ЗаказыКлиентов</AccumulationRegister>
