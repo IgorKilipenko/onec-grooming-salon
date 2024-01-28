@@ -18,6 +18,10 @@
 			<Metadata name="AccumulationRegister.ТоварыНаСкладах.Resource.Количество" id="60371a72-4e70-4d6d-8787-bc81b791f969"/>
 			<Metadata name="AccumulationRegister.ТоварыНаСкладах.Dimension.Номенклатура" id="fda74b58-5428-41f4-bc2e-010df9c1d0e4"/>
 		</Metadata>
+		<Metadata name="AccumulationRegister.УчётЗатрат" id="f4ed06ac-a955-4f16-aefe-1fde2581d586" configVersion="cebb73d6d3822c48ad94430fa16fe34400000000">
+			<Metadata name="AccumulationRegister.УчётЗатрат.Resource.Сумма" id="41234a75-f8a9-4cc9-927e-1922506d0cbb"/>
+			<Metadata name="AccumulationRegister.УчётЗатрат.Dimension.СтатьяЗатрат" id="8778acdc-ae23-4109-907f-bfbbb7548335"/>
+		</Metadata>
 		<Metadata name="Catalog.ДоговорыКонтрагентов" id="87b3d083-9850-4c56-9dc9-d0d816f36fc9" configVersion="9de6bbbab143cc4187f069d8a3b60a1600000000">
 			<Metadata name="Catalog.ДоговорыКонтрагентов.Attribute.ДатаЗаключения" id="1e36e7e1-52a4-408d-bb9e-49ba4c85a756"/>
 			<Metadata name="Catalog.ДоговорыКонтрагентов.Attribute.ВнешнийНомер" id="33837e67-1c7a-4571-b652-dc7753e1ac41"/>
@@ -119,7 +123,7 @@
 		<Metadata name="CommonModule.РаботаСЦенамиВызовСервера.Module" id="df3a1745-2e2e-4ba2-ad91-a5dbade3b8af.0" configVersion="c48881344e5c6e4ab6ce394b86266d4100000000"/>
 		<Metadata name="CommonModule.РаботаСоСтрокамиВызовСервера" id="f25e72ba-9dba-464f-a0c5-62d781085031" configVersion="6759b2f83bf13c469b6127dbf2473ec100000000"/>
 		<Metadata name="CommonModule.РаботаСоСтрокамиВызовСервера.Module" id="f25e72ba-9dba-464f-a0c5-62d781085031.0" configVersion="f836831057e47f459e88f802007eeb8100000000"/>
-		<Metadata name="Configuration.ГрумингСалон" id="bf7fd7f7-d5f2-4af8-987a-4903e6ac7a60" configVersion="58c7b0b834958f48b5373d42e221f1aa00000000"/>
+		<Metadata name="Configuration.ГрумингСалон" id="bf7fd7f7-d5f2-4af8-987a-4903e6ac7a60" configVersion="256d832b8e436349ad2330f7cd1a167f00000000"/>
 		<Metadata name="Configuration.ГрумингСалон.ClientApplicationInterface" id="5b918c7f-f6dd-47f1-8449-205108ad3f01.b" configVersion="082feec38197434fab4f12afbc17d65100000000"/>
 		<Metadata name="Configuration.ГрумингСалон.CommandInterface" id="5b918c7f-f6dd-47f1-8449-205108ad3f01.a" configVersion="e7750e0aa01cd642b0ec90b27736520e00000000"/>
 		<Metadata name="Configuration.ГрумингСалон.HomePageWorkArea" id="5b918c7f-f6dd-47f1-8449-205108ad3f01.8" configVersion="4179c0dbdf2c594793ec75fbde26fce100000000"/>
@@ -159,7 +163,7 @@
 		<Metadata name="Document.ПеремещениеТоваров.Form.ФормаСписка" id="bf14f037-e5d5-41a7-a989-0dfac6295c06" configVersion="63c158413ed0324eb9dbd106bd6e852b00000000"/>
 		<Metadata name="Document.ПеремещениеТоваров.Form.ФормаСписка.Form" id="bf14f037-e5d5-41a7-a989-0dfac6295c06.0" configVersion="2b845f27ebac9e409473ff0f7240cea600000000"/>
 		<Metadata name="Document.ПеремещениеТоваров.ObjectModule" id="89465a4b-bf48-4f3e-923c-efa4c2dde550.0" configVersion="088a275a187bab43a62c69cfb397daa400000000"/>
-		<Metadata name="Document.ПоступлениеУслуг" id="20566727-0fb3-41b3-961f-6dfc387dec27" configVersion="55d7dcd4f0bc1b41be44c8f53de20a8700000000">
+		<Metadata name="Document.ПоступлениеУслуг" id="20566727-0fb3-41b3-961f-6dfc387dec27" configVersion="d265d27c094ed240910b98e3452d97f700000000">
 			<Metadata name="Document.ПоступлениеУслуг.TabularSection.Услуги.Attribute.Цена" id="0d0de06e-477e-4017-804d-e58ec4034990"/>
 			<Metadata name="Document.ПоступлениеУслуг.Attribute.ВходящийНомер" id="1a2d9d0d-2551-48d7-8fc8-aa0712db69af"/>
 			<Metadata name="Document.ПоступлениеУслуг.TabularSection.Услуги.Attribute.Сумма" id="2d176955-9bb1-4a11-a5e1-30a3175a6ea7"/>
@@ -200,7 +204,7 @@
 		<Metadata name="Document.ПоступленияТоваров.Form.ФормаСписка.Form" id="667b6c24-9bca-4f1e-a393-5c31fa4535a4.0" configVersion="e648537918829842b44742a05354ccc900000000"/>
 		<Metadata name="Document.ПоступленияТоваров.ManagerModule" id="fae4f4d5-2dbe-45a9-b5c9-cb07edb71685.2" configVersion="01d517583da62a40b3a896a97adbfcca00000000"/>
 		<Metadata name="Document.ПоступленияТоваров.ObjectModule" id="fae4f4d5-2dbe-45a9-b5c9-cb07edb71685.0" configVersion="1d08afb5aa34534e99152c1e5fda72b200000000"/>
-		<Metadata name="Document.РеализацияТоваровИУслуг" id="e30ec35e-8c3a-40cf-a109-fc154d862130" configVersion="266d291e741b274a9c4ddc480364189000000000">
+		<Metadata name="Document.РеализацияТоваровИУслуг" id="e30ec35e-8c3a-40cf-a109-fc154d862130" configVersion="b7f57cd32d2cc843993a68dbdbecaf4900000000">
 			<Metadata name="Document.РеализацияТоваровИУслуг.TabularSection.Товары.Attribute.Сумма" id="10a761de-8ecb-48c2-92d5-abff4ac92234"/>
 			<Metadata name="Document.РеализацияТоваровИУслуг.TabularSection.Услуги" id="1badd772-6c4a-48ce-9a4a-a44555e2f875"/>
 			<Metadata name="Document.РеализацияТоваровИУслуг.Attribute.СуммаДокумента" id="1e7c267d-f61f-4a4b-a478-173f78626219"/>
@@ -288,12 +292,12 @@
 		<Metadata name="Subsystem.Персонал.Subsystem.Справочники.CommandInterface" id="ce77fbe5-febc-4733-b4be-1e618770f870.1" configVersion="58e68d052d72104db27a1dd5c12887e400000000"/>
 		<Metadata name="Subsystem.Покупки" id="10a5b600-c546-4df3-afd5-5345402554bf" configVersion="bfb74e05789ef742a00aeb4cb6217b2200000000"/>
 		<Metadata name="Subsystem.Покупки.CommandInterface" id="10a5b600-c546-4df3-afd5-5345402554bf.1" configVersion="762b0803036db7448b2f63ac4aeaa16200000000"/>
-		<Metadata name="Subsystem.Покупки.Subsystem.Покупки" id="8858fa7e-f844-445a-9b47-3be609ace23a" configVersion="6b93a885cd33564aba9e62495d10a8db00000000"/>
+		<Metadata name="Subsystem.Покупки.Subsystem.Покупки" id="8858fa7e-f844-445a-9b47-3be609ace23a" configVersion="9e25f830e9c9f34fa766f654b16c7b9d00000000"/>
 		<Metadata name="Subsystem.Покупки.Subsystem.Справочники" id="454bc083-079c-4485-ad12-79ed55ad36d0" configVersion="179769374bd3e149b1e3519031cd904d00000000"/>
 		<Metadata name="Subsystem.Покупки.Subsystem.Справочники.CommandInterface" id="454bc083-079c-4485-ad12-79ed55ad36d0.1" configVersion="d92a69b4d28780498a3430c86315b8c800000000"/>
 		<Metadata name="Subsystem.Продажи" id="870249ff-28b7-4486-a7e5-6d5d3dd842ae" configVersion="16f3229c028ce94d8c32203a571e7c7f00000000"/>
 		<Metadata name="Subsystem.Продажи.CommandInterface" id="870249ff-28b7-4486-a7e5-6d5d3dd842ae.1" configVersion="47f5422e5deca24bb7ea5a29ff53049c00000000"/>
-		<Metadata name="Subsystem.Продажи.Subsystem.Продажи" id="9d1ae763-a433-4054-b652-2191cf09c628" configVersion="e803e339aa583c4b941ac9fcf3f83e6000000000"/>
+		<Metadata name="Subsystem.Продажи.Subsystem.Продажи" id="9d1ae763-a433-4054-b652-2191cf09c628" configVersion="c4fa2bda5971e049893adb281002662000000000"/>
 		<Metadata name="Subsystem.Продажи.Subsystem.Продажи.CommandInterface" id="9d1ae763-a433-4054-b652-2191cf09c628.1" configVersion="6aada10dc0f573488aa0ab7cfd51784700000000"/>
 		<Metadata name="Subsystem.Продажи.Subsystem.Справочники" id="723642f8-ebf9-4e61-9191-83fb4ef4637c" configVersion="e3ca0141b2928f4ba7c417a1a890539400000000"/>
 		<Metadata name="Subsystem.Продажи.Subsystem.Справочники.CommandInterface" id="723642f8-ebf9-4e61-9191-83fb4ef4637c.1" configVersion="cf58b7c0d21c34479f7224b382346ece00000000"/>

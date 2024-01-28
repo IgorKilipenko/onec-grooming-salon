@@ -22,6 +22,7 @@
 				<xr:Item xsi:type="xr:MDObjectRef">Document.ПеремещениеТоваров</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">Report.ОтчётПоТоварамНаСкладах</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">Report.ОтчётПоОказаннымУслугам</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">AccumulationRegister.УчётЗатрат</xr:Item>
 			</Content>
 		</Properties>
 		<ChildObjects/>
