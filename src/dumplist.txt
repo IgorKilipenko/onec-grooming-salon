@@ -1,2 +1,14 @@
-﻿Modified: Catalog.Номенклатура.Form.ФормаЭлемента
-Modified: Catalog.Номенклатура.Form.ФормаЭлемента.Form
+﻿New: Document.ПоступлениеУслуг
+New: Document.ПоступлениеУслуг.Form.ФормаДокумента
+New: Document.ПоступлениеУслуг.Form.ФормаДокумента.Form
+New: Document.ПоступлениеУслуг.ObjectModule
+New: Subsystem.Справочники.Subsystem.Покупки
+New: Subsystem.Справочники.Subsystem.Покупки.CommandInterface
+Modified: Configuration.ГрумингСалон
+Modified: Subsystem.Покупки.Subsystem.Покупки
+Modified: Subsystem.Справочники
+Modified: Subsystem.Справочники.CommandInterface
+Modified: Subsystem.Справочники.Subsystem.Персонал
+Modified: Subsystem.Справочники.Subsystem.Персонал.CommandInterface
+Modified: Subsystem.Справочники.Subsystem.Продажи
+Modified: Subsystem.Справочники.Subsystem.Продажи.CommandInterface
