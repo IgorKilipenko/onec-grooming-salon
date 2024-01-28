@@ -1,8 +1,1 @@
-﻿New: Catalog.СтатьиЗатрат
-New: Catalog.СтатьиЗатрат.Form.ФормаСписка
-New: Catalog.СтатьиЗатрат.Form.ФормаСписка.Form
-New: Catalog.СтатьиЗатрат.Form.ФормаЭлемента
-New: Catalog.СтатьиЗатрат.Form.ФормаЭлемента.Form
-Modified: Configuration.ГрумингСалон
-Modified: Subsystem.Покупки.Subsystem.Справочники
-Modified: Subsystem.Продажи.Subsystem.Справочники
+﻿Modified: Catalog.Номенклатура
