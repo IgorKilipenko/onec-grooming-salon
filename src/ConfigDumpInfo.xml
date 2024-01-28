@@ -12,8 +12,9 @@
 			<Metadata name="AccumulationRegister.Продажи.Dimension.Клиент" id="abca71d7-9f2d-445e-817b-d0d353e949c8"/>
 			<Metadata name="AccumulationRegister.Продажи.Resource.Сумма" id="f71e7fc9-1c44-4561-b659-b571b48a3b46"/>
 		</Metadata>
-		<Metadata name="AccumulationRegister.ТоварыНаСкладах" id="5e7a41f4-9dbe-4b16-b83a-024cfbdb82c6" configVersion="87a185388046a64e9bd4bc951f3f219800000000">
+		<Metadata name="AccumulationRegister.ТоварыНаСкладах" id="5e7a41f4-9dbe-4b16-b83a-024cfbdb82c6" configVersion="b643e6724d6cc0468a11e6d68a8d047300000000">
 			<Metadata name="AccumulationRegister.ТоварыНаСкладах.Dimension.СрокГодности" id="13599350-15a2-4d8a-8d39-ba7c6146550a"/>
+			<Metadata name="AccumulationRegister.ТоварыНаСкладах.Resource.Сумма" id="1f718eb6-77cb-4f92-b488-e1a01c761ebd"/>
 			<Metadata name="AccumulationRegister.ТоварыНаСкладах.Dimension.Склад" id="2cf131da-81f0-4645-a38e-8387c4c46173"/>
 			<Metadata name="AccumulationRegister.ТоварыНаСкладах.Resource.Количество" id="60371a72-4e70-4d6d-8787-bc81b791f969"/>
 			<Metadata name="AccumulationRegister.ТоварыНаСкладах.Dimension.Номенклатура" id="fda74b58-5428-41f4-bc2e-010df9c1d0e4"/>

@@ -1,2 +1,1 @@
-﻿Modified: Document.ПоступленияТоваров
-Modified: Document.ПоступленияТоваров.ObjectModule
+﻿Modified: AccumulationRegister.ТоварыНаСкладах
