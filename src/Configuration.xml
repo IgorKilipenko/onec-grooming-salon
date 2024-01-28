@@ -267,6 +267,7 @@
 			<Enum>ТипыКонтрагентов</Enum>
 			<Enum>ВидыПитомцев</Enum>
 			<Enum>ВидыЦены</Enum>
+			<Enum>ВидыУчетнойПолитики</Enum>
 			<Report>ОтчётПоОказаннымУслугам</Report>
 			<Report>ОтчётПоТоварамНаСкладах</Report>
 			<InformationRegister>ЦеныНоменклатуры</InformationRegister>
