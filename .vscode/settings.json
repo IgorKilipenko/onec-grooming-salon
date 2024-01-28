@@ -62,6 +62,7 @@
 	// Путь по умолчанию к корню файла конфигурации (./src/cf) относительно каталога workspace для правильного autocomplete
 	"language-1c-bsl.rootPath": "",
 	"cSpell.words": [
+		"FEFO",
 		"Неопределено"
 	],
 }
