@@ -110,11 +110,12 @@
 		<Metadata name="Catalog.Сотрудники.Form.ФормаЭлемента.Form" id="df4cccd0-5f50-4d0f-b8e0-76e2e7360562.0" configVersion="848c52987158a1499178592a00cbcc4000000000"/>
 		<Metadata name="Catalog.Сотрудники.ManagerModule" id="22c35659-8f6f-4268-ab3d-94673f1123b8.3" configVersion="af4b193ba0609b4b83fa510243b976fd00000000"/>
 		<Metadata name="Catalog.Сотрудники.ObjectModule" id="22c35659-8f6f-4268-ab3d-94673f1123b8.0" configVersion="65f0b54c4fdabf4fbed264878cda4af300000000"/>
-		<Metadata name="Catalog.СтатьиЗатрат" id="bc62be2e-4da8-42a8-a865-c66aa20ce4ca" configVersion="4d03abe37d3515438050961a39f11e5500000000"/>
+		<Metadata name="Catalog.СтатьиЗатрат" id="bc62be2e-4da8-42a8-a865-c66aa20ce4ca" configVersion="2474e6807de2da469658d1797cbe907400000000"/>
 		<Metadata name="Catalog.СтатьиЗатрат.Form.ФормаСписка" id="a64bca84-833d-4571-b911-c84d72e75a49" configVersion="02f1f36382919c4fadfddc2280b60d9000000000"/>
 		<Metadata name="Catalog.СтатьиЗатрат.Form.ФормаСписка.Form" id="a64bca84-833d-4571-b911-c84d72e75a49.0" configVersion="3f2eeb80842c3d4e8e1f39d7c740175100000000"/>
 		<Metadata name="Catalog.СтатьиЗатрат.Form.ФормаЭлемента" id="3317ecf2-a327-4d3b-81aa-d320e7c2a240" configVersion="57f90895ea4d9643ab55af12d4cc425d00000000"/>
 		<Metadata name="Catalog.СтатьиЗатрат.Form.ФормаЭлемента.Form" id="3317ecf2-a327-4d3b-81aa-d320e7c2a240.0" configVersion="bf49801bde61d6489daa9b7078308fd700000000"/>
+		<Metadata name="Catalog.СтатьиЗатрат.Predefined" id="bc62be2e-4da8-42a8-a865-c66aa20ce4ca.1c" configVersion="c0c34d7b7a1d19448850b96a38d1c2c200000000"/>
 		<Metadata name="CommandGroup.Настройки" id="ca3c66ff-2001-4b7f-b7e5-34c2ba1549ae" configVersion="5dd31403552ff843a68abce05de5607a00000000"/>
 		<Metadata name="CommonModule.РаботаСДокументами" id="36b2d7f6-45fd-48ae-8543-9173c6c2595c" configVersion="2d310893614dfa428dff0035e231a28000000000"/>
 		<Metadata name="CommonModule.РаботаСДокументами.Module" id="36b2d7f6-45fd-48ae-8543-9173c6c2595c.0" configVersion="b9ba4c84f8338d4c86827dec4329e60300000000"/>
