@@ -163,7 +163,7 @@
 		<Metadata name="Document.ПеремещениеТоваров.Form.ФормаСписка" id="bf14f037-e5d5-41a7-a989-0dfac6295c06" configVersion="63c158413ed0324eb9dbd106bd6e852b00000000"/>
 		<Metadata name="Document.ПеремещениеТоваров.Form.ФормаСписка.Form" id="bf14f037-e5d5-41a7-a989-0dfac6295c06.0" configVersion="2b845f27ebac9e409473ff0f7240cea600000000"/>
 		<Metadata name="Document.ПеремещениеТоваров.ObjectModule" id="89465a4b-bf48-4f3e-923c-efa4c2dde550.0" configVersion="088a275a187bab43a62c69cfb397daa400000000"/>
-		<Metadata name="Document.ПоступлениеУслуг" id="20566727-0fb3-41b3-961f-6dfc387dec27" configVersion="d265d27c094ed240910b98e3452d97f700000000">
+		<Metadata name="Document.ПоступлениеУслуг" id="20566727-0fb3-41b3-961f-6dfc387dec27" configVersion="e7866f1c6960bb41a7d560ec34c6556000000000">
 			<Metadata name="Document.ПоступлениеУслуг.TabularSection.Услуги.Attribute.Цена" id="0d0de06e-477e-4017-804d-e58ec4034990"/>
 			<Metadata name="Document.ПоступлениеУслуг.Attribute.ВходящийНомер" id="1a2d9d0d-2551-48d7-8fc8-aa0712db69af"/>
 			<Metadata name="Document.ПоступлениеУслуг.TabularSection.Услуги.Attribute.Сумма" id="2d176955-9bb1-4a11-a5e1-30a3175a6ea7"/>
@@ -180,7 +180,7 @@
 		</Metadata>
 		<Metadata name="Document.ПоступлениеУслуг.Form.ФормаДокумента" id="4159062d-606d-4b5a-9542-28f05fc2f133" configVersion="894d4cef09bddf4c87f83efd431a81bd00000000"/>
 		<Metadata name="Document.ПоступлениеУслуг.Form.ФормаДокумента.Form" id="4159062d-606d-4b5a-9542-28f05fc2f133.0" configVersion="c561041086dbd34d8b42fdb19fb0b5a700000000"/>
-		<Metadata name="Document.ПоступлениеУслуг.ObjectModule" id="20566727-0fb3-41b3-961f-6dfc387dec27.0" configVersion="800de0a545e8534cb1fdf4c19f9d702f00000000"/>
+		<Metadata name="Document.ПоступлениеУслуг.ObjectModule" id="20566727-0fb3-41b3-961f-6dfc387dec27.0" configVersion="c845debd64e2c248b0dd9617dbeb5b8200000000"/>
 		<Metadata name="Document.ПоступленияТоваров" id="fae4f4d5-2dbe-45a9-b5c9-cb07edb71685" configVersion="95f400623851e0429cf1f8337dcb009b00000000">
 			<Metadata name="Document.ПоступленияТоваров.TabularSection.Товары.Attribute.Цена" id="02b11f2b-f879-4ad7-8693-2ecdad757738"/>
 			<Metadata name="Document.ПоступленияТоваров.TabularSection.Товары.Attribute.ТипНоменклатуры" id="17043427-a9eb-4685-8a7d-c471bbf86111"/>
