@@ -263,6 +263,7 @@
 			<Document>ПоступленияТоваров</Document>
 			<Document>ПеремещениеТоваров</Document>
 			<Document>ПоступлениеУслуг</Document>
+			<Document>УстановкаУчетнойПолитикиОрганизации</Document>
 			<Enum>ТипыОрганизаций</Enum>
 			<Enum>ПолФизическогоЛица</Enum>
 			<Enum>ТипыНоменклатуры</Enum>

@@ -1,3 +1,7 @@
-﻿New: InformationRegister.УчетнаяПолитика
+﻿New: Document.УстановкаУчетнойПолитикиОрганизации
+New: Document.УстановкаУчетнойПолитикиОрганизации.Form.ФормаДокумента
+New: Document.УстановкаУчетнойПолитикиОрганизации.Form.ФормаДокумента.Form
+New: Document.УстановкаУчетнойПолитикиОрганизации.ObjectModule
 Modified: Configuration.ГрумингСалон
+Modified: InformationRegister.УчетнаяПолитика
 Modified: Subsystem.Настройки.Subsystem.Сервис
