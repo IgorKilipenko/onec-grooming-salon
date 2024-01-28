@@ -1,2 +1,2 @@
-﻿New: Catalog.СтатьиЗатрат.Predefined
-Modified: Catalog.СтатьиЗатрат
+﻿Modified: Document.ПоступлениеУслуг.Form.ФормаДокумента
+Modified: Document.ПоступлениеУслуг.Form.ФормаДокумента.Form

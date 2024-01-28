@@ -180,8 +180,8 @@
 			<Metadata name="Document.ПоступлениеУслуг.Attribute.Поставщик" id="eb2b02f8-129b-4937-8d5c-1a858275c98f"/>
 			<Metadata name="Document.ПоступлениеУслуг.Attribute.ВходящаяДата" id="f6ed16d4-080e-4463-905a-9a99f7257aa7"/>
 		</Metadata>
-		<Metadata name="Document.ПоступлениеУслуг.Form.ФормаДокумента" id="4159062d-606d-4b5a-9542-28f05fc2f133" configVersion="894d4cef09bddf4c87f83efd431a81bd00000000"/>
-		<Metadata name="Document.ПоступлениеУслуг.Form.ФормаДокумента.Form" id="4159062d-606d-4b5a-9542-28f05fc2f133.0" configVersion="c561041086dbd34d8b42fdb19fb0b5a700000000"/>
+		<Metadata name="Document.ПоступлениеУслуг.Form.ФормаДокумента" id="4159062d-606d-4b5a-9542-28f05fc2f133" configVersion="e2c217b9d036f040aafb4a003331ace800000000"/>
+		<Metadata name="Document.ПоступлениеУслуг.Form.ФормаДокумента.Form" id="4159062d-606d-4b5a-9542-28f05fc2f133.0" configVersion="78b7da14f3d5664e83ceb62078ba0cea00000000"/>
 		<Metadata name="Document.ПоступлениеУслуг.ObjectModule" id="20566727-0fb3-41b3-961f-6dfc387dec27.0" configVersion="c845debd64e2c248b0dd9617dbeb5b8200000000"/>
 		<Metadata name="Document.ПоступленияТоваров" id="fae4f4d5-2dbe-45a9-b5c9-cb07edb71685" configVersion="c8aadccedfc7dd4bbe0cbcd3f725915800000000">
 			<Metadata name="Document.ПоступленияТоваров.TabularSection.Товары.Attribute.Цена" id="02b11f2b-f879-4ad7-8693-2ecdad757738"/>

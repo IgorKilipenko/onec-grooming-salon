@@ -49,6 +49,14 @@
 							<DataPath>Объект.Поставщик</DataPath>
 							<EditMode>EnterOnInput</EditMode>
 							<ExtendedEditMultipleValues>true</ExtendedEditMultipleValues>
+							<ChoiceParameters>
+								<app:item name="Отбор.ТипКонтрагента">
+									<app:value xsi:type="FormChoiceListDesTimeValue">
+										<Presentation/>
+										<Value xsi:type="xr:DesignTimeRef">Enum.ТипыКонтрагентов.EnumValue.Поставщик</Value>
+									</app:value>
+								</app:item>
+							</ChoiceParameters>
 							<ContextMenu name="ПоставщикКонтекстноеМеню" id="18"/>
 							<ExtendedTooltip name="ПоставщикРасширеннаяПодсказка" id="19"/>
 						</InputField>
@@ -83,6 +91,13 @@
 							<DataPath>Объект.ДоговорПоставщика</DataPath>
 							<EditMode>EnterOnInput</EditMode>
 							<ExtendedEditMultipleValues>true</ExtendedEditMultipleValues>
+							<ChoiceParameterLinks>
+								<xr:Link>
+									<xr:Name>Отбор.Владелец</xr:Name>
+									<xr:DataPath xsi:type="xs:string">Объект.Поставщик</xr:DataPath>
+									<xr:ValueChange>Clear</xr:ValueChange>
+								</xr:Link>
+							</ChoiceParameterLinks>
 							<ContextMenu name="ДоговорПоставщикаКонтекстноеМеню" id="23"/>
 							<ExtendedTooltip name="ДоговорПоставщикаРасширеннаяПодсказка" id="24"/>
 						</InputField>
