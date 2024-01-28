@@ -1,7 +1,8 @@
-﻿New: Enum.ВидыУчетнойПолитики
-Modified: AccumulationRegister.ТоварыНаСкладах
+﻿New: Catalog.СтатьиЗатрат
+New: Catalog.СтатьиЗатрат.Form.ФормаСписка
+New: Catalog.СтатьиЗатрат.Form.ФормаСписка.Form
+New: Catalog.СтатьиЗатрат.Form.ФормаЭлемента
+New: Catalog.СтатьиЗатрат.Form.ФормаЭлемента.Form
 Modified: Configuration.ГрумингСалон
-Modified: Document.ПоступленияТоваров
-Modified: Document.ПоступленияТоваров.Form.ФормаДокумента
-Modified: Document.ПоступленияТоваров.Form.ФормаДокумента.Form
-Modified: Document.ПоступленияТоваров.ObjectModule
+Modified: Subsystem.Покупки.Subsystem.Справочники
+Modified: Subsystem.Продажи.Subsystem.Справочники

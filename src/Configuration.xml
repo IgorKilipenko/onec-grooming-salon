@@ -257,6 +257,7 @@
 			<Catalog>ПородыПитомцев</Catalog>
 			<Catalog>Пользователи</Catalog>
 			<Catalog>Организации</Catalog>
+			<Catalog>СтатьиЗатрат</Catalog>
 			<Document>ЗаписьКлиента</Document>
 			<Document>РеализацияТоваровИУслуг</Document>
 			<Document>ПоступленияТоваров</Document>
