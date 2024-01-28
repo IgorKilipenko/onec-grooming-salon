@@ -17,8 +17,6 @@
 			<Picture/>
 			<Content>
 				<xr:Item xsi:type="xr:MDObjectRef">Constant.ИспользоватьСклады</xr:Item>
-				<xr:Item xsi:type="xr:MDObjectRef">InformationRegister.УчетнаяПолитика</xr:Item>
-				<xr:Item xsi:type="xr:MDObjectRef">Document.УстановкаУчетнойПолитикиОрганизации</xr:Item>
 			</Content>
 		</Properties>
 		<ChildObjects/>

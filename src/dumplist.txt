@@ -1,1 +1,8 @@
-﻿Modified: AccumulationRegister.ТоварыНаСкладах
+﻿New: Subsystem.Настройки.Subsystem.Сервис.CommandInterface
+Modified: Document.УстановкаУчетнойПолитикиОрганизации
+Modified: Document.УстановкаУчетнойПолитикиОрганизации.Form.ФормаДокумента
+Modified: Document.УстановкаУчетнойПолитикиОрганизации.Form.ФормаДокумента.Form
+Modified: Document.УстановкаУчетнойПолитикиОрганизации.ObjectModule
+Modified: Subsystem.Настройки
+Modified: Subsystem.Настройки.CommandInterface
+Modified: Subsystem.Настройки.Subsystem.Сервис
