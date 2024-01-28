@@ -1,6 +1,3 @@
-﻿New: AccumulationRegister.УчётЗатрат
+﻿New: InformationRegister.УчетнаяПолитика
 Modified: Configuration.ГрумингСалон
-Modified: Document.ПоступлениеУслуг
-Modified: Document.РеализацияТоваровИУслуг
-Modified: Subsystem.Покупки.Subsystem.Покупки
-Modified: Subsystem.Продажи.Subsystem.Продажи
+Modified: Subsystem.Настройки.Subsystem.Сервис

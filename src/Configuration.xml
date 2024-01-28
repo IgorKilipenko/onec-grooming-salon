@@ -273,6 +273,7 @@
 			<Report>ОтчётПоОказаннымУслугам</Report>
 			<Report>ОтчётПоТоварамНаСкладах</Report>
 			<InformationRegister>ЦеныНоменклатуры</InformationRegister>
+			<InformationRegister>УчетнаяПолитика</InformationRegister>
 			<AccumulationRegister>Продажи</AccumulationRegister>
 			<AccumulationRegister>ТоварыНаСкладах</AccumulationRegister>
 			<AccumulationRegister>ЗаказыКлиентов</AccumulationRegister>
