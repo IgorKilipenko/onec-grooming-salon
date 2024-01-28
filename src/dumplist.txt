@@ -1,2 +1,2 @@
-﻿Modified: Document.ПоступлениеУслуг
-Modified: Document.ПоступлениеУслуг.ObjectModule
+﻿Modified: Document.ПоступленияТоваров
+Modified: Document.ПоступленияТоваров.ObjectModule
