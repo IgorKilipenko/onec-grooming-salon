@@ -1,2 +1,2 @@
-﻿Modified: CommonModule.РаботаСЦенамиВызовСервера
-Modified: CommonModule.РаботаСЦенамиВызовСервера.Module
+﻿Modified: Document.ПоступлениеУслуг
+Modified: Document.ПоступлениеУслуг.ObjectModule
