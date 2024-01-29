@@ -1,2 +1,4 @@
-﻿Modified: Document.РеализацияТоваровИУслуг
-Modified: Document.РеализацияТоваровИУслуг.ObjectModule
+﻿New: Report.ОтчетПоПрибыли
+New: Report.ОтчетПоПрибыли.Template.ОсновнаяСхемаКомпоновкиДанных
+New: Report.ОтчетПоПрибыли.Template.ОсновнаяСхемаКомпоновкиДанных.Template
+Modified: Configuration.ГрумингСалон

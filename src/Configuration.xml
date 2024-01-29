@@ -273,6 +273,7 @@
 			<Enum>ВидыУчетнойПолитики</Enum>
 			<Report>ОтчётПоОказаннымУслугам</Report>
 			<Report>ОтчётПоТоварамНаСкладах</Report>
+			<Report>ОтчетПоПрибыли</Report>
 			<InformationRegister>ЦеныНоменклатуры</InformationRegister>
 			<InformationRegister>УчетнаяПолитика</InformationRegister>
 			<AccumulationRegister>Продажи</AccumulationRegister>
