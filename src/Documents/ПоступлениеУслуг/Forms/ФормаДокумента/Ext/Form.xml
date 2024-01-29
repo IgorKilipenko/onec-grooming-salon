@@ -177,11 +177,13 @@
 				</InputField>
 				<InputField name="УслугиЦена" id="59">
 					<DataPath>Объект.Услуги.Цена</DataPath>
-					<ReadOnly>true</ReadOnly>
 					<EditMode>EnterOnInput</EditMode>
 					<ExtendedEditMultipleValues>true</ExtendedEditMultipleValues>
 					<ContextMenu name="УслугиЦенаКонтекстноеМеню" id="60"/>
 					<ExtendedTooltip name="УслугиЦенаРасширеннаяПодсказка" id="61"/>
+					<Events>
+						<Event name="OnChange">УслугиЦенаПриИзменении</Event>
+					</Events>
 				</InputField>
 				<InputField name="УслугиСумма" id="62">
 					<DataPath>Объект.Услуги.Сумма</DataPath>

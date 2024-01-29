@@ -1,4 +1,2 @@
-﻿New: Report.ОтчетПоПрибыли
-New: Report.ОтчетПоПрибыли.Template.ОсновнаяСхемаКомпоновкиДанных
-New: Report.ОтчетПоПрибыли.Template.ОсновнаяСхемаКомпоновкиДанных.Template
-Modified: Configuration.ГрумингСалон
+﻿Modified: Document.ПоступлениеУслуг.Form.ФормаДокумента
+Modified: Document.ПоступлениеУслуг.Form.ФормаДокумента.Form
