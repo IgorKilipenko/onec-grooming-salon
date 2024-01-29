@@ -1,2 +1,2 @@
-﻿Modified: Document.ПоступленияТоваров
-Modified: Document.ПоступленияТоваров.ObjectModule
+﻿Modified: CommonModule.РаботаСЦенамиВызовСервера
+Modified: CommonModule.РаботаСЦенамиВызовСервера.Module
