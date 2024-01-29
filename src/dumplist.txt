@@ -1,8 +1,2 @@
-﻿Modified: Catalog.ДоговорыКонтрагентов.Form.ФормаЭлемента
-Modified: Catalog.ДоговорыКонтрагентов.Form.ФормаЭлемента.Form
-Modified: Catalog.Контрагенты.Form.ФормаЭлемента
-Modified: Catalog.Контрагенты.Form.ФормаЭлемента.Form
-Modified: Catalog.Номенклатура.Form.ФормаЭлемента
-Modified: Catalog.Номенклатура.Form.ФормаЭлемента.Form
-Modified: Document.ЗаписьКлиента.Form.ФормаДокумента
-Modified: Document.ЗаписьКлиента.Form.ФормаДокумента.Form
+﻿Modified: Document.РеализацияТоваровИУслуг
+Modified: Document.РеализацияТоваровИУслуг.ObjectModule
