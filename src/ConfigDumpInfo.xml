@@ -233,14 +233,14 @@
 		<Metadata name="Document.РеализацияТоваровИУслуг.ObjectModule" id="e30ec35e-8c3a-40cf-a109-fc154d862130.0" configVersion="4cc574830fd8c54fb7f4a017364260e300000000"/>
 		<Metadata name="Document.РеализацияТоваровИУслуг.Template.Печать" id="5785dba4-505a-4aaf-ad4f-ee20249b0cd0" configVersion="9c34326a0ca9ff47b3ee170fef88680800000000"/>
 		<Metadata name="Document.РеализацияТоваровИУслуг.Template.Печать.Template" id="5785dba4-505a-4aaf-ad4f-ee20249b0cd0.0" configVersion="1bea5e22436adc448a79b216f150ff3000000000"/>
-		<Metadata name="Document.УстановкаУчетнойПолитикиОрганизации" id="000fa55b-c68c-42c0-b2be-cccd03d8693f" configVersion="1567ed6c4c974f44a089a74848e51eb400000000">
+		<Metadata name="Document.УстановкаУчетнойПолитикиОрганизации" id="000fa55b-c68c-42c0-b2be-cccd03d8693f" configVersion="4c6732eb7daee44d81f051d95a224aa900000000">
 			<Metadata name="Document.УстановкаУчетнойПолитикиОрганизации.Attribute.Комментарий" id="1f45bc69-0857-4017-aa85-5a2377588313"/>
 			<Metadata name="Document.УстановкаУчетнойПолитикиОрганизации.Attribute.АвторДокумента" id="796f65ed-e2bb-4b93-9204-1b6134dd2e03"/>
 			<Metadata name="Document.УстановкаУчетнойПолитикиОрганизации.Attribute.УчетнаяПолитика" id="e7efa3d1-1f4d-4fc7-be72-f8cee9a5f8b3"/>
 		</Metadata>
 		<Metadata name="Document.УстановкаУчетнойПолитикиОрганизации.Form.ФормаДокумента" id="cf499439-ea3b-454f-bc6d-437b2a0a2cae" configVersion="95c32b5b5ac456458371092e782fb16400000000"/>
 		<Metadata name="Document.УстановкаУчетнойПолитикиОрганизации.Form.ФормаДокумента.Form" id="cf499439-ea3b-454f-bc6d-437b2a0a2cae.0" configVersion="7caacad51df3a644b8c9e431d9a0bef900000000"/>
-		<Metadata name="Document.УстановкаУчетнойПолитикиОрганизации.ObjectModule" id="000fa55b-c68c-42c0-b2be-cccd03d8693f.0" configVersion="83bc70cc5b12b84c8b22049797694f7900000000"/>
+		<Metadata name="Document.УстановкаУчетнойПолитикиОрганизации.ObjectModule" id="000fa55b-c68c-42c0-b2be-cccd03d8693f.0" configVersion="97dba129f86a7e4e823e03850115eb2700000000"/>
 		<Metadata name="Enum.ВидыПитомцев" id="45c962dc-a266-4f18-a9f9-2b6e3d61376f" configVersion="d1ac6dee2f0f584c8cda7cb0b487958b00000000">
 			<Metadata name="Enum.ВидыПитомцев.EnumValue.Кошка" id="156e5dd1-81f8-4138-ac9a-f06918cad374"/>
 			<Metadata name="Enum.ВидыПитомцев.EnumValue.Собака" id="817e8746-db18-4853-b48e-1a469936f110"/>

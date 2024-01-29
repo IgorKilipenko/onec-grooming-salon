@@ -1,2 +1,2 @@
-﻿Modified: Document.ПоступлениеУслуг.Form.ФормаДокумента
-Modified: Document.ПоступлениеУслуг.Form.ФормаДокумента.Form
+﻿Modified: Document.УстановкаУчетнойПолитикиОрганизации
+Modified: Document.УстановкаУчетнойПолитикиОрганизации.ObjectModule
