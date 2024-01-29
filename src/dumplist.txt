@@ -1,2 +1,1 @@
-﻿Modified: Document.ПоступлениеУслуг.Form.ФормаДокумента
-Modified: Document.ПоступлениеУслуг.Form.ФормаДокумента.Form
+﻿Modified: Subsystem.Продажи
