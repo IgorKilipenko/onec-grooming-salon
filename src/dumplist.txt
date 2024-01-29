@@ -1,1 +1,3 @@
-﻿Modified: Subsystem.Продажи
+﻿New: Constant.ЗапретПроведенияПриОтрицательныхОстатках
+Modified: Configuration.ГрумингСалон
+Modified: Subsystem.Настройки.Subsystem.Сервис

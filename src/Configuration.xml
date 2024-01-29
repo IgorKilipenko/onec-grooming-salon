@@ -247,6 +247,7 @@
 			<DefinedType>КомментарийПолный</DefinedType>
 			<CommandGroup>Настройки</CommandGroup>
 			<Constant>ИспользоватьСклады</Constant>
+			<Constant>ЗапретПроведенияПриОтрицательныхОстатках</Constant>
 			<Catalog>Должности</Catalog>
 			<Catalog>Сотрудники</Catalog>
 			<Catalog>Номенклатура</Catalog>
