@@ -1,4 +1,2 @@
-﻿Modified: Document.ПоступлениеУслуг
-Modified: Document.ПоступлениеУслуг.Form.ФормаДокумента
-Modified: Document.ПоступлениеУслуг.Form.ФормаДокумента.Form
-Modified: Document.ПоступлениеУслуг.ObjectModule
+﻿Modified: Document.РеализацияТоваровИУслуг.Form.ФормаДокумента
+Modified: Document.РеализацияТоваровИУслуг.Form.ФормаДокумента.Form
