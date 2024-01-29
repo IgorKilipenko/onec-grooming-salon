@@ -19,9 +19,9 @@
 			<Metadata name="AccumulationRegister.ТоварыНаСкладах.Resource.Количество" id="60371a72-4e70-4d6d-8787-bc81b791f969"/>
 			<Metadata name="AccumulationRegister.ТоварыНаСкладах.Dimension.Номенклатура" id="fda74b58-5428-41f4-bc2e-010df9c1d0e4"/>
 		</Metadata>
-		<Metadata name="AccumulationRegister.УчётЗатрат" id="f4ed06ac-a955-4f16-aefe-1fde2581d586" configVersion="cebb73d6d3822c48ad94430fa16fe34400000000">
-			<Metadata name="AccumulationRegister.УчётЗатрат.Resource.Сумма" id="41234a75-f8a9-4cc9-927e-1922506d0cbb"/>
-			<Metadata name="AccumulationRegister.УчётЗатрат.Dimension.СтатьяЗатрат" id="8778acdc-ae23-4109-907f-bfbbb7548335"/>
+		<Metadata name="AccumulationRegister.УчетЗатрат" id="f4ed06ac-a955-4f16-aefe-1fde2581d586" configVersion="82fa61a2117d2e46ab8f98e03d21e45300000000">
+			<Metadata name="AccumulationRegister.УчетЗатрат.Resource.Сумма" id="41234a75-f8a9-4cc9-927e-1922506d0cbb"/>
+			<Metadata name="AccumulationRegister.УчетЗатрат.Dimension.СтатьяЗатрат" id="8778acdc-ae23-4109-907f-bfbbb7548335"/>
 		</Metadata>
 		<Metadata name="Catalog.ДоговорыКонтрагентов" id="87b3d083-9850-4c56-9dc9-d0d816f36fc9" configVersion="9de6bbbab143cc4187f069d8a3b60a1600000000">
 			<Metadata name="Catalog.ДоговорыКонтрагентов.Attribute.ДатаЗаключения" id="1e36e7e1-52a4-408d-bb9e-49ba4c85a756"/>
