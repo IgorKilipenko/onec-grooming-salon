@@ -1,2 +1,4 @@
-﻿New: Catalog.ЭквайринговыеТерминалы
+﻿New: AccumulationRegister.ДенежныеСредства
+New: Document.ПоступлениеДенежныхСредств
+New: Document.РасходДенежныхСредств
 Modified: Configuration.ГрумингСалон

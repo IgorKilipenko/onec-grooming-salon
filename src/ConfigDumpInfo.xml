@@ -1,6 +1,11 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.16">
 	<ConfigVersions>
+		<Metadata name="AccumulationRegister.ДенежныеСредства" id="5f3d5a1f-a2c2-4549-bac9-c8cbe44a7ceb" configVersion="7d1a23d5d79a5b469644f4bff4c3f53900000000">
+			<Metadata name="AccumulationRegister.ДенежныеСредства.Resource.Сумма" id="02ccd692-22c9-431f-9bc5-1e4452c8e4e4"/>
+			<Metadata name="AccumulationRegister.ДенежныеСредства.Dimension.ТипДенежныхСредств" id="4890f48f-c316-48c8-a991-c3f338c11922"/>
+			<Metadata name="AccumulationRegister.ДенежныеСредства.Dimension.БанковскийСчетКасса" id="8044146b-ca3c-42ff-afa7-34c8ff09aedd"/>
+		</Metadata>
 		<Metadata name="AccumulationRegister.ЗаказыКлиентов" id="903a0d5e-7ee3-41db-9354-7625f580ae50" configVersion="345b9869b10077439790f0393e618e8e00000000">
 			<Metadata name="AccumulationRegister.ЗаказыКлиентов.Dimension.ЗаписьКлиента" id="667966fc-b922-47c7-b139-c14094d60074"/>
 			<Metadata name="AccumulationRegister.ЗаказыКлиентов.Resource.Сумма" id="7b001c46-3f09-4e8a-9646-b1b8972f4e9d"/>
@@ -135,7 +140,7 @@
 		<Metadata name="CommonModule.РаботаСЦенамиВызовСервера.Module" id="df3a1745-2e2e-4ba2-ad91-a5dbade3b8af.0" configVersion="89fd4ddf19243a46be8995abe49d2ec900000000"/>
 		<Metadata name="CommonModule.РаботаСоСтрокамиВызовСервера" id="f25e72ba-9dba-464f-a0c5-62d781085031" configVersion="6759b2f83bf13c469b6127dbf2473ec100000000"/>
 		<Metadata name="CommonModule.РаботаСоСтрокамиВызовСервера.Module" id="f25e72ba-9dba-464f-a0c5-62d781085031.0" configVersion="f836831057e47f459e88f802007eeb8100000000"/>
-		<Metadata name="Configuration.ГрумингСалон" id="bf7fd7f7-d5f2-4af8-987a-4903e6ac7a60" configVersion="b2569c3191f36f489666cb973677fd5700000000"/>
+		<Metadata name="Configuration.ГрумингСалон" id="bf7fd7f7-d5f2-4af8-987a-4903e6ac7a60" configVersion="d9ce7c4d1eb8a146beae05f8da3ff50700000000"/>
 		<Metadata name="Configuration.ГрумингСалон.ClientApplicationInterface" id="5b918c7f-f6dd-47f1-8449-205108ad3f01.b" configVersion="082feec38197434fab4f12afbc17d65100000000"/>
 		<Metadata name="Configuration.ГрумингСалон.CommandInterface" id="5b918c7f-f6dd-47f1-8449-205108ad3f01.a" configVersion="e7750e0aa01cd642b0ec90b27736520e00000000"/>
 		<Metadata name="Configuration.ГрумингСалон.HomePageWorkArea" id="5b918c7f-f6dd-47f1-8449-205108ad3f01.8" configVersion="4179c0dbdf2c594793ec75fbde26fce100000000"/>
@@ -176,6 +181,7 @@
 		<Metadata name="Document.ПеремещениеТоваров.Form.ФормаСписка" id="bf14f037-e5d5-41a7-a989-0dfac6295c06" configVersion="63c158413ed0324eb9dbd106bd6e852b00000000"/>
 		<Metadata name="Document.ПеремещениеТоваров.Form.ФормаСписка.Form" id="bf14f037-e5d5-41a7-a989-0dfac6295c06.0" configVersion="2b845f27ebac9e409473ff0f7240cea600000000"/>
 		<Metadata name="Document.ПеремещениеТоваров.ObjectModule" id="89465a4b-bf48-4f3e-923c-efa4c2dde550.0" configVersion="088a275a187bab43a62c69cfb397daa400000000"/>
+		<Metadata name="Document.ПоступлениеДенежныхСредств" id="da34b213-3b99-4e85-a1d1-82962f3cf0fc" configVersion="3435aa966c520b4b9c8802516a521a8700000000"/>
 		<Metadata name="Document.ПоступлениеУслуг" id="20566727-0fb3-41b3-961f-6dfc387dec27" configVersion="00f797ae07b15c4c8a0bf111d5afbd9e00000000">
 			<Metadata name="Document.ПоступлениеУслуг.TabularSection.Услуги.Attribute.Цена" id="0d0de06e-477e-4017-804d-e58ec4034990"/>
 			<Metadata name="Document.ПоступлениеУслуг.Attribute.ВходящийНомер" id="1a2d9d0d-2551-48d7-8fc8-aa0712db69af"/>
@@ -217,6 +223,7 @@
 		<Metadata name="Document.ПоступленияТоваров.Form.ФормаСписка.Form" id="667b6c24-9bca-4f1e-a393-5c31fa4535a4.0" configVersion="e648537918829842b44742a05354ccc900000000"/>
 		<Metadata name="Document.ПоступленияТоваров.ManagerModule" id="fae4f4d5-2dbe-45a9-b5c9-cb07edb71685.2" configVersion="01d517583da62a40b3a896a97adbfcca00000000"/>
 		<Metadata name="Document.ПоступленияТоваров.ObjectModule" id="fae4f4d5-2dbe-45a9-b5c9-cb07edb71685.0" configVersion="d80e1404e2a975429ac6c97935f938f900000000"/>
+		<Metadata name="Document.РасходДенежныхСредств" id="1ed1f697-3e86-4a1a-ace5-3f9c558bf4dc" configVersion="770c3739db2005468420bf06d9d7ad6000000000"/>
 		<Metadata name="Document.РеализацияТоваровИУслуг" id="e30ec35e-8c3a-40cf-a109-fc154d862130" configVersion="df279e6f9439ce4a9d1d47e7e470138b00000000">
 			<Metadata name="Document.РеализацияТоваровИУслуг.TabularSection.Товары.Attribute.Сумма" id="10a761de-8ecb-48c2-92d5-abff4ac92234"/>
 			<Metadata name="Document.РеализацияТоваровИУслуг.TabularSection.Услуги" id="1badd772-6c4a-48ce-9a4a-a44555e2f875"/>
