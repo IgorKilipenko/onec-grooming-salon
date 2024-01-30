@@ -1,3 +1,2 @@
-﻿New: Constant.ЗапретПроведенияПриОтрицательныхОстатках
-Modified: Configuration.ГрумингСалон
-Modified: Subsystem.Настройки.Subsystem.Сервис
+﻿Modified: Document.ЗаписьКлиента.Form.ФормаДокумента
+Modified: Document.ЗаписьКлиента.Form.ФормаДокумента.Form
