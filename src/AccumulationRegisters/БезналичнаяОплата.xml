@@ -49,7 +49,7 @@
 			<Explanation/>
 		</Properties>
 		<ChildObjects>
-			<Attribute uuid="1ea55ab3-5cdc-4606-b382-6a9fd38a1c05">
+			<Resource uuid="45051d74-0fcc-4a92-91c6-a5411259fbc0">
 				<Properties>
 					<Name>Сумма</Name>
 					<Synonym>
@@ -81,10 +81,9 @@
 					<ChoiceForm/>
 					<LinkByType/>
 					<ChoiceHistoryOnInput>Auto</ChoiceHistoryOnInput>
-					<Indexing>DontIndex</Indexing>
 					<FullTextSearch>Use</FullTextSearch>
 				</Properties>
-			</Attribute>
+			</Resource>
 			<Dimension uuid="fe390d79-e159-4d68-91e9-ffb43c396aec">
 				<Properties>
 					<Name>ЭквайринговыйТерминал</Name>
