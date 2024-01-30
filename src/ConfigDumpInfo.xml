@@ -284,11 +284,12 @@
 			<Metadata name="Enum.ВидыОперацийПоступленияДенег.EnumValue.ВозвратОтПоставщика" id="a6d444eb-e40c-4201-809b-5c14ff8adc4f"/>
 			<Metadata name="Enum.ВидыОперацийПоступленияДенег.EnumValue.ОплатаОтПокупателя" id="feba395d-5f01-4fe8-a835-ce8b1ffabd7f"/>
 		</Metadata>
-		<Metadata name="Enum.ВидыОперацийРасходаДенег" id="c0b9c2d9-5c86-4934-985a-1dfff56c713e" configVersion="1415aaa0e8bfa04e9e1fab5fa7c919b200000000">
+		<Metadata name="Enum.ВидыОперацийРасходаДенег" id="c0b9c2d9-5c86-4934-985a-1dfff56c713e" configVersion="d40d08b04179b040b6a98ec2eae47f2b00000000">
 			<Metadata name="Enum.ВидыОперацийРасходаДенег.EnumValue.ВзносНаличнымиВБанк" id="11eadaae-7952-4d2e-bc2b-28168f9de768"/>
 			<Metadata name="Enum.ВидыОперацийРасходаДенег.EnumValue.ВозвратДенегПокупателю" id="7f04bd6c-0da4-47ce-a824-1590e17b5969"/>
 			<Metadata name="Enum.ВидыОперацийРасходаДенег.EnumValue.ВыдачаДенегПодотчетнику" id="9bb85e4e-76a5-4355-b4a5-34b01019ebfe"/>
 			<Metadata name="Enum.ВидыОперацийРасходаДенег.EnumValue.ОплатаПоставщику" id="cafc4281-c94d-418b-aba9-740c41e61e7f"/>
+			<Metadata name="Enum.ВидыОперацийРасходаДенег.EnumValue.ПрочийРасход" id="ec9e1261-e1f3-4d1c-b726-122b518c440e"/>
 		</Metadata>
 		<Metadata name="Enum.ВидыПитомцев" id="45c962dc-a266-4f18-a9f9-2b6e3d61376f" configVersion="d1ac6dee2f0f584c8cda7cb0b487958b00000000">
 			<Metadata name="Enum.ВидыПитомцев.EnumValue.Кошка" id="156e5dd1-81f8-4138-ac9a-f06918cad374"/>
