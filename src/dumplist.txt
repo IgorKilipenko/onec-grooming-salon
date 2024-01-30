@@ -1,2 +1,2 @@
-﻿New: Catalog.Кассы
+﻿New: Catalog.Банки
 Modified: Configuration.ГрумингСалон

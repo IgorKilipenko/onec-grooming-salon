@@ -260,6 +260,7 @@
 			<Catalog>Организации</Catalog>
 			<Catalog>СтатьиЗатрат</Catalog>
 			<Catalog>Кассы</Catalog>
+			<Catalog>Банки</Catalog>
 			<Document>ЗаписьКлиента</Document>
 			<Document>РеализацияТоваровИУслуг</Document>
 			<Document>ПоступленияТоваров</Document>
