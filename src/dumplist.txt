@@ -1,4 +1,2 @@
-﻿New: Enum.ВидыОперацийПоступленияДенег
-New: Enum.ВидыОперацийРасходаДенег
-New: Enum.ТипыДенежныхСредств
+﻿New: Catalog.Кассы
 Modified: Configuration.ГрумингСалон

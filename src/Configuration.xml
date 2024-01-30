@@ -259,6 +259,7 @@
 			<Catalog>Пользователи</Catalog>
 			<Catalog>Организации</Catalog>
 			<Catalog>СтатьиЗатрат</Catalog>
+			<Catalog>Кассы</Catalog>
 			<Document>ЗаписьКлиента</Document>
 			<Document>РеализацияТоваровИУслуг</Document>
 			<Document>ПоступленияТоваров</Document>
