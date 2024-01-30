@@ -1,4 +1,2 @@
-﻿New: Document.РасходДенежныхСредств.Form.ФормаДокумента
-New: Document.РасходДенежныхСредств.Form.ФормаДокумента.Form
-New: Document.РасходДенежныхСредств.ObjectModule
-Modified: Document.РасходДенежныхСредств
+﻿Modified: CommonModule.РаботаСДокументами
+Modified: CommonModule.РаботаСДокументами.Module
