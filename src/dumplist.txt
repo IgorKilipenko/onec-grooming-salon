@@ -1,4 +1,3 @@
-﻿New: AccumulationRegister.ДенежныеСредства
-New: Document.ПоступлениеДенежныхСредств
-New: Document.РасходДенежныхСредств
+﻿New: AccumulationRegister.БезналичнаяОплата
 Modified: Configuration.ГрумингСалон
+Modified: Document.ПоступлениеДенежныхСредств
