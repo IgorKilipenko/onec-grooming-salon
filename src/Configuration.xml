@@ -261,6 +261,7 @@
 			<Catalog>СтатьиЗатрат</Catalog>
 			<Catalog>Кассы</Catalog>
 			<Catalog>Банки</Catalog>
+			<Catalog>ЭквайринговыеТерминалы</Catalog>
 			<Document>ЗаписьКлиента</Document>
 			<Document>РеализацияТоваровИУслуг</Document>
 			<Document>ПоступленияТоваров</Document>

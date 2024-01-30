@@ -1,2 +1,2 @@
-﻿New: Catalog.Банки
+﻿New: Catalog.ЭквайринговыеТерминалы
 Modified: Configuration.ГрумингСалон
