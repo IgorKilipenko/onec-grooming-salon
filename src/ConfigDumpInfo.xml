@@ -125,7 +125,7 @@
 		<Metadata name="CommonModule.РаботаСЦенамиВызовСервера.Module" id="df3a1745-2e2e-4ba2-ad91-a5dbade3b8af.0" configVersion="89fd4ddf19243a46be8995abe49d2ec900000000"/>
 		<Metadata name="CommonModule.РаботаСоСтрокамиВызовСервера" id="f25e72ba-9dba-464f-a0c5-62d781085031" configVersion="6759b2f83bf13c469b6127dbf2473ec100000000"/>
 		<Metadata name="CommonModule.РаботаСоСтрокамиВызовСервера.Module" id="f25e72ba-9dba-464f-a0c5-62d781085031.0" configVersion="f836831057e47f459e88f802007eeb8100000000"/>
-		<Metadata name="Configuration.ГрумингСалон" id="bf7fd7f7-d5f2-4af8-987a-4903e6ac7a60" configVersion="fc61b67cdde16c48adf79b1c4c0be46400000000"/>
+		<Metadata name="Configuration.ГрумингСалон" id="bf7fd7f7-d5f2-4af8-987a-4903e6ac7a60" configVersion="d8b51bedfb14ab4b8da08143e2fe0ef800000000"/>
 		<Metadata name="Configuration.ГрумингСалон.ClientApplicationInterface" id="5b918c7f-f6dd-47f1-8449-205108ad3f01.b" configVersion="082feec38197434fab4f12afbc17d65100000000"/>
 		<Metadata name="Configuration.ГрумингСалон.CommandInterface" id="5b918c7f-f6dd-47f1-8449-205108ad3f01.a" configVersion="e7750e0aa01cd642b0ec90b27736520e00000000"/>
 		<Metadata name="Configuration.ГрумингСалон.HomePageWorkArea" id="5b918c7f-f6dd-47f1-8449-205108ad3f01.8" configVersion="4179c0dbdf2c594793ec75fbde26fce100000000"/>
@@ -242,6 +242,18 @@
 		<Metadata name="Document.УстановкаУчетнойПолитикиОрганизации.Form.ФормаДокумента" id="cf499439-ea3b-454f-bc6d-437b2a0a2cae" configVersion="95c32b5b5ac456458371092e782fb16400000000"/>
 		<Metadata name="Document.УстановкаУчетнойПолитикиОрганизации.Form.ФормаДокумента.Form" id="cf499439-ea3b-454f-bc6d-437b2a0a2cae.0" configVersion="7caacad51df3a644b8c9e431d9a0bef900000000"/>
 		<Metadata name="Document.УстановкаУчетнойПолитикиОрганизации.ObjectModule" id="000fa55b-c68c-42c0-b2be-cccd03d8693f.0" configVersion="165219709f0cce42a2ce288effd849dc00000000"/>
+		<Metadata name="Enum.ВидыОперацийПоступленияДенег" id="5a37db1d-bc40-47f4-9e49-bb14cf7bfbfb" configVersion="1d4e144e195add45b4237a1b705381f100000000">
+			<Metadata name="Enum.ВидыОперацийПоступленияДенег.EnumValue.ПолучениеНаличныхВБанке" id="21cdb9c3-3905-448e-86b0-dc928d678005"/>
+			<Metadata name="Enum.ВидыОперацийПоступленияДенег.EnumValue.ВозвратОтПодотчетника" id="5f1c4910-7df5-4119-a640-aeea2453bb6f"/>
+			<Metadata name="Enum.ВидыОперацийПоступленияДенег.EnumValue.ВозвратОтПоставщика" id="a6d444eb-e40c-4201-809b-5c14ff8adc4f"/>
+			<Metadata name="Enum.ВидыОперацийПоступленияДенег.EnumValue.ОплатаОтПокупателя" id="feba395d-5f01-4fe8-a835-ce8b1ffabd7f"/>
+		</Metadata>
+		<Metadata name="Enum.ВидыОперацийРасходаДенег" id="c0b9c2d9-5c86-4934-985a-1dfff56c713e" configVersion="1415aaa0e8bfa04e9e1fab5fa7c919b200000000">
+			<Metadata name="Enum.ВидыОперацийРасходаДенег.EnumValue.ВзносНаличнымиВБанк" id="11eadaae-7952-4d2e-bc2b-28168f9de768"/>
+			<Metadata name="Enum.ВидыОперацийРасходаДенег.EnumValue.ВозвратДенегПокупателю" id="7f04bd6c-0da4-47ce-a824-1590e17b5969"/>
+			<Metadata name="Enum.ВидыОперацийРасходаДенег.EnumValue.ВыдачаДенегПодотчетнику" id="9bb85e4e-76a5-4355-b4a5-34b01019ebfe"/>
+			<Metadata name="Enum.ВидыОперацийРасходаДенег.EnumValue.ОплатаПоставщику" id="cafc4281-c94d-418b-aba9-740c41e61e7f"/>
+		</Metadata>
 		<Metadata name="Enum.ВидыПитомцев" id="45c962dc-a266-4f18-a9f9-2b6e3d61376f" configVersion="d1ac6dee2f0f584c8cda7cb0b487958b00000000">
 			<Metadata name="Enum.ВидыПитомцев.EnumValue.Кошка" id="156e5dd1-81f8-4138-ac9a-f06918cad374"/>
 			<Metadata name="Enum.ВидыПитомцев.EnumValue.Собака" id="817e8746-db18-4853-b48e-1a469936f110"/>
@@ -257,6 +269,10 @@
 		<Metadata name="Enum.ПолФизическогоЛица" id="4ecc25dd-de3e-4bfd-b96a-500df6beaaeb" configVersion="536edab13f086046a4517b5fd030009c00000000">
 			<Metadata name="Enum.ПолФизическогоЛица.EnumValue.Мужской" id="773b7b19-8f30-4c97-a3c4-6a7b77dbf1b3"/>
 			<Metadata name="Enum.ПолФизическогоЛица.EnumValue.Женский" id="eecd5153-b17b-44cf-bd63-518d43c7530a"/>
+		</Metadata>
+		<Metadata name="Enum.ТипыДенежныхСредств" id="00b06251-16d0-424c-b7fb-be0adf018da2" configVersion="284d29a170de3343a2f51b164a11dd2b00000000">
+			<Metadata name="Enum.ТипыДенежныхСредств.EnumValue.Наличные" id="06548c5d-a175-46f6-b839-5e391a4e949b"/>
+			<Metadata name="Enum.ТипыДенежныхСредств.EnumValue.Безналичные" id="6c3fd741-d5dd-42cb-a046-bcf8bd771d65"/>
 		</Metadata>
 		<Metadata name="Enum.ТипыКонтрагентов" id="3f61006d-1e8e-4e94-adab-c361e636f3f6" configVersion="f969b413628f36458c1b88f763e472b600000000">
 			<Metadata name="Enum.ТипыКонтрагентов.EnumValue.Клиент" id="10bbb5e6-3259-4293-8e69-8e31c05985c0"/>

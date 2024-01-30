@@ -1,4 +1,4 @@
-﻿Modified: Document.РеализацияТоваровИУслуг
-Modified: Document.РеализацияТоваровИУслуг.Form.ФормаДокумента
-Modified: Document.РеализацияТоваровИУслуг.Form.ФормаДокумента.Form
-Modified: Document.РеализацияТоваровИУслуг.ObjectModule
+﻿New: Enum.ВидыОперацийПоступленияДенег
+New: Enum.ВидыОперацийРасходаДенег
+New: Enum.ТипыДенежныхСредств
+Modified: Configuration.ГрумингСалон
