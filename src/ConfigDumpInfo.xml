@@ -185,7 +185,7 @@
 		<Metadata name="Document.ПеремещениеТоваров.Form.ФормаСписка" id="bf14f037-e5d5-41a7-a989-0dfac6295c06" configVersion="63c158413ed0324eb9dbd106bd6e852b00000000"/>
 		<Metadata name="Document.ПеремещениеТоваров.Form.ФормаСписка.Form" id="bf14f037-e5d5-41a7-a989-0dfac6295c06.0" configVersion="2b845f27ebac9e409473ff0f7240cea600000000"/>
 		<Metadata name="Document.ПеремещениеТоваров.ObjectModule" id="89465a4b-bf48-4f3e-923c-efa4c2dde550.0" configVersion="088a275a187bab43a62c69cfb397daa400000000"/>
-		<Metadata name="Document.ПоступлениеДенежныхСредств" id="da34b213-3b99-4e85-a1d1-82962f3cf0fc" configVersion="086fa5e56d80ce4e925f0ac231587d7600000000">
+		<Metadata name="Document.ПоступлениеДенежныхСредств" id="da34b213-3b99-4e85-a1d1-82962f3cf0fc" configVersion="827f390946679b4298c8e901d9cb9a0700000000">
 			<Metadata name="Document.ПоступлениеДенежныхСредств.Attribute.ТипДенежныхСредств" id="0c9e5696-616e-416d-b757-6c3968ccbb9b"/>
 			<Metadata name="Document.ПоступлениеДенежныхСредств.Attribute.ДокументОснование" id="235b5790-6afa-47de-acaf-bbe47e997f98"/>
 			<Metadata name="Document.ПоступлениеДенежныхСредств.Attribute.Комментарий" id="345b8193-eafe-4c9d-9c55-31f02a083241"/>
@@ -197,6 +197,9 @@
 			<Metadata name="Document.ПоступлениеДенежныхСредств.Attribute.АвторДокумента" id="d6d1fa18-1089-48f9-9028-6d7fdccb3d6f"/>
 			<Metadata name="Document.ПоступлениеДенежныхСредств.Attribute.СуммаДокумента" id="de0b1750-8f57-4300-8835-28774ed1fc2c"/>
 		</Metadata>
+		<Metadata name="Document.ПоступлениеДенежныхСредств.Form.ФормаДокумента" id="eeae7796-cfb9-42de-87a4-af66fab760eb" configVersion="afdfc93b07e3ec47837eafcba359f09200000000"/>
+		<Metadata name="Document.ПоступлениеДенежныхСредств.Form.ФормаДокумента.Form" id="eeae7796-cfb9-42de-87a4-af66fab760eb.0" configVersion="557d7b033f4aa74593cd3534fb9c17a000000000"/>
+		<Metadata name="Document.ПоступлениеДенежныхСредств.ObjectModule" id="da34b213-3b99-4e85-a1d1-82962f3cf0fc.0" configVersion="472aae6685eba44399e30f35df9e3e6000000000"/>
 		<Metadata name="Document.ПоступлениеУслуг" id="20566727-0fb3-41b3-961f-6dfc387dec27" configVersion="00f797ae07b15c4c8a0bf111d5afbd9e00000000">
 			<Metadata name="Document.ПоступлениеУслуг.TabularSection.Услуги.Attribute.Цена" id="0d0de06e-477e-4017-804d-e58ec4034990"/>
 			<Metadata name="Document.ПоступлениеУслуг.Attribute.ВходящийНомер" id="1a2d9d0d-2551-48d7-8fc8-aa0712db69af"/>
