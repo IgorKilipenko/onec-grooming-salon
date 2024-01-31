@@ -42,6 +42,12 @@
 				<Event name="OnChange">ТипНоменклатурыПриИзменении</Event>
 			</Events>
 		</InputField>
+		<InputField name="СтатьяЗатрат" id="13">
+			<DataPath>Объект.СтатьяЗатрат</DataPath>
+			<ExtendedEditMultipleValues>true</ExtendedEditMultipleValues>
+			<ContextMenu name="СтатьяЗатратКонтекстноеМеню" id="14"/>
+			<ExtendedTooltip name="СтатьяЗатратРасширеннаяПодсказка" id="15"/>
+		</InputField>
 	</ChildItems>
 	<Attributes>
 		<Attribute name="Объект" id="1">

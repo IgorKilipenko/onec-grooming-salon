@@ -20,6 +20,7 @@
 		<ChildObjects>
 			<Subsystem>Персонал</Subsystem>
 			<Subsystem>Продажи</Subsystem>
+			<Subsystem>Покупки</Subsystem>
 		</ChildObjects>
 	</Subsystem>
 </MetaDataObject>

@@ -7,9 +7,16 @@
             "CodeOutOfRegion": {
                 "checkUnknownModuleType": false
             },
-            "IfElseIfEndsWithElse": false,
-            "DuplicateStringLiteral": false
+            "NestedTernaryOperator": false,
+            "LineLength": {
+                "maxLineLength": 140,
+                "checkMethodDescription": true
+            },
+            "RedundantAccessToObject": {
+                "checkObjectModule": false,
+                "checkFormModule": false,
+                "checkRecordSetModule": true
+            }
         }
-    },
-    "configurationRoot": "./src"
+    }
 }

@@ -49,7 +49,7 @@
 			<ScriptVariant>Russian</ScriptVariant>
 			<DefaultRoles/>
 			<Vendor>Игорь Килипенко</Vendor>
-			<Version>Спринт 3</Version>
+			<Version>Спринт 4</Version>
 			<UpdateCatalogAddress/>
 			<IncludeHelpInContents>false</IncludeHelpInContents>
 			<UseManagedFormInOrdinaryApplication>false</UseManagedFormInOrdinaryApplication>
@@ -247,6 +247,7 @@
 			<DefinedType>КомментарийПолный</DefinedType>
 			<CommandGroup>Настройки</CommandGroup>
 			<Constant>ИспользоватьСклады</Constant>
+			<Constant>ЗапретПроведенияПриОтрицательныхОстатках</Constant>
 			<Catalog>Должности</Catalog>
 			<Catalog>Сотрудники</Catalog>
 			<Catalog>Номенклатура</Catalog>
@@ -257,22 +258,39 @@
 			<Catalog>ПородыПитомцев</Catalog>
 			<Catalog>Пользователи</Catalog>
 			<Catalog>Организации</Catalog>
+			<Catalog>СтатьиЗатрат</Catalog>
+			<Catalog>Кассы</Catalog>
+			<Catalog>Банки</Catalog>
+			<Catalog>ЭквайринговыеТерминалы</Catalog>
 			<Document>ЗаписьКлиента</Document>
 			<Document>РеализацияТоваровИУслуг</Document>
 			<Document>ПоступленияТоваров</Document>
 			<Document>ПеремещениеТоваров</Document>
+			<Document>ПоступлениеУслуг</Document>
+			<Document>УстановкаУчетнойПолитикиОрганизации</Document>
+			<Document>ПоступлениеДенежныхСредств</Document>
+			<Document>РасходДенежныхСредств</Document>
 			<Enum>ТипыОрганизаций</Enum>
 			<Enum>ПолФизическогоЛица</Enum>
 			<Enum>ТипыНоменклатуры</Enum>
 			<Enum>ТипыКонтрагентов</Enum>
 			<Enum>ВидыПитомцев</Enum>
 			<Enum>ВидыЦены</Enum>
+			<Enum>ВидыУчетнойПолитики</Enum>
+			<Enum>ТипыДенежныхСредств</Enum>
+			<Enum>ВидыОперацийПоступленияДенег</Enum>
+			<Enum>ВидыОперацийРасходаДенег</Enum>
 			<Report>ОтчётПоОказаннымУслугам</Report>
 			<Report>ОтчётПоТоварамНаСкладах</Report>
+			<Report>ОтчетПоПрибыли</Report>
 			<InformationRegister>ЦеныНоменклатуры</InformationRegister>
+			<InformationRegister>УчетнаяПолитика</InformationRegister>
 			<AccumulationRegister>Продажи</AccumulationRegister>
 			<AccumulationRegister>ТоварыНаСкладах</AccumulationRegister>
 			<AccumulationRegister>ЗаказыКлиентов</AccumulationRegister>
+			<AccumulationRegister>УчетЗатрат</AccumulationRegister>
+			<AccumulationRegister>ДенежныеСредства</AccumulationRegister>
+			<AccumulationRegister>БезналичнаяОплата</AccumulationRegister>
 		</ChildObjects>
 	</Configuration>
 </MetaDataObject>
