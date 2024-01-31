@@ -1,2 +1,1 @@
-﻿Modified: Document.ПоступлениеДенежныхСредств
-Modified: Document.ПоступлениеДенежныхСредств.ObjectModule
+﻿Modified: Configuration.ГрумингСалон
