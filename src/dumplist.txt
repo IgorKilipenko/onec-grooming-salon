@@ -1,1 +1,2 @@
-﻿Modified: Configuration.ГрумингСалон
+﻿Modified: Document.РеализацияТоваровИУслуг
+Modified: Document.РеализацияТоваровИУслуг.ObjectModule
