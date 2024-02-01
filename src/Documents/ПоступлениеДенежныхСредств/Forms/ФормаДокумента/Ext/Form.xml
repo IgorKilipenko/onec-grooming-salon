@@ -77,6 +77,7 @@
 		<LabelField name="ДокументОснование" id="13">
 			<DataPath>Объект.ДокументОснование</DataPath>
 			<EditMode>EnterOnInput</EditMode>
+			<Hiperlink>true</Hiperlink>
 			<ContextMenu name="ДокументОснованиеКонтекстноеМеню" id="14"/>
 			<ExtendedTooltip name="ДокументОснованиеРасширеннаяПодсказка" id="15"/>
 		</LabelField>
