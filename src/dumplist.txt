@@ -1,2 +1,4 @@
-﻿Modified: Document.РеализацияТоваровИУслуг
-Modified: Document.РеализацияТоваровИУслуг.ObjectModule
+﻿Modified: Document.РасходДенежныхСредств
+Modified: Document.РасходДенежныхСредств.Form.ФормаДокумента
+Modified: Document.РасходДенежныхСредств.Form.ФормаДокумента.Form
+Modified: Document.РасходДенежныхСредств.ObjectModule
