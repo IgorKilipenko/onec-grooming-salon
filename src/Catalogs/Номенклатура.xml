@@ -169,6 +169,7 @@
 			</Attribute>
 			<Form>ФормаЭлемента</Form>
 			<Form>ФормаСписка</Form>
+			<Form>ФормаСозданияЦены</Form>
 		</ChildObjects>
 	</Catalog>
 </MetaDataObject>
