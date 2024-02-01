@@ -115,6 +115,7 @@
 					<v8:content>Изменить цену</v8:content>
 				</v8:item>
 			</ToolTip>
+			<Action>ИзменитьЦену</Action>
 		</Command>
 	</Commands>
 </Form>

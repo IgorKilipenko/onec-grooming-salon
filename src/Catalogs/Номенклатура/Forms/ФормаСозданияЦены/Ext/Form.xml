@@ -15,6 +15,9 @@
 			</Button>
 		</ChildItems>
 	</AutoCommandBar>
+	<Events>
+		<Event name="OnCreateAtServer">ПриСозданииНаСервере</Event>
+	</Events>
 	<ChildItems>
 		<LabelField name="Номенклатура" id="1">
 			<DataPath>Номенклатура</DataPath>
