@@ -1,0 +1,4 @@
+﻿Modified: Document.ПоступлениеТоваров
+Modified: Document.ПоступлениеТоваров.ObjectModule
+Modified: Document.РасходДенежныхСредств
+Modified: Document.РасходДенежныхСредств.ObjectModule
