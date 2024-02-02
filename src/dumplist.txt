@@ -1,4 +1,4 @@
-﻿Modified: Document.ПоступлениеТоваров
-Modified: Document.ПоступлениеТоваров.ObjectModule
-Modified: Document.РасходДенежныхСредств
-Modified: Document.РасходДенежныхСредств.ObjectModule
+﻿Modified: Document.ПоступлениеДенежныхСредств
+Modified: Document.ПоступлениеДенежныхСредств.Form.ФормаДокумента
+Modified: Document.ПоступлениеДенежныхСредств.Form.ФормаДокумента.Form
+Modified: Document.ПоступлениеДенежныхСредств.ObjectModule
