@@ -264,7 +264,7 @@
 			<Catalog>ЭквайринговыеТерминалы</Catalog>
 			<Document>ЗаписьКлиента</Document>
 			<Document>РеализацияТоваровИУслуг</Document>
-			<Document>ПоступленияТоваров</Document>
+			<Document>ПоступлениеТоваров</Document>
 			<Document>ПеремещениеТоваров</Document>
 			<Document>ПоступлениеУслуг</Document>
 			<Document>УстановкаУчетнойПолитикиОрганизации</Document>

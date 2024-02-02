@@ -1,4 +1,0 @@
-﻿Modified: Catalog.Номенклатура.Form.ФормаСозданияЦены
-Modified: Catalog.Номенклатура.Form.ФормаСозданияЦены.Form
-Modified: Catalog.Номенклатура.Form.ФормаЭлемента
-Modified: Catalog.Номенклатура.Form.ФормаЭлемента.Form
