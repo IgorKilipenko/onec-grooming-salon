@@ -253,6 +253,15 @@
 			<Subsystem>Настройки</Subsystem>
 			<Subsystem>Деньги</Subsystem>
 			<Style>ГрумингСалон</Style>
+			<CommonPicture>БизнесПроцессы</CommonPicture>
+			<CommonPicture>БухгалтерскийУчет</CommonPicture>
+			<CommonPicture>Главное</CommonPicture>
+			<CommonPicture>Деньги</CommonPicture>
+			<CommonPicture>Настройки</CommonPicture>
+			<CommonPicture>Персонал</CommonPicture>
+			<CommonPicture>Покупки</CommonPicture>
+			<CommonPicture>Продажи</CommonPicture>
+			<CommonPicture>Справочники</CommonPicture>
 			<SessionParameter>ТекущийПользователь</SessionParameter>
 			<Role>ПолныеПрава</Role>
 			<CommonModule>РаботаСоСтрокамиВызовСервера</CommonModule>
