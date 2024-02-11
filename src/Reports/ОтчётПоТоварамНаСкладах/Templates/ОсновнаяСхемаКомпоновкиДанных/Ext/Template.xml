@@ -80,6 +80,13 @@
 				</v8:item>
 			</title>
 		</field>
+		<field xsi:type="DataSetFieldField">
+			<dataPath>СрокГодности</dataPath>
+			<field>СрокГодности</field>
+			<role>
+				<dcscom:dimension>true</dcscom:dimension>
+			</role>
+		</field>
 		<dataSource>ИсточникДанных1</dataSource>
 		<query>ВЫБРАТЬ
 	ТоварыНаСкладахОстаткиИОбороты.Номенклатура КАК Номенклатура,
@@ -88,9 +95,10 @@
 	ТоварыНаСкладахОстаткиИОбороты.КоличествоКонечныйОстаток КАК КонечныйОстаток,
 	ТоварыНаСкладахОстаткиИОбороты.КоличествоПриход КАК Приход,
 	ТоварыНаСкладахОстаткиИОбороты.КоличествоРасход КАК Расход,
-	ТоварыНаСкладахОстаткиИОбороты.Номенклатура.ТипНоменклатуры КАК ТипНоменклатуры
+	ТоварыНаСкладахОстаткиИОбороты.Номенклатура.ТипНоменклатуры КАК ТипНоменклатуры,
+	ТоварыНаСкладахОстаткиИОбороты.СрокГодности КАК СрокГодности
 ИЗ
-	РегистрНакопления.ТоварыНаСкладах.ОстаткиИОбороты({(&amp;НачалоПериода)}, {(&amp;КонецПериода)}, Регистратор, , Номенклатура.ТипНоменклатуры &lt;&gt; ЗНАЧЕНИЕ(Перечисление.ТипыНоменклатуры.Услуга) {(Склад = &amp;Склад), (Номенклатура = &amp;Номенклатура)}) КАК ТоварыНаСкладахОстаткиИОбороты</query>
+	РегистрНакопления.ТоварыНаСкладах.ОстаткиИОбороты({(&amp;НачалоПериода)}, {(&amp;КонецПериода)}, , , Номенклатура.ТипНоменклатуры &lt;&gt; ЗНАЧЕНИЕ(Перечисление.ТипыНоменклатуры.Услуга) {(Склад = &amp;Склад), (Номенклатура = &amp;Номенклатура)}) КАК ТоварыНаСкладахОстаткиИОбороты</query>
 	</dataSet>
 	<totalField>
 		<dataPath>КонечныйОстаток</dataPath>
@@ -225,6 +233,9 @@
 					<dcsset:field>Номенклатура</dcsset:field>
 				</dcsset:item>
 				<dcsset:item xsi:type="dcsset:SelectedItemField">
+					<dcsset:field>СрокГодности</dcsset:field>
+				</dcsset:item>
+				<dcsset:item xsi:type="dcsset:SelectedItemField">
 					<dcsset:field>НачальныйОстаток</dcsset:field>
 				</dcsset:item>
 				<dcsset:item xsi:type="dcsset:SelectedItemField">
@@ -339,15 +350,6 @@
 						<dcsset:item xsi:type="dcsset:SelectedItemAuto"/>
 					</dcsset:selection>
 					<dcsset:item xsi:type="dcsset:StructureItemGroup">
-						<dcsset:groupItems>
-							<dcsset:item xsi:type="dcsset:GroupItemField">
-								<dcsset:field>Номенклатура</dcsset:field>
-								<dcsset:groupType>Items</dcsset:groupType>
-								<dcsset:periodAdditionType>None</dcsset:periodAdditionType>
-								<dcsset:periodAdditionBegin xsi:type="xs:dateTime">0001-01-01T00:00:00</dcsset:periodAdditionBegin>
-								<dcsset:periodAdditionEnd xsi:type="xs:dateTime">0001-01-01T00:00:00</dcsset:periodAdditionEnd>
-							</dcsset:item>
-						</dcsset:groupItems>
 						<dcsset:order>
 							<dcsset:item xsi:type="dcsset:OrderItemAuto"/>
 						</dcsset:order>

@@ -6,3 +6,5 @@ New: Report.ОтчетПоБезналичнойОплате.Template.Основ
 New: Report.ОтчетПоБезналичнойОплате.Template.ОсновнаяСхемаКомпоновкиДанных.Template
 New: Subsystem.Деньги
 Modified: Configuration.ГрумингСалон
+Modified: Report.ОтчётПоТоварамНаСкладах.Template.ОсновнаяСхемаКомпоновкиДанных
+Modified: Report.ОтчётПоТоварамНаСкладах.Template.ОсновнаяСхемаКомпоновкиДанных.Template
