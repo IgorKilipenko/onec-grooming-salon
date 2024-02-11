@@ -302,6 +302,7 @@
 			<Report>ОтчётПоТоварамНаСкладах</Report>
 			<Report>ОтчетПоПрибыли</Report>
 			<Report>ОтчетДвиженияНаличныхДенег</Report>
+			<Report>ОтчетПоБезналичнойОплате</Report>
 			<InformationRegister>ЦеныНоменклатуры</InformationRegister>
 			<InformationRegister>УчетнаяПолитика</InformationRegister>
 			<AccumulationRegister>Продажи</AccumulationRegister>

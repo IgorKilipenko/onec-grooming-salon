@@ -7,76 +7,35 @@
 	<dataSet xsi:type="DataSetQuery">
 		<name>НаборДанных1</name>
 		<field xsi:type="DataSetFieldField">
-			<dataPath>ТипДенежныхСредств</dataPath>
-			<field>ТипДенежныхСредств</field>
-		</field>
-		<field xsi:type="DataSetFieldField">
-			<dataPath>СуммаКонечныйОстаток</dataPath>
-			<field>СуммаКонечныйОстаток</field>
-			<role>
-				<dcscom:balance>true</dcscom:balance>
-				<dcscom:balanceGroupName>Сумма</dcscom:balanceGroupName>
-				<dcscom:balanceType>ClosingBalance</dcscom:balanceType>
-			</role>
-		</field>
-		<field xsi:type="DataSetFieldField">
-			<dataPath>СуммаРасход</dataPath>
-			<field>СуммаРасход</field>
-		</field>
-		<field xsi:type="DataSetFieldField">
-			<dataPath>СуммаПриход</dataPath>
-			<field>СуммаПриход</field>
-		</field>
-		<field xsi:type="DataSetFieldField">
-			<dataPath>СуммаНачальныйОстаток</dataPath>
-			<field>СуммаНачальныйОстаток</field>
-			<role>
-				<dcscom:balance>true</dcscom:balance>
-				<dcscom:balanceGroupName>Сумма</dcscom:balanceGroupName>
-				<dcscom:balanceType>OpeningBalance</dcscom:balanceType>
-			</role>
-		</field>
-		<field xsi:type="DataSetFieldField">
-			<dataPath>БанковскийСчетКасса</dataPath>
-			<field>БанковскийСчетКасса</field>
-			<title xsi:type="v8:LocalStringType">
-				<v8:item>
-					<v8:lang>ru</v8:lang>
-					<v8:content>Банковский счет/касса</v8:content>
-				</v8:item>
-			</title>
+			<dataPath>ЭквайринговыйТерминал</dataPath>
+			<field>ЭквайринговыйТерминал</field>
 			<role>
 				<dcscom:dimension>true</dcscom:dimension>
 			</role>
 		</field>
+		<field xsi:type="DataSetFieldField">
+			<dataPath>СуммаОборот</dataPath>
+			<field>СуммаОборот</field>
+			<title xsi:type="v8:LocalStringType">
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>Сумма</v8:content>
+				</v8:item>
+			</title>
+		</field>
 		<dataSource>ИсточникДанных1</dataSource>
 		<query>ВЫБРАТЬ
-	ДенежныеСредстваОстаткиИОбороты.БанковскийСчетКасса КАК БанковскийСчетКасса,
-	СУММА(ДенежныеСредстваОстаткиИОбороты.СуммаНачальныйОстаток) КАК СуммаНачальныйОстаток,
-	СУММА(ДенежныеСредстваОстаткиИОбороты.СуммаПриход) КАК СуммаПриход,
-	СУММА(ДенежныеСредстваОстаткиИОбороты.СуммаРасход) КАК СуммаРасход,
-	СУММА(ДенежныеСредстваОстаткиИОбороты.СуммаКонечныйОстаток) КАК СуммаКонечныйОстаток
+	БезналичнаяОплатаОбороты.ЭквайринговыйТерминал КАК ЭквайринговыйТерминал,
+	СУММА(БезналичнаяОплатаОбороты.СуммаОборот) КАК СуммаОборот
 ИЗ
-	РегистрНакопления.ДенежныеСредства.ОстаткиИОбороты({(&amp;НачалоПериода)}, {(&amp;КонецПериода)}, Запись, ДвиженияИГраницыПериода, ТипДенежныхСредств = ЗНАЧЕНИЕ(Перечисление.ТипыДенежныхСредств.Наличные)) КАК ДенежныеСредстваОстаткиИОбороты
+	РегистрНакопления.БезналичнаяОплата.Обороты({(&amp;НачалоПериода)}, {(&amp;КонецПериода)}, , ) КАК БезналичнаяОплатаОбороты
 
 СГРУППИРОВАТЬ ПО
-	ДенежныеСредстваОстаткиИОбороты.БанковскийСчетКасса</query>
+	БезналичнаяОплатаОбороты.ЭквайринговыйТерминал</query>
 	</dataSet>
 	<totalField>
-		<dataPath>СуммаКонечныйОстаток</dataPath>
-		<expression>Сумма(СуммаКонечныйОстаток)</expression>
-	</totalField>
-	<totalField>
-		<dataPath>СуммаНачальныйОстаток</dataPath>
-		<expression>Сумма(СуммаНачальныйОстаток)</expression>
-	</totalField>
-	<totalField>
-		<dataPath>СуммаПриход</dataPath>
-		<expression>Сумма(СуммаПриход)</expression>
-	</totalField>
-	<totalField>
-		<dataPath>СуммаРасход</dataPath>
-		<expression>Сумма(СуммаРасход)</expression>
+		<dataPath>СуммаОборот</dataPath>
+		<expression>Сумма(СуммаОборот)</expression>
 	</totalField>
 	<parameter>
 		<name>КонецПериода</name>
@@ -138,19 +97,10 @@
 		<dcsset:settings xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows">
 			<dcsset:selection>
 				<dcsset:item xsi:type="dcsset:SelectedItemField">
-					<dcsset:field>БанковскийСчетКасса</dcsset:field>
+					<dcsset:field>ЭквайринговыйТерминал</dcsset:field>
 				</dcsset:item>
 				<dcsset:item xsi:type="dcsset:SelectedItemField">
-					<dcsset:field>СуммаНачальныйОстаток</dcsset:field>
-				</dcsset:item>
-				<dcsset:item xsi:type="dcsset:SelectedItemField">
-					<dcsset:field>СуммаПриход</dcsset:field>
-				</dcsset:item>
-				<dcsset:item xsi:type="dcsset:SelectedItemField">
-					<dcsset:field>СуммаРасход</dcsset:field>
-				</dcsset:item>
-				<dcsset:item xsi:type="dcsset:SelectedItemField">
-					<dcsset:field>СуммаКонечныйОстаток</dcsset:field>
+					<dcsset:field>СуммаОборот</dcsset:field>
 				</dcsset:item>
 			</dcsset:selection>
 			<dcsset:dataParameters>
@@ -160,7 +110,7 @@
 					<dcscor:value xsi:type="v8:StandardPeriod">
 						<v8:variant xsi:type="v8:StandardPeriodVariant">ThisMonth</v8:variant>
 					</dcscor:value>
-					<dcsset:userSettingID>6189f4fb-e739-493a-a734-9a2a9157a5e6</dcsset:userSettingID>
+					<dcsset:userSettingID>8a23931a-5ef0-48dd-ad72-a78c20c239e6</dcsset:userSettingID>
 				</dcscor:item>
 			</dcsset:dataParameters>
 			<dcsset:outputParameters>
