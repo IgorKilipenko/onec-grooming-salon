@@ -1,4 +1,5 @@
-﻿Modified: Document.ПоступлениеДенежныхСредств
-Modified: Document.ПоступлениеДенежныхСредств.Form.ФормаДокумента
-Modified: Document.ПоступлениеДенежныхСредств.Form.ФормаДокумента.Form
-Modified: Document.ПоступлениеДенежныхСредств.ObjectModule
+﻿New: Report.ОтчетДвиженияНаличныхДенег
+New: Report.ОтчетДвиженияНаличныхДенег.Template.ОсновнаяСхемаКомпоновкиДанных
+New: Report.ОтчетДвиженияНаличныхДенег.Template.ОсновнаяСхемаКомпоновкиДанных.Template
+New: Subsystem.Деньги
+Modified: Configuration.ГрумингСалон
