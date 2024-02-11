@@ -228,7 +228,7 @@
 			<AllowedIncomingShareRequestTypes/>
 			<MainClientApplicationWindowMode>Normal</MainClientApplicationWindowMode>
 			<DefaultInterface/>
-			<DefaultStyle/>
+			<DefaultStyle>Style.ГрумингСалон</DefaultStyle>
 			<DefaultLanguage>Language.Русский</DefaultLanguage>
 			<BriefInformation/>
 			<DetailedInformation/>
@@ -252,6 +252,7 @@
 			<Subsystem>Персонал</Subsystem>
 			<Subsystem>Настройки</Subsystem>
 			<Subsystem>Деньги</Subsystem>
+			<Style>ГрумингСалон</Style>
 			<SessionParameter>ТекущийПользователь</SessionParameter>
 			<Role>ПолныеПрава</Role>
 			<CommonModule>РаботаСоСтрокамиВызовСервера</CommonModule>

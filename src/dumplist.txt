@@ -4,6 +4,8 @@ New: Report.ОтчетДвиженияНаличныхДенег.Template.Осн
 New: Report.ОтчетПоБезналичнойОплате
 New: Report.ОтчетПоБезналичнойОплате.Template.ОсновнаяСхемаКомпоновкиДанных
 New: Report.ОтчетПоБезналичнойОплате.Template.ОсновнаяСхемаКомпоновкиДанных.Template
+New: Style.ГрумингСалон
+New: Style.ГрумингСалон.Style
 New: Subsystem.Деньги
 Modified: Configuration.ГрумингСалон
 Modified: Report.ОтчётПоТоварамНаСкладах.Template.ОсновнаяСхемаКомпоновкиДанных
