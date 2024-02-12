@@ -317,6 +317,7 @@
 			<Report>ОтчетДвиженияНаличныхДенег</Report>
 			<Report>ОтчетПоБезналичнойОплате</Report>
 			<DataProcessor>МониторРуководителя</DataProcessor>
+			<DataProcessor>ПланированиеЗагрузкиСотрудников</DataProcessor>
 			<InformationRegister>ЦеныНоменклатуры</InformationRegister>
 			<InformationRegister>УчетнаяПолитика</InformationRegister>
 			<AccumulationRegister>Продажи</AccumulationRegister>

@@ -1,2 +1,4 @@
-﻿Modified: Document.РеализацияТоваровИУслуг
-Modified: Document.РеализацияТоваровИУслуг.ObjectModule
+﻿New: DataProcessor.ПланированиеЗагрузкиСотрудников
+New: DataProcessor.ПланированиеЗагрузкиСотрудников.Form.Форма
+New: DataProcessor.ПланированиеЗагрузкиСотрудников.Form.Форма.Form
+Modified: Configuration.ГрумингСалон
