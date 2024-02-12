@@ -1,4 +1,6 @@
-﻿New: CommonPicture.БизнесПроцессы
+﻿New: CommonModule.ДиагностикаКлиентСервер
+New: CommonModule.ДиагностикаКлиентСервер.Module
+New: CommonPicture.БизнесПроцессы
 New: CommonPicture.БизнесПроцессы.Picture
 New: CommonPicture.БухгалтерскийУчет
 New: CommonPicture.БухгалтерскийУчет.Picture
@@ -16,7 +18,9 @@ New: CommonPicture.Продажи
 New: CommonPicture.Продажи.Picture
 New: CommonPicture.Справочники
 New: CommonPicture.Справочники.Picture
+New: Configuration.ГрумингСалон.Logo
 New: Configuration.ГрумингСалон.MainSectionPicture
+New: Configuration.ГрумингСалон.Splash
 New: Report.ОтчетДвиженияНаличныхДенег
 New: Report.ОтчетДвиженияНаличныхДенег.Template.ОсновнаяСхемаКомпоновкиДанных
 New: Report.ОтчетДвиженияНаличныхДенег.Template.ОсновнаяСхемаКомпоновкиДанных.Template
@@ -27,6 +31,7 @@ New: Style.ГрумингСалон
 New: Style.ГрумингСалон.Style
 New: Subsystem.Деньги
 Modified: Configuration.ГрумингСалон
+Modified: Configuration.ГрумингСалон.ClientApplicationInterface
 Modified: Report.ОтчётПоТоварамНаСкладах.Template.ОсновнаяСхемаКомпоновкиДанных
 Modified: Report.ОтчётПоТоварамНаСкладах.Template.ОсновнаяСхемаКомпоновкиДанных.Template
 Modified: Subsystem.Настройки
