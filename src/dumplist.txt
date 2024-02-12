@@ -1,5 +1,7 @@
 ﻿New: CommonModule.ДиагностикаКлиентСервер
 New: CommonModule.ДиагностикаКлиентСервер.Module
+New: CommonModule.РаботаСКоллекциями
+New: CommonModule.РаботаСКоллекциями.Module
 New: CommonPicture.БизнесПроцессы
 New: CommonPicture.БизнесПроцессы.Picture
 New: CommonPicture.БухгалтерскийУчет
