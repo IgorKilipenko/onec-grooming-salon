@@ -1,5 +1,5 @@
-﻿Modified: Document.РеализацияТоваровИУслуг
-Modified: Document.РеализацияТоваровИУслуг.Form.ФормаДокумента
-Modified: Document.РеализацияТоваровИУслуг.Form.ФормаДокумента.Form
-Modified: Document.РеализацияТоваровИУслуг.ManagerModule
-Modified: Document.РеализацияТоваровИУслуг.ObjectModule
+﻿Modified: Document.ЗаписьКлиента
+Modified: Document.ЗаписьКлиента.Form.ФормаДокумента
+Modified: Document.ЗаписьКлиента.Form.ФормаДокумента.Form
+Modified: Document.ЗаписьКлиента.ManagerModule
+Modified: Document.ЗаписьКлиента.ObjectModule
