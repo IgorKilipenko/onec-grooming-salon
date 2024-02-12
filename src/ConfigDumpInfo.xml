@@ -142,8 +142,8 @@
 		<Metadata name="CommandGroup.Настройки" id="ca3c66ff-2001-4b7f-b7e5-34c2ba1549ae" configVersion="5dd31403552ff843a68abce05de5607a00000000"/>
 		<Metadata name="CommonModule.ДиагностикаКлиентСервер" id="94ca35d0-5484-4e85-b484-069e0da03e88" configVersion="b33d4062adf2f74db43698e55ee21dd400000000"/>
 		<Metadata name="CommonModule.ДиагностикаКлиентСервер.Module" id="94ca35d0-5484-4e85-b484-069e0da03e88.0" configVersion="6f91d8e399bb6e4caf8f5f6d7d2d6f6500000000"/>
-		<Metadata name="CommonModule.РаботаСДокументами" id="36b2d7f6-45fd-48ae-8543-9173c6c2595c" configVersion="3e945289a244e64bb1e92b6d656e848700000000"/>
-		<Metadata name="CommonModule.РаботаСДокументами.Module" id="36b2d7f6-45fd-48ae-8543-9173c6c2595c.0" configVersion="9461338aa6093046bc13e9a0f26d789f00000000"/>
+		<Metadata name="CommonModule.РаботаСДокументами" id="36b2d7f6-45fd-48ae-8543-9173c6c2595c" configVersion="9434297bb9094f4bbf48f0261c9b774600000000"/>
+		<Metadata name="CommonModule.РаботаСДокументами.Module" id="36b2d7f6-45fd-48ae-8543-9173c6c2595c.0" configVersion="ee73e8aff7260a408bce8dbb0abe8a5600000000"/>
 		<Metadata name="CommonModule.РаботаСДокументамиКлиентСервер" id="9d6855cc-ebea-40ef-99eb-c52fac488dd8" configVersion="9daefa327bfabe419fa59ebc50c2076b00000000"/>
 		<Metadata name="CommonModule.РаботаСДокументамиКлиентСервер.Module" id="9d6855cc-ebea-40ef-99eb-c52fac488dd8.0" configVersion="b20aae096629084bb513dd66b2ad0ec800000000"/>
 		<Metadata name="CommonModule.РаботаСКоллекциями" id="00bbf57d-8f3c-4e9d-b280-b8252ad49ef0" configVersion="e9cce1e3ec067e4cbe7508b58e60611700000000"/>

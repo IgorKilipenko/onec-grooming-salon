@@ -1,2 +1,2 @@
-﻿New: Catalog.Кассы.ManagerModule
-Modified: Catalog.Кассы
+﻿Modified: CommonModule.РаботаСДокументами
+Modified: CommonModule.РаботаСДокументами.Module
