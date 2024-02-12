@@ -1,7 +1,4 @@
-﻿Modified: Document.ЗаписьКлиента.Form.ФормаДокумента
-Modified: Document.ЗаписьКлиента.Form.ФормаДокумента.Form
-Modified: Document.РеализацияТоваровИУслуг
-Modified: Document.РеализацияТоваровИУслуг.Form.ФормаДокумента
-Modified: Document.РеализацияТоваровИУслуг.Form.ФормаДокумента.Form
-Modified: Document.РеализацияТоваровИУслуг.ManagerModule
-Modified: Document.РеализацияТоваровИУслуг.ObjectModule
+﻿New: Subsystem.Справочники.Subsystem.Деньги
+New: Subsystem.Справочники.Subsystem.Деньги.CommandInterface
+Modified: Subsystem.Справочники
+Modified: Subsystem.Справочники.CommandInterface
