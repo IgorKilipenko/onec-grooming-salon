@@ -133,11 +133,11 @@
 				</RadioButtonField>
 			</ChildItems>
 		</UsualGroup>
-		<PlannerField name="Реквизит1" id="15">
+		<PlannerField name="Планировщик" id="15">
 			<DataPath>Планировщик</DataPath>
 			<Visible>false</Visible>
-			<ContextMenu name="Реквизит1КонтекстноеМеню" id="16"/>
-			<ExtendedTooltip name="Реквизит1РасширеннаяПодсказка" id="17"/>
+			<ContextMenu name="ПланировщикКонтекстноеМеню" id="16"/>
+			<ExtendedTooltip name="ПланировщикРасширеннаяПодсказка" id="17"/>
 		</PlannerField>
 	</ChildItems>
 	<Attributes>
