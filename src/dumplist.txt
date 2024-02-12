@@ -1,4 +1,2 @@
-﻿New: Subsystem.Справочники.Subsystem.Деньги
-New: Subsystem.Справочники.Subsystem.Деньги.CommandInterface
-Modified: Subsystem.Справочники
-Modified: Subsystem.Справочники.CommandInterface
+﻿New: Catalog.Кассы.ManagerModule
+Modified: Catalog.Кассы
