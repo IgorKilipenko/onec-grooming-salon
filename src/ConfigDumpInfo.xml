@@ -186,8 +186,8 @@
 		<Metadata name="DataProcessor.МониторРуководителя.Form.Форма" id="af2dac3e-4d8e-4b8e-95f0-17efc107c3c1" configVersion="57d85d2658877342a9d19558039db0b900000000"/>
 		<Metadata name="DataProcessor.МониторРуководителя.Form.Форма.Form" id="af2dac3e-4d8e-4b8e-95f0-17efc107c3c1.0" configVersion="d46e6886690aca45bba161bfc0c5af3e00000000"/>
 		<Metadata name="DataProcessor.ПланированиеЗагрузкиСотрудников" id="3978029f-32ac-4a68-90b5-65a78010b576" configVersion="0557b3097cec6742a2ac24fe6c3bbe6f00000000"/>
-		<Metadata name="DataProcessor.ПланированиеЗагрузкиСотрудников.Form.Форма" id="445c7a4a-ee8c-4a79-a40b-63911b4b2c33" configVersion="5589c714e5ca2545ab2f5bef80c7e9b500000000"/>
-		<Metadata name="DataProcessor.ПланированиеЗагрузкиСотрудников.Form.Форма.Form" id="445c7a4a-ee8c-4a79-a40b-63911b4b2c33.0" configVersion="258dd05a389f2343ba5810de78d3ccd800000000"/>
+		<Metadata name="DataProcessor.ПланированиеЗагрузкиСотрудников.Form.Форма" id="445c7a4a-ee8c-4a79-a40b-63911b4b2c33" configVersion="ee4ef5868b4b0944a7857eead06fbb0900000000"/>
+		<Metadata name="DataProcessor.ПланированиеЗагрузкиСотрудников.Form.Форма.Form" id="445c7a4a-ee8c-4a79-a40b-63911b4b2c33.0" configVersion="edb529f200117346aa7bbc92aa0772b700000000"/>
 		<Metadata name="DefinedType.КоличествоТоваров" id="af789118-a575-48ef-91d2-953bf7bb9c3d" configVersion="4edbdd8ac4dacc40b0944c25f4d7381900000000"/>
 		<Metadata name="DefinedType.КомментарийКороткий" id="05da5451-ae36-42e6-a9f8-928a3335e976" configVersion="d756f18746df71418aad9c3ac07664e200000000"/>
 		<Metadata name="DefinedType.КомментарийПолный" id="78f97855-6afc-4d20-810d-34369a2db293" configVersion="98ffc6d7c9374e4989cddf7c6633acc700000000"/>
