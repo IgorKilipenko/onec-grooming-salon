@@ -1,2 +1,5 @@
-﻿New: Catalog.Контрагенты.ManagerModule
-Modified: Catalog.Контрагенты
+﻿New: Document.ПоступлениеДенежныхСредств.ManagerModule
+Modified: Document.ПоступлениеДенежныхСредств
+Modified: Document.ПоступлениеДенежныхСредств.Form.ФормаДокумента
+Modified: Document.ПоступлениеДенежныхСредств.Form.ФормаДокумента.Form
+Modified: Document.ПоступлениеДенежныхСредств.ObjectModule
