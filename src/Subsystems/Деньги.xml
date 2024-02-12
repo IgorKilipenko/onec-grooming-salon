@@ -21,6 +21,8 @@
 			<Content>
 				<xr:Item xsi:type="xr:MDObjectRef">Report.ОтчетДвиженияНаличныхДенег</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">Report.ОтчетПоБезналичнойОплате</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">Document.ПоступлениеДенежныхСредств</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">Document.РасходДенежныхСредств</xr:Item>
 			</Content>
 		</Properties>
 		<ChildObjects/>

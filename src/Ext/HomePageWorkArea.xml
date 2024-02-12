@@ -6,7 +6,33 @@
 			<Form>Document.ЗаписьКлиента.Form.ФормаСписка</Form>
 			<Height>10</Height>
 			<Visibility>
-				<xr:Common>true</xr:Common>
+				<xr:Common>false</xr:Common>
+				<xr:Value name="Role.ПолныеПрава">true</xr:Value>
+				<xr:Value name="Role.Руководитель">false</xr:Value>
+				<xr:Value name="Role.Закупщик">false</xr:Value>
+				<xr:Value name="Role.Администратор">false</xr:Value>
+			</Visibility>
+		</Item>
+		<Item>
+			<Form>DataProcessor.МониторРуководителя.Form.Форма</Form>
+			<Height>10</Height>
+			<Visibility>
+				<xr:Common>false</xr:Common>
+				<xr:Value name="Role.ПолныеПрава">false</xr:Value>
+				<xr:Value name="Role.Руководитель">true</xr:Value>
+				<xr:Value name="Role.Закупщик">false</xr:Value>
+				<xr:Value name="Role.Администратор">false</xr:Value>
+			</Visibility>
+		</Item>
+		<Item>
+			<Form>DataProcessor.ПланированиеЗагрузкиСотрудников.Form.Форма</Form>
+			<Height>10</Height>
+			<Visibility>
+				<xr:Common>false</xr:Common>
+				<xr:Value name="Role.ПолныеПрава">false</xr:Value>
+				<xr:Value name="Role.Руководитель">false</xr:Value>
+				<xr:Value name="Role.Закупщик">false</xr:Value>
+				<xr:Value name="Role.Администратор">true</xr:Value>
 			</Visibility>
 		</Item>
 	</Column>

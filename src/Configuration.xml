@@ -264,6 +264,9 @@
 			<CommonPicture>Справочники</CommonPicture>
 			<SessionParameter>ТекущийПользователь</SessionParameter>
 			<Role>ПолныеПрава</Role>
+			<Role>Руководитель</Role>
+			<Role>Закупщик</Role>
+			<Role>Администратор</Role>
 			<CommonModule>РаботаСоСтрокамиВызовСервера</CommonModule>
 			<CommonModule>РаботаСДокументами</CommonModule>
 			<CommonModule>РаботаСЦенамиВызовСервера</CommonModule>
