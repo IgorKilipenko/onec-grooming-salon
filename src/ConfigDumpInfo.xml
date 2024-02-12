@@ -233,8 +233,8 @@
 			<Metadata name="Document.ПоступлениеДенежныхСредств.Attribute.АвторДокумента" id="d6d1fa18-1089-48f9-9028-6d7fdccb3d6f"/>
 			<Metadata name="Document.ПоступлениеДенежныхСредств.Attribute.СуммаДокумента" id="de0b1750-8f57-4300-8835-28774ed1fc2c"/>
 		</Metadata>
-		<Metadata name="Document.ПоступлениеДенежныхСредств.Form.ФормаДокумента" id="eeae7796-cfb9-42de-87a4-af66fab760eb" configVersion="2abfa6d149057d4ca403ec4793abab4800000000"/>
-		<Metadata name="Document.ПоступлениеДенежныхСредств.Form.ФормаДокумента.Form" id="eeae7796-cfb9-42de-87a4-af66fab760eb.0" configVersion="e9ec7de8cc94b0468ef5155b23fb559200000000"/>
+		<Metadata name="Document.ПоступлениеДенежныхСредств.Form.ФормаДокумента" id="eeae7796-cfb9-42de-87a4-af66fab760eb" configVersion="d972283e1175b948b5e9fce81f2062ab00000000"/>
+		<Metadata name="Document.ПоступлениеДенежныхСредств.Form.ФормаДокумента.Form" id="eeae7796-cfb9-42de-87a4-af66fab760eb.0" configVersion="b04e8f1dc3f1c24db859bc41ec28c57f00000000"/>
 		<Metadata name="Document.ПоступлениеДенежныхСредств.ManagerModule" id="da34b213-3b99-4e85-a1d1-82962f3cf0fc.2" configVersion="2d081c63bffd6f4d95effcd64b8f31e400000000"/>
 		<Metadata name="Document.ПоступлениеДенежныхСредств.ObjectModule" id="da34b213-3b99-4e85-a1d1-82962f3cf0fc.0" configVersion="c647ddfd893a0f4d8dccc5fa3bd62a5c00000000"/>
 		<Metadata name="Document.ПоступлениеТоваров" id="fae4f4d5-2dbe-45a9-b5c9-cb07edb71685" configVersion="8b87a30e6b45e540b07ff1ee2570003b00000000">

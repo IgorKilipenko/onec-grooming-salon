@@ -1,2 +1,2 @@
-﻿Modified: DataProcessor.МониторРуководителя.Form.Форма
-Modified: DataProcessor.МониторРуководителя.Form.Форма.Form
+﻿Modified: Document.ПоступлениеДенежныхСредств.Form.ФормаДокумента
+Modified: Document.ПоступлениеДенежныхСредств.Form.ФормаДокумента.Form
