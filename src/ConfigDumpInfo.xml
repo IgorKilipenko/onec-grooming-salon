@@ -417,8 +417,8 @@
 		<Metadata name="Report.ОтчётПоТоварамНаСкладах.Template.ОсновнаяСхемаКомпоновкиДанных.Template" id="7de93bb0-ec3a-49aa-a2ad-154f8bc699be.0" configVersion="8240bc88b2ed304b837bf70f2575052000000000"/>
 		<Metadata name="Role.Администратор" id="7f910801-a91b-4a15-a9fb-126af7c601e1" configVersion="ce2ff1c33f9f884f8359c09d2c5b073800000000"/>
 		<Metadata name="Role.Администратор.Rights" id="7f910801-a91b-4a15-a9fb-126af7c601e1.0" configVersion="68d528d15be0ad45bc017fe971d0264400000000"/>
-		<Metadata name="Role.Закупщик" id="1e3b2767-438e-49ec-907b-7138fb173be6" configVersion="ecd3a646af9a9047b96c892315ef02a900000000"/>
-		<Metadata name="Role.Закупщик.Rights" id="1e3b2767-438e-49ec-907b-7138fb173be6.0" configVersion="f2e1147109e7f64bb2d4d0101737554e00000000"/>
+		<Metadata name="Role.Закупщик" id="1e3b2767-438e-49ec-907b-7138fb173be6" configVersion="bca68a2d583c3b49a55fb37f7e9a205600000000"/>
+		<Metadata name="Role.Закупщик.Rights" id="1e3b2767-438e-49ec-907b-7138fb173be6.0" configVersion="cb7a57f221a10e48884c6a32796520e400000000"/>
 		<Metadata name="Role.ПолныеПрава" id="00767566-1e0d-461c-8d28-0d2b2e3ae3d5" configVersion="7908ab6f3d88f34f8f29afb16a37d06f00000000"/>
 		<Metadata name="Role.ПолныеПрава.Rights" id="00767566-1e0d-461c-8d28-0d2b2e3ae3d5.0" configVersion="b1583d3910bde74ebe3ef440614c2bbe00000000"/>
 		<Metadata name="Role.Руководитель" id="8a7dd348-f393-4c03-b424-f5c4b498e926" configVersion="4b71ee7060253c4682a0adc970c29f8100000000"/>

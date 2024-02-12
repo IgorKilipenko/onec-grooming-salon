@@ -1,10 +1,2 @@
-﻿New: Role.Администратор
-New: Role.Администратор.Rights
-New: Role.Закупщик
-New: Role.Закупщик.Rights
-New: Role.Руководитель
-New: Role.Руководитель.Rights
-Modified: Configuration.ГрумингСалон
-Modified: Configuration.ГрумингСалон.HomePageWorkArea
-Modified: Subsystem.Деньги
-Modified: Subsystem.Настройки.Subsystem.Сервис
+﻿Modified: Role.Закупщик
+Modified: Role.Закупщик.Rights
