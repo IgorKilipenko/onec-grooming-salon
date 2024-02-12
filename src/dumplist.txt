@@ -1,2 +1,2 @@
-﻿Modified: CommonModule.РаботаСДокументами
-Modified: CommonModule.РаботаСДокументами.Module
+﻿New: Catalog.Контрагенты.ManagerModule
+Modified: Catalog.Контрагенты
