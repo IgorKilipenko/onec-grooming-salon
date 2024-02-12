@@ -23,6 +23,7 @@ New: CommonPicture.Справочники.Picture
 New: Configuration.ГрумингСалон.Logo
 New: Configuration.ГрумингСалон.MainSectionPicture
 New: Configuration.ГрумингСалон.Splash
+New: Document.ЗаписьКлиента.ManagerModule
 New: Report.ОтчетДвиженияНаличныхДенег
 New: Report.ОтчетДвиженияНаличныхДенег.Template.ОсновнаяСхемаКомпоновкиДанных
 New: Report.ОтчетДвиженияНаличныхДенег.Template.ОсновнаяСхемаКомпоновкиДанных.Template
@@ -37,6 +38,10 @@ Modified: Catalog.Номенклатура.Form.ФормаЭлемента
 Modified: Catalog.Номенклатура.Form.ФормаЭлемента.Form
 Modified: Configuration.ГрумингСалон
 Modified: Configuration.ГрумингСалон.ClientApplicationInterface
+Modified: Document.ЗаписьКлиента
+Modified: Document.ЗаписьКлиента.Form.ФормаДокумента
+Modified: Document.ЗаписьКлиента.Form.ФормаДокумента.Form
+Modified: Document.ЗаписьКлиента.ObjectModule
 Modified: Report.ОтчётПоТоварамНаСкладах.Template.ОсновнаяСхемаКомпоновкиДанных
 Modified: Report.ОтчётПоТоварамНаСкладах.Template.ОсновнаяСхемаКомпоновкиДанных.Template
 Modified: Subsystem.Настройки
