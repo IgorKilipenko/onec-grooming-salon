@@ -169,7 +169,7 @@
 		<Metadata name="CommonPicture.Продажи.Picture" id="719ed3c0-380a-464b-bd71-bef40de04625.0" configVersion="5960b7b254c0e2428f0645d3d5854ed600000000"/>
 		<Metadata name="CommonPicture.Справочники" id="703bb534-6eb6-45dc-83f0-9ac0cfbb7864" configVersion="3c2b8b74f2613d4ea04ecaaf7ce2cfd000000000"/>
 		<Metadata name="CommonPicture.Справочники.Picture" id="703bb534-6eb6-45dc-83f0-9ac0cfbb7864.0" configVersion="50218a0ba61bff438b3326bc6110430c00000000"/>
-		<Metadata name="Configuration.ГрумингСалон" id="bf7fd7f7-d5f2-4af8-987a-4903e6ac7a60" configVersion="7002674cb9d98b46a5e51cc7bcfd71b500000000"/>
+		<Metadata name="Configuration.ГрумингСалон" id="bf7fd7f7-d5f2-4af8-987a-4903e6ac7a60" configVersion="916d0a24ec6c264fa0c678103e8c75b700000000"/>
 		<Metadata name="Configuration.ГрумингСалон.ClientApplicationInterface" id="5b918c7f-f6dd-47f1-8449-205108ad3f01.b" configVersion="4265f2cb7ceaf14fac3bda5d2ce5192c00000000"/>
 		<Metadata name="Configuration.ГрумингСалон.CommandInterface" id="5b918c7f-f6dd-47f1-8449-205108ad3f01.a" configVersion="e7750e0aa01cd642b0ec90b27736520e00000000"/>
 		<Metadata name="Configuration.ГрумингСалон.HomePageWorkArea" id="5b918c7f-f6dd-47f1-8449-205108ad3f01.8" configVersion="4179c0dbdf2c594793ec75fbde26fce100000000"/>
@@ -349,6 +349,11 @@
 		<Metadata name="Enum.ПолФизическогоЛица" id="4ecc25dd-de3e-4bfd-b96a-500df6beaaeb" configVersion="536edab13f086046a4517b5fd030009c00000000">
 			<Metadata name="Enum.ПолФизическогоЛица.EnumValue.Мужской" id="773b7b19-8f30-4c97-a3c4-6a7b77dbf1b3"/>
 			<Metadata name="Enum.ПолФизическогоЛица.EnumValue.Женский" id="eecd5153-b17b-44cf-bd63-518d43c7530a"/>
+		</Metadata>
+		<Metadata name="Enum.ПризнакиОплаты" id="585b132f-2cb0-480d-b94d-d48726762edb" configVersion="eee1d5844bcedc4e85ed45e572a1913800000000">
+			<Metadata name="Enum.ПризнакиОплаты.EnumValue.НеОплачен" id="5938bc93-91e4-421c-96c6-c33de256800b"/>
+			<Metadata name="Enum.ПризнакиОплаты.EnumValue.ПолностьюОплачен" id="ad2e8fcd-6571-45fb-9ce1-03057c9275d9"/>
+			<Metadata name="Enum.ПризнакиОплаты.EnumValue.ЧастичноОплачен" id="ecefe58e-0775-40ea-827f-a99fc052d10d"/>
 		</Metadata>
 		<Metadata name="Enum.ТипыДенежныхСредств" id="00b06251-16d0-424c-b7fb-be0adf018da2" configVersion="284d29a170de3343a2f51b164a11dd2b00000000">
 			<Metadata name="Enum.ТипыДенежныхСредств.EnumValue.Наличные" id="06548c5d-a175-46f6-b839-5e391a4e949b"/>

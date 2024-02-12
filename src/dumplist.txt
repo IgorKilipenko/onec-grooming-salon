@@ -1,0 +1,2 @@
+﻿New: Enum.ПризнакиОплаты
+Modified: Configuration.ГрумингСалон
