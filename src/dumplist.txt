@@ -32,6 +32,9 @@ New: Report.ОтчетПоБезналичнойОплате.Template.Основ
 New: Style.ГрумингСалон
 New: Style.ГрумингСалон.Style
 New: Subsystem.Деньги
+Modified: Catalog.Номенклатура
+Modified: Catalog.Номенклатура.Form.ФормаЭлемента
+Modified: Catalog.Номенклатура.Form.ФормаЭлемента.Form
 Modified: Configuration.ГрумингСалон
 Modified: Configuration.ГрумингСалон.ClientApplicationInterface
 Modified: Report.ОтчётПоТоварамНаСкладах.Template.ОсновнаяСхемаКомпоновкиДанных
