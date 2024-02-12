@@ -1,4 +1,2 @@
-﻿New: DataProcessor.МониторРуководителя
-New: DataProcessor.МониторРуководителя.Form.Форма
-New: DataProcessor.МониторРуководителя.Form.Форма.Form
-Modified: Configuration.ГрумингСалон
+﻿Modified: DataProcessor.МониторРуководителя.Form.Форма
+Modified: DataProcessor.МониторРуководителя.Form.Форма.Form

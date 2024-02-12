@@ -26,8 +26,14 @@
 				<LabelField name="МесяцСтрокой" id="3">
 					<DataPath>МесяцСтрокой</DataPath>
 					<TitleLocation>None</TitleLocation>
+					<HorizontalStretch>false</HorizontalStretch>
+					<Hiperlink>true</Hiperlink>
+					<Font ref="style:LargeTextFont" kind="StyleItem"/>
 					<ContextMenu name="МесяцСтрокойКонтекстноеМеню" id="4"/>
 					<ExtendedTooltip name="МесяцСтрокойРасширеннаяПодсказка" id="5"/>
+					<Events>
+						<Event name="Click">МесяцСтрокойНажатие</Event>
+					</Events>
 				</LabelField>
 				<Button name="Обновить" id="6">
 					<Type>UsualButton</Type>
@@ -49,7 +55,9 @@
 					<v8:content>Группа числовые показатели</v8:content>
 				</v8:item>
 			</ToolTip>
+			<HorizontalStretch>true</HorizontalStretch>
 			<Group>AlwaysHorizontal</Group>
+			<HorizontalAlign>Center</HorizontalAlign>
 			<Representation>None</Representation>
 			<ShowTitle>false</ShowTitle>
 			<ExtendedTooltip name="ГруппаЧисловыеПоказателиРасширеннаяПодсказка" id="9"/>
@@ -68,6 +76,7 @@
 						</v8:item>
 					</ToolTip>
 					<Width>20</Width>
+					<HorizontalStretch>true</HorizontalStretch>
 					<Group>Vertical</Group>
 					<HorizontalAlign>Center</HorizontalAlign>
 					<VerticalAlign>Top</VerticalAlign>
@@ -90,6 +99,8 @@
 						<LabelField name="ВыручкаЧисло" id="30">
 							<DataPath>ВыручкаЧисло</DataPath>
 							<TitleLocation>None</TitleLocation>
+							<HorizontalAlign>Center</HorizontalAlign>
+							<HorizontalStretch>false</HorizontalStretch>
 							<ContextMenu name="ВыручкаЧислоКонтекстноеМеню" id="31"/>
 							<ExtendedTooltip name="ВыручкаЧислоРасширеннаяПодсказка" id="32"/>
 						</LabelField>
@@ -109,6 +120,7 @@
 						</v8:item>
 					</ToolTip>
 					<Width>20</Width>
+					<HorizontalStretch>true</HorizontalStretch>
 					<Group>Vertical</Group>
 					<HorizontalAlign>Center</HorizontalAlign>
 					<VerticalAlign>Top</VerticalAlign>
@@ -131,6 +143,8 @@
 						<LabelField name="СреднийЧек" id="33">
 							<DataPath>СреднийЧек</DataPath>
 							<TitleLocation>None</TitleLocation>
+							<HorizontalAlign>Center</HorizontalAlign>
+							<HorizontalStretch>false</HorizontalStretch>
 							<ContextMenu name="СреднийЧекКонтекстноеМеню" id="34"/>
 							<ExtendedTooltip name="СреднийЧекРасширеннаяПодсказка" id="35"/>
 						</LabelField>
@@ -150,6 +164,7 @@
 						</v8:item>
 					</ToolTip>
 					<Width>20</Width>
+					<HorizontalStretch>true</HorizontalStretch>
 					<Group>Vertical</Group>
 					<HorizontalAlign>Center</HorizontalAlign>
 					<VerticalAlign>Top</VerticalAlign>
@@ -172,6 +187,8 @@
 						<LabelField name="ВсегоЗаписей" id="36">
 							<DataPath>ВсегоЗаписей</DataPath>
 							<TitleLocation>None</TitleLocation>
+							<HorizontalAlign>Center</HorizontalAlign>
+							<HorizontalStretch>false</HorizontalStretch>
 							<ContextMenu name="ВсегоЗаписейКонтекстноеМеню" id="37"/>
 							<ExtendedTooltip name="ВсегоЗаписейРасширеннаяПодсказка" id="38"/>
 						</LabelField>
@@ -191,6 +208,7 @@
 						</v8:item>
 					</ToolTip>
 					<Width>20</Width>
+					<HorizontalStretch>true</HorizontalStretch>
 					<Group>Vertical</Group>
 					<HorizontalAlign>Center</HorizontalAlign>
 					<VerticalAlign>Top</VerticalAlign>
@@ -213,12 +231,16 @@
 						<LabelField name="Завершенных" id="39">
 							<DataPath>Завершенных</DataPath>
 							<TitleLocation>None</TitleLocation>
+							<HorizontalAlign>Center</HorizontalAlign>
+							<HorizontalStretch>false</HorizontalStretch>
 							<ContextMenu name="ЗавершенныхКонтекстноеМеню" id="40"/>
 							<ExtendedTooltip name="ЗавершенныхРасширеннаяПодсказка" id="41"/>
 						</LabelField>
 						<LabelField name="ЗавершенныхПроцентСтрока" id="42">
 							<DataPath>ЗавершенныхПроцентСтрока</DataPath>
 							<TitleLocation>None</TitleLocation>
+							<HorizontalAlign>Center</HorizontalAlign>
+							<HorizontalStretch>false</HorizontalStretch>
 							<ContextMenu name="ЗавершенныхПроцентСтрокаКонтекстноеМеню" id="43"/>
 							<ExtendedTooltip name="ЗавершенныхПроцентСтрокаРасширеннаяПодсказка" id="44"/>
 						</LabelField>

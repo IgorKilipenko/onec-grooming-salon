@@ -183,8 +183,8 @@
 		<Metadata name="Constant.ЗапретПроведенияПриОтрицательныхОстатках" id="9ba3be2e-2c1c-48ac-b87e-690f6ef3e10c" configVersion="1123e66038624f47a2d3bf192ff7672600000000"/>
 		<Metadata name="Constant.ИспользоватьСклады" id="e09ea315-e523-4767-909f-3616479ceee2" configVersion="76ee4bb307e4f4429eb480ccca0828c500000000"/>
 		<Metadata name="DataProcessor.МониторРуководителя" id="658acc8f-5448-455a-908b-36b42c6a79eb" configVersion="a76190449ecea743b5e44d0f9de4cb0700000000"/>
-		<Metadata name="DataProcessor.МониторРуководителя.Form.Форма" id="af2dac3e-4d8e-4b8e-95f0-17efc107c3c1" configVersion="c5ff268466beec40940df81f066a9df300000000"/>
-		<Metadata name="DataProcessor.МониторРуководителя.Form.Форма.Form" id="af2dac3e-4d8e-4b8e-95f0-17efc107c3c1.0" configVersion="d2f841fdb38d8540ae99c0efbbbf242100000000"/>
+		<Metadata name="DataProcessor.МониторРуководителя.Form.Форма" id="af2dac3e-4d8e-4b8e-95f0-17efc107c3c1" configVersion="57d85d2658877342a9d19558039db0b900000000"/>
+		<Metadata name="DataProcessor.МониторРуководителя.Form.Форма.Form" id="af2dac3e-4d8e-4b8e-95f0-17efc107c3c1.0" configVersion="d46e6886690aca45bba161bfc0c5af3e00000000"/>
 		<Metadata name="DefinedType.КоличествоТоваров" id="af789118-a575-48ef-91d2-953bf7bb9c3d" configVersion="4edbdd8ac4dacc40b0944c25f4d7381900000000"/>
 		<Metadata name="DefinedType.КомментарийКороткий" id="05da5451-ae36-42e6-a9f8-928a3335e976" configVersion="d756f18746df71418aad9c3ac07664e200000000"/>
 		<Metadata name="DefinedType.КомментарийПолный" id="78f97855-6afc-4d20-810d-34369a2db293" configVersion="98ffc6d7c9374e4989cddf7c6633acc700000000"/>
