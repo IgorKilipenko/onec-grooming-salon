@@ -118,10 +118,10 @@
 								<Presentation>
 									<v8:item>
 										<v8:lang>ru</v8:lang>
-										<v8:content>Мксяц</v8:content>
+										<v8:content>Месяц</v8:content>
 									</v8:item>
 								</Presentation>
-								<Value xsi:type="xs:string">Мксяц</Value>
+								<Value xsi:type="xs:string">Месяц</Value>
 							</xr:Value>
 						</xr:Item>
 					</ChoiceList>
@@ -138,6 +138,11 @@
 			<Visible>false</Visible>
 			<ContextMenu name="ПланировщикКонтекстноеМеню" id="16"/>
 			<ExtendedTooltip name="ПланировщикРасширеннаяПодсказка" id="17"/>
+			<Events>
+				<Event name="BeforeCreate">ПланировщикПередСозданием</Event>
+				<Event name="OnCurrentRepresentationPeriodChange">ПланировщикПриСменеТекущегоПериодаОтображения</Event>
+				<Event name="BeforeStartQuickEdit">ПланировщикПередНачаломБыстрогоРедактирования</Event>
+			</Events>
 		</PlannerField>
 	</ChildItems>
 	<Attributes>
