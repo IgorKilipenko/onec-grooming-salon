@@ -1,2 +1,5 @@
-﻿Modified: DataProcessor.ПланированиеЗагрузкиСотрудников.Form.Форма
+﻿New: Constant.НачалоРабочегоДня
+New: Constant.ОкончаниеРабочегоДня
+Modified: Configuration.ГрумингСалон
+Modified: DataProcessor.ПланированиеЗагрузкиСотрудников.Form.Форма
 Modified: DataProcessor.ПланированиеЗагрузкиСотрудников.Form.Форма.Form

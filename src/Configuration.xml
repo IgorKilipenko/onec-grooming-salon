@@ -278,6 +278,8 @@
 			<CommandGroup>Настройки</CommandGroup>
 			<Constant>ИспользоватьСклады</Constant>
 			<Constant>ЗапретПроведенияПриОтрицательныхОстатках</Constant>
+			<Constant>НачалоРабочегоДня</Constant>
+			<Constant>ОкончаниеРабочегоДня</Constant>
 			<Catalog>Должности</Catalog>
 			<Catalog>Сотрудники</Catalog>
 			<Catalog>Номенклатура</Catalog>
