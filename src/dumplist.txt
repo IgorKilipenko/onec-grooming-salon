@@ -1,1 +1,5 @@
-﻿Modified: Configuration.ГрумингСалон
+﻿Modified: Document.ЗаписьКлиента
+Modified: Document.ЗаписьКлиента.Form.ФормаДокумента
+Modified: Document.ЗаписьКлиента.Form.ФормаДокумента.Form
+Modified: Document.ЗаписьКлиента.ManagerModule
+Modified: Document.ЗаписьКлиента.ObjectModule
