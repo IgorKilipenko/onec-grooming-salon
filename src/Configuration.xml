@@ -273,6 +273,7 @@
 			<CommonModule>РаботаСДокументамиКлиентСервер</CommonModule>
 			<CommonModule>ДиагностикаКлиентСервер</CommonModule>
 			<CommonModule>РаботаСКоллекциями</CommonModule>
+			<CommonModule>РаботаСРеквизитами</CommonModule>
 			<FunctionalOption>ИспользоватьСклады</FunctionalOption>
 			<DefinedType>ФинансовыеДанные</DefinedType>
 			<DefinedType>КоличествоТоваров</DefinedType>

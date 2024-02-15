@@ -1,5 +1,3 @@
-﻿Modified: Document.ЗаписьКлиента
-Modified: Document.ЗаписьКлиента.Form.ФормаДокумента
-Modified: Document.ЗаписьКлиента.Form.ФормаДокумента.Form
-Modified: Document.ЗаписьКлиента.ManagerModule
-Modified: Document.ЗаписьКлиента.ObjectModule
+﻿New: CommonModule.РаботаСРеквизитами
+New: CommonModule.РаботаСРеквизитами.Module
+Modified: Configuration.ГрумингСалон
