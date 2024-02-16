@@ -242,6 +242,11 @@
 				<Type>Auto</Type>
 				<DefaultVisible>false</DefaultVisible>
 			</Item>
+			<Item>
+				<Command>FilterCriterion.СвязанныеДокументы.StandardCommand.OpenByValue</Command>
+				<Type>Auto</Type>
+				<DefaultVisible>false</DefaultVisible>
+			</Item>
 		</NavigationPanel>
 	</CommandInterface>
 </Form>

@@ -267,6 +267,7 @@
 			<Role>Руководитель</Role>
 			<Role>Закупщик</Role>
 			<Role>Администратор</Role>
+			<FilterCriterion>СвязанныеДокументы</FilterCriterion>
 			<CommonModule>РаботаСоСтрокамиВызовСервера</CommonModule>
 			<CommonModule>РаботаСДокументами</CommonModule>
 			<CommonModule>РаботаСЦенамиВызовСервера</CommonModule>
