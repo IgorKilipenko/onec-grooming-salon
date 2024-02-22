@@ -285,7 +285,7 @@
 		<Metadata name="Document.ПоступлениеУслуг.Form.ФормаДокумента" id="4159062d-606d-4b5a-9542-28f05fc2f133" configVersion="8bf184da0152134ca9029f33723eb51100000000"/>
 		<Metadata name="Document.ПоступлениеУслуг.Form.ФормаДокумента.Form" id="4159062d-606d-4b5a-9542-28f05fc2f133.0" configVersion="9860acc6ada0c048ad75200423e2b55f00000000"/>
 		<Metadata name="Document.ПоступлениеУслуг.ObjectModule" id="20566727-0fb3-41b3-961f-6dfc387dec27.0" configVersion="102ce73d4efb094d96dbf4b4152e4bed00000000"/>
-		<Metadata name="Document.РасходДенежныхСредств" id="1ed1f697-3e86-4a1a-ace5-3f9c558bf4dc" configVersion="8ff7c350dfb5484cb17af2e002ca2a2000000000">
+		<Metadata name="Document.РасходДенежныхСредств" id="1ed1f697-3e86-4a1a-ace5-3f9c558bf4dc" configVersion="c71c120e9f0aac4cbd14c89a0a820fb100000000">
 			<Metadata name="Document.РасходДенежныхСредств.Attribute.СуммаДокумента" id="1b0933e9-9882-4b9c-86bc-b820e11eae58"/>
 			<Metadata name="Document.РасходДенежныхСредств.Attribute.Касса" id="3d412738-0e04-4a6e-bac3-b1a83c378e59"/>
 			<Metadata name="Document.РасходДенежныхСредств.Attribute.ВидОперации" id="44d412bb-584c-459d-93da-6958cd70b98c"/>
@@ -297,7 +297,7 @@
 		</Metadata>
 		<Metadata name="Document.РасходДенежныхСредств.Form.ФормаДокумента" id="1940dccd-6c7d-4335-b679-cc77856213de" configVersion="4ff514e0bab653439eb55ba0b72ccfac00000000"/>
 		<Metadata name="Document.РасходДенежныхСредств.Form.ФормаДокумента.Form" id="1940dccd-6c7d-4335-b679-cc77856213de.0" configVersion="b3d9a4ce8ba63941ac1415d83e3173d200000000"/>
-		<Metadata name="Document.РасходДенежныхСредств.ObjectModule" id="1ed1f697-3e86-4a1a-ace5-3f9c558bf4dc.0" configVersion="187a348e97dea6419569f145f28da64800000000"/>
+		<Metadata name="Document.РасходДенежныхСредств.ObjectModule" id="1ed1f697-3e86-4a1a-ace5-3f9c558bf4dc.0" configVersion="487e18ebd1f69f498379c10bad344f6400000000"/>
 		<Metadata name="Document.РеализацияТоваровИУслуг" id="e30ec35e-8c3a-40cf-a109-fc154d862130" configVersion="b8f71004d5acae4fac091cd0fadaea6400000000">
 			<Metadata name="Document.РеализацияТоваровИУслуг.TabularSection.Товары.Attribute.Сумма" id="10a761de-8ecb-48c2-92d5-abff4ac92234"/>
 			<Metadata name="Document.РеализацияТоваровИУслуг.TabularSection.Услуги" id="1badd772-6c4a-48ce-9a4a-a44555e2f875"/>
