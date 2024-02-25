@@ -1,3 +1,2 @@
-﻿New: CommonModule.РаботаСМетаданными
-New: CommonModule.РаботаСМетаданными.Module
-Modified: Configuration.ГрумингСалон
+﻿Modified: Catalog.Контрагенты
+Modified: Catalog.Контрагенты.ManagerModule
