@@ -1,2 +1,4 @@
-﻿Modified: Catalog.Контрагенты
-Modified: Catalog.Контрагенты.ManagerModule
+﻿New: Document.РасходДенежныхСредств.ManagerModule
+Modified: Document.РасходДенежныхСредств
+Modified: Document.РасходДенежныхСредств.Form.ФормаДокумента
+Modified: Document.РасходДенежныхСредств.Form.ФормаДокумента.Form
