@@ -1,3 +1,4 @@
-﻿New: Document.ПоступлениеНаРасчетныйСчет
-Modified: Configuration.ГрумингСалон
-Modified: Subsystem.Деньги
+﻿New: Document.ПоступлениеНаРасчетныйСчет.Form.ФормаДокумента
+New: Document.ПоступлениеНаРасчетныйСчет.Form.ФормаДокумента.Form
+New: Document.ПоступлениеНаРасчетныйСчет.ObjectModule
+Modified: Document.ПоступлениеНаРасчетныйСчет
