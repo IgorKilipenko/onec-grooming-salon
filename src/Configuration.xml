@@ -307,6 +307,7 @@
 			<Catalog>Кассы</Catalog>
 			<Catalog>Банки</Catalog>
 			<Catalog>ЭквайринговыеТерминалы</Catalog>
+			<Catalog>БанковскиеСчета</Catalog>
 			<Document>ЗаписьКлиента</Document>
 			<Document>РеализацияТоваровИУслуг</Document>
 			<Document>ПоступлениеТоваров</Document>

@@ -1,2 +1,4 @@
-﻿New: Enum.ВидыОперацийСписанияСРасчетногоСчета
+﻿New: Catalog.БанковскиеСчета
 Modified: Configuration.ГрумингСалон
+Modified: Subsystem.Деньги
+Modified: Subsystem.Справочники
