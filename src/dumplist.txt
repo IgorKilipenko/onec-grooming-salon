@@ -1,2 +1,2 @@
-﻿New: Subsystem.БухгалтерскийУчет
+﻿New: Enum.ВидыОперацийПоступленияНаРасчетныйСчет
 Modified: Configuration.ГрумингСалон
