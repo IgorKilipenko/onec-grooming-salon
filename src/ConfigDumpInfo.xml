@@ -371,7 +371,7 @@
 		<Metadata name="Document.РеализацияТоваровИУслуг.ObjectModule" id="e30ec35e-8c3a-40cf-a109-fc154d862130.0" configVersion="acad46706430884ca4608c978a2646af00000000"/>
 		<Metadata name="Document.РеализацияТоваровИУслуг.Template.Печать" id="5785dba4-505a-4aaf-ad4f-ee20249b0cd0" configVersion="9c34326a0ca9ff47b3ee170fef88680800000000"/>
 		<Metadata name="Document.РеализацияТоваровИУслуг.Template.Печать.Template" id="5785dba4-505a-4aaf-ad4f-ee20249b0cd0.0" configVersion="1bea5e22436adc448a79b216f150ff3000000000"/>
-		<Metadata name="Document.СписаниеСРасчетногоСчета" id="2ed296d6-c7a7-4ba7-81c0-77f2f45f26f2" configVersion="69cb5fb9246303408f8aae427328e90700000000">
+		<Metadata name="Document.СписаниеСРасчетногоСчета" id="2ed296d6-c7a7-4ba7-81c0-77f2f45f26f2" configVersion="3e00db137f839f418bc3b9d73d9ee11d00000000">
 			<Metadata name="Document.СписаниеСРасчетногоСчета.Attribute.Получатель" id="33fea374-06f7-431d-8ff9-5e7173461f05"/>
 			<Metadata name="Document.СписаниеСРасчетногоСчета.Attribute.Комментарий" id="3e7ec949-30c9-4a54-9ba2-7572ff49498b"/>
 			<Metadata name="Document.СписаниеСРасчетногоСчета.Attribute.ВидОперации" id="8044b61a-54cf-436f-b3be-3d2ee00ba9e1"/>
@@ -383,9 +383,12 @@
 			<Metadata name="Document.СписаниеСРасчетногоСчета.Attribute.АвторДокумента" id="ea946961-c893-4bae-b003-f1cb5a0e69b6"/>
 			<Metadata name="Document.СписаниеСРасчетногоСчета.Attribute.РасчетныйСчет" id="ee321aff-5ae4-42d5-a6db-1e2794f10b45"/>
 		</Metadata>
-		<Metadata name="Document.СписаниеСРасчетногоСчета.Form.ФормаДокумента" id="0976cee3-72c5-465b-85fa-d830544d990b" configVersion="597529ee0e2d2d4293ee99841629d39800000000"/>
-		<Metadata name="Document.СписаниеСРасчетногоСчета.Form.ФормаДокумента.Form" id="0976cee3-72c5-465b-85fa-d830544d990b.0" configVersion="48242a5d7c6cf7438abc95595fc6603a00000000"/>
-		<Metadata name="Document.СписаниеСРасчетногоСчета.ObjectModule" id="2ed296d6-c7a7-4ba7-81c0-77f2f45f26f2.0" configVersion="35187bc9bd67b344955b9b095c7290a300000000"/>
+		<Metadata name="Document.СписаниеСРасчетногоСчета.Form.ФормаДокумента" id="0976cee3-72c5-465b-85fa-d830544d990b" configVersion="14af083b55e5374b85e2a8b7e5134aa400000000"/>
+		<Metadata name="Document.СписаниеСРасчетногоСчета.Form.ФормаДокумента.Form" id="0976cee3-72c5-465b-85fa-d830544d990b.0" configVersion="6292a94ac22dba4583d95e541e98221400000000"/>
+		<Metadata name="Document.СписаниеСРасчетногоСчета.Form.ФормаСписка" id="5a0e0a8f-8bdd-4488-94e5-cc90c0d33ecd" configVersion="f686f1d130d3a343bffbc22be7f807ac00000000"/>
+		<Metadata name="Document.СписаниеСРасчетногоСчета.Form.ФормаСписка.Form" id="5a0e0a8f-8bdd-4488-94e5-cc90c0d33ecd.0" configVersion="522435d20f328a4399631bf9bc56578a00000000"/>
+		<Metadata name="Document.СписаниеСРасчетногоСчета.ManagerModule" id="2ed296d6-c7a7-4ba7-81c0-77f2f45f26f2.2" configVersion="5fd6eb686dcac042a94d6ce64541e5dd00000000"/>
+		<Metadata name="Document.СписаниеСРасчетногоСчета.ObjectModule" id="2ed296d6-c7a7-4ba7-81c0-77f2f45f26f2.0" configVersion="3c9443dee07dd141ad2ada044409b7bd00000000"/>
 		<Metadata name="Document.УстановкаУчетнойПолитикиОрганизации" id="000fa55b-c68c-42c0-b2be-cccd03d8693f" configVersion="b64978dc19f704448f18c796d176b0df00000000">
 			<Metadata name="Document.УстановкаУчетнойПолитикиОрганизации.Attribute.Комментарий" id="1f45bc69-0857-4017-aa85-5a2377588313"/>
 			<Metadata name="Document.УстановкаУчетнойПолитикиОрганизации.Attribute.АвторДокумента" id="796f65ed-e2bb-4b93-9204-1b6134dd2e03"/>
