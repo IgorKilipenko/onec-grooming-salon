@@ -1,2 +1,2 @@
-﻿Modified: Catalog.Кассы
-Modified: Catalog.Кассы.ManagerModule
+﻿Modified: Catalog.Номенклатура
+Modified: Catalog.Номенклатура.ManagerModule
