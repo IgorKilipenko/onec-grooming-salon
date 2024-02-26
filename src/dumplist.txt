@@ -1,2 +1,3 @@
-﻿Modified: Document.ПоступлениеНаРасчетныйСчет
-Modified: Document.ПоступлениеНаРасчетныйСчет.ObjectModule
+﻿New: Document.ПоступлениеНаРасчетныйСчет.Form.ФормаСписка
+New: Document.ПоступлениеНаРасчетныйСчет.Form.ФормаСписка.Form
+Modified: Document.ПоступлениеНаРасчетныйСчет

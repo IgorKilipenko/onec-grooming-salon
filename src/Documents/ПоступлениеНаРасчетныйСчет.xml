@@ -54,7 +54,7 @@
 			<FullTextSearchOnInputByString>DontUse</FullTextSearchOnInputByString>
 			<ChoiceDataGetModeOnInputByString>Directly</ChoiceDataGetModeOnInputByString>
 			<DefaultObjectForm>Document.ПоступлениеНаРасчетныйСчет.Form.ФормаДокумента</DefaultObjectForm>
-			<DefaultListForm/>
+			<DefaultListForm>Document.ПоступлениеНаРасчетныйСчет.Form.ФормаСписка</DefaultListForm>
 			<DefaultChoiceForm/>
 			<AuxiliaryObjectForm/>
 			<AuxiliaryListForm/>
@@ -615,6 +615,7 @@
 				</Properties>
 			</Attribute>
 			<Form>ФормаДокумента</Form>
+			<Form>ФормаСписка</Form>
 		</ChildObjects>
 	</Document>
 </MetaDataObject>
