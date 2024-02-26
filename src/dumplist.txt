@@ -1,2 +1,2 @@
-﻿New: Catalog.БанковскиеСчета.ManagerModule
-Modified: Catalog.БанковскиеСчета
+﻿Modified: Catalog.Кассы
+Modified: Catalog.Кассы.ManagerModule
