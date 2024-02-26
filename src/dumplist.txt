@@ -1,2 +1,2 @@
-﻿Modified: Catalog.Номенклатура
-Modified: Catalog.Номенклатура.ManagerModule
+﻿New: Catalog.Склады.ManagerModule
+Modified: Catalog.Склады

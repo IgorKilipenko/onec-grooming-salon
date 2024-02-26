@@ -120,7 +120,8 @@
 		<Metadata name="Catalog.ПородыПитомцев.Form.ФормаЭлемента" id="3def8d37-8419-4eb7-a879-576dd0957760" configVersion="692568cc819d7e4691e783994c91312c00000000"/>
 		<Metadata name="Catalog.ПородыПитомцев.Form.ФормаЭлемента.Form" id="3def8d37-8419-4eb7-a879-576dd0957760.0" configVersion="760dc1266df5cb49bea772061bac2dde00000000"/>
 		<Metadata name="Catalog.ПородыПитомцев.Predefined" id="057d50b2-aff5-4910-accd-182ad2eb7a1d.1c" configVersion="f8195ac83ca57a488203be7e61ef84c800000000"/>
-		<Metadata name="Catalog.Склады" id="0480428c-d6d2-44da-9b73-d803664e1f65" configVersion="5938e23771b7094cb71573392a30579000000000"/>
+		<Metadata name="Catalog.Склады" id="0480428c-d6d2-44da-9b73-d803664e1f65" configVersion="084a1eb7a584d9429d16fd4b5d94556800000000"/>
+		<Metadata name="Catalog.Склады.ManagerModule" id="0480428c-d6d2-44da-9b73-d803664e1f65.3" configVersion="20ebf895cc50c3438e370fc5e66b6f8100000000"/>
 		<Metadata name="Catalog.Склады.Predefined" id="0480428c-d6d2-44da-9b73-d803664e1f65.1c" configVersion="663c4bea72d877499dc430a7550e235200000000"/>
 		<Metadata name="Catalog.Сотрудники" id="22c35659-8f6f-4268-ab3d-94673f1123b8" configVersion="e276033d5a60c846b4d9ac8b2d0b758c00000000">
 			<Metadata name="Catalog.Сотрудники.Attribute.Имя" id="1a632a75-4dd5-4337-93d4-bdb1ed07a420"/>
