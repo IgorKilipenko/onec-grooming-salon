@@ -319,6 +319,7 @@
 			<Document>РасходДенежныхСредств</Document>
 			<Document>ПоступлениеНаРасчетныйСчет</Document>
 			<Document>СписаниеСРасчетногоСчета</Document>
+			<DocumentJournal>ДокументыПоКассе</DocumentJournal>
 			<Enum>ТипыОрганизаций</Enum>
 			<Enum>ПолФизическогоЛица</Enum>
 			<Enum>ТипыНоменклатуры</Enum>

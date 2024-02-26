@@ -1,7 +1,5 @@
-﻿New: Document.СписаниеСРасчетногоСчета.Form.ФормаСписка
-New: Document.СписаниеСРасчетногоСчета.Form.ФормаСписка.Form
-New: Document.СписаниеСРасчетногоСчета.ManagerModule
-Modified: Document.СписаниеСРасчетногоСчета
-Modified: Document.СписаниеСРасчетногоСчета.Form.ФормаДокумента
-Modified: Document.СписаниеСРасчетногоСчета.Form.ФормаДокумента.Form
-Modified: Document.СписаниеСРасчетногоСчета.ObjectModule
+﻿New: DocumentJournal.ДокументыПоКассе
+New: DocumentJournal.ДокументыПоКассе.Form.ФормаСписка
+New: DocumentJournal.ДокументыПоКассе.Form.ФормаСписка.Form
+Modified: Configuration.ГрумингСалон
+Modified: Subsystem.Деньги
