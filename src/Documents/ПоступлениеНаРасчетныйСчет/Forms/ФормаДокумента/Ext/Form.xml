@@ -185,6 +185,7 @@
 				</InputField>
 				<InputField name="АвторДокумента" id="43">
 					<DataPath>Объект.АвторДокумента</DataPath>
+					<ReadOnly>true</ReadOnly>
 					<EditMode>EnterOnInput</EditMode>
 					<ExtendedEditMultipleValues>true</ExtendedEditMultipleValues>
 					<ContextMenu name="АвторДокументаКонтекстноеМеню" id="44"/>
@@ -211,9 +212,17 @@
 				<Command>FilterCriterion.СвязанныеДокументы.StandardCommand.OpenByValue</Command>
 				<Type>Auto</Type>
 				<DefaultVisible>false</DefaultVisible>
+				<Visible>
+					<xr:Common>false</xr:Common>
+				</Visible>
 			</Item>
 			<Item>
 				<Command>AccumulationRegister.ДенежныеСредства.StandardCommand.OpenByRecorder</Command>
+				<Type>Auto</Type>
+				<DefaultVisible>false</DefaultVisible>
+			</Item>
+			<Item>
+				<Command>AccountingRegister.Хозрасчетный.StandardCommand.OpenByRecorder</Command>
 				<Type>Auto</Type>
 				<DefaultVisible>false</DefaultVisible>
 			</Item>

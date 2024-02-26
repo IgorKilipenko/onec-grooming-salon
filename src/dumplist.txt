@@ -1,9 +1,8 @@
-﻿New: AccountingRegister.Хозрасчетный
+﻿New: Document.СписаниеСРасчетногоСчета
+New: Document.СписаниеСРасчетногоСчета.Form.ФормаДокумента
+New: Document.СписаниеСРасчетногоСчета.Form.ФормаДокумента.Form
+New: Document.СписаниеСРасчетногоСчета.ObjectModule
 Modified: Configuration.ГрумингСалон
-Modified: Document.ПоступлениеДенежныхСредств
-Modified: Document.ПоступлениеНаРасчетныйСчет
-Modified: Document.ПоступлениеТоваров
-Modified: Document.ПоступлениеУслуг
-Modified: Document.РасходДенежныхСредств
-Modified: Document.РеализацияТоваровИУслуг
-Modified: Subsystem.БухгалтерскийУчет
+Modified: Document.ПоступлениеНаРасчетныйСчет.Form.ФормаДокумента
+Modified: Document.ПоступлениеНаРасчетныйСчет.Form.ФормаДокумента.Form
+Modified: Subsystem.Деньги
