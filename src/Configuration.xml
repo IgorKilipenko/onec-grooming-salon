@@ -282,6 +282,12 @@
 			<DefinedType>КомментарийКороткий</DefinedType>
 			<DefinedType>КомментарийПолный</DefinedType>
 			<CommandGroup>Настройки</CommandGroup>
+			<CommandGroup>Справочники</CommandGroup>
+			<CommandGroup>БухгалтерскийУчет</CommandGroup>
+			<CommandGroup>ДенежныеСредства</CommandGroup>
+			<CommandGroup>Касса</CommandGroup>
+			<CommandGroup>Банк</CommandGroup>
+			<CommandGroup>Покупки</CommandGroup>
 			<Constant>ИспользоватьСклады</Constant>
 			<Constant>ЗапретПроведенияПриОтрицательныхОстатках</Constant>
 			<Constant>НачалоРабочегоДня</Constant>

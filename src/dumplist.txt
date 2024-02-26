@@ -1,4 +1,7 @@
-﻿New: Document.РасходДенежныхСредств.ManagerModule
-Modified: Document.РасходДенежныхСредств
-Modified: Document.РасходДенежныхСредств.Form.ФормаДокумента
-Modified: Document.РасходДенежныхСредств.Form.ФормаДокумента.Form
+﻿New: CommandGroup.Банк
+New: CommandGroup.БухгалтерскийУчет
+New: CommandGroup.ДенежныеСредства
+New: CommandGroup.Касса
+New: CommandGroup.Покупки
+New: CommandGroup.Справочники
+Modified: Configuration.ГрумингСалон

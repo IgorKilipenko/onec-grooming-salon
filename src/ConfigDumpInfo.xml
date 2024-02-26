@@ -140,7 +140,13 @@
 			<Metadata name="Catalog.ЭквайринговыеТерминалы.Attribute.Банк" id="39ddeca4-00e8-47ee-b358-655913756c1a"/>
 			<Metadata name="Catalog.ЭквайринговыеТерминалы.Attribute.Касса" id="6ea38429-743b-45ec-8918-ad78e1e026de"/>
 		</Metadata>
+		<Metadata name="CommandGroup.Банк" id="7f8bfa88-84c1-4dde-9f07-9bf995a67a34" configVersion="6f3e9f2e7a9a4d4d8af829127aaec40400000000"/>
+		<Metadata name="CommandGroup.БухгалтерскийУчет" id="56b03256-825e-4dbc-a608-0e5bf3b505f4" configVersion="b134ce0e6e19704791b6d98ef0ae43ba00000000"/>
+		<Metadata name="CommandGroup.ДенежныеСредства" id="3fbc2058-5850-4d6e-b321-cd2aebc65a88" configVersion="f2428f57899b254a8575577986b5080500000000"/>
+		<Metadata name="CommandGroup.Касса" id="63a6ce17-717b-49a3-b0f5-715a7113f044" configVersion="8b8a512d4198fd4db6d4b78a51be406f00000000"/>
 		<Metadata name="CommandGroup.Настройки" id="ca3c66ff-2001-4b7f-b7e5-34c2ba1549ae" configVersion="5dd31403552ff843a68abce05de5607a00000000"/>
+		<Metadata name="CommandGroup.Покупки" id="a736dc71-1fc6-4db3-9140-d3fc7e17a947" configVersion="57e3e8e758bee44fad4ba58822946b4400000000"/>
+		<Metadata name="CommandGroup.Справочники" id="7b644850-0ebf-4603-8d44-b22a2405b8a8" configVersion="b91304fe7aa76949a0dade3018fea55d00000000"/>
 		<Metadata name="CommonModule.ДиагностикаКлиентСервер" id="94ca35d0-5484-4e85-b484-069e0da03e88" configVersion="b33d4062adf2f74db43698e55ee21dd400000000"/>
 		<Metadata name="CommonModule.ДиагностикаКлиентСервер.Module" id="94ca35d0-5484-4e85-b484-069e0da03e88.0" configVersion="6f91d8e399bb6e4caf8f5f6d7d2d6f6500000000"/>
 		<Metadata name="CommonModule.РаботаСДокументами" id="36b2d7f6-45fd-48ae-8543-9173c6c2595c" configVersion="9434297bb9094f4bbf48f0261c9b774600000000"/>
@@ -175,7 +181,7 @@
 		<Metadata name="CommonPicture.Продажи.Picture" id="719ed3c0-380a-464b-bd71-bef40de04625.0" configVersion="5960b7b254c0e2428f0645d3d5854ed600000000"/>
 		<Metadata name="CommonPicture.Справочники" id="703bb534-6eb6-45dc-83f0-9ac0cfbb7864" configVersion="3c2b8b74f2613d4ea04ecaaf7ce2cfd000000000"/>
 		<Metadata name="CommonPicture.Справочники.Picture" id="703bb534-6eb6-45dc-83f0-9ac0cfbb7864.0" configVersion="50218a0ba61bff438b3326bc6110430c00000000"/>
-		<Metadata name="Configuration.ГрумингСалон" id="bf7fd7f7-d5f2-4af8-987a-4903e6ac7a60" configVersion="47d2411c9678b643ae0458a8d1e26a2a00000000"/>
+		<Metadata name="Configuration.ГрумингСалон" id="bf7fd7f7-d5f2-4af8-987a-4903e6ac7a60" configVersion="27978168a505d1489bbfc11189a8579700000000"/>
 		<Metadata name="Configuration.ГрумингСалон.ClientApplicationInterface" id="5b918c7f-f6dd-47f1-8449-205108ad3f01.b" configVersion="4265f2cb7ceaf14fac3bda5d2ce5192c00000000"/>
 		<Metadata name="Configuration.ГрумингСалон.CommandInterface" id="5b918c7f-f6dd-47f1-8449-205108ad3f01.a" configVersion="e7750e0aa01cd642b0ec90b27736520e00000000"/>
 		<Metadata name="Configuration.ГрумингСалон.HomePageWorkArea" id="5b918c7f-f6dd-47f1-8449-205108ad3f01.8" configVersion="bdac3afe1390454b862bb5dfd6b633d600000000"/>
