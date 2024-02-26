@@ -1,3 +1,4 @@
-﻿New: Document.ПоступлениеНаРасчетныйСчет.Form.ФормаСписка
-New: Document.ПоступлениеНаРасчетныйСчет.Form.ФормаСписка.Form
-Modified: Document.ПоступлениеНаРасчетныйСчет
+﻿New: ChartOfCharacteristicTypes.ВидыСубконтоХозрасчетные
+New: ChartOfCharacteristicTypes.ВидыСубконтоХозрасчетные.Predefined
+Modified: Configuration.ГрумингСалон
+Modified: Subsystem.БухгалтерскийУчет
