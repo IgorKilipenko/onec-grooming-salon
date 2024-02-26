@@ -1,7 +1,2 @@
-﻿New: CommandGroup.Банк
-New: CommandGroup.БухгалтерскийУчет
-New: CommandGroup.ДенежныеСредства
-New: CommandGroup.Касса
-New: CommandGroup.Покупки
-New: CommandGroup.Справочники
+﻿New: Subsystem.БухгалтерскийУчет
 Modified: Configuration.ГрумингСалон

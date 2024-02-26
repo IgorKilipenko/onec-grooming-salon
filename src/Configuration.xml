@@ -252,6 +252,7 @@
 			<Subsystem>Персонал</Subsystem>
 			<Subsystem>Настройки</Subsystem>
 			<Subsystem>Деньги</Subsystem>
+			<Subsystem>БухгалтерскийУчет</Subsystem>
 			<Style>ГрумингСалон</Style>
 			<CommonPicture>БизнесПроцессы</CommonPicture>
 			<CommonPicture>БухгалтерскийУчет</CommonPicture>
