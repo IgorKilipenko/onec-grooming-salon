@@ -1,5 +1,2 @@
-﻿New: DocumentJournal.ЖурналХозяйственныхОпераций
-New: DocumentJournal.ЖурналХозяйственныхОпераций.Form.ФормаСписка
-New: DocumentJournal.ЖурналХозяйственныхОпераций.Form.ФормаСписка.Form
-Modified: Configuration.ГрумингСалон
-Modified: Subsystem.БухгалтерскийУчет
+﻿New: Catalog.БанковскиеСчета.ManagerModule
+Modified: Catalog.БанковскиеСчета

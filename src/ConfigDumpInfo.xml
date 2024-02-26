@@ -39,10 +39,11 @@
 		<Metadata name="Catalog.Банки" id="739d1bc8-234a-4157-b15d-c17ba9c6ac18" configVersion="41ab58f95760434ba1adb89c680ae76f00000000">
 			<Metadata name="Catalog.Банки.Attribute.БИК" id="676e4c3c-e1a3-4581-86f0-30ae3dc9b9ec"/>
 		</Metadata>
-		<Metadata name="Catalog.БанковскиеСчета" id="b8808f67-837e-4b7d-b0e7-a3e1712e4cff" configVersion="0713525f410c544e81115b3d751f389f00000000">
+		<Metadata name="Catalog.БанковскиеСчета" id="b8808f67-837e-4b7d-b0e7-a3e1712e4cff" configVersion="838887636fe83448a5455259804ecb1700000000">
 			<Metadata name="Catalog.БанковскиеСчета.Attribute.Банк" id="7b92f558-6569-4cab-bd25-7dec75aa4632"/>
 			<Metadata name="Catalog.БанковскиеСчета.Attribute.НомерСчета" id="c72ea3a0-b8a2-44a0-9642-d0de3b08a10f"/>
 		</Metadata>
+		<Metadata name="Catalog.БанковскиеСчета.ManagerModule" id="b8808f67-837e-4b7d-b0e7-a3e1712e4cff.3" configVersion="a359156398e76f4c9a7fa902fdaecb6600000000"/>
 		<Metadata name="Catalog.ДоговорыКонтрагентов" id="87b3d083-9850-4c56-9dc9-d0d816f36fc9" configVersion="9de6bbbab143cc4187f069d8a3b60a1600000000">
 			<Metadata name="Catalog.ДоговорыКонтрагентов.Attribute.ДатаЗаключения" id="1e36e7e1-52a4-408d-bb9e-49ba4c85a756"/>
 			<Metadata name="Catalog.ДоговорыКонтрагентов.Attribute.ВнешнийНомер" id="33837e67-1c7a-4571-b652-dc7753e1ac41"/>
