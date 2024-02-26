@@ -181,7 +181,7 @@
 		<Metadata name="CommonPicture.Продажи.Picture" id="719ed3c0-380a-464b-bd71-bef40de04625.0" configVersion="5960b7b254c0e2428f0645d3d5854ed600000000"/>
 		<Metadata name="CommonPicture.Справочники" id="703bb534-6eb6-45dc-83f0-9ac0cfbb7864" configVersion="3c2b8b74f2613d4ea04ecaaf7ce2cfd000000000"/>
 		<Metadata name="CommonPicture.Справочники.Picture" id="703bb534-6eb6-45dc-83f0-9ac0cfbb7864.0" configVersion="50218a0ba61bff438b3326bc6110430c00000000"/>
-		<Metadata name="Configuration.ГрумингСалон" id="bf7fd7f7-d5f2-4af8-987a-4903e6ac7a60" configVersion="51232db25283d64289c2b594b25ce84100000000"/>
+		<Metadata name="Configuration.ГрумингСалон" id="bf7fd7f7-d5f2-4af8-987a-4903e6ac7a60" configVersion="34d9ae9f858ef94fae544e912db9c0b300000000"/>
 		<Metadata name="Configuration.ГрумингСалон.ClientApplicationInterface" id="5b918c7f-f6dd-47f1-8449-205108ad3f01.b" configVersion="4265f2cb7ceaf14fac3bda5d2ce5192c00000000"/>
 		<Metadata name="Configuration.ГрумингСалон.CommandInterface" id="5b918c7f-f6dd-47f1-8449-205108ad3f01.a" configVersion="e7750e0aa01cd642b0ec90b27736520e00000000"/>
 		<Metadata name="Configuration.ГрумингСалон.HomePageWorkArea" id="5b918c7f-f6dd-47f1-8449-205108ad3f01.8" configVersion="bdac3afe1390454b862bb5dfd6b633d600000000"/>
@@ -362,6 +362,13 @@
 			<Metadata name="Enum.ВидыОперацийРасходаДенег.EnumValue.ВыдачаДенегПодотчетнику" id="9bb85e4e-76a5-4355-b4a5-34b01019ebfe"/>
 			<Metadata name="Enum.ВидыОперацийРасходаДенег.EnumValue.ОплатаПоставщику" id="cafc4281-c94d-418b-aba9-740c41e61e7f"/>
 			<Metadata name="Enum.ВидыОперацийРасходаДенег.EnumValue.ПрочийРасход" id="ec9e1261-e1f3-4d1c-b726-122b518c440e"/>
+		</Metadata>
+		<Metadata name="Enum.ВидыОперацийСписанияСРасчетногоСчета" id="ac143c12-1d23-4211-b0fa-61da9533ca3c" configVersion="060d5e67cf418146886ac3fc648875ff00000000">
+			<Metadata name="Enum.ВидыОперацийСписанияСРасчетногоСчета.EnumValue.СнятиеНаличныхВКассу" id="3175efeb-7db6-4568-862b-2a2c91a0fbd7"/>
+			<Metadata name="Enum.ВидыОперацийСписанияСРасчетногоСчета.EnumValue.ПеречислениеЗаработнойПлаты" id="9c3e5373-26dc-42be-a380-12f00617f5a8"/>
+			<Metadata name="Enum.ВидыОперацийСписанияСРасчетногоСчета.EnumValue.ОплатаПоставщику" id="d1c3d13d-aa29-4f9e-b72e-1e1b874e1412"/>
+			<Metadata name="Enum.ВидыОперацийСписанияСРасчетногоСчета.EnumValue.ПеречислениеПодотчетномуЛицу" id="e148be33-bdad-4af9-a2e9-a88cc2bb92ba"/>
+			<Metadata name="Enum.ВидыОперацийСписанияСРасчетногоСчета.EnumValue.ВозвратПокупателю" id="f4f1b126-46b5-41e8-a338-ef4ba91ec32e"/>
 		</Metadata>
 		<Metadata name="Enum.ВидыПитомцев" id="45c962dc-a266-4f18-a9f9-2b6e3d61376f" configVersion="d1ac6dee2f0f584c8cda7cb0b487958b00000000">
 			<Metadata name="Enum.ВидыПитомцев.EnumValue.Кошка" id="156e5dd1-81f8-4138-ac9a-f06918cad374"/>
