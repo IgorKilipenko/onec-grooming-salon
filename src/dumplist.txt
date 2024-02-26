@@ -1,6 +1,5 @@
-﻿New: CommonModule.БухгалтерскийУчет
-New: CommonModule.БухгалтерскийУчет.Module
-New: Document.ПоступлениеНаРасчетныйСчет.ManagerModule
-Modified: Configuration.ГрумингСалон
-Modified: Document.ПоступлениеНаРасчетныйСчет
+﻿Modified: Document.ПоступлениеНаРасчетныйСчет
+Modified: Document.ПоступлениеНаРасчетныйСчет.Form.ФормаДокумента
+Modified: Document.ПоступлениеНаРасчетныйСчет.Form.ФормаДокумента.Form
+Modified: Document.ПоступлениеНаРасчетныйСчет.ManagerModule
 Modified: Document.ПоступлениеНаРасчетныйСчет.ObjectModule
