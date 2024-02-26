@@ -321,6 +321,7 @@
 			<Document>СписаниеСРасчетногоСчета</Document>
 			<DocumentJournal>ДокументыПоКассе</DocumentJournal>
 			<DocumentJournal>ДокументыПоБанку</DocumentJournal>
+			<DocumentJournal>ЖурналХозяйственныхОпераций</DocumentJournal>
 			<Enum>ТипыОрганизаций</Enum>
 			<Enum>ПолФизическогоЛица</Enum>
 			<Enum>ТипыНоменклатуры</Enum>

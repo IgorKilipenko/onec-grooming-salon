@@ -196,7 +196,7 @@
 		<Metadata name="CommonPicture.Продажи.Picture" id="719ed3c0-380a-464b-bd71-bef40de04625.0" configVersion="5960b7b254c0e2428f0645d3d5854ed600000000"/>
 		<Metadata name="CommonPicture.Справочники" id="703bb534-6eb6-45dc-83f0-9ac0cfbb7864" configVersion="3c2b8b74f2613d4ea04ecaaf7ce2cfd000000000"/>
 		<Metadata name="CommonPicture.Справочники.Picture" id="703bb534-6eb6-45dc-83f0-9ac0cfbb7864.0" configVersion="50218a0ba61bff438b3326bc6110430c00000000"/>
-		<Metadata name="Configuration.ГрумингСалон" id="bf7fd7f7-d5f2-4af8-987a-4903e6ac7a60" configVersion="fb2722ba54fa89499277e4295784e5c600000000"/>
+		<Metadata name="Configuration.ГрумингСалон" id="bf7fd7f7-d5f2-4af8-987a-4903e6ac7a60" configVersion="26ba47e27da3a2439822494f1c5c34ac00000000"/>
 		<Metadata name="Configuration.ГрумингСалон.ClientApplicationInterface" id="5b918c7f-f6dd-47f1-8449-205108ad3f01.b" configVersion="4265f2cb7ceaf14fac3bda5d2ce5192c00000000"/>
 		<Metadata name="Configuration.ГрумингСалон.CommandInterface" id="5b918c7f-f6dd-47f1-8449-205108ad3f01.a" configVersion="e7750e0aa01cd642b0ec90b27736520e00000000"/>
 		<Metadata name="Configuration.ГрумингСалон.HomePageWorkArea" id="5b918c7f-f6dd-47f1-8449-205108ad3f01.8" configVersion="bdac3afe1390454b862bb5dfd6b633d600000000"/>
@@ -419,6 +419,13 @@
 		</Metadata>
 		<Metadata name="DocumentJournal.ДокументыПоКассе.Form.ФормаСписка" id="cd235a59-d835-4b9a-b43c-1f23806979d3" configVersion="d3d2106336e15840a379f8ad5b548a4100000000"/>
 		<Metadata name="DocumentJournal.ДокументыПоКассе.Form.ФормаСписка.Form" id="cd235a59-d835-4b9a-b43c-1f23806979d3.0" configVersion="528ed949eb163a4eb1f8208479027b2c00000000"/>
+		<Metadata name="DocumentJournal.ЖурналХозяйственныхОпераций" id="7620b61a-56d6-49ef-920a-61c0c0138a8c" configVersion="54487622fa6f864a8d47f449eed045d300000000">
+			<Metadata name="DocumentJournal.ЖурналХозяйственныхОпераций.Column.ВидОперации" id="044bb025-063f-4194-8a2f-93e036aa0d9b"/>
+			<Metadata name="DocumentJournal.ЖурналХозяйственныхОпераций.Column.Сумма" id="6049613d-8a5f-40ac-8d96-8f2e1e495611"/>
+			<Metadata name="DocumentJournal.ЖурналХозяйственныхОпераций.Column.Контрагент" id="f225a1b3-c711-4daf-b604-6d7f9e4b409e"/>
+		</Metadata>
+		<Metadata name="DocumentJournal.ЖурналХозяйственныхОпераций.Form.ФормаСписка" id="6f58e038-7aec-43f6-84ce-ccc5bec71ad7" configVersion="ff21d9ba1d754a4aa58639aef217645600000000"/>
+		<Metadata name="DocumentJournal.ЖурналХозяйственныхОпераций.Form.ФормаСписка.Form" id="6f58e038-7aec-43f6-84ce-ccc5bec71ad7.0" configVersion="655247b3e5cfc445bef00fc78f272e2200000000"/>
 		<Metadata name="Enum.ВидыОперацийПоступленияДенег" id="5a37db1d-bc40-47f4-9e49-bb14cf7bfbfb" configVersion="df7c5041da9b9149ad5f2e98f612c0a200000000">
 			<Metadata name="Enum.ВидыОперацийПоступленияДенег.EnumValue.ПолучениеНаличныхВБанке" id="21cdb9c3-3905-448e-86b0-dc928d678005"/>
 			<Metadata name="Enum.ВидыОперацийПоступленияДенег.EnumValue.ПрочееПоступление" id="3fe7775f-9f05-4703-ba9c-5ea89d23fe7c"/>
@@ -527,7 +534,7 @@
 		<Metadata name="SessionParameter.ТекущийПользователь" id="643310eb-9d42-4b35-a3c0-0112db602cea" configVersion="14ec5aaca870fd4f9b450e758bf8e8e900000000"/>
 		<Metadata name="Style.ГрумингСалон" id="b36c8bbb-b7ff-499f-88e3-0ebd2f7315ba" configVersion="65cede4ab234a743ae4bc2d7fd94002f00000000"/>
 		<Metadata name="Style.ГрумингСалон.Style" id="b36c8bbb-b7ff-499f-88e3-0ebd2f7315ba.0" configVersion="8d127e21b8530b4f92d50f17575c82d000000000"/>
-		<Metadata name="Subsystem.БухгалтерскийУчет" id="a4e97d8f-58b3-4f26-b64d-f3833d82bec2" configVersion="f5c1ed02bca17b4bab455f22859dd90000000000"/>
+		<Metadata name="Subsystem.БухгалтерскийУчет" id="a4e97d8f-58b3-4f26-b64d-f3833d82bec2" configVersion="fcc2d6fe7e9767459804167833ccb10700000000"/>
 		<Metadata name="Subsystem.Деньги" id="4cf975ff-dbae-44d4-b8fa-8a250bd979f9" configVersion="aef538bd38d2af4d8d93c625b848fcbd00000000"/>
 		<Metadata name="Subsystem.Настройки" id="c0f6f859-99d5-4013-9c1f-1dd790eacd15" configVersion="b0fe50f060d3554c91b10ca375f7cc1600000000"/>
 		<Metadata name="Subsystem.Настройки.CommandInterface" id="c0f6f859-99d5-4013-9c1f-1dd790eacd15.1" configVersion="87ed8d123d59c14fbc59622744f157b400000000"/>

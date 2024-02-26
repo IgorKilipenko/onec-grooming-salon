@@ -1,5 +1,5 @@
-﻿New: DocumentJournal.ДокументыПоБанку
-New: DocumentJournal.ДокументыПоБанку.Form.ФормаСписка
-New: DocumentJournal.ДокументыПоБанку.Form.ФормаСписка.Form
+﻿New: DocumentJournal.ЖурналХозяйственныхОпераций
+New: DocumentJournal.ЖурналХозяйственныхОпераций.Form.ФормаСписка
+New: DocumentJournal.ЖурналХозяйственныхОпераций.Form.ФормаСписка.Form
 Modified: Configuration.ГрумингСалон
-Modified: Subsystem.Деньги
+Modified: Subsystem.БухгалтерскийУчет
