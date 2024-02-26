@@ -1,4 +1,5 @@
-﻿New: ChartOfCharacteristicTypes.ВидыСубконтоХозрасчетные
-New: ChartOfCharacteristicTypes.ВидыСубконтоХозрасчетные.Predefined
+﻿New: ChartOfAccounts.Хозрасчетный
+New: ChartOfAccounts.Хозрасчетный.ManagerModule
+New: ChartOfAccounts.Хозрасчетный.Predefined
 Modified: Configuration.ГрумингСалон
 Modified: Subsystem.БухгалтерскийУчет
