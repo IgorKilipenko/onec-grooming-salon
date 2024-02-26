@@ -1,4 +1,3 @@
-﻿New: Catalog.БанковскиеСчета
+﻿New: Document.ПоступлениеНаРасчетныйСчет
 Modified: Configuration.ГрумингСалон
 Modified: Subsystem.Деньги
-Modified: Subsystem.Справочники

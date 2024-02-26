@@ -185,7 +185,7 @@
 		<Metadata name="CommonPicture.Продажи.Picture" id="719ed3c0-380a-464b-bd71-bef40de04625.0" configVersion="5960b7b254c0e2428f0645d3d5854ed600000000"/>
 		<Metadata name="CommonPicture.Справочники" id="703bb534-6eb6-45dc-83f0-9ac0cfbb7864" configVersion="3c2b8b74f2613d4ea04ecaaf7ce2cfd000000000"/>
 		<Metadata name="CommonPicture.Справочники.Picture" id="703bb534-6eb6-45dc-83f0-9ac0cfbb7864.0" configVersion="50218a0ba61bff438b3326bc6110430c00000000"/>
-		<Metadata name="Configuration.ГрумингСалон" id="bf7fd7f7-d5f2-4af8-987a-4903e6ac7a60" configVersion="0cd2dbc11ebc774cbb664879f16b395500000000"/>
+		<Metadata name="Configuration.ГрумингСалон" id="bf7fd7f7-d5f2-4af8-987a-4903e6ac7a60" configVersion="8fb2d2a7edcaa44ebd94a7b509380a0100000000"/>
 		<Metadata name="Configuration.ГрумингСалон.ClientApplicationInterface" id="5b918c7f-f6dd-47f1-8449-205108ad3f01.b" configVersion="4265f2cb7ceaf14fac3bda5d2ce5192c00000000"/>
 		<Metadata name="Configuration.ГрумингСалон.CommandInterface" id="5b918c7f-f6dd-47f1-8449-205108ad3f01.a" configVersion="e7750e0aa01cd642b0ec90b27736520e00000000"/>
 		<Metadata name="Configuration.ГрумингСалон.HomePageWorkArea" id="5b918c7f-f6dd-47f1-8449-205108ad3f01.8" configVersion="bdac3afe1390454b862bb5dfd6b633d600000000"/>
@@ -256,6 +256,21 @@
 		<Metadata name="Document.ПоступлениеДенежныхСредств.Form.ФормаДокумента.Form" id="eeae7796-cfb9-42de-87a4-af66fab760eb.0" configVersion="1a0f5319a83d6d48ac9b640e98e1eadd00000000"/>
 		<Metadata name="Document.ПоступлениеДенежныхСредств.ManagerModule" id="da34b213-3b99-4e85-a1d1-82962f3cf0fc.2" configVersion="2d081c63bffd6f4d95effcd64b8f31e400000000"/>
 		<Metadata name="Document.ПоступлениеДенежныхСредств.ObjectModule" id="da34b213-3b99-4e85-a1d1-82962f3cf0fc.0" configVersion="c647ddfd893a0f4d8dccc5fa3bd62a5c00000000"/>
+		<Metadata name="Document.ПоступлениеНаРасчетныйСчет" id="b6b7f5ef-de17-4cec-a3c5-0f82dd3d29f8" configVersion="c2c03fe4cd1ff14c8f80bea7d5d4920300000000">
+			<Metadata name="Document.ПоступлениеНаРасчетныйСчет.Attribute.НомерВходящегоДокумента" id="03441621-a590-4253-bf11-204babbc9682"/>
+			<Metadata name="Document.ПоступлениеНаРасчетныйСчет.Attribute.Плательщик" id="23558668-796b-4a41-ad5c-20c583a9855c"/>
+			<Metadata name="Document.ПоступлениеНаРасчетныйСчет.Attribute.ДоговорКонтрагента" id="65ad2a64-0220-4769-89aa-4b2124fe49eb"/>
+			<Metadata name="Document.ПоступлениеНаРасчетныйСчет.Attribute.ДокументОснование" id="7a331fb1-542d-46d8-a99e-b742c1d443d3"/>
+			<Metadata name="Document.ПоступлениеНаРасчетныйСчет.Attribute.ВидОперации" id="7c0665ae-444f-4e5a-a1c2-bcb93f434753"/>
+			<Metadata name="Document.ПоступлениеНаРасчетныйСчет.Attribute.АвторДокумента" id="811e02ac-6e39-4a92-bce1-995f53584d85"/>
+			<Metadata name="Document.ПоступлениеНаРасчетныйСчет.Attribute.ЭквайринговыйТерминал" id="83cff786-9da4-47dd-9b1f-32ca62652f74"/>
+			<Metadata name="Document.ПоступлениеНаРасчетныйСчет.Attribute.Касса" id="909bd0ab-8f48-4c7b-abae-ad482d355888"/>
+			<Metadata name="Document.ПоступлениеНаРасчетныйСчет.Attribute.СуммаДокумента" id="b1c2e371-8a87-4b3b-aec1-bd13aef255e4"/>
+			<Metadata name="Document.ПоступлениеНаРасчетныйСчет.Attribute.РасчетныйСчет" id="b7e287f0-9381-4c18-80a5-60f7bb3910b7"/>
+			<Metadata name="Document.ПоступлениеНаРасчетныйСчет.Attribute.ДатаВходящегоДокумента" id="d0b2d814-128b-4c0e-930d-709db8f01e34"/>
+			<Metadata name="Document.ПоступлениеНаРасчетныйСчет.Attribute.Комментарий" id="dd0cc61d-7953-4ea9-9bf1-e2e83b0e3985"/>
+			<Metadata name="Document.ПоступлениеНаРасчетныйСчет.Attribute.НазначениеПлатежа" id="f3b80e8d-8706-4abf-8159-75cac0b380b3"/>
+		</Metadata>
 		<Metadata name="Document.ПоступлениеТоваров" id="fae4f4d5-2dbe-45a9-b5c9-cb07edb71685" configVersion="8b87a30e6b45e540b07ff1ee2570003b00000000">
 			<Metadata name="Document.ПоступлениеТоваров.TabularSection.Товары.Attribute.Цена" id="02b11f2b-f879-4ad7-8693-2ecdad757738"/>
 			<Metadata name="Document.ПоступлениеТоваров.TabularSection.Товары.Attribute.ТипНоменклатуры" id="17043427-a9eb-4685-8a7d-c471bbf86111"/>
@@ -456,7 +471,7 @@
 		<Metadata name="Style.ГрумингСалон" id="b36c8bbb-b7ff-499f-88e3-0ebd2f7315ba" configVersion="65cede4ab234a743ae4bc2d7fd94002f00000000"/>
 		<Metadata name="Style.ГрумингСалон.Style" id="b36c8bbb-b7ff-499f-88e3-0ebd2f7315ba.0" configVersion="8d127e21b8530b4f92d50f17575c82d000000000"/>
 		<Metadata name="Subsystem.БухгалтерскийУчет" id="a4e97d8f-58b3-4f26-b64d-f3833d82bec2" configVersion="92fcca085fc710479f6c01b10996c0b200000000"/>
-		<Metadata name="Subsystem.Деньги" id="4cf975ff-dbae-44d4-b8fa-8a250bd979f9" configVersion="e9984c1d02436140aea3af251050f45c00000000"/>
+		<Metadata name="Subsystem.Деньги" id="4cf975ff-dbae-44d4-b8fa-8a250bd979f9" configVersion="46c2e1984b9605478ee3e171f1ab1b8b00000000"/>
 		<Metadata name="Subsystem.Настройки" id="c0f6f859-99d5-4013-9c1f-1dd790eacd15" configVersion="b0fe50f060d3554c91b10ca375f7cc1600000000"/>
 		<Metadata name="Subsystem.Настройки.CommandInterface" id="c0f6f859-99d5-4013-9c1f-1dd790eacd15.1" configVersion="87ed8d123d59c14fbc59622744f157b400000000"/>
 		<Metadata name="Subsystem.Настройки.Subsystem.Сервис" id="19d6e9c1-cdbd-4022-884f-9ebf01e49de3" configVersion="da67a0c5b265e5438fb5191d757d1ff000000000"/>
