@@ -1,5 +1,9 @@
-﻿New: ChartOfAccounts.Хозрасчетный
-New: ChartOfAccounts.Хозрасчетный.ManagerModule
-New: ChartOfAccounts.Хозрасчетный.Predefined
+﻿New: AccountingRegister.Хозрасчетный
 Modified: Configuration.ГрумингСалон
+Modified: Document.ПоступлениеДенежныхСредств
+Modified: Document.ПоступлениеНаРасчетныйСчет
+Modified: Document.ПоступлениеТоваров
+Modified: Document.ПоступлениеУслуг
+Modified: Document.РасходДенежныхСредств
+Modified: Document.РеализацияТоваровИУслуг
 Modified: Subsystem.БухгалтерскийУчет
