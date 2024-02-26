@@ -1,5 +1,5 @@
-﻿New: DocumentJournal.ДокументыПоКассе
-New: DocumentJournal.ДокументыПоКассе.Form.ФормаСписка
-New: DocumentJournal.ДокументыПоКассе.Form.ФормаСписка.Form
+﻿New: DocumentJournal.ДокументыПоБанку
+New: DocumentJournal.ДокументыПоБанку.Form.ФормаСписка
+New: DocumentJournal.ДокументыПоБанку.Form.ФормаСписка.Form
 Modified: Configuration.ГрумингСалон
 Modified: Subsystem.Деньги
