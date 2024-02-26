@@ -277,6 +277,7 @@
 			<CommonModule>РаботаСКоллекциями</CommonModule>
 			<CommonModule>РаботаСРеквизитами</CommonModule>
 			<CommonModule>РаботаСМетаданными</CommonModule>
+			<CommonModule>БухгалтерскийУчет</CommonModule>
 			<FunctionalOption>ИспользоватьСклады</FunctionalOption>
 			<DefinedType>ФинансовыеДанные</DefinedType>
 			<DefinedType>КоличествоТоваров</DefinedType>

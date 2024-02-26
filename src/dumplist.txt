@@ -1,4 +1,6 @@
-﻿New: Document.ПоступлениеНаРасчетныйСчет.Form.ФормаДокумента
-New: Document.ПоступлениеНаРасчетныйСчет.Form.ФормаДокумента.Form
-New: Document.ПоступлениеНаРасчетныйСчет.ObjectModule
+﻿New: CommonModule.БухгалтерскийУчет
+New: CommonModule.БухгалтерскийУчет.Module
+New: Document.ПоступлениеНаРасчетныйСчет.ManagerModule
+Modified: Configuration.ГрумингСалон
 Modified: Document.ПоступлениеНаРасчетныйСчет
+Modified: Document.ПоступлениеНаРасчетныйСчет.ObjectModule
