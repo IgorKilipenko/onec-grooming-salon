@@ -1,2 +1,2 @@
-﻿New: Catalog.Склады.ManagerModule
-Modified: Catalog.Склады
+﻿New: Enum.ВидыОперацийПоступленияДенег.ManagerModule
+Modified: Enum.ВидыОперацийПоступленияДенег

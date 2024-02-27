@@ -428,13 +428,14 @@
 		</Metadata>
 		<Metadata name="DocumentJournal.ЖурналХозяйственныхОпераций.Form.ФормаСписка" id="6f58e038-7aec-43f6-84ce-ccc5bec71ad7" configVersion="ff21d9ba1d754a4aa58639aef217645600000000"/>
 		<Metadata name="DocumentJournal.ЖурналХозяйственныхОпераций.Form.ФормаСписка.Form" id="6f58e038-7aec-43f6-84ce-ccc5bec71ad7.0" configVersion="655247b3e5cfc445bef00fc78f272e2200000000"/>
-		<Metadata name="Enum.ВидыОперацийПоступленияДенег" id="5a37db1d-bc40-47f4-9e49-bb14cf7bfbfb" configVersion="df7c5041da9b9149ad5f2e98f612c0a200000000">
+		<Metadata name="Enum.ВидыОперацийПоступленияДенег" id="5a37db1d-bc40-47f4-9e49-bb14cf7bfbfb" configVersion="d8ff93f7dd35254daa29599575e0452a00000000">
 			<Metadata name="Enum.ВидыОперацийПоступленияДенег.EnumValue.ПолучениеНаличныхВБанке" id="21cdb9c3-3905-448e-86b0-dc928d678005"/>
 			<Metadata name="Enum.ВидыОперацийПоступленияДенег.EnumValue.ПрочееПоступление" id="3fe7775f-9f05-4703-ba9c-5ea89d23fe7c"/>
 			<Metadata name="Enum.ВидыОперацийПоступленияДенег.EnumValue.ВозвратОтПодотчетника" id="5f1c4910-7df5-4119-a640-aeea2453bb6f"/>
 			<Metadata name="Enum.ВидыОперацийПоступленияДенег.EnumValue.ВозвратОтПоставщика" id="a6d444eb-e40c-4201-809b-5c14ff8adc4f"/>
 			<Metadata name="Enum.ВидыОперацийПоступленияДенег.EnumValue.ОплатаОтПокупателя" id="feba395d-5f01-4fe8-a835-ce8b1ffabd7f"/>
 		</Metadata>
+		<Metadata name="Enum.ВидыОперацийПоступленияДенег.ManagerModule" id="5a37db1d-bc40-47f4-9e49-bb14cf7bfbfb.0" configVersion="764d318098a7524d8c2bd31fef846f0200000000"/>
 		<Metadata name="Enum.ВидыОперацийПоступленияНаРасчетныйСчет" id="52ea8137-0b51-440c-b5e7-2d7748b28d0f" configVersion="1210e259831fb340bc8abc4919c12a5a00000000">
 			<Metadata name="Enum.ВидыОперацийПоступленияНаРасчетныйСчет.EnumValue.ВозвратОтПоставщика" id="78e39f7c-258f-43ca-ac9c-74189ccad166"/>
 			<Metadata name="Enum.ВидыОперацийПоступленияНаРасчетныйСчет.EnumValue.ВзносНаличными" id="d1312cdf-5a3c-4abc-8c10-d12b418f7e28"/>
