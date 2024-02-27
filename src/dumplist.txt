@@ -1,1 +1,2 @@
-﻿Modified: AccumulationRegister.ДенежныеСредства
+﻿New: AccumulationRegister.ДенежныеСредства.ManagerModule
+Modified: AccumulationRegister.ДенежныеСредства

@@ -9,11 +9,12 @@
 			<Metadata name="AccumulationRegister.БезналичнаяОплата.Resource.Сумма" id="45051d74-0fcc-4a92-91c6-a5411259fbc0"/>
 			<Metadata name="AccumulationRegister.БезналичнаяОплата.Dimension.ЭквайринговыйТерминал" id="fe390d79-e159-4d68-91e9-ffb43c396aec"/>
 		</Metadata>
-		<Metadata name="AccumulationRegister.ДенежныеСредства" id="5f3d5a1f-a2c2-4549-bac9-c8cbe44a7ceb" configVersion="de18a5beaefb814880d783c7e235ee8300000000">
+		<Metadata name="AccumulationRegister.ДенежныеСредства" id="5f3d5a1f-a2c2-4549-bac9-c8cbe44a7ceb" configVersion="a8755cec48129848b6e5cf68bccd711300000000">
 			<Metadata name="AccumulationRegister.ДенежныеСредства.Resource.Сумма" id="02ccd692-22c9-431f-9bc5-1e4452c8e4e4"/>
 			<Metadata name="AccumulationRegister.ДенежныеСредства.Dimension.ТипДенежныхСредств" id="4890f48f-c316-48c8-a991-c3f338c11922"/>
 			<Metadata name="AccumulationRegister.ДенежныеСредства.Dimension.БанковскийСчетКасса" id="8044146b-ca3c-42ff-afa7-34c8ff09aedd"/>
 		</Metadata>
+		<Metadata name="AccumulationRegister.ДенежныеСредства.ManagerModule" id="5f3d5a1f-a2c2-4549-bac9-c8cbe44a7ceb.2" configVersion="d501146193035945b456aacd08e4368f00000000"/>
 		<Metadata name="AccumulationRegister.ЗаказыКлиентов" id="903a0d5e-7ee3-41db-9354-7625f580ae50" configVersion="345b9869b10077439790f0393e618e8e00000000">
 			<Metadata name="AccumulationRegister.ЗаказыКлиентов.Dimension.ЗаписьКлиента" id="667966fc-b922-47c7-b139-c14094d60074"/>
 			<Metadata name="AccumulationRegister.ЗаказыКлиентов.Resource.Сумма" id="7b001c46-3f09-4e8a-9646-b1b8972f4e9d"/>
