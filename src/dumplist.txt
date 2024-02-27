@@ -1,2 +1,2 @@
-﻿New: AccumulationRegister.ДенежныеСредства.ManagerModule
-Modified: AccumulationRegister.ДенежныеСредства
+﻿Modified: Document.ПоступлениеНаРасчетныйСчет
+Modified: Document.ПоступлениеНаРасчетныйСчет.ObjectModule

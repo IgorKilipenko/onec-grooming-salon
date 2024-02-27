@@ -272,7 +272,7 @@
 		<Metadata name="Document.ПоступлениеДенежныхСредств.Form.ФормаДокумента.Form" id="eeae7796-cfb9-42de-87a4-af66fab760eb.0" configVersion="d58a69bc5a5c5f42b61384dc1490a8dc00000000"/>
 		<Metadata name="Document.ПоступлениеДенежныхСредств.ManagerModule" id="da34b213-3b99-4e85-a1d1-82962f3cf0fc.2" configVersion="d7a38b50f546c941ac8c4b15578132dc00000000"/>
 		<Metadata name="Document.ПоступлениеДенежныхСредств.ObjectModule" id="da34b213-3b99-4e85-a1d1-82962f3cf0fc.0" configVersion="eff4b874284f984892b10ec24e77783800000000"/>
-		<Metadata name="Document.ПоступлениеНаРасчетныйСчет" id="b6b7f5ef-de17-4cec-a3c5-0f82dd3d29f8" configVersion="0e4bceccf363b5409c8548b929fa61bc00000000">
+		<Metadata name="Document.ПоступлениеНаРасчетныйСчет" id="b6b7f5ef-de17-4cec-a3c5-0f82dd3d29f8" configVersion="6579a194fcab31418ffcde1f1f5b532d00000000">
 			<Metadata name="Document.ПоступлениеНаРасчетныйСчет.Attribute.НомерВходящегоДокумента" id="03441621-a590-4253-bf11-204babbc9682"/>
 			<Metadata name="Document.ПоступлениеНаРасчетныйСчет.Attribute.Плательщик" id="23558668-796b-4a41-ad5c-20c583a9855c"/>
 			<Metadata name="Document.ПоступлениеНаРасчетныйСчет.Attribute.ДоговорКонтрагента" id="65ad2a64-0220-4769-89aa-4b2124fe49eb"/>
@@ -292,7 +292,7 @@
 		<Metadata name="Document.ПоступлениеНаРасчетныйСчет.Form.ФормаСписка" id="bcd01c85-b72f-4620-a565-74cf4d682bd9" configVersion="9e4b2091ce33784c9bdb203fd322cd8300000000"/>
 		<Metadata name="Document.ПоступлениеНаРасчетныйСчет.Form.ФормаСписка.Form" id="bcd01c85-b72f-4620-a565-74cf4d682bd9.0" configVersion="446b31ff862a0342abae146c6df77dbd00000000"/>
 		<Metadata name="Document.ПоступлениеНаРасчетныйСчет.ManagerModule" id="b6b7f5ef-de17-4cec-a3c5-0f82dd3d29f8.2" configVersion="463b2cbbfc3225499065c58141d194cf00000000"/>
-		<Metadata name="Document.ПоступлениеНаРасчетныйСчет.ObjectModule" id="b6b7f5ef-de17-4cec-a3c5-0f82dd3d29f8.0" configVersion="fd71631324dcdb42b3431ee3c84be04100000000"/>
+		<Metadata name="Document.ПоступлениеНаРасчетныйСчет.ObjectModule" id="b6b7f5ef-de17-4cec-a3c5-0f82dd3d29f8.0" configVersion="c124277159b1d245af4c5fe0b195f81600000000"/>
 		<Metadata name="Document.ПоступлениеТоваров" id="fae4f4d5-2dbe-45a9-b5c9-cb07edb71685" configVersion="893b1067246ef240a6e9f3c8a8e7ecf600000000">
 			<Metadata name="Document.ПоступлениеТоваров.TabularSection.Товары.Attribute.Цена" id="02b11f2b-f879-4ad7-8693-2ecdad757738"/>
 			<Metadata name="Document.ПоступлениеТоваров.TabularSection.Товары.Attribute.ТипНоменклатуры" id="17043427-a9eb-4685-8a7d-c471bbf86111"/>
