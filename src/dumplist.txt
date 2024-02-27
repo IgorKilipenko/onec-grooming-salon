@@ -1,2 +1,5 @@
-﻿Modified: Document.ПоступлениеНаРасчетныйСчет
-Modified: Document.ПоступлениеНаРасчетныйСчет.ObjectModule
+﻿New: Document.ПоступлениеУслуг.ManagerModule
+Modified: Document.ПоступлениеУслуг
+Modified: Document.ПоступлениеУслуг.Form.ФормаДокумента
+Modified: Document.ПоступлениеУслуг.Form.ФормаДокумента.Form
+Modified: Document.ПоступлениеУслуг.ObjectModule
