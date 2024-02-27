@@ -1,5 +1,2 @@
-﻿Modified: Document.ПоступлениеДенежныхСредств
-Modified: Document.ПоступлениеДенежныхСредств.Form.ФормаДокумента
+﻿Modified: Document.ПоступлениеДенежныхСредств.Form.ФормаДокумента
 Modified: Document.ПоступлениеДенежныхСредств.Form.ФормаДокумента.Form
-Modified: Document.ПоступлениеДенежныхСредств.ManagerModule
-Modified: Document.ПоступлениеДенежныхСредств.ObjectModule
