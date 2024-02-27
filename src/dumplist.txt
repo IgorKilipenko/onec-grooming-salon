@@ -1,2 +1,2 @@
-﻿Modified: Catalog.Номенклатура
-Modified: Catalog.Номенклатура.ManagerModule
+﻿Modified: Document.ПоступлениеТоваров.Form.ФормаДокумента
+Modified: Document.ПоступлениеТоваров.Form.ФормаДокумента.Form
