@@ -43,7 +43,7 @@
 			<UseStandardCommands>true</UseStandardCommands>
 			<IncludeHelpInContents>false</IncludeHelpInContents>
 			<ChartOfAccounts>ChartOfAccounts.Хозрасчетный</ChartOfAccounts>
-			<Correspondence>false</Correspondence>
+			<Correspondence>true</Correspondence>
 			<PeriodAdjustmentLength>0</PeriodAdjustmentLength>
 			<DefaultListForm/>
 			<AuxiliaryListForm/>
