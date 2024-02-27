@@ -125,6 +125,12 @@
 			<ContextMenu name="ЭквайринговыйТерминалКонтекстноеМеню" id="26"/>
 			<ExtendedTooltip name="ЭквайринговыйТерминалРасширеннаяПодсказка" id="27"/>
 		</InputField>
+		<InputField name="РасчетныйСчет" id="39">
+			<DataPath>Объект.РасчетныйСчет</DataPath>
+			<ExtendedEditMultipleValues>true</ExtendedEditMultipleValues>
+			<ContextMenu name="РасчетныйСчетКонтекстноеМеню" id="40"/>
+			<ExtendedTooltip name="РасчетныйСчетРасширеннаяПодсказка" id="41"/>
+		</InputField>
 		<InputField name="СуммаДокумента" id="28">
 			<DataPath>Объект.СуммаДокумента</DataPath>
 			<Title>
@@ -167,41 +173,6 @@
 			<UseAlways>
 				<Field>Объект.RegisterRecords</Field>
 			</UseAlways>
-		</Attribute>
-		<Attribute name="ВидОперации" id="2">
-			<Title>
-				<v8:item>
-					<v8:lang>ru</v8:lang>
-					<v8:content>Вид операции</v8:content>
-				</v8:item>
-			</Title>
-			<Type>
-				<v8:Type>cfg:EnumRef.ВидыОперацийПоступленияДенег</v8:Type>
-			</Type>
-		</Attribute>
-		<Attribute name="Плательщик" id="3">
-			<Title>
-				<v8:item>
-					<v8:lang>ru</v8:lang>
-					<v8:content>Плательщик</v8:content>
-				</v8:item>
-			</Title>
-			<Type>
-				<v8:Type>cfg:CatalogRef.Банки</v8:Type>
-				<v8:Type>cfg:CatalogRef.Сотрудники</v8:Type>
-				<v8:Type>cfg:CatalogRef.Контрагенты</v8:Type>
-			</Type>
-		</Attribute>
-		<Attribute name="ТипДенежныхСредств" id="4">
-			<Title>
-				<v8:item>
-					<v8:lang>ru</v8:lang>
-					<v8:content>Тип денежных средств</v8:content>
-				</v8:item>
-			</Title>
-			<Type>
-				<v8:Type>cfg:EnumRef.ТипыДенежныхСредств</v8:Type>
-			</Type>
 		</Attribute>
 	</Attributes>
 	<CommandInterface>
