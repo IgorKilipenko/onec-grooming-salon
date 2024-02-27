@@ -1,2 +1,2 @@
-﻿New: Enum.ВидыОперацийПоступленияДенег.ManagerModule
-Modified: Enum.ВидыОперацийПоступленияДенег
+﻿New: Enum.ВидыОперацийРасходаДенег.ManagerModule
+Modified: Enum.ВидыОперацийРасходаДенег
