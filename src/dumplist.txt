@@ -1,1 +1,5 @@
-﻿Modified: AccountingRegister.Хозрасчетный
+﻿Modified: Document.ПоступлениеТоваров
+Modified: Document.ПоступлениеТоваров.Form.ФормаДокумента
+Modified: Document.ПоступлениеТоваров.Form.ФормаДокумента.Form
+Modified: Document.ПоступлениеТоваров.ManagerModule
+Modified: Document.ПоступлениеТоваров.ObjectModule
