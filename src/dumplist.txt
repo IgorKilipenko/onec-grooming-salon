@@ -1,2 +1,2 @@
-﻿Modified: Document.РеализацияТоваровИУслуг
-Modified: Document.РеализацияТоваровИУслуг.ObjectModule
+﻿Modified: Catalog.Склады
+Modified: Catalog.Склады.ManagerModule
