@@ -9,7 +9,7 @@
 			<Metadata name="AccumulationRegister.БезналичнаяОплата.Resource.Сумма" id="45051d74-0fcc-4a92-91c6-a5411259fbc0"/>
 			<Metadata name="AccumulationRegister.БезналичнаяОплата.Dimension.ЭквайринговыйТерминал" id="fe390d79-e159-4d68-91e9-ffb43c396aec"/>
 		</Metadata>
-		<Metadata name="AccumulationRegister.ДенежныеСредства" id="5f3d5a1f-a2c2-4549-bac9-c8cbe44a7ceb" configVersion="7d1a23d5d79a5b469644f4bff4c3f53900000000">
+		<Metadata name="AccumulationRegister.ДенежныеСредства" id="5f3d5a1f-a2c2-4549-bac9-c8cbe44a7ceb" configVersion="de18a5beaefb814880d783c7e235ee8300000000">
 			<Metadata name="AccumulationRegister.ДенежныеСредства.Resource.Сумма" id="02ccd692-22c9-431f-9bc5-1e4452c8e4e4"/>
 			<Metadata name="AccumulationRegister.ДенежныеСредства.Dimension.ТипДенежныхСредств" id="4890f48f-c316-48c8-a991-c3f338c11922"/>
 			<Metadata name="AccumulationRegister.ДенежныеСредства.Dimension.БанковскийСчетКасса" id="8044146b-ca3c-42ff-afa7-34c8ff09aedd"/>
