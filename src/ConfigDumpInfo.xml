@@ -200,7 +200,7 @@
 		<Metadata name="CommonPicture.Продажи.Picture" id="719ed3c0-380a-464b-bd71-bef40de04625.0" configVersion="5960b7b254c0e2428f0645d3d5854ed600000000"/>
 		<Metadata name="CommonPicture.Справочники" id="703bb534-6eb6-45dc-83f0-9ac0cfbb7864" configVersion="3c2b8b74f2613d4ea04ecaaf7ce2cfd000000000"/>
 		<Metadata name="CommonPicture.Справочники.Picture" id="703bb534-6eb6-45dc-83f0-9ac0cfbb7864.0" configVersion="50218a0ba61bff438b3326bc6110430c00000000"/>
-		<Metadata name="Configuration.ГрумингСалон" id="bf7fd7f7-d5f2-4af8-987a-4903e6ac7a60" configVersion="d31302e620aec5498fd6ade7ea01ab6600000000"/>
+		<Metadata name="Configuration.ГрумингСалон" id="bf7fd7f7-d5f2-4af8-987a-4903e6ac7a60" configVersion="6dfa921df3e9914a871ae3f160bdf14f00000000"/>
 		<Metadata name="Configuration.ГрумингСалон.ClientApplicationInterface" id="5b918c7f-f6dd-47f1-8449-205108ad3f01.b" configVersion="4265f2cb7ceaf14fac3bda5d2ce5192c00000000"/>
 		<Metadata name="Configuration.ГрумингСалон.CommandInterface" id="5b918c7f-f6dd-47f1-8449-205108ad3f01.a" configVersion="e7750e0aa01cd642b0ec90b27736520e00000000"/>
 		<Metadata name="Configuration.ГрумингСалон.HomePageWorkArea" id="5b918c7f-f6dd-47f1-8449-205108ad3f01.8" configVersion="bdac3afe1390454b862bb5dfd6b633d600000000"/>
@@ -527,6 +527,9 @@
 		<Metadata name="Report.ОтчетПоБезналичнойОплате" id="4d9ee56c-1459-41dc-9688-1f7d9516f0c3" configVersion="a0cfcdf3b065f044a60a1edbabf8c59f00000000"/>
 		<Metadata name="Report.ОтчетПоБезналичнойОплате.Template.ОсновнаяСхемаКомпоновкиДанных" id="5e522681-b236-42ed-9d2a-c8561a6d820b" configVersion="f963e8067232fa46ba58d839d7ad579d00000000"/>
 		<Metadata name="Report.ОтчетПоБезналичнойОплате.Template.ОсновнаяСхемаКомпоновкиДанных.Template" id="5e522681-b236-42ed-9d2a-c8561a6d820b.0" configVersion="e30df9c673c24e48a54c606d32226c3600000000"/>
+		<Metadata name="Report.ОтчетПоДвижениюИОстаткамДенег" id="19a7669b-641f-4620-b9c6-96b38534488b" configVersion="510e6bdb2fbb1545aef9e594227de52c00000000"/>
+		<Metadata name="Report.ОтчетПоДвижениюИОстаткамДенег.Template.ОсновнаяСхемаКомпоновкиДанных" id="124011a7-5421-4fe4-b43d-affe87416276" configVersion="00840230e2bd0e478fbef12f24c8b03b00000000"/>
+		<Metadata name="Report.ОтчетПоДвижениюИОстаткамДенег.Template.ОсновнаяСхемаКомпоновкиДанных.Template" id="124011a7-5421-4fe4-b43d-affe87416276.0" configVersion="491e7cfafe24bb4885ce58584eceb77800000000"/>
 		<Metadata name="Report.ОтчетПоПрибыли" id="c42adae0-b5d1-4105-aa27-301b8d99ad1d" configVersion="22a2005d9446854f8ee283a4fcc9850700000000"/>
 		<Metadata name="Report.ОтчетПоПрибыли.Template.ОсновнаяСхемаКомпоновкиДанных" id="230bb39a-b197-4915-9e73-3e6fa8eca307" configVersion="181d0f72b3cbf54ebd703af94754a44900000000"/>
 		<Metadata name="Report.ОтчетПоПрибыли.Template.ОсновнаяСхемаКомпоновкиДанных.Template" id="230bb39a-b197-4915-9e73-3e6fa8eca307.0" configVersion="9a304ed5b303554faadc0ec9d2682c2700000000"/>
@@ -551,7 +554,7 @@
 		<Metadata name="Style.ГрумингСалон.Style" id="b36c8bbb-b7ff-499f-88e3-0ebd2f7315ba.0" configVersion="8d127e21b8530b4f92d50f17575c82d000000000"/>
 		<Metadata name="Subsystem.БухгалтерскийУчет" id="a4e97d8f-58b3-4f26-b64d-f3833d82bec2" configVersion="424d610c63f24949b77f49371a927a1000000000"/>
 		<Metadata name="Subsystem.БухгалтерскийУчет.CommandInterface" id="a4e97d8f-58b3-4f26-b64d-f3833d82bec2.1" configVersion="d122366f01c1b14bb38f87c581717a8500000000"/>
-		<Metadata name="Subsystem.Деньги" id="4cf975ff-dbae-44d4-b8fa-8a250bd979f9" configVersion="ab6431e9baa4af4a839f57bdc9136c4a00000000"/>
+		<Metadata name="Subsystem.Деньги" id="4cf975ff-dbae-44d4-b8fa-8a250bd979f9" configVersion="c0fb3b1fcbad1048b009fc3ecf51aed600000000"/>
 		<Metadata name="Subsystem.Деньги.CommandInterface" id="4cf975ff-dbae-44d4-b8fa-8a250bd979f9.1" configVersion="b3a109166d74fd478464b6185a4e5b2600000000"/>
 		<Metadata name="Subsystem.Настройки" id="c0f6f859-99d5-4013-9c1f-1dd790eacd15" configVersion="b0fe50f060d3554c91b10ca375f7cc1600000000"/>
 		<Metadata name="Subsystem.Настройки.CommandInterface" id="c0f6f859-99d5-4013-9c1f-1dd790eacd15.1" configVersion="87ed8d123d59c14fbc59622744f157b400000000"/>

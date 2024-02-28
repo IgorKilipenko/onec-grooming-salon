@@ -1,2 +1,5 @@
-﻿New: Subsystem.Деньги.CommandInterface
+﻿New: Report.ОтчетПоДвижениюИОстаткамДенег
+New: Report.ОтчетПоДвижениюИОстаткамДенег.Template.ОсновнаяСхемаКомпоновкиДанных
+New: Report.ОтчетПоДвижениюИОстаткамДенег.Template.ОсновнаяСхемаКомпоновкиДанных.Template
+Modified: Configuration.ГрумингСалон
 Modified: Subsystem.Деньги
