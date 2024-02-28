@@ -19,6 +19,7 @@
 				<xr:Item xsi:type="xr:MDObjectRef">Catalog.Кассы</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">Catalog.Банки</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">Catalog.ЭквайринговыеТерминалы</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">Catalog.БанковскиеСчета</xr:Item>
 			</Content>
 		</Properties>
 		<ChildObjects/>

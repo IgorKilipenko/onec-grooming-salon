@@ -1,5 +1,8 @@
-﻿New: Report.ОборотноСальдоваяВедомостьПоСчету
-New: Report.ОборотноСальдоваяВедомостьПоСчету.Template.ОсновнаяСхемаКомпоновкиДанных
-New: Report.ОборотноСальдоваяВедомостьПоСчету.Template.ОсновнаяСхемаКомпоновкиДанных.Template
-Modified: Configuration.ГрумингСалон
-Modified: Subsystem.БухгалтерскийУчет
+﻿Modified: Subsystem.Справочники.Subsystem.Деньги
+Modified: Subsystem.Справочники.Subsystem.Деньги.CommandInterface
+Modified: Subsystem.Справочники.Subsystem.Персонал
+Modified: Subsystem.Справочники.Subsystem.Персонал.CommandInterface
+Modified: Subsystem.Справочники.Subsystem.Покупки
+Modified: Subsystem.Справочники.Subsystem.Покупки.CommandInterface
+Modified: Subsystem.Справочники.Subsystem.Продажи
+Modified: Subsystem.Справочники.Subsystem.Продажи.CommandInterface
