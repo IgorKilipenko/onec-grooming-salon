@@ -1,1 +1,2 @@
-﻿Modified: Subsystem.Деньги
+﻿Modified: Document.ПоступлениеНаРасчетныйСчет.Form.ФормаДокумента
+Modified: Document.ПоступлениеНаРасчетныйСчет.Form.ФормаДокумента.Form
