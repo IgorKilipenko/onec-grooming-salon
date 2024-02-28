@@ -32,6 +32,8 @@
 				<xr:Item xsi:type="xr:MDObjectRef">Catalog.Банки</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">Catalog.ЭквайринговыеТерминалы</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">Report.ОтчетПоДвижениюИОстаткамДенег</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">Enum.ВидыОперацийПоступленияНаРасчетныйСчет</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">Enum.ВидыОперацийСписанияСРасчетногоСчета</xr:Item>
 			</Content>
 		</Properties>
 		<ChildObjects/>
