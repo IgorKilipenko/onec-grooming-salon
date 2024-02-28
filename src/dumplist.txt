@@ -1,2 +1,1 @@
-﻿Modified: Document.СписаниеСРасчетногоСчета.Form.ФормаДокумента
-Modified: Document.СписаниеСРасчетногоСчета.Form.ФормаДокумента.Form
+﻿Modified: FilterCriterion.СвязанныеДокументы

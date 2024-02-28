@@ -500,7 +500,7 @@
 			<Metadata name="Enum.ТипыОрганизаций.EnumValue.ЮридическоеЛицо" id="4fa18d73-086e-435c-882a-4c710d7832a4"/>
 			<Metadata name="Enum.ТипыОрганизаций.EnumValue.ИндивидуальныйПредприниматель" id="ad2d5ff1-d639-4008-a140-16287d79ebe0"/>
 		</Metadata>
-		<Metadata name="FilterCriterion.СвязанныеДокументы" id="ba15806b-c862-47f1-bee3-8e75dbe653ea" configVersion="1a38aa0bc9dcc745af9616fa08e595e200000000"/>
+		<Metadata name="FilterCriterion.СвязанныеДокументы" id="ba15806b-c862-47f1-bee3-8e75dbe653ea" configVersion="ceecded76a483f4d95c54a0fdb7fc4e000000000"/>
 		<Metadata name="FunctionalOption.ИспользоватьСклады" id="9f180b36-b020-41d2-9562-6262802d378c" configVersion="b415161acc9ae647ab04fb3570796f4600000000"/>
 		<Metadata name="InformationRegister.УчетнаяПолитика" id="9dd99118-1c63-4cc1-b99d-bf3eadf5cfa3" configVersion="6c36527644f26a43a372c992d094a17600000000">
 			<Metadata name="InformationRegister.УчетнаяПолитика.Resource.УчетнаяПолитика" id="b7c3a310-7376-4cb5-ae44-bdd3b9cb45bf"/>

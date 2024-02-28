@@ -28,6 +28,8 @@
 				<xr:Item xsi:type="xr:MDObjectRef">Document.РеализацияТоваровИУслуг.Attribute.ДокументОснование</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">Document.ПоступлениеДенежныхСредств.Attribute.ДокументОснование</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">Document.РасходДенежныхСредств.Attribute.ДокументОснование</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">Document.ПоступлениеНаРасчетныйСчет.Attribute.ДокументОснование</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">Document.СписаниеСРасчетногоСчета.Attribute.ДокументОснование</xr:Item>
 			</Content>
 			<DefaultForm/>
 			<AuxiliaryForm/>
