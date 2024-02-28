@@ -1,2 +1,2 @@
-﻿New: Subsystem.БухгалтерскийУчет.CommandInterface
-Modified: Subsystem.БухгалтерскийУчет
+﻿New: Subsystem.Деньги.CommandInterface
+Modified: Subsystem.Деньги
