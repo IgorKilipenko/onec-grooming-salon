@@ -1,2 +1,2 @@
-﻿Modified: Subsystem.Справочники
-Modified: Subsystem.Справочники.CommandInterface
+﻿New: Subsystem.БухгалтерскийУчет.CommandInterface
+Modified: Subsystem.БухгалтерскийУчет
