@@ -1,5 +1,2 @@
-﻿New: Report.ОтчетПоДвижениюИОстаткамДенег
-New: Report.ОтчетПоДвижениюИОстаткамДенег.Template.ОсновнаяСхемаКомпоновкиДанных
-New: Report.ОтчетПоДвижениюИОстаткамДенег.Template.ОсновнаяСхемаКомпоновкиДанных.Template
-Modified: Configuration.ГрумингСалон
-Modified: Subsystem.Деньги
+﻿Modified: Document.ПоступлениеНаРасчетныйСчет.Form.ФормаДокумента
+Modified: Document.ПоступлениеНаРасчетныйСчет.Form.ФормаДокумента.Form

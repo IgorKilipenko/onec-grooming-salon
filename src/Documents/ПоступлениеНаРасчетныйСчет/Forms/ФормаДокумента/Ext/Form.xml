@@ -154,6 +154,9 @@
 			<DataPath>Объект.НазначениеПлатежа</DataPath>
 			<TitleLocation>Left</TitleLocation>
 			<EditMode>EnterOnInput</EditMode>
+			<Height>3</Height>
+			<AutoMaxHeight>false</AutoMaxHeight>
+			<MaxHeight>3</MaxHeight>
 			<ExtendedEditMultipleValues>true</ExtendedEditMultipleValues>
 			<ContextMenu name="НазначениеПлатежаКонтекстноеМеню" id="38"/>
 			<ExtendedTooltip name="НазначениеПлатежаРасширеннаяПодсказка" id="39"/>
