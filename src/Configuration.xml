@@ -340,6 +340,7 @@
 			<Report>ОтчетПоПрибыли</Report>
 			<Report>ОтчетДвиженияНаличныхДенег</Report>
 			<Report>ОтчетПоБезналичнойОплате</Report>
+			<Report>ОборотноСальдоваяВедомость</Report>
 			<DataProcessor>МониторРуководителя</DataProcessor>
 			<DataProcessor>ПланированиеЗагрузкиСотрудников</DataProcessor>
 			<InformationRegister>ЦеныНоменклатуры</InformationRegister>
