@@ -341,6 +341,7 @@
 			<Report>ОтчетДвиженияНаличныхДенег</Report>
 			<Report>ОтчетПоБезналичнойОплате</Report>
 			<Report>ОборотноСальдоваяВедомость</Report>
+			<Report>ОборотноСальдоваяВедомостьПоСчету</Report>
 			<DataProcessor>МониторРуководителя</DataProcessor>
 			<DataProcessor>ПланированиеЗагрузкиСотрудников</DataProcessor>
 			<InformationRegister>ЦеныНоменклатуры</InformationRegister>

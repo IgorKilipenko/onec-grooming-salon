@@ -24,6 +24,7 @@
 				<xr:Item xsi:type="xr:MDObjectRef">AccountingRegister.Хозрасчетный</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">DocumentJournal.ЖурналХозяйственныхОпераций</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">Report.ОборотноСальдоваяВедомость</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">Report.ОборотноСальдоваяВедомостьПоСчету</xr:Item>
 			</Content>
 		</Properties>
 		<ChildObjects/>
