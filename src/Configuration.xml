@@ -49,7 +49,7 @@
 			<ScriptVariant>Russian</ScriptVariant>
 			<DefaultRoles/>
 			<Vendor>Игорь Килипенко</Vendor>
-			<Version>Спринт 5</Version>
+			<Version>Спринт 6</Version>
 			<UpdateCatalogAddress/>
 			<IncludeHelpInContents>false</IncludeHelpInContents>
 			<UseManagedFormInOrdinaryApplication>false</UseManagedFormInOrdinaryApplication>
@@ -252,6 +252,7 @@
 			<Subsystem>Персонал</Subsystem>
 			<Subsystem>Настройки</Subsystem>
 			<Subsystem>Деньги</Subsystem>
+			<Subsystem>БухгалтерскийУчет</Subsystem>
 			<Style>ГрумингСалон</Style>
 			<CommonPicture>БизнесПроцессы</CommonPicture>
 			<CommonPicture>БухгалтерскийУчет</CommonPicture>
@@ -267,18 +268,28 @@
 			<Role>Руководитель</Role>
 			<Role>Закупщик</Role>
 			<Role>Администратор</Role>
+			<FilterCriterion>СвязанныеДокументы</FilterCriterion>
 			<CommonModule>РаботаСоСтрокамиВызовСервера</CommonModule>
 			<CommonModule>РаботаСДокументами</CommonModule>
 			<CommonModule>РаботаСЦенамиВызовСервера</CommonModule>
 			<CommonModule>РаботаСДокументамиКлиентСервер</CommonModule>
 			<CommonModule>ДиагностикаКлиентСервер</CommonModule>
 			<CommonModule>РаботаСКоллекциями</CommonModule>
+			<CommonModule>РаботаСРеквизитами</CommonModule>
+			<CommonModule>РаботаСМетаданными</CommonModule>
+			<CommonModule>БухгалтерскийУчет</CommonModule>
 			<FunctionalOption>ИспользоватьСклады</FunctionalOption>
 			<DefinedType>ФинансовыеДанные</DefinedType>
 			<DefinedType>КоличествоТоваров</DefinedType>
 			<DefinedType>КомментарийКороткий</DefinedType>
 			<DefinedType>КомментарийПолный</DefinedType>
 			<CommandGroup>Настройки</CommandGroup>
+			<CommandGroup>Справочники</CommandGroup>
+			<CommandGroup>БухгалтерскийУчет</CommandGroup>
+			<CommandGroup>ДенежныеСредства</CommandGroup>
+			<CommandGroup>Касса</CommandGroup>
+			<CommandGroup>Банк</CommandGroup>
+			<CommandGroup>Покупки</CommandGroup>
 			<Constant>ИспользоватьСклады</Constant>
 			<Constant>ЗапретПроведенияПриОтрицательныхОстатках</Constant>
 			<Constant>НачалоРабочегоДня</Constant>
@@ -297,6 +308,7 @@
 			<Catalog>Кассы</Catalog>
 			<Catalog>Банки</Catalog>
 			<Catalog>ЭквайринговыеТерминалы</Catalog>
+			<Catalog>БанковскиеСчета</Catalog>
 			<Document>ЗаписьКлиента</Document>
 			<Document>РеализацияТоваровИУслуг</Document>
 			<Document>ПоступлениеТоваров</Document>
@@ -305,6 +317,11 @@
 			<Document>УстановкаУчетнойПолитикиОрганизации</Document>
 			<Document>ПоступлениеДенежныхСредств</Document>
 			<Document>РасходДенежныхСредств</Document>
+			<Document>ПоступлениеНаРасчетныйСчет</Document>
+			<Document>СписаниеСРасчетногоСчета</Document>
+			<DocumentJournal>ДокументыПоКассе</DocumentJournal>
+			<DocumentJournal>ДокументыПоБанку</DocumentJournal>
+			<DocumentJournal>ЖурналХозяйственныхОпераций</DocumentJournal>
 			<Enum>ТипыОрганизаций</Enum>
 			<Enum>ПолФизическогоЛица</Enum>
 			<Enum>ТипыНоменклатуры</Enum>
@@ -316,11 +333,16 @@
 			<Enum>ВидыОперацийПоступленияДенег</Enum>
 			<Enum>ВидыОперацийРасходаДенег</Enum>
 			<Enum>ПризнакиОплаты</Enum>
+			<Enum>ВидыОперацийПоступленияНаРасчетныйСчет</Enum>
+			<Enum>ВидыОперацийСписанияСРасчетногоСчета</Enum>
 			<Report>ОтчётПоОказаннымУслугам</Report>
 			<Report>ОтчётПоТоварамНаСкладах</Report>
 			<Report>ОтчетПоПрибыли</Report>
 			<Report>ОтчетДвиженияНаличныхДенег</Report>
 			<Report>ОтчетПоБезналичнойОплате</Report>
+			<Report>ОборотноСальдоваяВедомость</Report>
+			<Report>ОборотноСальдоваяВедомостьПоСчету</Report>
+			<Report>ОтчетПоДвижениюИОстаткамДенег</Report>
 			<DataProcessor>МониторРуководителя</DataProcessor>
 			<DataProcessor>ПланированиеЗагрузкиСотрудников</DataProcessor>
 			<InformationRegister>ЦеныНоменклатуры</InformationRegister>
@@ -331,6 +353,9 @@
 			<AccumulationRegister>УчетЗатрат</AccumulationRegister>
 			<AccumulationRegister>ДенежныеСредства</AccumulationRegister>
 			<AccumulationRegister>БезналичнаяОплата</AccumulationRegister>
+			<ChartOfCharacteristicTypes>ВидыСубконтоХозрасчетные</ChartOfCharacteristicTypes>
+			<ChartOfAccounts>Хозрасчетный</ChartOfAccounts>
+			<AccountingRegister>Хозрасчетный</AccountingRegister>
 		</ChildObjects>
 	</Configuration>
 </MetaDataObject>

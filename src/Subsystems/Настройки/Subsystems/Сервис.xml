@@ -20,6 +20,9 @@
 				<xr:Item xsi:type="xr:MDObjectRef">Constant.ЗапретПроведенияПриОтрицательныхОстатках</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">Constant.НачалоРабочегоДня</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">Constant.ОкончаниеРабочегоДня</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">FilterCriterion.СвязанныеДокументы</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">7d600e14-545e-4e7e-8b54-c750908ea2ac</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">fd6870a5-365c-4b0b-9355-091296cbb55f</xr:Item>
 			</Content>
 		</Properties>
 		<ChildObjects/>

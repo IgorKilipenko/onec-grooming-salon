@@ -23,6 +23,17 @@
 				<xr:Item xsi:type="xr:MDObjectRef">Report.ОтчетПоБезналичнойОплате</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">Document.ПоступлениеДенежныхСредств</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">Document.РасходДенежныхСредств</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">Catalog.БанковскиеСчета</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">Document.ПоступлениеНаРасчетныйСчет</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">Document.СписаниеСРасчетногоСчета</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">DocumentJournal.ДокументыПоКассе</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">DocumentJournal.ДокументыПоБанку</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">Catalog.Кассы</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">Catalog.Банки</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">Catalog.ЭквайринговыеТерминалы</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">Report.ОтчетПоДвижениюИОстаткамДенег</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">Enum.ВидыОперацийПоступленияНаРасчетныйСчет</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">Enum.ВидыОперацийСписанияСРасчетногоСчета</xr:Item>
 			</Content>
 		</Properties>
 		<ChildObjects/>

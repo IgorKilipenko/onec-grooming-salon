@@ -1,0 +1,135 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<CommandInterface xmlns="http://v8.1c.ru/8.3/xcf/extrnprops" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.17">
+	<CommandsVisibility>
+		<Command name="Catalog.Банки.StandardCommand.OpenList">
+			<Visibility>
+				<xr:Common>true</xr:Common>
+			</Visibility>
+		</Command>
+		<Command name="Catalog.Кассы.StandardCommand.OpenList">
+			<Visibility>
+				<xr:Common>true</xr:Common>
+			</Visibility>
+		</Command>
+		<Command name="Catalog.ЭквайринговыеТерминалы.StandardCommand.OpenList">
+			<Visibility>
+				<xr:Common>true</xr:Common>
+			</Visibility>
+		</Command>
+		<Command name="Catalog.БанковскиеСчета.StandardCommand.OpenList">
+			<Visibility>
+				<xr:Common>true</xr:Common>
+			</Visibility>
+		</Command>
+		<Command name="DocumentJournal.ДокументыПоКассе.StandardCommand.OpenList">
+			<Visibility>
+				<xr:Common>true</xr:Common>
+			</Visibility>
+		</Command>
+		<Command name="DocumentJournal.ДокументыПоБанку.StandardCommand.OpenList">
+			<Visibility>
+				<xr:Common>true</xr:Common>
+			</Visibility>
+		</Command>
+		<Command name="Document.ПоступлениеДенежныхСредств.StandardCommand.OpenList">
+			<Visibility>
+				<xr:Common>true</xr:Common>
+			</Visibility>
+		</Command>
+		<Command name="Document.РасходДенежныхСредств.StandardCommand.OpenList">
+			<Visibility>
+				<xr:Common>true</xr:Common>
+			</Visibility>
+		</Command>
+		<Command name="Document.ПоступлениеНаРасчетныйСчет.StandardCommand.OpenList">
+			<Visibility>
+				<xr:Common>true</xr:Common>
+			</Visibility>
+		</Command>
+		<Command name="Document.СписаниеСРасчетногоСчета.StandardCommand.OpenList">
+			<Visibility>
+				<xr:Common>true</xr:Common>
+			</Visibility>
+		</Command>
+	</CommandsVisibility>
+	<CommandsPlacement>
+		<Command name="Catalog.Банки.StandardCommand.OpenList">
+			<CommandGroup>CommandGroup.Справочники</CommandGroup>
+			<Placement>Auto</Placement>
+		</Command>
+		<Command name="Catalog.Кассы.StandardCommand.OpenList">
+			<CommandGroup>CommandGroup.Справочники</CommandGroup>
+			<Placement>Auto</Placement>
+		</Command>
+		<Command name="Catalog.ЭквайринговыеТерминалы.StandardCommand.OpenList">
+			<CommandGroup>CommandGroup.Справочники</CommandGroup>
+			<Placement>Auto</Placement>
+		</Command>
+		<Command name="Catalog.БанковскиеСчета.StandardCommand.OpenList">
+			<CommandGroup>CommandGroup.Справочники</CommandGroup>
+			<Placement>Auto</Placement>
+		</Command>
+		<Command name="DocumentJournal.ДокументыПоКассе.StandardCommand.OpenList">
+			<CommandGroup>CommandGroup.ДенежныеСредства</CommandGroup>
+			<Placement>Auto</Placement>
+		</Command>
+		<Command name="DocumentJournal.ДокументыПоБанку.StandardCommand.OpenList">
+			<CommandGroup>CommandGroup.ДенежныеСредства</CommandGroup>
+			<Placement>Auto</Placement>
+		</Command>
+		<Command name="Document.ПоступлениеДенежныхСредств.StandardCommand.OpenList">
+			<CommandGroup>CommandGroup.Касса</CommandGroup>
+			<Placement>Auto</Placement>
+		</Command>
+		<Command name="Document.РасходДенежныхСредств.StandardCommand.OpenList">
+			<CommandGroup>CommandGroup.Касса</CommandGroup>
+			<Placement>Auto</Placement>
+		</Command>
+		<Command name="Document.ПоступлениеНаРасчетныйСчет.StandardCommand.OpenList">
+			<CommandGroup>CommandGroup.Банк</CommandGroup>
+			<Placement>Auto</Placement>
+		</Command>
+		<Command name="Document.СписаниеСРасчетногоСчета.StandardCommand.OpenList">
+			<CommandGroup>CommandGroup.Банк</CommandGroup>
+			<Placement>Auto</Placement>
+		</Command>
+	</CommandsPlacement>
+	<CommandsOrder>
+		<Command name="Catalog.Банки.StandardCommand.OpenList">
+			<CommandGroup>CommandGroup.Справочники</CommandGroup>
+		</Command>
+		<Command name="Catalog.Кассы.StandardCommand.OpenList">
+			<CommandGroup>CommandGroup.Справочники</CommandGroup>
+		</Command>
+		<Command name="Catalog.ЭквайринговыеТерминалы.StandardCommand.OpenList">
+			<CommandGroup>CommandGroup.Справочники</CommandGroup>
+		</Command>
+		<Command name="Catalog.БанковскиеСчета.StandardCommand.OpenList">
+			<CommandGroup>CommandGroup.Справочники</CommandGroup>
+		</Command>
+		<Command name="DocumentJournal.ДокументыПоКассе.StandardCommand.OpenList">
+			<CommandGroup>CommandGroup.ДенежныеСредства</CommandGroup>
+		</Command>
+		<Command name="DocumentJournal.ДокументыПоБанку.StandardCommand.OpenList">
+			<CommandGroup>CommandGroup.ДенежныеСредства</CommandGroup>
+		</Command>
+		<Command name="Document.ПоступлениеДенежныхСредств.StandardCommand.OpenList">
+			<CommandGroup>CommandGroup.Касса</CommandGroup>
+		</Command>
+		<Command name="Document.РасходДенежныхСредств.StandardCommand.OpenList">
+			<CommandGroup>CommandGroup.Касса</CommandGroup>
+		</Command>
+		<Command name="Document.ПоступлениеНаРасчетныйСчет.StandardCommand.OpenList">
+			<CommandGroup>CommandGroup.Банк</CommandGroup>
+		</Command>
+		<Command name="Document.СписаниеСРасчетногоСчета.StandardCommand.OpenList">
+			<CommandGroup>CommandGroup.Банк</CommandGroup>
+		</Command>
+	</CommandsOrder>
+	<GroupsOrder>
+		<Group>CommandGroup.Справочники</Group>
+		<Group>CommandGroup.ДенежныеСредства</Group>
+		<Group>CommandGroup.Касса</Group>
+		<Group>CommandGroup.Банк</Group>
+	</GroupsOrder>
+</CommandInterface>

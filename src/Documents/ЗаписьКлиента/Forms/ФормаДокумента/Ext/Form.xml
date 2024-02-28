@@ -7,7 +7,6 @@
 	<Events>
 		<Event name="AfterWrite">ПослеЗаписи</Event>
 		<Event name="NotificationProcessing">ОбработкаОповещения</Event>
-		<Event name="BeforeWriteAtServer">ПередЗаписьюНаСервере</Event>
 		<Event name="OnCreateAtServer">ПриСозданииНаСервере</Event>
 	</Events>
 	<ChildItems>
@@ -180,6 +179,7 @@
 				</InputField>
 				<InputField name="УслугиСтоимость" id="41">
 					<DataPath>Объект.Услуги.Стоимость</DataPath>
+					<ReadOnly>true</ReadOnly>
 					<EditMode>EnterOnInput</EditMode>
 					<FooterDataPath>Объект.Услуги.TotalСтоимость</FooterDataPath>
 					<ExtendedEditMultipleValues>true</ExtendedEditMultipleValues>
@@ -239,6 +239,11 @@
 		<NavigationPanel>
 			<Item>
 				<Command>AccumulationRegister.ЗаказыКлиентов.StandardCommand.OpenByRecorder</Command>
+				<Type>Auto</Type>
+				<DefaultVisible>false</DefaultVisible>
+			</Item>
+			<Item>
+				<Command>FilterCriterion.СвязанныеДокументы.StandardCommand.OpenByValue</Command>
 				<Type>Auto</Type>
 				<DefaultVisible>false</DefaultVisible>
 			</Item>

@@ -96,6 +96,12 @@
 			<ContextMenu name="КассаКонтекстноеМеню" id="20"/>
 			<ExtendedTooltip name="КассаРасширеннаяПодсказка" id="21"/>
 		</InputField>
+		<InputField name="РасчетныйСчет" id="33">
+			<DataPath>Объект.РасчетныйСчет</DataPath>
+			<ExtendedEditMultipleValues>true</ExtendedEditMultipleValues>
+			<ContextMenu name="РасчетныйСчетКонтекстноеМеню" id="34"/>
+			<ExtendedTooltip name="РасчетныйСчетРасширеннаяПодсказка" id="35"/>
+		</InputField>
 		<InputField name="СуммаДокумента" id="22">
 			<DataPath>Объект.СуммаДокумента</DataPath>
 			<EditMode>EnterOnInput</EditMode>
@@ -135,6 +141,16 @@
 		<NavigationPanel>
 			<Item>
 				<Command>AccumulationRegister.ДенежныеСредства.StandardCommand.OpenByRecorder</Command>
+				<Type>Auto</Type>
+				<DefaultVisible>false</DefaultVisible>
+			</Item>
+			<Item>
+				<Command>AccountingRegister.Хозрасчетный.StandardCommand.OpenByRecorder</Command>
+				<Type>Auto</Type>
+				<DefaultVisible>false</DefaultVisible>
+			</Item>
+			<Item>
+				<Command>FilterCriterion.СвязанныеДокументы.StandardCommand.OpenByValue</Command>
 				<Type>Auto</Type>
 				<DefaultVisible>false</DefaultVisible>
 			</Item>
