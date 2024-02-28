@@ -1,8 +1,2 @@
-﻿Modified: Subsystem.Справочники.Subsystem.Деньги
-Modified: Subsystem.Справочники.Subsystem.Деньги.CommandInterface
-Modified: Subsystem.Справочники.Subsystem.Персонал
-Modified: Subsystem.Справочники.Subsystem.Персонал.CommandInterface
-Modified: Subsystem.Справочники.Subsystem.Покупки
-Modified: Subsystem.Справочники.Subsystem.Покупки.CommandInterface
-Modified: Subsystem.Справочники.Subsystem.Продажи
-Modified: Subsystem.Справочники.Subsystem.Продажи.CommandInterface
+﻿Modified: Subsystem.Справочники
+Modified: Subsystem.Справочники.CommandInterface

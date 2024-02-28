@@ -571,8 +571,8 @@
 		<Metadata name="Subsystem.Продажи.Subsystem.Продажи.CommandInterface" id="9d1ae763-a433-4054-b652-2191cf09c628.1" configVersion="6aada10dc0f573488aa0ab7cfd51784700000000"/>
 		<Metadata name="Subsystem.Продажи.Subsystem.Справочники" id="723642f8-ebf9-4e61-9191-83fb4ef4637c" configVersion="e3ca0141b2928f4ba7c417a1a890539400000000"/>
 		<Metadata name="Subsystem.Продажи.Subsystem.Справочники.CommandInterface" id="723642f8-ebf9-4e61-9191-83fb4ef4637c.1" configVersion="cf58b7c0d21c34479f7224b382346ece00000000"/>
-		<Metadata name="Subsystem.Справочники" id="343e4324-dd6f-4aa8-b283-ecb70c4f6c69" configVersion="79d64f6d6b5ce34d891a7fcc3bebc02800000000"/>
-		<Metadata name="Subsystem.Справочники.CommandInterface" id="343e4324-dd6f-4aa8-b283-ecb70c4f6c69.1" configVersion="d01925eac61e7a4db61ffff1931e513100000000"/>
+		<Metadata name="Subsystem.Справочники" id="343e4324-dd6f-4aa8-b283-ecb70c4f6c69" configVersion="cb130f48deb1f44cb0a7a92a7365c32500000000"/>
+		<Metadata name="Subsystem.Справочники.CommandInterface" id="343e4324-dd6f-4aa8-b283-ecb70c4f6c69.1" configVersion="ebdb2669ecee754dbf0a556f2d31603100000000"/>
 		<Metadata name="Subsystem.Справочники.Subsystem.Деньги" id="24b4f492-ba8c-4ca9-a227-5800fe7423c4" configVersion="f8aaae0671efc74ca45cffad6b3dcda400000000"/>
 		<Metadata name="Subsystem.Справочники.Subsystem.Деньги.CommandInterface" id="24b4f492-ba8c-4ca9-a227-5800fe7423c4.1" configVersion="41239390c54de043bb601d8a5c557dfc00000000"/>
 		<Metadata name="Subsystem.Справочники.Subsystem.Персонал" id="7f21d6c8-b0bb-48ea-83c0-528e51c139de" configVersion="6f56460fb91370499507f1fcac49752500000000"/>
