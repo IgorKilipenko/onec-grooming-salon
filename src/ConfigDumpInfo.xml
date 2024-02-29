@@ -255,7 +255,7 @@
 		<Metadata name="Document.ПеремещениеТоваров.Form.ФормаСписка" id="bf14f037-e5d5-41a7-a989-0dfac6295c06" configVersion="63c158413ed0324eb9dbd106bd6e852b00000000"/>
 		<Metadata name="Document.ПеремещениеТоваров.Form.ФормаСписка.Form" id="bf14f037-e5d5-41a7-a989-0dfac6295c06.0" configVersion="2b845f27ebac9e409473ff0f7240cea600000000"/>
 		<Metadata name="Document.ПеремещениеТоваров.ObjectModule" id="89465a4b-bf48-4f3e-923c-efa4c2dde550.0" configVersion="088a275a187bab43a62c69cfb397daa400000000"/>
-		<Metadata name="Document.ПоступлениеДенежныхСредств" id="da34b213-3b99-4e85-a1d1-82962f3cf0fc" configVersion="39defc0633bc0d4f8c99fef6a4c1fd1a00000000">
+		<Metadata name="Document.ПоступлениеДенежныхСредств" id="da34b213-3b99-4e85-a1d1-82962f3cf0fc" configVersion="33b53579adde4144b7c46ec2d848c03100000000">
 			<Metadata name="Document.ПоступлениеДенежныхСредств.Attribute.ТипДенежныхСредств" id="0c9e5696-616e-416d-b757-6c3968ccbb9b"/>
 			<Metadata name="Document.ПоступлениеДенежныхСредств.Attribute.ДокументОснование" id="235b5790-6afa-47de-acaf-bbe47e997f98"/>
 			<Metadata name="Document.ПоступлениеДенежныхСредств.Attribute.Комментарий" id="345b8193-eafe-4c9d-9c55-31f02a083241"/>
@@ -271,7 +271,7 @@
 		<Metadata name="Document.ПоступлениеДенежныхСредств.Form.ФормаДокумента" id="eeae7796-cfb9-42de-87a4-af66fab760eb" configVersion="92a7dca425fc7c438edb75746ee56b0d00000000"/>
 		<Metadata name="Document.ПоступлениеДенежныхСредств.Form.ФормаДокумента.Form" id="eeae7796-cfb9-42de-87a4-af66fab760eb.0" configVersion="d58a69bc5a5c5f42b61384dc1490a8dc00000000"/>
 		<Metadata name="Document.ПоступлениеДенежныхСредств.ManagerModule" id="da34b213-3b99-4e85-a1d1-82962f3cf0fc.2" configVersion="d7a38b50f546c941ac8c4b15578132dc00000000"/>
-		<Metadata name="Document.ПоступлениеДенежныхСредств.ObjectModule" id="da34b213-3b99-4e85-a1d1-82962f3cf0fc.0" configVersion="eff4b874284f984892b10ec24e77783800000000"/>
+		<Metadata name="Document.ПоступлениеДенежныхСредств.ObjectModule" id="da34b213-3b99-4e85-a1d1-82962f3cf0fc.0" configVersion="d3b39ca6662a244082390538f151430b00000000"/>
 		<Metadata name="Document.ПоступлениеНаРасчетныйСчет" id="b6b7f5ef-de17-4cec-a3c5-0f82dd3d29f8" configVersion="2ec17c99e092f748a06b0c620074cb0c00000000">
 			<Metadata name="Document.ПоступлениеНаРасчетныйСчет.Attribute.НомерВходящегоДокумента" id="03441621-a590-4253-bf11-204babbc9682"/>
 			<Metadata name="Document.ПоступлениеНаРасчетныйСчет.Attribute.Плательщик" id="23558668-796b-4a41-ad5c-20c583a9855c"/>
