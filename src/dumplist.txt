@@ -1,2 +1,2 @@
-﻿Modified: Document.ПоступлениеНаРасчетныйСчет.Form.ФормаДокумента
-Modified: Document.ПоступлениеНаРасчетныйСчет.Form.ФормаДокумента.Form
+﻿Modified: Catalog.Номенклатура.Form.ФормаЭлемента
+Modified: Catalog.Номенклатура.Form.ФормаЭлемента.Form
