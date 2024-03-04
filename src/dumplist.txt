@@ -1,2 +1,1 @@
-﻿Modified: Catalog.Номенклатура.Form.ФормаЭлемента
-Modified: Catalog.Номенклатура.Form.ФормаЭлемента.Form
+﻿Modified: Configuration.ГрумингСалон
