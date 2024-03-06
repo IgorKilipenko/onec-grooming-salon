@@ -1,1 +1,2 @@
-﻿Modified: Configuration.ГрумингСалон
+﻿Modified: Document.ПоступлениеНаРасчетныйСчет.Form.ФормаДокумента
+Modified: Document.ПоступлениеНаРасчетныйСчет.Form.ФормаДокумента.Form
