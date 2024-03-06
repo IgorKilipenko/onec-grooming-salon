@@ -287,8 +287,8 @@
 			<Metadata name="Document.ПоступлениеНаРасчетныйСчет.Attribute.Комментарий" id="dd0cc61d-7953-4ea9-9bf1-e2e83b0e3985"/>
 			<Metadata name="Document.ПоступлениеНаРасчетныйСчет.Attribute.НазначениеПлатежа" id="f3b80e8d-8706-4abf-8159-75cac0b380b3"/>
 		</Metadata>
-		<Metadata name="Document.ПоступлениеНаРасчетныйСчет.Form.ФормаДокумента" id="d6b81d09-6c49-43c3-8d5e-99da302994fc" configVersion="9399a3eaea61374da9ab0baca04b490200000000"/>
-		<Metadata name="Document.ПоступлениеНаРасчетныйСчет.Form.ФормаДокумента.Form" id="d6b81d09-6c49-43c3-8d5e-99da302994fc.0" configVersion="3e4d8a90a29fa44fadd6ce97ccf938a000000000"/>
+		<Metadata name="Document.ПоступлениеНаРасчетныйСчет.Form.ФормаДокумента" id="d6b81d09-6c49-43c3-8d5e-99da302994fc" configVersion="e6fb5a53313daf4fabfaece0b04d0fbb00000000"/>
+		<Metadata name="Document.ПоступлениеНаРасчетныйСчет.Form.ФормаДокумента.Form" id="d6b81d09-6c49-43c3-8d5e-99da302994fc.0" configVersion="fdefb8e57e459545a520ad3f55b451bf00000000"/>
 		<Metadata name="Document.ПоступлениеНаРасчетныйСчет.Form.ФормаСписка" id="bcd01c85-b72f-4620-a565-74cf4d682bd9" configVersion="9e4b2091ce33784c9bdb203fd322cd8300000000"/>
 		<Metadata name="Document.ПоступлениеНаРасчетныйСчет.Form.ФормаСписка.Form" id="bcd01c85-b72f-4620-a565-74cf4d682bd9.0" configVersion="446b31ff862a0342abae146c6df77dbd00000000"/>
 		<Metadata name="Document.ПоступлениеНаРасчетныйСчет.ManagerModule" id="b6b7f5ef-de17-4cec-a3c5-0f82dd3d29f8.2" configVersion="463b2cbbfc3225499065c58141d194cf00000000"/>
