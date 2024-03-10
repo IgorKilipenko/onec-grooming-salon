@@ -1,2 +1,2 @@
-﻿Modified: Document.ПоступлениеНаРасчетныйСчет.Form.ФормаДокумента
-Modified: Document.ПоступлениеНаРасчетныйСчет.Form.ФормаДокумента.Form
+﻿Modified: CommonModule.РаботаСДокументами
+Modified: CommonModule.РаботаСДокументами.Module
