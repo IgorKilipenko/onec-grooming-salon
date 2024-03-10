@@ -1,2 +1,4 @@
-﻿Modified: CommonModule.РаботаСДокументами
-Modified: CommonModule.РаботаСДокументами.Module
+﻿Modified: Document.ПоступлениеДенежныхСредств
+Modified: Document.ПоступлениеДенежныхСредств.Form.ФормаДокумента
+Modified: Document.ПоступлениеДенежныхСредств.Form.ФормаДокумента.Form
+Modified: Document.ПоступлениеДенежныхСредств.ManagerModule
