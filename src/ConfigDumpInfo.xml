@@ -168,12 +168,14 @@
 		<Metadata name="ChartOfAccounts.Хозрасчетный" id="b975c814-29e9-438d-8ef9-690c059ac9e7" configVersion="53854170cf32754f96966f1b53fdf44e00000000"/>
 		<Metadata name="ChartOfAccounts.Хозрасчетный.ManagerModule" id="b975c814-29e9-438d-8ef9-690c059ac9e7.15" configVersion="bfda9c3df5075a4f96cf4c9c0d0437f000000000"/>
 		<Metadata name="ChartOfAccounts.Хозрасчетный.Predefined" id="b975c814-29e9-438d-8ef9-690c059ac9e7.9" configVersion="eab109d544eddf4c8c50cd7992a3357000000000"/>
-		<Metadata name="ChartOfCalculationTypes.Начисления" id="99854ed2-7ea1-40d0-bea4-eb87d3af8c83" configVersion="0e593d99c402aa49b7559d60a607e88a00000000">
+		<Metadata name="ChartOfCalculationTypes.Начисления" id="99854ed2-7ea1-40d0-bea4-eb87d3af8c83" configVersion="615457558be4b244b2b6d09958bb693100000000">
 			<Metadata name="ChartOfCalculationTypes.Начисления.Attribute.ФормулаРасчета" id="7088907f-26c3-4c6d-ac3e-6b0c2d19fdc9"/>
 			<Metadata name="ChartOfCalculationTypes.Начисления.Attribute.СтатьяЗатрат" id="f46ac5f0-1846-4429-969c-28ae5a0e01a1"/>
 		</Metadata>
 		<Metadata name="ChartOfCalculationTypes.Начисления.Form.ФормаВидаРасчета" id="e7f521ec-ce10-4d5f-be1f-c42ba72672e5" configVersion="f2d92952400a6d4f81670c102dacd30000000000"/>
 		<Metadata name="ChartOfCalculationTypes.Начисления.Form.ФормаВидаРасчета.Form" id="e7f521ec-ce10-4d5f-be1f-c42ba72672e5.0" configVersion="d23c0f2440b8e74fa6d1daa0ff46556700000000"/>
+		<Metadata name="ChartOfCalculationTypes.Начисления.Form.ФормаСписка" id="9bbe6c72-f477-4812-8f7e-5a9556722196" configVersion="f58d00aa02706647ad00323af950b56500000000"/>
+		<Metadata name="ChartOfCalculationTypes.Начисления.Form.ФормаСписка.Form" id="9bbe6c72-f477-4812-8f7e-5a9556722196.0" configVersion="8693aa2b8a56214596950f0345ab1dc500000000"/>
 		<Metadata name="ChartOfCalculationTypes.Начисления.Predefined" id="99854ed2-7ea1-40d0-bea4-eb87d3af8c83.2" configVersion="b0481c8022cd28429a6443348c0090f900000000"/>
 		<Metadata name="ChartOfCharacteristicTypes.ВидыСубконтоХозрасчетные" id="3ba17dd0-f2ce-45c5-b0df-a7a615aee6d2" configVersion="02a943c75ec3f743ad5b631d9fd7420400000000"/>
 		<Metadata name="ChartOfCharacteristicTypes.ВидыСубконтоХозрасчетные.Predefined" id="3ba17dd0-f2ce-45c5-b0df-a7a615aee6d2.7" configVersion="e0c79454561289429df6914ab7dcad3300000000"/>

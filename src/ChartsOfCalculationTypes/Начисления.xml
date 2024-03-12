@@ -75,7 +75,7 @@
 			<CreateOnInput>DontUse</CreateOnInput>
 			<ChoiceHistoryOnInput>Auto</ChoiceHistoryOnInput>
 			<DefaultObjectForm>ChartOfCalculationTypes.Начисления.Form.ФормаВидаРасчета</DefaultObjectForm>
-			<DefaultListForm/>
+			<DefaultListForm>ChartOfCalculationTypes.Начисления.Form.ФормаСписка</DefaultListForm>
 			<DefaultChoiceForm/>
 			<AuxiliaryObjectForm/>
 			<AuxiliaryListForm/>
@@ -185,6 +185,7 @@
 				</Properties>
 			</Attribute>
 			<Form>ФормаВидаРасчета</Form>
+			<Form>ФормаСписка</Form>
 		</ChildObjects>
 	</ChartOfCalculationTypes>
 </MetaDataObject>
