@@ -1,3 +1,6 @@
-﻿New: InformationRegister.КадроваяИсторияСотрудников
+﻿New: ChartOfCalculationTypes.Начисления
+New: ChartOfCalculationTypes.Начисления.Form.ФормаВидаРасчета
+New: ChartOfCalculationTypes.Начисления.Form.ФормаВидаРасчета.Form
+New: ChartOfCalculationTypes.Начисления.Predefined
 Modified: Configuration.ГрумингСалон
 Modified: Subsystem.Персонал.Subsystem.Справочники

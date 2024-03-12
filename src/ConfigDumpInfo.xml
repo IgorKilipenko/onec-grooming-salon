@@ -168,6 +168,13 @@
 		<Metadata name="ChartOfAccounts.Хозрасчетный" id="b975c814-29e9-438d-8ef9-690c059ac9e7" configVersion="53854170cf32754f96966f1b53fdf44e00000000"/>
 		<Metadata name="ChartOfAccounts.Хозрасчетный.ManagerModule" id="b975c814-29e9-438d-8ef9-690c059ac9e7.15" configVersion="bfda9c3df5075a4f96cf4c9c0d0437f000000000"/>
 		<Metadata name="ChartOfAccounts.Хозрасчетный.Predefined" id="b975c814-29e9-438d-8ef9-690c059ac9e7.9" configVersion="eab109d544eddf4c8c50cd7992a3357000000000"/>
+		<Metadata name="ChartOfCalculationTypes.Начисления" id="99854ed2-7ea1-40d0-bea4-eb87d3af8c83" configVersion="0e593d99c402aa49b7559d60a607e88a00000000">
+			<Metadata name="ChartOfCalculationTypes.Начисления.Attribute.ФормулаРасчета" id="7088907f-26c3-4c6d-ac3e-6b0c2d19fdc9"/>
+			<Metadata name="ChartOfCalculationTypes.Начисления.Attribute.СтатьяЗатрат" id="f46ac5f0-1846-4429-969c-28ae5a0e01a1"/>
+		</Metadata>
+		<Metadata name="ChartOfCalculationTypes.Начисления.Form.ФормаВидаРасчета" id="e7f521ec-ce10-4d5f-be1f-c42ba72672e5" configVersion="f2d92952400a6d4f81670c102dacd30000000000"/>
+		<Metadata name="ChartOfCalculationTypes.Начисления.Form.ФормаВидаРасчета.Form" id="e7f521ec-ce10-4d5f-be1f-c42ba72672e5.0" configVersion="d23c0f2440b8e74fa6d1daa0ff46556700000000"/>
+		<Metadata name="ChartOfCalculationTypes.Начисления.Predefined" id="99854ed2-7ea1-40d0-bea4-eb87d3af8c83.2" configVersion="b0481c8022cd28429a6443348c0090f900000000"/>
 		<Metadata name="ChartOfCharacteristicTypes.ВидыСубконтоХозрасчетные" id="3ba17dd0-f2ce-45c5-b0df-a7a615aee6d2" configVersion="02a943c75ec3f743ad5b631d9fd7420400000000"/>
 		<Metadata name="ChartOfCharacteristicTypes.ВидыСубконтоХозрасчетные.Predefined" id="3ba17dd0-f2ce-45c5-b0df-a7a615aee6d2.7" configVersion="e0c79454561289429df6914ab7dcad3300000000"/>
 		<Metadata name="CommandGroup.Банк" id="7f8bfa88-84c1-4dde-9f07-9bf995a67a34" configVersion="6f3e9f2e7a9a4d4d8af829127aaec40400000000"/>
@@ -213,7 +220,7 @@
 		<Metadata name="CommonPicture.Продажи.Picture" id="719ed3c0-380a-464b-bd71-bef40de04625.0" configVersion="5960b7b254c0e2428f0645d3d5854ed600000000"/>
 		<Metadata name="CommonPicture.Справочники" id="703bb534-6eb6-45dc-83f0-9ac0cfbb7864" configVersion="3c2b8b74f2613d4ea04ecaaf7ce2cfd000000000"/>
 		<Metadata name="CommonPicture.Справочники.Picture" id="703bb534-6eb6-45dc-83f0-9ac0cfbb7864.0" configVersion="50218a0ba61bff438b3326bc6110430c00000000"/>
-		<Metadata name="Configuration.ГрумингСалон" id="bf7fd7f7-d5f2-4af8-987a-4903e6ac7a60" configVersion="d45b9dfb7fd53c48ad21ee681a0518da00000000"/>
+		<Metadata name="Configuration.ГрумингСалон" id="bf7fd7f7-d5f2-4af8-987a-4903e6ac7a60" configVersion="8b250f140ae9a8498325e17a26e2fbcc00000000"/>
 		<Metadata name="Configuration.ГрумингСалон.ClientApplicationInterface" id="5b918c7f-f6dd-47f1-8449-205108ad3f01.b" configVersion="4265f2cb7ceaf14fac3bda5d2ce5192c00000000"/>
 		<Metadata name="Configuration.ГрумингСалон.CommandInterface" id="5b918c7f-f6dd-47f1-8449-205108ad3f01.a" configVersion="e7750e0aa01cd642b0ec90b27736520e00000000"/>
 		<Metadata name="Configuration.ГрумингСалон.HomePageWorkArea" id="5b918c7f-f6dd-47f1-8449-205108ad3f01.8" configVersion="bdac3afe1390454b862bb5dfd6b633d600000000"/>
@@ -595,7 +602,7 @@
 		<Metadata name="Subsystem.Настройки.Subsystem.Справочники" id="eace7f36-9d46-4fc5-9f93-320a5e72950e" configVersion="e9d772a49ec0f94f9abe8ae93d7b57a800000000"/>
 		<Metadata name="Subsystem.Персонал" id="7b432749-2056-4bf0-a319-6cb8f4686d1d" configVersion="519b63f6aa4e224e9fc6c78468a6524900000000"/>
 		<Metadata name="Subsystem.Персонал.CommandInterface" id="7b432749-2056-4bf0-a319-6cb8f4686d1d.1" configVersion="e656390058dbff4dae114a0f487feb6d00000000"/>
-		<Metadata name="Subsystem.Персонал.Subsystem.Справочники" id="ce77fbe5-febc-4733-b4be-1e618770f870" configVersion="7125a6c39497cf4f9adbce1b138bee0200000000"/>
+		<Metadata name="Subsystem.Персонал.Subsystem.Справочники" id="ce77fbe5-febc-4733-b4be-1e618770f870" configVersion="6ee3f01fbfbb2b46af93970ef7ba074800000000"/>
 		<Metadata name="Subsystem.Персонал.Subsystem.Справочники.CommandInterface" id="ce77fbe5-febc-4733-b4be-1e618770f870.1" configVersion="58e68d052d72104db27a1dd5c12887e400000000"/>
 		<Metadata name="Subsystem.Покупки" id="10a5b600-c546-4df3-afd5-5345402554bf" configVersion="13638476f0159d498213a150e26d812b00000000"/>
 		<Metadata name="Subsystem.Покупки.CommandInterface" id="10a5b600-c546-4df3-afd5-5345402554bf.1" configVersion="762b0803036db7448b2f63ac4aeaa16200000000"/>
