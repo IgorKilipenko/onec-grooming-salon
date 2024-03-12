@@ -89,32 +89,110 @@
 							<v8:content>Группа способ заполнения</v8:content>
 						</v8:item>
 					</ToolTip>
-					<Group>AlwaysHorizontal</Group>
+					<Group>Vertical</Group>
 					<Representation>None</Representation>
 					<ShowTitle>false</ShowTitle>
 					<ExtendedTooltip name="ГруппаСпособЗаполненияРасширеннаяПодсказка" id="52"/>
 					<ChildItems>
-						<InputField name="СпособЗаполнения" id="16">
+						<RadioButtonField name="СпособЗаполнения" id="16">
 							<DataPath>Объект.СпособЗаполнения</DataPath>
+							<TitleLocation>Top</TitleLocation>
 							<EditMode>EnterOnInput</EditMode>
-							<ExtendedEditMultipleValues>true</ExtendedEditMultipleValues>
+							<RadioButtonType>Auto</RadioButtonType>
+							<ChoiceList>
+								<xr:Item>
+									<xr:Presentation/>
+									<xr:CheckState>0</xr:CheckState>
+									<xr:Value xsi:type="FormChoiceListDesTimeValue">
+										<Presentation>
+											<v8:item>
+												<v8:lang>ru</v8:lang>
+												<v8:content>По будням</v8:content>
+											</v8:item>
+										</Presentation>
+										<Value xsi:type="xs:string">ПятидневнаяРабочаяНеделя</Value>
+									</xr:Value>
+								</xr:Item>
+								<xr:Item>
+									<xr:Presentation/>
+									<xr:CheckState>0</xr:CheckState>
+									<xr:Value xsi:type="FormChoiceListDesTimeValue">
+										<Presentation>
+											<v8:item>
+												<v8:lang>ru</v8:lang>
+												<v8:content>Циклично</v8:content>
+											</v8:item>
+										</Presentation>
+										<Value xsi:type="xs:string">Циклический</Value>
+									</xr:Value>
+								</xr:Item>
+							</ChoiceList>
 							<ContextMenu name="СпособЗаполненияКонтекстноеМеню" id="17"/>
 							<ExtendedTooltip name="СпособЗаполненияРасширеннаяПодсказка" id="18"/>
-						</InputField>
-						<InputField name="ШагДней" id="19">
-							<DataPath>Объект.ШагДней</DataPath>
-							<EditMode>EnterOnInput</EditMode>
-							<ExtendedEditMultipleValues>true</ExtendedEditMultipleValues>
-							<ContextMenu name="ШагДнейКонтекстноеМеню" id="20"/>
-							<ExtendedTooltip name="ШагДнейРасширеннаяПодсказка" id="21"/>
-						</InputField>
-						<InputField name="НачалоГрафика" id="22">
-							<DataPath>Объект.НачалоГрафика</DataPath>
-							<EditMode>EnterOnInput</EditMode>
-							<ExtendedEditMultipleValues>true</ExtendedEditMultipleValues>
-							<ContextMenu name="НачалоГрафикаКонтекстноеМеню" id="23"/>
-							<ExtendedTooltip name="НачалоГрафикаРасширеннаяПодсказка" id="24"/>
-						</InputField>
+						</RadioButtonField>
+						<UsualGroup name="ГруппаЦиклически" id="59">
+							<Title>
+								<v8:item>
+									<v8:lang>ru</v8:lang>
+									<v8:content>Группа циклически</v8:content>
+								</v8:item>
+							</Title>
+							<ToolTip>
+								<v8:item>
+									<v8:lang>ru</v8:lang>
+									<v8:content>Группа циклически</v8:content>
+								</v8:item>
+							</ToolTip>
+							<Group>AlwaysHorizontal</Group>
+							<Representation>None</Representation>
+							<ShowTitle>false</ShowTitle>
+							<ThroughAlign>DontUse</ThroughAlign>
+							<ExtendedTooltip name="ГруппаЦиклическиРасширеннаяПодсказка" id="60"/>
+							<ChildItems>
+								<InputField name="ШагДней" id="19">
+									<DataPath>Объект.ШагДней</DataPath>
+									<EditMode>EnterOnInput</EditMode>
+									<ExtendedEditMultipleValues>true</ExtendedEditMultipleValues>
+									<ContextMenu name="ШагДнейКонтекстноеМеню" id="20"/>
+									<ExtendedTooltip name="ШагДнейРасширеннаяПодсказка" id="21"/>
+								</InputField>
+								<RadioButtonField name="НачалоГрафика" id="22">
+									<DataPath>Объект.НачалоГрафика</DataPath>
+									<EditMode>EnterOnInput</EditMode>
+									<RadioButtonType>Auto</RadioButtonType>
+									<ChoiceList>
+										<xr:Item>
+											<xr:Presentation/>
+											<xr:CheckState>0</xr:CheckState>
+											<xr:Value xsi:type="FormChoiceListDesTimeValue">
+												<Presentation>
+													<v8:item>
+														<v8:lang>ru</v8:lang>
+														<v8:content>Рабочие дни</v8:content>
+													</v8:item>
+												</Presentation>
+												<Value xsi:type="xs:decimal">1</Value>
+											</xr:Value>
+										</xr:Item>
+										<xr:Item>
+											<xr:Presentation/>
+											<xr:CheckState>0</xr:CheckState>
+											<xr:Value xsi:type="FormChoiceListDesTimeValue">
+												<Presentation>
+													<v8:item>
+														<v8:lang>ru</v8:lang>
+														<v8:content>Выходные</v8:content>
+													</v8:item>
+												</Presentation>
+												<Value xsi:type="xs:decimal">2</Value>
+											</xr:Value>
+										</xr:Item>
+									</ChoiceList>
+									<ContextMenu name="НачалоГрафикаКонтекстноеМеню" id="23"/>
+									<ExtendedTooltip name="НачалоГрафикаРасширеннаяПодсказка" id="24"/>
+								</RadioButtonField>
+							</ChildItems>
+						</UsualGroup>
 					</ChildItems>
 				</UsualGroup>
 				<UsualGroup name="ГруппаКоманды" id="53">
@@ -210,6 +288,18 @@
 						</v8:item>
 					</FooterText>
 					<ExtendedEditMultipleValues>true</ExtendedEditMultipleValues>
+					<Format>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>ЧЦ=4</v8:content>
+						</v8:item>
+					</Format>
+					<EditFormat>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>ЧЦ=4</v8:content>
+						</v8:item>
+					</EditFormat>
 					<ContextMenu name="СписокДнейКоличествоЧасовКонтекстноеМеню" id="45"/>
 					<ExtendedTooltip name="СписокДнейКоличествоЧасовРасширеннаяПодсказка" id="46"/>
 				</InputField>
