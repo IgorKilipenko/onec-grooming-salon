@@ -1,5 +1,4 @@
-﻿New: CalculationRegister.Начисления
-New: CalculationRegister.Начисления.ManagerModule
-New: CalculationRegister.Начисления.RecordSetModule
+﻿New: Document.НачислениеЗарплаты
+New: Document.НачислениеЗарплаты.ObjectModule
 Modified: Configuration.ГрумингСалон
 Modified: Subsystem.Персонал
