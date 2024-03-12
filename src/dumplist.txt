@@ -1,3 +1,2 @@
-﻿New: ChartOfCalculationTypes.Начисления.Form.ФормаСписка
-New: ChartOfCalculationTypes.Начисления.Form.ФормаСписка.Form
-Modified: ChartOfCalculationTypes.Начисления
+﻿New: InformationRegister.ГрафикиРаботыПредприятия.ManagerModule
+Modified: InformationRegister.ГрафикиРаботыПредприятия

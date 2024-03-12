@@ -532,11 +532,12 @@
 		</Metadata>
 		<Metadata name="FilterCriterion.СвязанныеДокументы" id="ba15806b-c862-47f1-bee3-8e75dbe653ea" configVersion="ceecded76a483f4d95c54a0fdb7fc4e000000000"/>
 		<Metadata name="FunctionalOption.ИспользоватьСклады" id="9f180b36-b020-41d2-9562-6262802d378c" configVersion="b415161acc9ae647ab04fb3570796f4600000000"/>
-		<Metadata name="InformationRegister.ГрафикиРаботыПредприятия" id="72f50457-7a96-4457-ba73-981ea293ead6" configVersion="4761f6f1f0936a40987310cd42fc2a0100000000">
+		<Metadata name="InformationRegister.ГрафикиРаботыПредприятия" id="72f50457-7a96-4457-ba73-981ea293ead6" configVersion="73464e044ba1f441bdb2744281b83ebd00000000">
 			<Metadata name="InformationRegister.ГрафикиРаботыПредприятия.Resource.КоличествоЧасов" id="09bd0c3a-fc6b-4350-ad70-e51f94e19228"/>
 			<Metadata name="InformationRegister.ГрафикиРаботыПредприятия.Dimension.График" id="2cf9dd5c-58fb-4a14-abe4-3de4e8921f3a"/>
 			<Metadata name="InformationRegister.ГрафикиРаботыПредприятия.Dimension.День" id="b3effcfa-cce3-41b3-959d-2de0678cb7af"/>
 		</Metadata>
+		<Metadata name="InformationRegister.ГрафикиРаботыПредприятия.ManagerModule" id="72f50457-7a96-4457-ba73-981ea293ead6.2" configVersion="bba8a8275aefef4a95c2acd0f82b39e700000000"/>
 		<Metadata name="InformationRegister.КадроваяИсторияСотрудников" id="8bf39bea-8d1f-4a17-b733-0291b7092af8" configVersion="8b80f1fa11f9b44eabea3c634623ce3500000000">
 			<Metadata name="InformationRegister.КадроваяИсторияСотрудников.Attribute.Работает" id="29540717-d182-4217-a2cc-0d70676f7099"/>
 			<Metadata name="InformationRegister.КадроваяИсторияСотрудников.Resource.Оклад" id="3800ee63-216f-4656-a398-08f30a0e911e"/>
