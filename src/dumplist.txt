@@ -1,6 +1,2 @@
-﻿New: Catalog.ГрафикиРаботыСотрудников
-New: Catalog.ГрафикиРаботыСотрудников.Form.ФормаЭлемента
-New: Catalog.ГрафикиРаботыСотрудников.Form.ФормаЭлемента.Form
-New: Enum.ТипыГрафиковРаботы
-Modified: Configuration.ГрумингСалон
-Modified: Subsystem.Персонал.Subsystem.Справочники
+﻿Modified: Catalog.ГрафикиРаботыСотрудников.Form.ФормаЭлемента
+Modified: Catalog.ГрафикиРаботыСотрудников.Form.ФормаЭлемента.Form
