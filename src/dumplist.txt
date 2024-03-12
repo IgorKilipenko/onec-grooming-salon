@@ -1,3 +1,2 @@
-﻿New: CommonModule.РаботаСКоллекциямиКлиентСервер
-New: CommonModule.РаботаСКоллекциямиКлиентСервер.Module
-Modified: Configuration.ГрумингСалон
+﻿New: InformationRegister.КадроваяИсторияСотрудников.ManagerModule
+Modified: InformationRegister.КадроваяИсторияСотрудников
