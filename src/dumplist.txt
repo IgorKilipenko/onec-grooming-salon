@@ -1,4 +1,1 @@
-﻿New: Document.НачислениеЗарплаты
-New: Document.НачислениеЗарплаты.ObjectModule
-Modified: Configuration.ГрумингСалон
-Modified: Subsystem.Персонал
+﻿Modified: ChartOfCalculationTypes.Начисления

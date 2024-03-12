@@ -85,7 +85,7 @@
 			<BaseCalculationTypes>
 				<xr:Item xsi:type="xr:MDObjectRef">ChartOfCalculationTypes.Начисления</xr:Item>
 			</BaseCalculationTypes>
-			<ActionPeriodUse>false</ActionPeriodUse>
+			<ActionPeriodUse>true</ActionPeriodUse>
 			<Characteristics/>
 			<PredefinedDataUpdate>Auto</PredefinedDataUpdate>
 			<IncludeHelpInContents>false</IncludeHelpInContents>
