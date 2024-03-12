@@ -349,6 +349,7 @@
 			<DataProcessor>ПланированиеЗагрузкиСотрудников</DataProcessor>
 			<InformationRegister>ЦеныНоменклатуры</InformationRegister>
 			<InformationRegister>УчетнаяПолитика</InformationRegister>
+			<InformationRegister>ГрафикиРаботыПредприятия</InformationRegister>
 			<AccumulationRegister>Продажи</AccumulationRegister>
 			<AccumulationRegister>ТоварыНаСкладах</AccumulationRegister>
 			<AccumulationRegister>ЗаказыКлиентов</AccumulationRegister>

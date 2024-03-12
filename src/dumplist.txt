@@ -1,2 +1,3 @@
-﻿Modified: Catalog.ГрафикиРаботыСотрудников.Form.ФормаЭлемента
-Modified: Catalog.ГрафикиРаботыСотрудников.Form.ФормаЭлемента.Form
+﻿New: InformationRegister.ГрафикиРаботыПредприятия
+Modified: Configuration.ГрумингСалон
+Modified: Subsystem.Персонал.Subsystem.Справочники
