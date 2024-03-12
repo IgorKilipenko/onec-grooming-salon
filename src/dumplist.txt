@@ -1,2 +1,3 @@
-﻿New: InformationRegister.ГрафикиРаботыПредприятия.ManagerModule
-Modified: InformationRegister.ГрафикиРаботыПредприятия
+﻿New: CommonModule.РаботаСКоллекциямиКлиентСервер
+New: CommonModule.РаботаСКоллекциямиКлиентСервер.Module
+Modified: Configuration.ГрумингСалон
