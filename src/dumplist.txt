@@ -1,2 +1,5 @@
-﻿New: InformationRegister.КадроваяИсторияСотрудников.ManagerModule
-Modified: InformationRegister.КадроваяИсторияСотрудников
+﻿New: CalculationRegister.Начисления
+New: CalculationRegister.Начисления.ManagerModule
+New: CalculationRegister.Начисления.RecordSetModule
+Modified: Configuration.ГрумингСалон
+Modified: Subsystem.Персонал

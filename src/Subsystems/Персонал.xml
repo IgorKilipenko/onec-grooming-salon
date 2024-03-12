@@ -18,7 +18,9 @@
 				<xr:Ref>CommonPicture.Персонал</xr:Ref>
 				<xr:LoadTransparent>true</xr:LoadTransparent>
 			</Picture>
-			<Content/>
+			<Content>
+				<xr:Item xsi:type="xr:MDObjectRef">CalculationRegister.Начисления</xr:Item>
+			</Content>
 		</Properties>
 		<ChildObjects>
 			<Subsystem>Справочники</Subsystem>

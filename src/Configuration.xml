@@ -362,6 +362,7 @@
 			<ChartOfAccounts>Хозрасчетный</ChartOfAccounts>
 			<AccountingRegister>Хозрасчетный</AccountingRegister>
 			<ChartOfCalculationTypes>Начисления</ChartOfCalculationTypes>
+			<CalculationRegister>Начисления</CalculationRegister>
 		</ChildObjects>
 	</Configuration>
 </MetaDataObject>
