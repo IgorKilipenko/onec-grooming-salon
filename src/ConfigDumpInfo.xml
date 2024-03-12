@@ -45,6 +45,19 @@
 			<Metadata name="Catalog.БанковскиеСчета.Attribute.НомерСчета" id="c72ea3a0-b8a2-44a0-9642-d0de3b08a10f"/>
 		</Metadata>
 		<Metadata name="Catalog.БанковскиеСчета.ManagerModule" id="b8808f67-837e-4b7d-b0e7-a3e1712e4cff.3" configVersion="a359156398e76f4c9a7fa902fdaecb6600000000"/>
+		<Metadata name="Catalog.ГрафикиРаботыСотрудников" id="57653ded-7132-4974-9412-c1b8d90f8355" configVersion="f8856f4492d6bd47a76a82c771eedbc900000000">
+			<Metadata name="Catalog.ГрафикиРаботыСотрудников.Attribute.СпособЗаполнения" id="0ac2d9e3-ae74-4e65-9ee3-e809314060b3"/>
+			<Metadata name="Catalog.ГрафикиРаботыСотрудников.Attribute.КоличествоЧасов" id="1ba319e6-5d44-42ea-aac1-bd64326a7dcf"/>
+			<Metadata name="Catalog.ГрафикиРаботыСотрудников.Attribute.КонецПериода" id="22c6115d-073c-407f-953b-84734170983d"/>
+			<Metadata name="Catalog.ГрафикиРаботыСотрудников.Attribute.НачалоПериода" id="2f326c9a-23c6-457d-b476-b04c6ed689df"/>
+			<Metadata name="Catalog.ГрафикиРаботыСотрудников.Attribute.НачалоГрафика" id="430559d4-4813-4843-a0f8-e3a2f4d503f6"/>
+			<Metadata name="Catalog.ГрафикиРаботыСотрудников.Attribute.ШагДней" id="4c2aa34d-558c-427a-a769-7ddf5fb8d2d3"/>
+			<Metadata name="Catalog.ГрафикиРаботыСотрудников.TabularSection.СписокДней.Attribute.День" id="6ca2a7c2-629b-4b06-9e84-fb76883cb1ce"/>
+			<Metadata name="Catalog.ГрафикиРаботыСотрудников.TabularSection.СписокДней" id="9c16f2ba-a72b-4b8d-ba01-1049351a5468"/>
+			<Metadata name="Catalog.ГрафикиРаботыСотрудников.TabularSection.СписокДней.Attribute.КоличествоЧасов" id="b2623068-b7f4-425a-9c21-9cb0f6626716"/>
+		</Metadata>
+		<Metadata name="Catalog.ГрафикиРаботыСотрудников.Form.ФормаЭлемента" id="4fbd3b0f-ba66-40d0-aafe-06976e132547" configVersion="21f0037ef7157b40986b778b76c8768b00000000"/>
+		<Metadata name="Catalog.ГрафикиРаботыСотрудников.Form.ФормаЭлемента.Form" id="4fbd3b0f-ba66-40d0-aafe-06976e132547.0" configVersion="f99f934b76daab49861362ea0f55c3d500000000"/>
 		<Metadata name="Catalog.ДоговорыКонтрагентов" id="87b3d083-9850-4c56-9dc9-d0d816f36fc9" configVersion="9de6bbbab143cc4187f069d8a3b60a1600000000">
 			<Metadata name="Catalog.ДоговорыКонтрагентов.Attribute.ДатаЗаключения" id="1e36e7e1-52a4-408d-bb9e-49ba4c85a756"/>
 			<Metadata name="Catalog.ДоговорыКонтрагентов.Attribute.ВнешнийНомер" id="33837e67-1c7a-4571-b652-dc7753e1ac41"/>
@@ -200,7 +213,7 @@
 		<Metadata name="CommonPicture.Продажи.Picture" id="719ed3c0-380a-464b-bd71-bef40de04625.0" configVersion="5960b7b254c0e2428f0645d3d5854ed600000000"/>
 		<Metadata name="CommonPicture.Справочники" id="703bb534-6eb6-45dc-83f0-9ac0cfbb7864" configVersion="3c2b8b74f2613d4ea04ecaaf7ce2cfd000000000"/>
 		<Metadata name="CommonPicture.Справочники.Picture" id="703bb534-6eb6-45dc-83f0-9ac0cfbb7864.0" configVersion="50218a0ba61bff438b3326bc6110430c00000000"/>
-		<Metadata name="Configuration.ГрумингСалон" id="bf7fd7f7-d5f2-4af8-987a-4903e6ac7a60" configVersion="eee1fd18513c6c45a38d31cc1be8356c00000000"/>
+		<Metadata name="Configuration.ГрумингСалон" id="bf7fd7f7-d5f2-4af8-987a-4903e6ac7a60" configVersion="da8a79b16d5b704abbaebbc9a0a4e83c00000000"/>
 		<Metadata name="Configuration.ГрумингСалон.ClientApplicationInterface" id="5b918c7f-f6dd-47f1-8449-205108ad3f01.b" configVersion="4265f2cb7ceaf14fac3bda5d2ce5192c00000000"/>
 		<Metadata name="Configuration.ГрумингСалон.CommandInterface" id="5b918c7f-f6dd-47f1-8449-205108ad3f01.a" configVersion="e7750e0aa01cd642b0ec90b27736520e00000000"/>
 		<Metadata name="Configuration.ГрумингСалон.HomePageWorkArea" id="5b918c7f-f6dd-47f1-8449-205108ad3f01.8" configVersion="bdac3afe1390454b862bb5dfd6b633d600000000"/>
@@ -483,6 +496,14 @@
 			<Metadata name="Enum.ПризнакиОплаты.EnumValue.ПолностьюОплачен" id="ad2e8fcd-6571-45fb-9ce1-03057c9275d9"/>
 			<Metadata name="Enum.ПризнакиОплаты.EnumValue.ЧастичноОплачен" id="ecefe58e-0775-40ea-827f-a99fc052d10d"/>
 		</Metadata>
+		<Metadata name="Enum.ТипыГрафиковРаботы" id="abf43262-aeed-46df-b726-213ae7af1ae2" configVersion="50a84a485fcb3b4a8eac49e25b82e64000000000">
+			<Metadata name="Enum.ТипыГрафиковРаботы.EnumValue.ПятидневнаяРабочаяНеделя" id="0d665226-a5cb-46f2-970a-a1394aeedbab"/>
+			<Metadata name="Enum.ТипыГрафиковРаботы.EnumValue.Сменный" id="33a12ebf-171b-4d54-80cb-75d4e9d70d14"/>
+			<Metadata name="Enum.ТипыГрафиковРаботы.EnumValue.Вахтовый" id="55aeb843-0d3a-4829-bf39-7aaa9d655e41"/>
+			<Metadata name="Enum.ТипыГрафиковРаботы.EnumValue.ЧастичнаяЗанятость" id="6af618f3-2d67-4377-a7dd-686c0c705ce0"/>
+			<Metadata name="Enum.ТипыГрафиковРаботы.EnumValue.Циклический" id="d192f114-d8fc-404d-b209-43dfb4c415f7"/>
+			<Metadata name="Enum.ТипыГрафиковРаботы.EnumValue.Гибкий" id="dcf89f37-5bb3-4ea7-b0e4-0639353e1d31"/>
+		</Metadata>
 		<Metadata name="Enum.ТипыДенежныхСредств" id="00b06251-16d0-424c-b7fb-be0adf018da2" configVersion="284d29a170de3343a2f51b164a11dd2b00000000">
 			<Metadata name="Enum.ТипыДенежныхСредств.EnumValue.Наличные" id="06548c5d-a175-46f6-b839-5e391a4e949b"/>
 			<Metadata name="Enum.ТипыДенежныхСредств.EnumValue.Безналичные" id="6c3fd741-d5dd-42cb-a046-bcf8bd771d65"/>
@@ -563,7 +584,7 @@
 		<Metadata name="Subsystem.Настройки.Subsystem.Справочники" id="eace7f36-9d46-4fc5-9f93-320a5e72950e" configVersion="e9d772a49ec0f94f9abe8ae93d7b57a800000000"/>
 		<Metadata name="Subsystem.Персонал" id="7b432749-2056-4bf0-a319-6cb8f4686d1d" configVersion="519b63f6aa4e224e9fc6c78468a6524900000000"/>
 		<Metadata name="Subsystem.Персонал.CommandInterface" id="7b432749-2056-4bf0-a319-6cb8f4686d1d.1" configVersion="e656390058dbff4dae114a0f487feb6d00000000"/>
-		<Metadata name="Subsystem.Персонал.Subsystem.Справочники" id="ce77fbe5-febc-4733-b4be-1e618770f870" configVersion="544084cc2567d944a0edf1aee71c81e000000000"/>
+		<Metadata name="Subsystem.Персонал.Subsystem.Справочники" id="ce77fbe5-febc-4733-b4be-1e618770f870" configVersion="ba0c3d4b8574484e97c880a0da5f5d4b00000000"/>
 		<Metadata name="Subsystem.Персонал.Subsystem.Справочники.CommandInterface" id="ce77fbe5-febc-4733-b4be-1e618770f870.1" configVersion="58e68d052d72104db27a1dd5c12887e400000000"/>
 		<Metadata name="Subsystem.Покупки" id="10a5b600-c546-4df3-afd5-5345402554bf" configVersion="13638476f0159d498213a150e26d812b00000000"/>
 		<Metadata name="Subsystem.Покупки.CommandInterface" id="10a5b600-c546-4df3-afd5-5345402554bf.1" configVersion="762b0803036db7448b2f63ac4aeaa16200000000"/>

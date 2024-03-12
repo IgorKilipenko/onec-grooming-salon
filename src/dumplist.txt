@@ -1,2 +1,6 @@
-﻿Modified: Document.ПоступлениеДенежныхСредств.Form.ФормаДокумента
-Modified: Document.ПоступлениеДенежныхСредств.Form.ФормаДокумента.Form
+﻿New: Catalog.ГрафикиРаботыСотрудников
+New: Catalog.ГрафикиРаботыСотрудников.Form.ФормаЭлемента
+New: Catalog.ГрафикиРаботыСотрудников.Form.ФормаЭлемента.Form
+New: Enum.ТипыГрафиковРаботы
+Modified: Configuration.ГрумингСалон
+Modified: Subsystem.Персонал.Subsystem.Справочники

@@ -309,6 +309,7 @@
 			<Catalog>Банки</Catalog>
 			<Catalog>ЭквайринговыеТерминалы</Catalog>
 			<Catalog>БанковскиеСчета</Catalog>
+			<Catalog>ГрафикиРаботыСотрудников</Catalog>
 			<Document>ЗаписьКлиента</Document>
 			<Document>РеализацияТоваровИУслуг</Document>
 			<Document>ПоступлениеТоваров</Document>
@@ -335,6 +336,7 @@
 			<Enum>ПризнакиОплаты</Enum>
 			<Enum>ВидыОперацийПоступленияНаРасчетныйСчет</Enum>
 			<Enum>ВидыОперацийСписанияСРасчетногоСчета</Enum>
+			<Enum>ТипыГрафиковРаботы</Enum>
 			<Report>ОтчётПоОказаннымУслугам</Report>
 			<Report>ОтчётПоТоварамНаСкладах</Report>
 			<Report>ОтчетПоПрибыли</Report>
