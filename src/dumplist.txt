@@ -1,2 +1,2 @@
-﻿Modified: Document.НачислениеЗарплаты.Form.ФормаДокумента
-Modified: Document.НачислениеЗарплаты.Form.ФормаДокумента.Form
+﻿New: AccountingRegister.Хозрасчетный.ManagerModule
+Modified: AccountingRegister.Хозрасчетный
