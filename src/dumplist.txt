@@ -1,2 +1,2 @@
-﻿Modified: CommonModule.РаботаСКоллекциями
-Modified: CommonModule.РаботаСКоллекциями.Module
+﻿Modified: Document.НачислениеЗарплаты.Form.ФормаДокумента
+Modified: Document.НачислениеЗарплаты.Form.ФормаДокумента.Form
