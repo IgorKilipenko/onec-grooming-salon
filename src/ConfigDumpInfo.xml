@@ -256,7 +256,7 @@
 		<Metadata name="DefinedType.КомментарийКороткий" id="05da5451-ae36-42e6-a9f8-928a3335e976" configVersion="d756f18746df71418aad9c3ac07664e200000000"/>
 		<Metadata name="DefinedType.КомментарийПолный" id="78f97855-6afc-4d20-810d-34369a2db293" configVersion="98ffc6d7c9374e4989cddf7c6633acc700000000"/>
 		<Metadata name="DefinedType.ФинансовыеДанные" id="0a1b5721-156f-422e-acae-7fb831bcca0f" configVersion="08618c95e7786942ae8fe32244c237f900000000"/>
-		<Metadata name="Document.БольничныйЛист" id="6137f85e-09b8-46aa-9974-82a194f570cd" configVersion="162272ac70b24e46bfa85097dbb475a100000000">
+		<Metadata name="Document.БольничныйЛист" id="6137f85e-09b8-46aa-9974-82a194f570cd" configVersion="75c66f9c204dec44bbd8199ac4aed5b600000000">
 			<Metadata name="Document.БольничныйЛист.Attribute.ДатаНачала" id="23205c48-56bb-41e4-9d04-3d131c804ba4"/>
 			<Metadata name="Document.БольничныйЛист.Attribute.ДатаОкончания" id="9d0f3235-50a9-49c1-a57d-2255409b8f75"/>
 			<Metadata name="Document.БольничныйЛист.Attribute.ПериодНачисления" id="ad1e21af-c07b-4cce-b52c-121889f5dd2c"/>
@@ -264,6 +264,7 @@
 		</Metadata>
 		<Metadata name="Document.БольничныйЛист.Form.ФормаДокумента" id="56681ddd-b7db-49c5-82fb-13a1d8f8311b" configVersion="6e98e9e6347c7d42b081fd71c9ff79e300000000"/>
 		<Metadata name="Document.БольничныйЛист.Form.ФормаДокумента.Form" id="56681ddd-b7db-49c5-82fb-13a1d8f8311b.0" configVersion="02642930404afd4cb4ceab69cd1d3a7100000000"/>
+		<Metadata name="Document.БольничныйЛист.ObjectModule" id="6137f85e-09b8-46aa-9974-82a194f570cd.0" configVersion="f66ad43d5ec8ff408ab5e08121116e2e00000000"/>
 		<Metadata name="Document.ЗаписьКлиента" id="57b68005-3097-4a50-a8da-11276713c78c" configVersion="65521eba7c8f8c4e8da00bc6a46ceaae00000000">
 			<Metadata name="Document.ЗаписьКлиента.TabularSection.Услуги.Attribute.Стоимость" id="06030264-4866-457d-bc39-dd432cac2f81"/>
 			<Metadata name="Document.ЗаписьКлиента.TabularSection.Услуги.Attribute.Услуга" id="4ba8ab84-3ee4-4060-9060-3d5cbc86fa57"/>

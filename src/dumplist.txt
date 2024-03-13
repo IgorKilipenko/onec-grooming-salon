@@ -1,2 +1,2 @@
-﻿Modified: Document.БольничныйЛист.Form.ФормаДокумента
-Modified: Document.БольничныйЛист.Form.ФормаДокумента.Form
+﻿New: Document.БольничныйЛист.ObjectModule
+Modified: Document.БольничныйЛист
