@@ -1,5 +1,2 @@
-﻿New: Document.БольничныйЛист
-New: Document.БольничныйЛист.Form.ФормаДокумента
-New: Document.БольничныйЛист.Form.ФормаДокумента.Form
-Modified: Configuration.ГрумингСалон
-Modified: Subsystem.Персонал
+﻿Modified: Document.БольничныйЛист.Form.ФормаДокумента
+Modified: Document.БольничныйЛист.Form.ФормаДокумента.Form

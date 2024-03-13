@@ -18,6 +18,8 @@
 					<v8:content>Группа номер дата</v8:content>
 				</v8:item>
 			</ToolTip>
+			<Representation>None</Representation>
+			<ShowTitle>false</ShowTitle>
 			<ExtendedTooltip name="ГруппаНомерДатаРасширеннаяПодсказка" id="20"/>
 			<ChildItems>
 				<InputField name="Номер" id="1">
@@ -63,6 +65,8 @@
 					<v8:content>Группа период болезни</v8:content>
 				</v8:item>
 			</ToolTip>
+			<Representation>None</Representation>
+			<ShowTitle>false</ShowTitle>
 			<ExtendedTooltip name="ГруппаПериодБолезниРасширеннаяПодсказка" id="22"/>
 			<ChildItems>
 				<InputField name="ДатаНачала" id="10">
