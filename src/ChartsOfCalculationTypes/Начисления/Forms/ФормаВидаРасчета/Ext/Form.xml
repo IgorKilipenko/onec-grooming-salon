@@ -172,6 +172,61 @@
 						</Table>
 					</ChildItems>
 				</Page>
+				<Page name="ГруппаВытесняющиеВидыРасчета" id="53">
+					<Title>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Вытесняющие виды расчетов</v8:content>
+						</v8:item>
+					</Title>
+					<ExtendedTooltip name="ГруппаВытесняющиеВидыРасчетаРасширеннаяПодсказка" id="54"/>
+					<ChildItems>
+						<Table name="ВытесняющиеВидыРасчета" id="55">
+							<Representation>List</Representation>
+							<AutoInsertNewRow>true</AutoInsertNewRow>
+							<EnableStartDrag>true</EnableStartDrag>
+							<EnableDrag>true</EnableDrag>
+							<DataPath>Объект.DisplacingCalculationTypes</DataPath>
+							<RowFilter xsi:nil="true"/>
+							<ContextMenu name="ВытесняющиеВидыРасчетаКонтекстноеМеню" id="56"/>
+							<AutoCommandBar name="ВытесняющиеВидыРасчетаКоманднаяПанель" id="57"/>
+							<ExtendedTooltip name="ВытесняющиеВидыРасчетаРасширеннаяПодсказка" id="58"/>
+							<SearchStringAddition name="ВытесняющиеВидыРасчетаСтрокаПоиска" id="59">
+								<AdditionSource>
+									<Item>ВытесняющиеВидыРасчета</Item>
+									<Type>SearchStringRepresentation</Type>
+								</AdditionSource>
+								<ContextMenu name="ВытесняющиеВидыРасчетаСтрокаПоискаКонтекстноеМеню" id="60"/>
+								<ExtendedTooltip name="ВытесняющиеВидыРасчетаСтрокаПоискаРасширеннаяПодсказка" id="61"/>
+							</SearchStringAddition>
+							<ViewStatusAddition name="ВытесняющиеВидыРасчетаСостояниеПросмотра" id="62">
+								<AdditionSource>
+									<Item>ВытесняющиеВидыРасчета</Item>
+									<Type>ViewStatusRepresentation</Type>
+								</AdditionSource>
+								<ContextMenu name="ВытесняющиеВидыРасчетаСостояниеПросмотраКонтекстноеМеню" id="63"/>
+								<ExtendedTooltip name="ВытесняющиеВидыРасчетаСостояниеПросмотраРасширеннаяПодсказка" id="64"/>
+							</ViewStatusAddition>
+							<SearchControlAddition name="ВытесняющиеВидыРасчетаУправлениеПоиском" id="65">
+								<AdditionSource>
+									<Item>ВытесняющиеВидыРасчета</Item>
+									<Type>SearchControl</Type>
+								</AdditionSource>
+								<ContextMenu name="ВытесняющиеВидыРасчетаУправлениеПоискомКонтекстноеМеню" id="66"/>
+								<ExtendedTooltip name="ВытесняющиеВидыРасчетаУправлениеПоискомРасширеннаяПодсказка" id="67"/>
+							</SearchControlAddition>
+							<ChildItems>
+								<InputField name="ВытесняющиеВидыРасчетаВидРасчета" id="68">
+									<DataPath>Объект.DisplacingCalculationTypes.CalculationType</DataPath>
+									<EditMode>EnterOnInput</EditMode>
+									<ExtendedEditMultipleValues>true</ExtendedEditMultipleValues>
+									<ContextMenu name="ВытесняющиеВидыРасчетаВидРасчетаКонтекстноеМеню" id="69"/>
+									<ExtendedTooltip name="ВытесняющиеВидыРасчетаВидРасчетаРасширеннаяПодсказка" id="70"/>
+								</InputField>
+							</ChildItems>
+						</Table>
+					</ChildItems>
+				</Page>
 			</ChildItems>
 		</Pages>
 	</ChildItems>

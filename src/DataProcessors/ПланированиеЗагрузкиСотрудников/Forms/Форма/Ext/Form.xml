@@ -303,8 +303,8 @@
 					<currentLevel xmlns="http://v8.1c.ru/8.2/data/chart">0</currentLevel>
 				</pl:timeScale>
 				<pl:period>
-					<pl:begin>2024-02-13T00:00:00</pl:begin>
-					<pl:end>2024-02-13T23:59:59</pl:end>
+					<pl:begin>2024-03-13T00:00:00</pl:begin>
+					<pl:end>2024-03-13T23:59:59</pl:end>
 				</pl:period>
 				<pl:displayCurrentDate>true</pl:displayCurrentDate>
 				<pl:itemsTimeRepresentation>BeginTime</pl:itemsTimeRepresentation>

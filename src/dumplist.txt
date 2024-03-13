@@ -1,2 +1,0 @@
-﻿Modified: CalculationRegister.Начисления
-Modified: CalculationRegister.Начисления.ManagerModule

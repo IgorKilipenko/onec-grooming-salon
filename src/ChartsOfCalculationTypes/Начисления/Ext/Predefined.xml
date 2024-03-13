@@ -11,5 +11,8 @@
 		<Code>ОКЛ</Code>
 		<Description>Оклад</Description>
 		<ActionPeriodIsBase>false</ActionPeriodIsBase>
+		<Displaced>
+			<CalculationType>ChartOfCalculationTypes.Начисления.Больничный</CalculationType>
+		</Displaced>
 	</Item>
 </PredefinedData>
