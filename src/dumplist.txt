@@ -1,2 +1,2 @@
-﻿Modified: CommonModule.РаботаСРеквизитами
-Modified: CommonModule.РаботаСРеквизитами.Module
+﻿Modified: CommonModule.РаботаСКоллекциями
+Modified: CommonModule.РаботаСКоллекциями.Module
