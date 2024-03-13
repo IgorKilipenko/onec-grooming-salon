@@ -53,7 +53,7 @@
 			<Metadata name="Catalog.БанковскиеСчета.Attribute.НомерСчета" id="c72ea3a0-b8a2-44a0-9642-d0de3b08a10f"/>
 		</Metadata>
 		<Metadata name="Catalog.БанковскиеСчета.ManagerModule" id="b8808f67-837e-4b7d-b0e7-a3e1712e4cff.3" configVersion="a359156398e76f4c9a7fa902fdaecb6600000000"/>
-		<Metadata name="Catalog.ГрафикиРаботыСотрудников" id="57653ded-7132-4974-9412-c1b8d90f8355" configVersion="20fd703d4d073840b05652a2cf0d138200000000">
+		<Metadata name="Catalog.ГрафикиРаботыСотрудников" id="57653ded-7132-4974-9412-c1b8d90f8355" configVersion="1bca91fca0bb0a43b52636d991d4e79800000000">
 			<Metadata name="Catalog.ГрафикиРаботыСотрудников.Attribute.СпособЗаполнения" id="0ac2d9e3-ae74-4e65-9ee3-e809314060b3"/>
 			<Metadata name="Catalog.ГрафикиРаботыСотрудников.Attribute.КоличествоЧасов" id="1ba319e6-5d44-42ea-aac1-bd64326a7dcf"/>
 			<Metadata name="Catalog.ГрафикиРаботыСотрудников.Attribute.КонецПериода" id="22c6115d-073c-407f-953b-84734170983d"/>
@@ -64,8 +64,8 @@
 			<Metadata name="Catalog.ГрафикиРаботыСотрудников.TabularSection.СписокДней" id="9c16f2ba-a72b-4b8d-ba01-1049351a5468"/>
 			<Metadata name="Catalog.ГрафикиРаботыСотрудников.TabularSection.СписокДней.Attribute.КоличествоЧасов" id="b2623068-b7f4-425a-9c21-9cb0f6626716"/>
 		</Metadata>
-		<Metadata name="Catalog.ГрафикиРаботыСотрудников.Form.ФормаЭлемента" id="4fbd3b0f-ba66-40d0-aafe-06976e132547" configVersion="268afdca50f2e341acebda1441aa20bd00000000"/>
-		<Metadata name="Catalog.ГрафикиРаботыСотрудников.Form.ФормаЭлемента.Form" id="4fbd3b0f-ba66-40d0-aafe-06976e132547.0" configVersion="fa5e34e4bb50db4db569f576ba791f7c00000000"/>
+		<Metadata name="Catalog.ГрафикиРаботыСотрудников.Form.ФормаЭлемента" id="4fbd3b0f-ba66-40d0-aafe-06976e132547" configVersion="acf90df44d2cc047b3602e79b8e6a5a800000000"/>
+		<Metadata name="Catalog.ГрафикиРаботыСотрудников.Form.ФормаЭлемента.Form" id="4fbd3b0f-ba66-40d0-aafe-06976e132547.0" configVersion="b213c5e9cb43f847a269acb5ab2ebe4d00000000"/>
 		<Metadata name="Catalog.ДоговорыКонтрагентов" id="87b3d083-9850-4c56-9dc9-d0d816f36fc9" configVersion="9de6bbbab143cc4187f069d8a3b60a1600000000">
 			<Metadata name="Catalog.ДоговорыКонтрагентов.Attribute.ДатаЗаключения" id="1e36e7e1-52a4-408d-bb9e-49ba4c85a756"/>
 			<Metadata name="Catalog.ДоговорыКонтрагентов.Attribute.ВнешнийНомер" id="33837e67-1c7a-4571-b652-dc7753e1ac41"/>

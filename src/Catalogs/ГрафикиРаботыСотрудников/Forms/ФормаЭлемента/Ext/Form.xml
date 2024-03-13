@@ -3,6 +3,9 @@
 	<WindowOpeningMode>LockOwnerWindow</WindowOpeningMode>
 	<UseForFoldersAndItems>Items</UseForFoldersAndItems>
 	<AutoCommandBar name="ФормаКоманднаяПанель" id="-1"/>
+	<Events>
+		<Event name="OnOpen">ПриОткрытии</Event>
+	</Events>
 	<ChildItems>
 		<InputField name="Код" id="1">
 			<DataPath>Объект.Code</DataPath>
@@ -31,7 +34,9 @@
 					<v8:content>Группа заполнение графика</v8:content>
 				</v8:item>
 			</ToolTip>
+			<Group>Vertical</Group>
 			<Behavior>Collapsible</Behavior>
+			<Collapsed>true</Collapsed>
 			<Representation>None</Representation>
 			<ExtendedTooltip name="ГруппаЗаполнениеГрафикаРасширеннаяПодсказка" id="48"/>
 			<ChildItems>
@@ -59,6 +64,9 @@
 							<ExtendedEditMultipleValues>true</ExtendedEditMultipleValues>
 							<ContextMenu name="НачалоПериодаКонтекстноеМеню" id="8"/>
 							<ExtendedTooltip name="НачалоПериодаРасширеннаяПодсказка" id="9"/>
+							<Events>
+								<Event name="OnChange">НачалоПериодаПриИзменении</Event>
+							</Events>
 						</InputField>
 						<InputField name="КонецПериода" id="10">
 							<DataPath>Объект.КонецПериода</DataPath>
@@ -66,6 +74,9 @@
 							<ExtendedEditMultipleValues>true</ExtendedEditMultipleValues>
 							<ContextMenu name="КонецПериодаКонтекстноеМеню" id="11"/>
 							<ExtendedTooltip name="КонецПериодаРасширеннаяПодсказка" id="12"/>
+							<Events>
+								<Event name="OnChange">КонецПериодаПриИзменении</Event>
+							</Events>
 						</InputField>
 					</ChildItems>
 				</UsualGroup>
@@ -96,7 +107,6 @@
 					<ChildItems>
 						<RadioButtonField name="СпособЗаполнения" id="16">
 							<DataPath>Объект.СпособЗаполнения</DataPath>
-							<TitleLocation>Top</TitleLocation>
 							<EditMode>EnterOnInput</EditMode>
 							<RadioButtonType>Auto</RadioButtonType>
 							<ChoiceList>
@@ -110,7 +120,7 @@
 												<v8:content>По будням</v8:content>
 											</v8:item>
 										</Presentation>
-										<Value xsi:type="xs:string">ПятидневнаяРабочаяНеделя</Value>
+										<Value xsi:type="xr:DesignTimeRef">Enum.ТипыГрафиковРаботы.EnumValue.ПятидневнаяРабочаяНеделя</Value>
 									</xr:Value>
 								</xr:Item>
 								<xr:Item>
@@ -123,12 +133,15 @@
 												<v8:content>Циклично</v8:content>
 											</v8:item>
 										</Presentation>
-										<Value xsi:type="xs:string">Циклический</Value>
+										<Value xsi:type="xr:DesignTimeRef">Enum.ТипыГрафиковРаботы.EnumValue.Циклический</Value>
 									</xr:Value>
 								</xr:Item>
 							</ChoiceList>
 							<ContextMenu name="СпособЗаполненияКонтекстноеМеню" id="17"/>
 							<ExtendedTooltip name="СпособЗаполненияРасширеннаяПодсказка" id="18"/>
+							<Events>
+								<Event name="OnChange">СпособЗаполненияПриИзменении</Event>
+							</Events>
 						</RadioButtonField>
 						<UsualGroup name="ГруппаЦиклически" id="59">
 							<Title>

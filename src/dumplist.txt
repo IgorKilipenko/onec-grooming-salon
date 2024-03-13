@@ -1,2 +1,3 @@
-﻿Modified: InformationRegister.КадроваяИсторияСотрудников
-Modified: InformationRegister.КадроваяИсторияСотрудников.ManagerModule
+﻿Modified: Catalog.ГрафикиРаботыСотрудников
+Modified: Catalog.ГрафикиРаботыСотрудников.Form.ФормаЭлемента
+Modified: Catalog.ГрафикиРаботыСотрудников.Form.ФормаЭлемента.Form
