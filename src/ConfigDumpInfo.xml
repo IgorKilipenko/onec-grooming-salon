@@ -292,8 +292,8 @@
 			<Metadata name="Document.НачислениеЗарплаты.TabularSection.Начисления.Attribute.ДатаОкончания" id="d054c99e-2784-498c-9643-a51ae5a88935"/>
 			<Metadata name="Document.НачислениеЗарплаты.TabularSection.Начисления.Attribute.ПоказательРасчета" id="d3db149b-d17b-4916-841a-8de961db5319"/>
 		</Metadata>
-		<Metadata name="Document.НачислениеЗарплаты.Form.ФормаДокумента" id="8a47176e-055c-4f02-81ad-9663714414ca" configVersion="a1e5b33831b81542a4c8b5a44adb59fe00000000"/>
-		<Metadata name="Document.НачислениеЗарплаты.Form.ФормаДокумента.Form" id="8a47176e-055c-4f02-81ad-9663714414ca.0" configVersion="11512e8f9b64bf4c9438ab0822d3b4e900000000"/>
+		<Metadata name="Document.НачислениеЗарплаты.Form.ФормаДокумента" id="8a47176e-055c-4f02-81ad-9663714414ca" configVersion="41daceadecf63049ad77f812de88e08f00000000"/>
+		<Metadata name="Document.НачислениеЗарплаты.Form.ФормаДокумента.Form" id="8a47176e-055c-4f02-81ad-9663714414ca.0" configVersion="d525638f37cbad4995a387019f9e0c5c00000000"/>
 		<Metadata name="Document.НачислениеЗарплаты.ObjectModule" id="2aefa10d-a22d-4953-9922-ca5953cd6a73.0" configVersion="ca7bc4b6869fee4ba254252e33c452f500000000"/>
 		<Metadata name="Document.ПеремещениеТоваров" id="89465a4b-bf48-4f3e-923c-efa4c2dde550" configVersion="8073e9f8799f24478995a61a954bf8ea00000000">
 			<Metadata name="Document.ПеремещениеТоваров.Attribute.СкладПолучатель" id="1f0520f6-8b3f-449b-9fa4-5ba79da6e3de"/>
