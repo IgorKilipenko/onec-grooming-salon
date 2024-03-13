@@ -262,8 +262,8 @@
 			<Metadata name="Document.БольничныйЛист.Attribute.ПериодНачисления" id="ad1e21af-c07b-4cce-b52c-121889f5dd2c"/>
 			<Metadata name="Document.БольничныйЛист.Attribute.Сотрудник" id="e7ec08cc-36c7-464c-9d18-5d9731f37120"/>
 		</Metadata>
-		<Metadata name="Document.БольничныйЛист.Form.ФормаДокумента" id="56681ddd-b7db-49c5-82fb-13a1d8f8311b" configVersion="6e98e9e6347c7d42b081fd71c9ff79e300000000"/>
-		<Metadata name="Document.БольничныйЛист.Form.ФормаДокумента.Form" id="56681ddd-b7db-49c5-82fb-13a1d8f8311b.0" configVersion="02642930404afd4cb4ceab69cd1d3a7100000000"/>
+		<Metadata name="Document.БольничныйЛист.Form.ФормаДокумента" id="56681ddd-b7db-49c5-82fb-13a1d8f8311b" configVersion="78a6cea685289d47b90d80b359ead3ec00000000"/>
+		<Metadata name="Document.БольничныйЛист.Form.ФормаДокумента.Form" id="56681ddd-b7db-49c5-82fb-13a1d8f8311b.0" configVersion="1228443edfea8444b4742977432feba500000000"/>
 		<Metadata name="Document.БольничныйЛист.ObjectModule" id="6137f85e-09b8-46aa-9974-82a194f570cd.0" configVersion="f66ad43d5ec8ff408ab5e08121116e2e00000000"/>
 		<Metadata name="Document.ЗаписьКлиента" id="57b68005-3097-4a50-a8da-11276713c78c" configVersion="65521eba7c8f8c4e8da00bc6a46ceaae00000000">
 			<Metadata name="Document.ЗаписьКлиента.TabularSection.Услуги.Attribute.Стоимость" id="06030264-4866-457d-bc39-dd432cac2f81"/>

@@ -71,6 +71,12 @@
 			<ChildItems>
 				<InputField name="ДатаНачала" id="10">
 					<DataPath>Объект.ДатаНачала</DataPath>
+					<Title>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Начало болезни</v8:content>
+						</v8:item>
+					</Title>
 					<EditMode>EnterOnInput</EditMode>
 					<ExtendedEditMultipleValues>true</ExtendedEditMultipleValues>
 					<ContextMenu name="ДатаНачалаКонтекстноеМеню" id="11"/>
@@ -78,6 +84,12 @@
 				</InputField>
 				<InputField name="ДатаОкончания" id="13">
 					<DataPath>Объект.ДатаОкончания</DataPath>
+					<Title>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Окончание</v8:content>
+						</v8:item>
+					</Title>
 					<EditMode>EnterOnInput</EditMode>
 					<ExtendedEditMultipleValues>true</ExtendedEditMultipleValues>
 					<ContextMenu name="ДатаОкончанияКонтекстноеМеню" id="14"/>
