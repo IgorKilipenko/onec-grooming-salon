@@ -1,3 +1,2 @@
-﻿Modified: Catalog.ГрафикиРаботыСотрудников
-Modified: Catalog.ГрафикиРаботыСотрудников.Form.ФормаЭлемента
-Modified: Catalog.ГрафикиРаботыСотрудников.Form.ФормаЭлемента.Form
+﻿Modified: Document.НачислениеЗарплаты.Form.ФормаДокумента
+Modified: Document.НачислениеЗарплаты.Form.ФормаДокумента.Form
