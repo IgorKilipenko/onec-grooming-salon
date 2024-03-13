@@ -5,7 +5,7 @@
         "computeTrigger": "onType",
         "parameters": {
             "CodeOutOfRegion": {
-                "checkUnknownModuleType": false
+                "checkUnknownModuleType": true
             },
             "NestedTernaryOperator": false,
             "LineLength": {
@@ -15,8 +15,10 @@
             "RedundantAccessToObject": {
                 "checkObjectModule": false,
                 "checkFormModule": false,
-                "checkRecordSetModule": true
-            }
+                "checkRecordSetModule": false
+            },
+            "NestedFunctionInParameters": false,
+            "CommonModuleInvalidType": false
         }
     }
 }
