@@ -1,2 +1,2 @@
-﻿Modified: Document.НачислениеЗарплаты.Form.ФормаДокумента
-Modified: Document.НачислениеЗарплаты.Form.ФормаДокумента.Form
+﻿Modified: Document.БольничныйЛист.Form.ФормаДокумента
+Modified: Document.БольничныйЛист.Form.ФормаДокумента.Form
