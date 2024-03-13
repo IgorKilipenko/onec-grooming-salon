@@ -1,2 +1,2 @@
-﻿Modified: Document.БольничныйЛист.Form.ФормаДокумента
-Modified: Document.БольничныйЛист.Form.ФормаДокумента.Form
+﻿Modified: CommonModule.РаботаСРеквизитами
+Modified: CommonModule.РаботаСРеквизитами.Module
