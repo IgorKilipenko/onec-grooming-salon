@@ -323,6 +323,7 @@
 			<Document>СписаниеСРасчетногоСчета</Document>
 			<Document>НачислениеЗарплаты</Document>
 			<Document>БольничныйЛист</Document>
+			<Document>НачислениеПремии</Document>
 			<DocumentJournal>ДокументыПоКассе</DocumentJournal>
 			<DocumentJournal>ДокументыПоБанку</DocumentJournal>
 			<DocumentJournal>ЖурналХозяйственныхОпераций</DocumentJournal>

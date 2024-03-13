@@ -1,2 +1,6 @@
-﻿Modified: Document.БольничныйЛист.Form.ФормаДокумента
-Modified: Document.БольничныйЛист.Form.ФормаДокумента.Form
+﻿New: Document.НачислениеПремии
+New: Document.НачислениеПремии.Form.ФормаДокумента
+New: Document.НачислениеПремии.Form.ФормаДокумента.Form
+New: Document.НачислениеПремии.ObjectModule
+Modified: Configuration.ГрумингСалон
+Modified: Subsystem.Персонал
