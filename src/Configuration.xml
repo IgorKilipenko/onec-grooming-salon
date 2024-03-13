@@ -322,6 +322,7 @@
 			<Document>ПоступлениеНаРасчетныйСчет</Document>
 			<Document>СписаниеСРасчетногоСчета</Document>
 			<Document>НачислениеЗарплаты</Document>
+			<Document>БольничныйЛист</Document>
 			<DocumentJournal>ДокументыПоКассе</DocumentJournal>
 			<DocumentJournal>ДокументыПоБанку</DocumentJournal>
 			<DocumentJournal>ЖурналХозяйственныхОпераций</DocumentJournal>

@@ -1,3 +1,5 @@
-﻿Modified: Catalog.ГрафикиРаботыСотрудников
-Modified: Catalog.ГрафикиРаботыСотрудников.Form.ФормаЭлемента
-Modified: Catalog.ГрафикиРаботыСотрудников.Form.ФормаЭлемента.Form
+﻿New: Document.БольничныйЛист
+New: Document.БольничныйЛист.Form.ФормаДокумента
+New: Document.БольничныйЛист.Form.ФормаДокумента.Form
+Modified: Configuration.ГрумингСалон
+Modified: Subsystem.Персонал
