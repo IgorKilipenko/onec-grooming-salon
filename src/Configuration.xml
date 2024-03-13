@@ -291,6 +291,7 @@
 			<CommandGroup>Касса</CommandGroup>
 			<CommandGroup>Банк</CommandGroup>
 			<CommandGroup>Покупки</CommandGroup>
+			<CommandGroup>Зарплата</CommandGroup>
 			<Constant>ИспользоватьСклады</Constant>
 			<Constant>ЗапретПроведенияПриОтрицательныхОстатках</Constant>
 			<Constant>НачалоРабочегоДня</Constant>
