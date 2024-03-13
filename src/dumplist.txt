@@ -1,2 +1,5 @@
-﻿Modified: ChartOfCalculationTypes.Начисления.Form.ФормаВидаРасчета
-Modified: ChartOfCalculationTypes.Начисления.Form.ФормаВидаРасчета.Form
+﻿New: Report.ОтчетПоНачислениюЗарплаты
+New: Report.ОтчетПоНачислениюЗарплаты.Template.ОсновнаяСхемаКомпоновкиДанных
+New: Report.ОтчетПоНачислениюЗарплаты.Template.ОсновнаяСхемаКомпоновкиДанных.Template
+Modified: Configuration.ГрумингСалон
+Modified: Subsystem.Персонал
