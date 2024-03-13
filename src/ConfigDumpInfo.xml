@@ -177,7 +177,7 @@
 		<Metadata name="ChartOfAccounts.Хозрасчетный" id="b975c814-29e9-438d-8ef9-690c059ac9e7" configVersion="53854170cf32754f96966f1b53fdf44e00000000"/>
 		<Metadata name="ChartOfAccounts.Хозрасчетный.ManagerModule" id="b975c814-29e9-438d-8ef9-690c059ac9e7.15" configVersion="bfda9c3df5075a4f96cf4c9c0d0437f000000000"/>
 		<Metadata name="ChartOfAccounts.Хозрасчетный.Predefined" id="b975c814-29e9-438d-8ef9-690c059ac9e7.9" configVersion="eab109d544eddf4c8c50cd7992a3357000000000"/>
-		<Metadata name="ChartOfCalculationTypes.Начисления" id="99854ed2-7ea1-40d0-bea4-eb87d3af8c83" configVersion="4f0f18543b587e4a9df32322a3023a3f00000000">
+		<Metadata name="ChartOfCalculationTypes.Начисления" id="99854ed2-7ea1-40d0-bea4-eb87d3af8c83" configVersion="6042fd5c33059b4b878d013897bb2b7600000000">
 			<Metadata name="ChartOfCalculationTypes.Начисления.Attribute.ФормулаРасчета" id="7088907f-26c3-4c6d-ac3e-6b0c2d19fdc9"/>
 			<Metadata name="ChartOfCalculationTypes.Начисления.Attribute.СтатьяЗатрат" id="f46ac5f0-1846-4429-969c-28ae5a0e01a1"/>
 		</Metadata>
