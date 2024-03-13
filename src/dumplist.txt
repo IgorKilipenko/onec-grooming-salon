@@ -1,2 +1,2 @@
-﻿New: AccountingRegister.Хозрасчетный.ManagerModule
-Modified: AccountingRegister.Хозрасчетный
+﻿Modified: CalculationRegister.Начисления
+Modified: CalculationRegister.Начисления.ManagerModule
