@@ -202,8 +202,8 @@
 		<Metadata name="CommonModule.РаботаСДокументами.Module" id="36b2d7f6-45fd-48ae-8543-9173c6c2595c.0" configVersion="7a42afe167ae974e8ea86b8a2e54a16900000000"/>
 		<Metadata name="CommonModule.РаботаСДокументамиКлиентСервер" id="9d6855cc-ebea-40ef-99eb-c52fac488dd8" configVersion="9daefa327bfabe419fa59ebc50c2076b00000000"/>
 		<Metadata name="CommonModule.РаботаСДокументамиКлиентСервер.Module" id="9d6855cc-ebea-40ef-99eb-c52fac488dd8.0" configVersion="b20aae096629084bb513dd66b2ad0ec800000000"/>
-		<Metadata name="CommonModule.РаботаСКоллекциями" id="00bbf57d-8f3c-4e9d-b280-b8252ad49ef0" configVersion="4fa7518c3db6e840be18425776db19e500000000"/>
-		<Metadata name="CommonModule.РаботаСКоллекциями.Module" id="00bbf57d-8f3c-4e9d-b280-b8252ad49ef0.0" configVersion="e7fcc3d6dd8cc8438d9e19bda0c36fc100000000"/>
+		<Metadata name="CommonModule.РаботаСКоллекциями" id="00bbf57d-8f3c-4e9d-b280-b8252ad49ef0" configVersion="2e5f0b2dd679df44a3b2ce2d8481bb8600000000"/>
+		<Metadata name="CommonModule.РаботаСКоллекциями.Module" id="00bbf57d-8f3c-4e9d-b280-b8252ad49ef0.0" configVersion="23568744ad6cd740bf4c8bc8569df65200000000"/>
 		<Metadata name="CommonModule.РаботаСКоллекциямиКлиентСервер" id="f5bd7b13-5a42-400e-ac35-141eaa21d257" configVersion="56cace0e22783f48aed9be08951cc8ab00000000"/>
 		<Metadata name="CommonModule.РаботаСКоллекциямиКлиентСервер.Module" id="f5bd7b13-5a42-400e-ac35-141eaa21d257.0" configVersion="96ca64a4f2aa834084c88f93f40f14db00000000"/>
 		<Metadata name="CommonModule.РаботаСМетаданными" id="5696cc80-925e-41fd-bdce-3f1954f5c698" configVersion="fdbe06d3dc070442b2486a3368e7ffc300000000"/>
