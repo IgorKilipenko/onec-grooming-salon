@@ -281,7 +281,7 @@
 		<Metadata name="Document.ЗаписьКлиента.Form.ФормаСписка.Form" id="6cd4f6c1-7e0f-4006-bb9e-2cc4f4d1573e.0" configVersion="bc2ebccf3063c849b6b8e966074837e200000000"/>
 		<Metadata name="Document.ЗаписьКлиента.ManagerModule" id="57b68005-3097-4a50-a8da-11276713c78c.2" configVersion="1987dbf10b8ecd46879329dbe0b1df7400000000"/>
 		<Metadata name="Document.ЗаписьКлиента.ObjectModule" id="57b68005-3097-4a50-a8da-11276713c78c.0" configVersion="0737a117f306a640b55093aaa2bf2e1700000000"/>
-		<Metadata name="Document.НачислениеЗарплаты" id="2aefa10d-a22d-4953-9922-ca5953cd6a73" configVersion="5c527a38c33dea48b8dcb70ff0acd3fb00000000">
+		<Metadata name="Document.НачислениеЗарплаты" id="2aefa10d-a22d-4953-9922-ca5953cd6a73" configVersion="896914a2ee044e4baf71a275cadcd4f400000000">
 			<Metadata name="Document.НачислениеЗарплаты.TabularSection.Начисления.Attribute.Сотрудник" id="161aa0f5-656e-403f-9547-5fb5f84ca6d0"/>
 			<Metadata name="Document.НачислениеЗарплаты.TabularSection.Начисления.Attribute.ДатаНачала" id="188cbe0e-9893-4fe3-8776-ebab0163f896"/>
 			<Metadata name="Document.НачислениеЗарплаты.TabularSection.Начисления.Attribute.ГрафикРаботы" id="6c277b09-39f2-420e-9557-76ac9c77a243"/>
@@ -291,6 +291,8 @@
 			<Metadata name="Document.НачислениеЗарплаты.TabularSection.Начисления.Attribute.ДатаОкончания" id="d054c99e-2784-498c-9643-a51ae5a88935"/>
 			<Metadata name="Document.НачислениеЗарплаты.TabularSection.Начисления.Attribute.ПоказательРасчета" id="d3db149b-d17b-4916-841a-8de961db5319"/>
 		</Metadata>
+		<Metadata name="Document.НачислениеЗарплаты.Form.ФормаДокумента" id="8a47176e-055c-4f02-81ad-9663714414ca" configVersion="7f0454b0ca6b5c47b2280f7b3963c8c300000000"/>
+		<Metadata name="Document.НачислениеЗарплаты.Form.ФормаДокумента.Form" id="8a47176e-055c-4f02-81ad-9663714414ca.0" configVersion="b650ba309d34c84fa4727f4d150d8e4a00000000"/>
 		<Metadata name="Document.НачислениеЗарплаты.ObjectModule" id="2aefa10d-a22d-4953-9922-ca5953cd6a73.0" configVersion="ca7bc4b6869fee4ba254252e33c452f500000000"/>
 		<Metadata name="Document.ПеремещениеТоваров" id="89465a4b-bf48-4f3e-923c-efa4c2dde550" configVersion="8073e9f8799f24478995a61a954bf8ea00000000">
 			<Metadata name="Document.ПеремещениеТоваров.Attribute.СкладПолучатель" id="1f0520f6-8b3f-449b-9fa4-5ba79da6e3de"/>
