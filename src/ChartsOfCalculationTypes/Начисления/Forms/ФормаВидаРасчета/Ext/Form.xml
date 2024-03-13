@@ -27,6 +27,12 @@
 			<ContextMenu name="СтатьяЗатратКонтекстноеМеню" id="11"/>
 			<ExtendedTooltip name="СтатьяЗатратРасширеннаяПодсказка" id="12"/>
 		</InputField>
+		<CheckBoxField name="ПериодДействияБазовый" id="71">
+			<DataPath>Объект.ActionPeriodIsBasic</DataPath>
+			<CheckBoxType>Auto</CheckBoxType>
+			<ContextMenu name="ПериодДействияБазовыйКонтекстноеМеню" id="72"/>
+			<ExtendedTooltip name="ПериодДействияБазовыйРасширеннаяПодсказка" id="73"/>
+		</CheckBoxField>
 		<Pages name="Страницы" id="13">
 			<Title>
 				<v8:item>

@@ -1,6 +1,2 @@
-﻿New: Document.НачислениеПремии
-New: Document.НачислениеПремии.Form.ФормаДокумента
-New: Document.НачислениеПремии.Form.ФормаДокумента.Form
-New: Document.НачислениеПремии.ObjectModule
-Modified: Configuration.ГрумингСалон
-Modified: Subsystem.Персонал
+﻿Modified: ChartOfCalculationTypes.Начисления.Form.ФормаВидаРасчета
+Modified: ChartOfCalculationTypes.Начисления.Form.ФормаВидаРасчета.Form
