@@ -1,2 +1,2 @@
-﻿Modified: InformationRegister.КадроваяИсторияСотрудников
-Modified: InformationRegister.КадроваяИсторияСотрудников.ManagerModule
+﻿Modified: CommonModule.РаботаСКоллекциями
+Modified: CommonModule.РаботаСКоллекциями.Module
