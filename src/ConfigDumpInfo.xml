@@ -181,8 +181,8 @@
 			<Metadata name="ChartOfCalculationTypes.Начисления.Attribute.ФормулаРасчета" id="7088907f-26c3-4c6d-ac3e-6b0c2d19fdc9"/>
 			<Metadata name="ChartOfCalculationTypes.Начисления.Attribute.СтатьяЗатрат" id="f46ac5f0-1846-4429-969c-28ae5a0e01a1"/>
 		</Metadata>
-		<Metadata name="ChartOfCalculationTypes.Начисления.Form.ФормаВидаРасчета" id="e7f521ec-ce10-4d5f-be1f-c42ba72672e5" configVersion="743208a35b8f1a43a1e52fd5b6e6626700000000"/>
-		<Metadata name="ChartOfCalculationTypes.Начисления.Form.ФормаВидаРасчета.Form" id="e7f521ec-ce10-4d5f-be1f-c42ba72672e5.0" configVersion="62bc18e2ef825f448ef7691e573ac39f00000000"/>
+		<Metadata name="ChartOfCalculationTypes.Начисления.Form.ФормаВидаРасчета" id="e7f521ec-ce10-4d5f-be1f-c42ba72672e5" configVersion="f4ca1a01efa96f4f90cf479026acc56b00000000"/>
+		<Metadata name="ChartOfCalculationTypes.Начисления.Form.ФормаВидаРасчета.Form" id="e7f521ec-ce10-4d5f-be1f-c42ba72672e5.0" configVersion="c2b26347ce8e4b43ba986433a949491600000000"/>
 		<Metadata name="ChartOfCalculationTypes.Начисления.Form.ФормаСписка" id="9bbe6c72-f477-4812-8f7e-5a9556722196" configVersion="f58d00aa02706647ad00323af950b56500000000"/>
 		<Metadata name="ChartOfCalculationTypes.Начисления.Form.ФормаСписка.Form" id="9bbe6c72-f477-4812-8f7e-5a9556722196.0" configVersion="8693aa2b8a56214596950f0345ab1dc500000000"/>
 		<Metadata name="ChartOfCalculationTypes.Начисления.Predefined" id="99854ed2-7ea1-40d0-bea4-eb87d3af8c83.2" configVersion="e0133cfad72d834bb842fe05f0b66c3900000000"/>

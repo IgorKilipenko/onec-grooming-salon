@@ -1,1 +1,2 @@
-﻿Modified: ChartOfCalculationTypes.Начисления
+﻿Modified: ChartOfCalculationTypes.Начисления.Form.ФормаВидаРасчета
+Modified: ChartOfCalculationTypes.Начисления.Form.ФормаВидаРасчета.Form
