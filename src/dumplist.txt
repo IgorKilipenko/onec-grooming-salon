@@ -1,1 +1,2 @@
-﻿Modified: Configuration.ГрумингСалон
+﻿Modified: Report.ОтчетПоНачислениюЗарплаты.Template.ОсновнаяСхемаКомпоновкиДанных
+Modified: Report.ОтчетПоНачислениюЗарплаты.Template.ОсновнаяСхемаКомпоновкиДанных.Template
