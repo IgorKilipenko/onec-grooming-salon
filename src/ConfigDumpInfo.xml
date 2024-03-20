@@ -582,13 +582,13 @@
 			<Metadata name="InformationRegister.ГрафикиРаботыПредприятия.Dimension.День" id="b3effcfa-cce3-41b3-959d-2de0678cb7af"/>
 		</Metadata>
 		<Metadata name="InformationRegister.ГрафикиРаботыПредприятия.ManagerModule" id="72f50457-7a96-4457-ba73-981ea293ead6.2" configVersion="bba8a8275aefef4a95c2acd0f82b39e700000000"/>
-		<Metadata name="InformationRegister.КадроваяИсторияСотрудников" id="8bf39bea-8d1f-4a17-b733-0291b7092af8" configVersion="4c60fb0b071ad242adebb3810512992700000000">
+		<Metadata name="InformationRegister.КадроваяИсторияСотрудников" id="8bf39bea-8d1f-4a17-b733-0291b7092af8" configVersion="4315f4a2551add45a082e8b03c68f57900000000">
 			<Metadata name="InformationRegister.КадроваяИсторияСотрудников.Attribute.Работает" id="29540717-d182-4217-a2cc-0d70676f7099"/>
 			<Metadata name="InformationRegister.КадроваяИсторияСотрудников.Resource.Оклад" id="3800ee63-216f-4656-a398-08f30a0e911e"/>
 			<Metadata name="InformationRegister.КадроваяИсторияСотрудников.Dimension.ГрафикРаботы" id="64f9c1e6-e915-47a7-81c0-401b9af092bb"/>
 			<Metadata name="InformationRegister.КадроваяИсторияСотрудников.Dimension.Сотрудник" id="efcdcf36-8260-4b29-9b32-26a3a8e51176"/>
 		</Metadata>
-		<Metadata name="InformationRegister.КадроваяИсторияСотрудников.ManagerModule" id="8bf39bea-8d1f-4a17-b733-0291b7092af8.2" configVersion="eb835514f4dec74698ef15bb4c15239d00000000"/>
+		<Metadata name="InformationRegister.КадроваяИсторияСотрудников.ManagerModule" id="8bf39bea-8d1f-4a17-b733-0291b7092af8.2" configVersion="abd27561773bea4ebee739dda102de2700000000"/>
 		<Metadata name="InformationRegister.УчетнаяПолитика" id="9dd99118-1c63-4cc1-b99d-bf3eadf5cfa3" configVersion="6c36527644f26a43a372c992d094a17600000000">
 			<Metadata name="InformationRegister.УчетнаяПолитика.Resource.УчетнаяПолитика" id="b7c3a310-7376-4cb5-ae44-bdd3b9cb45bf"/>
 		</Metadata>

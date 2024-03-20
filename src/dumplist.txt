@@ -1,2 +1,2 @@
-﻿Modified: Report.ОтчетПоНачислениюЗарплаты.Template.ОсновнаяСхемаКомпоновкиДанных
-Modified: Report.ОтчетПоНачислениюЗарплаты.Template.ОсновнаяСхемаКомпоновкиДанных.Template
+﻿Modified: InformationRegister.КадроваяИсторияСотрудников
+Modified: InformationRegister.КадроваяИсторияСотрудников.ManagerModule
