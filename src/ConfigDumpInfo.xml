@@ -682,7 +682,7 @@
 		<Metadata name="Subsystem.Персонал.Subsystem.Справочники.CommandInterface" id="ce77fbe5-febc-4733-b4be-1e618770f870.1" configVersion="58e68d052d72104db27a1dd5c12887e400000000"/>
 		<Metadata name="Subsystem.Покупки" id="10a5b600-c546-4df3-afd5-5345402554bf" configVersion="13638476f0159d498213a150e26d812b00000000"/>
 		<Metadata name="Subsystem.Покупки.CommandInterface" id="10a5b600-c546-4df3-afd5-5345402554bf.1" configVersion="762b0803036db7448b2f63ac4aeaa16200000000"/>
-		<Metadata name="Subsystem.Покупки.Subsystem.Покупки" id="8858fa7e-f844-445a-9b47-3be609ace23a" configVersion="9e25f830e9c9f34fa766f654b16c7b9d00000000"/>
+		<Metadata name="Subsystem.Покупки.Subsystem.Покупки" id="8858fa7e-f844-445a-9b47-3be609ace23a" configVersion="ad6df60797185d4ea1f5a23ea57d5b8300000000"/>
 		<Metadata name="Subsystem.Покупки.Subsystem.Справочники" id="454bc083-079c-4485-ad12-79ed55ad36d0" configVersion="179769374bd3e149b1e3519031cd904d00000000"/>
 		<Metadata name="Subsystem.Покупки.Subsystem.Справочники.CommandInterface" id="454bc083-079c-4485-ad12-79ed55ad36d0.1" configVersion="d92a69b4d28780498a3430c86315b8c800000000"/>
 		<Metadata name="Subsystem.Продажи" id="870249ff-28b7-4486-a7e5-6d5d3dd842ae" configVersion="71e3a284b27dba4abd5f06d60982073c00000000"/>

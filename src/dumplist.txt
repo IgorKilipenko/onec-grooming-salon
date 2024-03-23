@@ -1,5 +1,1 @@
-﻿New: DataProcessor.ЗагрузкаПрайсЛиста
-New: DataProcessor.ЗагрузкаПрайсЛиста.Form.Форма
-New: DataProcessor.ЗагрузкаПрайсЛиста.Form.Форма.Form
-New: DataProcessor.ЗагрузкаПрайсЛиста.ManagerModule
-Modified: Configuration.ГрумингСалон
+﻿Modified: Subsystem.Покупки.Subsystem.Покупки
