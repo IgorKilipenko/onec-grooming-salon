@@ -237,7 +237,7 @@
 		<Metadata name="CommonPicture.Продажи.Picture" id="719ed3c0-380a-464b-bd71-bef40de04625.0" configVersion="5960b7b254c0e2428f0645d3d5854ed600000000"/>
 		<Metadata name="CommonPicture.Справочники" id="703bb534-6eb6-45dc-83f0-9ac0cfbb7864" configVersion="3c2b8b74f2613d4ea04ecaaf7ce2cfd000000000"/>
 		<Metadata name="CommonPicture.Справочники.Picture" id="703bb534-6eb6-45dc-83f0-9ac0cfbb7864.0" configVersion="50218a0ba61bff438b3326bc6110430c00000000"/>
-		<Metadata name="Configuration.ГрумингСалон" id="bf7fd7f7-d5f2-4af8-987a-4903e6ac7a60" configVersion="45818469ef9e6b458a53b943235ee0fc00000000"/>
+		<Metadata name="Configuration.ГрумингСалон" id="bf7fd7f7-d5f2-4af8-987a-4903e6ac7a60" configVersion="7f4ed3c469ce5c40935a662c51afbac400000000"/>
 		<Metadata name="Configuration.ГрумингСалон.ClientApplicationInterface" id="5b918c7f-f6dd-47f1-8449-205108ad3f01.b" configVersion="4265f2cb7ceaf14fac3bda5d2ce5192c00000000"/>
 		<Metadata name="Configuration.ГрумингСалон.CommandInterface" id="5b918c7f-f6dd-47f1-8449-205108ad3f01.a" configVersion="e7750e0aa01cd642b0ec90b27736520e00000000"/>
 		<Metadata name="Configuration.ГрумингСалон.HomePageWorkArea" id="5b918c7f-f6dd-47f1-8449-205108ad3f01.8" configVersion="bdac3afe1390454b862bb5dfd6b633d600000000"/>
@@ -251,6 +251,14 @@
 		<Metadata name="Constant.ИспользоватьСклады" id="e09ea315-e523-4767-909f-3616479ceee2" configVersion="76ee4bb307e4f4429eb480ccca0828c500000000"/>
 		<Metadata name="Constant.НачалоРабочегоДня" id="e6633fd7-9913-43fc-919c-1c6e375d47fb" configVersion="9e22fbe32573bb4694bb5db4ff77467a00000000"/>
 		<Metadata name="Constant.ОкончаниеРабочегоДня" id="dcefa20a-dc3b-4e1e-b43d-893cc827eabc" configVersion="559ab8dd66b015479a11c6f10e290bb700000000"/>
+		<Metadata name="DataProcessor.ЗагрузкаПрайсЛиста" id="41da872a-a808-4e91-bcfb-792923f0c2be" configVersion="342bf917a11d9642b6985166ac672aa400000000">
+			<Metadata name="DataProcessor.ЗагрузкаПрайсЛиста.Attribute.ДатаПрайсЛиста" id="018bcfb1-930c-4d5b-9aeb-64da313888a7"/>
+			<Metadata name="DataProcessor.ЗагрузкаПрайсЛиста.Attribute.ПрайсЛист" id="b57c6375-8dcc-4ecb-8936-f2387bbd93bc"/>
+			<Metadata name="DataProcessor.ЗагрузкаПрайсЛиста.Attribute.Поставщик" id="f795697e-ee0b-4721-9830-a05b139636d9"/>
+		</Metadata>
+		<Metadata name="DataProcessor.ЗагрузкаПрайсЛиста.Form.Форма" id="a9f91d9c-5d26-48e2-b0be-9d0c35b00cd3" configVersion="ac275e73a680e64a80905e443c52581800000000"/>
+		<Metadata name="DataProcessor.ЗагрузкаПрайсЛиста.Form.Форма.Form" id="a9f91d9c-5d26-48e2-b0be-9d0c35b00cd3.0" configVersion="f33fe4f2188db34282c8a13020e86bd200000000"/>
+		<Metadata name="DataProcessor.ЗагрузкаПрайсЛиста.ManagerModule" id="41da872a-a808-4e91-bcfb-792923f0c2be.2" configVersion="32be81d5a156e44d8d887257116ee65000000000"/>
 		<Metadata name="DataProcessor.МониторРуководителя" id="658acc8f-5448-455a-908b-36b42c6a79eb" configVersion="4ec2e4406e099840a21fed9224425c9600000000"/>
 		<Metadata name="DataProcessor.МониторРуководителя.Form.Форма" id="af2dac3e-4d8e-4b8e-95f0-17efc107c3c1" configVersion="14db7b25d3ece747a8d9183bd7da3a2000000000"/>
 		<Metadata name="DataProcessor.МониторРуководителя.Form.Форма.Form" id="af2dac3e-4d8e-4b8e-95f0-17efc107c3c1.0" configVersion="380f52fb3640cf4d9e8307db11ef309900000000"/>

@@ -1,6 +1,5 @@
-﻿New: Document.УстановкаЦенПоставщика
-New: Document.УстановкаЦенПоставщика.Form.ФормаДокумента
-New: Document.УстановкаЦенПоставщика.Form.ФормаДокумента.Form
-New: Document.УстановкаЦенПоставщика.Form.ФормаСписка
-New: Document.УстановкаЦенПоставщика.Form.ФормаСписка.Form
+﻿New: DataProcessor.ЗагрузкаПрайсЛиста
+New: DataProcessor.ЗагрузкаПрайсЛиста.Form.Форма
+New: DataProcessor.ЗагрузкаПрайсЛиста.Form.Форма.Form
+New: DataProcessor.ЗагрузкаПрайсЛиста.ManagerModule
 Modified: Configuration.ГрумингСалон

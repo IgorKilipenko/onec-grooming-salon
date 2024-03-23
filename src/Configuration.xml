@@ -356,6 +356,7 @@
 			<Report>ОтчетПоНачислениюЗарплаты</Report>
 			<DataProcessor>МониторРуководителя</DataProcessor>
 			<DataProcessor>ПланированиеЗагрузкиСотрудников</DataProcessor>
+			<DataProcessor>ЗагрузкаПрайсЛиста</DataProcessor>
 			<InformationRegister>ЦеныНоменклатуры</InformationRegister>
 			<InformationRegister>УчетнаяПолитика</InformationRegister>
 			<InformationRegister>ГрафикиРаботыПредприятия</InformationRegister>
