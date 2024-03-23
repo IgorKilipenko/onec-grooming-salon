@@ -527,27 +527,30 @@
 									<ContextMenu name="ДекорацияВалютаЗаголовокКонтекстноеМеню" id="91"/>
 									<ExtendedTooltip name="ДекорацияВалютаЗаголовокРасширеннаяПодсказка" id="92"/>
 								</LabelDecoration>
-								<LabelField name="ВалютаДоллар" id="93">
-									<DataPath>ВалютаДоллар</DataPath>
+								<LabelField name="КурсДоллара" id="93">
+									<DataPath>КурсДоллара</DataPath>
 									<ReadOnly>true</ReadOnly>
 									<TitleTextColor>style:AccentColor</TitleTextColor>
 									<TitleFont ref="style:NormalTextFont" bold="true" italic="false" underline="false" strikeout="false" kind="StyleItem" scale="100"/>
-									<ContextMenu name="ВалютаДолларКонтекстноеМеню" id="94"/>
-									<ExtendedTooltip name="ВалютаДолларРасширеннаяПодсказка" id="95"/>
+									<HorizontalAlign>Left</HorizontalAlign>
+									<ContextMenu name="КурсДоллараКонтекстноеМеню" id="94"/>
+									<ExtendedTooltip name="КурсДоллараРасширеннаяПодсказка" id="95"/>
 								</LabelField>
-								<LabelField name="ВалютаЕвро" id="96">
-									<DataPath>ВалютаЕвро</DataPath>
+								<LabelField name="КурсЕвро" id="96">
+									<DataPath>КурсЕвро</DataPath>
 									<TitleTextColor>style:AccentColor</TitleTextColor>
 									<TitleFont ref="style:NormalTextFont" bold="true" italic="false" underline="false" strikeout="false" kind="StyleItem" scale="100"/>
-									<ContextMenu name="ВалютаЕвроКонтекстноеМеню" id="97"/>
-									<ExtendedTooltip name="ВалютаЕвроРасширеннаяПодсказка" id="98"/>
+									<HorizontalAlign>Left</HorizontalAlign>
+									<ContextMenu name="КурсЕвроКонтекстноеМеню" id="97"/>
+									<ExtendedTooltip name="КурсЕвроРасширеннаяПодсказка" id="98"/>
 								</LabelField>
-								<LabelField name="ВалютаТенге" id="99">
-									<DataPath>ВалютаТенге</DataPath>
+								<LabelField name="КурсТенге" id="99">
+									<DataPath>КурсТенге</DataPath>
 									<TitleTextColor>style:AccentColor</TitleTextColor>
 									<TitleFont ref="style:NormalTextFont" bold="true" italic="false" underline="false" strikeout="false" kind="StyleItem" scale="100"/>
-									<ContextMenu name="ВалютаТенгеКонтекстноеМеню" id="100"/>
-									<ExtendedTooltip name="ВалютаТенгеРасширеннаяПодсказка" id="101"/>
+									<HorizontalAlign>Left</HorizontalAlign>
+									<ContextMenu name="КурсТенгеКонтекстноеМеню" id="100"/>
+									<ExtendedTooltip name="КурсТенгеРасширеннаяПодсказка" id="101"/>
 								</LabelField>
 							</ChildItems>
 						</UsualGroup>
@@ -1286,7 +1289,7 @@
 				</v8:StringQualifiers>
 			</Type>
 		</Attribute>
-		<Attribute name="ВалютаДоллар" id="18">
+		<Attribute name="КурсДоллара" id="18">
 			<Title>
 				<v8:item>
 					<v8:lang>ru</v8:lang>
@@ -1296,13 +1299,13 @@
 			<Type>
 				<v8:Type>xs:decimal</v8:Type>
 				<v8:NumberQualifiers>
-					<v8:Digits>5</v8:Digits>
+					<v8:Digits>10</v8:Digits>
 					<v8:FractionDigits>4</v8:FractionDigits>
 					<v8:AllowedSign>Any</v8:AllowedSign>
 				</v8:NumberQualifiers>
 			</Type>
 		</Attribute>
-		<Attribute name="ВалютаЕвро" id="19">
+		<Attribute name="КурсЕвро" id="19">
 			<Title>
 				<v8:item>
 					<v8:lang>ru</v8:lang>
@@ -1312,13 +1315,13 @@
 			<Type>
 				<v8:Type>xs:decimal</v8:Type>
 				<v8:NumberQualifiers>
-					<v8:Digits>5</v8:Digits>
+					<v8:Digits>10</v8:Digits>
 					<v8:FractionDigits>4</v8:FractionDigits>
 					<v8:AllowedSign>Any</v8:AllowedSign>
 				</v8:NumberQualifiers>
 			</Type>
 		</Attribute>
-		<Attribute name="ВалютаТенге" id="20">
+		<Attribute name="КурсТенге" id="20">
 			<Title>
 				<v8:item>
 					<v8:lang>ru</v8:lang>
@@ -1328,7 +1331,7 @@
 			<Type>
 				<v8:Type>xs:decimal</v8:Type>
 				<v8:NumberQualifiers>
-					<v8:Digits>5</v8:Digits>
+					<v8:Digits>10</v8:Digits>
 					<v8:FractionDigits>4</v8:FractionDigits>
 					<v8:AllowedSign>Any</v8:AllowedSign>
 				</v8:NumberQualifiers>

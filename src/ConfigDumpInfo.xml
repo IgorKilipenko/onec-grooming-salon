@@ -248,10 +248,10 @@
 		<Metadata name="Constant.ИспользоватьСклады" id="e09ea315-e523-4767-909f-3616479ceee2" configVersion="76ee4bb307e4f4429eb480ccca0828c500000000"/>
 		<Metadata name="Constant.НачалоРабочегоДня" id="e6633fd7-9913-43fc-919c-1c6e375d47fb" configVersion="9e22fbe32573bb4694bb5db4ff77467a00000000"/>
 		<Metadata name="Constant.ОкончаниеРабочегоДня" id="dcefa20a-dc3b-4e1e-b43d-893cc827eabc" configVersion="559ab8dd66b015479a11c6f10e290bb700000000"/>
-		<Metadata name="DataProcessor.МониторРуководителя" id="658acc8f-5448-455a-908b-36b42c6a79eb" configVersion="e52b0da1c03f2446b36264b61cbb098100000000"/>
-		<Metadata name="DataProcessor.МониторРуководителя.Form.Форма" id="af2dac3e-4d8e-4b8e-95f0-17efc107c3c1" configVersion="35d8d6ac299f9143a43d44a16526933400000000"/>
-		<Metadata name="DataProcessor.МониторРуководителя.Form.Форма.Form" id="af2dac3e-4d8e-4b8e-95f0-17efc107c3c1.0" configVersion="d67b1f3e717cc24097b141591ed9e79400000000"/>
-		<Metadata name="DataProcessor.МониторРуководителя.ManagerModule" id="658acc8f-5448-455a-908b-36b42c6a79eb.2" configVersion="ee23a51281808442a88f0b6db60baa2e00000000"/>
+		<Metadata name="DataProcessor.МониторРуководителя" id="658acc8f-5448-455a-908b-36b42c6a79eb" configVersion="4ec2e4406e099840a21fed9224425c9600000000"/>
+		<Metadata name="DataProcessor.МониторРуководителя.Form.Форма" id="af2dac3e-4d8e-4b8e-95f0-17efc107c3c1" configVersion="14db7b25d3ece747a8d9183bd7da3a2000000000"/>
+		<Metadata name="DataProcessor.МониторРуководителя.Form.Форма.Form" id="af2dac3e-4d8e-4b8e-95f0-17efc107c3c1.0" configVersion="380f52fb3640cf4d9e8307db11ef309900000000"/>
+		<Metadata name="DataProcessor.МониторРуководителя.ManagerModule" id="658acc8f-5448-455a-908b-36b42c6a79eb.2" configVersion="33b8002bcdfd3242bc024a02fa17dd9700000000"/>
 		<Metadata name="DataProcessor.ПланированиеЗагрузкиСотрудников" id="3978029f-32ac-4a68-90b5-65a78010b576" configVersion="0557b3097cec6742a2ac24fe6c3bbe6f00000000"/>
 		<Metadata name="DataProcessor.ПланированиеЗагрузкиСотрудников.Form.Форма" id="445c7a4a-ee8c-4a79-a40b-63911b4b2c33" configVersion="e1e36a17954cf8419849e6122237035a00000000"/>
 		<Metadata name="DataProcessor.ПланированиеЗагрузкиСотрудников.Form.Форма.Form" id="445c7a4a-ee8c-4a79-a40b-63911b4b2c33.0" configVersion="8125d42d1ccab144b75957285fae8f9d00000000"/>
