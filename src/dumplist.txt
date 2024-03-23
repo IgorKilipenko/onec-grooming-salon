@@ -1,3 +1,3 @@
-﻿New: CommonModule.ПреобразованиеТиповКлиентСервер
-New: CommonModule.ПреобразованиеТиповКлиентСервер.Module
-Modified: Configuration.ГрумингСалон
+﻿Modified: Catalog.Номенклатура
+Modified: Catalog.Номенклатура.Form.ФормаЭлемента
+Modified: Catalog.Номенклатура.Form.ФормаЭлемента.Form
