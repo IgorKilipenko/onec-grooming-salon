@@ -1,3 +1,6 @@
-﻿Modified: Catalog.Номенклатура
-Modified: Catalog.Номенклатура.Form.ФормаЭлемента
-Modified: Catalog.Номенклатура.Form.ФормаЭлемента.Form
+﻿New: Document.УстановкаЦенПоставщика
+New: Document.УстановкаЦенПоставщика.Form.ФормаДокумента
+New: Document.УстановкаЦенПоставщика.Form.ФормаДокумента.Form
+New: Document.УстановкаЦенПоставщика.Form.ФормаСписка
+New: Document.УстановкаЦенПоставщика.Form.ФормаСписка.Form
+Modified: Configuration.ГрумингСалон

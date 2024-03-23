@@ -327,6 +327,7 @@
 			<Document>НачислениеЗарплаты</Document>
 			<Document>БольничныйЛист</Document>
 			<Document>НачислениеПремии</Document>
+			<Document>УстановкаЦенПоставщика</Document>
 			<DocumentJournal>ДокументыПоКассе</DocumentJournal>
 			<DocumentJournal>ДокументыПоБанку</DocumentJournal>
 			<DocumentJournal>ЖурналХозяйственныхОпераций</DocumentJournal>
