@@ -279,6 +279,7 @@
 			<CommonModule>РаботаСМетаданными</CommonModule>
 			<CommonModule>БухгалтерскийУчет</CommonModule>
 			<CommonModule>РаботаСКоллекциямиКлиентСервер</CommonModule>
+			<CommonModule>ПреобразованиеТиповКлиентСервер</CommonModule>
 			<FunctionalOption>ИспользоватьСклады</FunctionalOption>
 			<DefinedType>ФинансовыеДанные</DefinedType>
 			<DefinedType>КоличествоТоваров</DefinedType>
