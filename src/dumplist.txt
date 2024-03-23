@@ -1,4 +1,6 @@
-﻿New: InformationRegister.ЦеныНоменклатурыПоставщиков
-New: InformationRegister.ЦеныНоменклатурыПоставщиков.ManagerModule
-Modified: Configuration.ГрумингСалон
+﻿New: Document.УстановкаЦенПоставщика.ManagerModule
 Modified: Document.УстановкаЦенПоставщика
+Modified: Document.УстановкаЦенПоставщика.Form.ФормаДокумента
+Modified: Document.УстановкаЦенПоставщика.Form.ФормаДокумента.Form
+Modified: Document.УстановкаЦенПоставщика.Form.ФормаСписка
+Modified: Document.УстановкаЦенПоставщика.Form.ФормаСписка.Form
