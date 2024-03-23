@@ -1,2 +1,4 @@
-﻿Modified: DataProcessor.МониторРуководителя.Form.Форма
+﻿New: DataProcessor.МониторРуководителя.ManagerModule
+Modified: DataProcessor.МониторРуководителя
+Modified: DataProcessor.МониторРуководителя.Form.Форма
 Modified: DataProcessor.МониторРуководителя.Form.Форма.Form
