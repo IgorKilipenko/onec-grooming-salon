@@ -237,7 +237,7 @@
 		<Metadata name="CommonPicture.Продажи.Picture" id="719ed3c0-380a-464b-bd71-bef40de04625.0" configVersion="5960b7b254c0e2428f0645d3d5854ed600000000"/>
 		<Metadata name="CommonPicture.Справочники" id="703bb534-6eb6-45dc-83f0-9ac0cfbb7864" configVersion="3c2b8b74f2613d4ea04ecaaf7ce2cfd000000000"/>
 		<Metadata name="CommonPicture.Справочники.Picture" id="703bb534-6eb6-45dc-83f0-9ac0cfbb7864.0" configVersion="50218a0ba61bff438b3326bc6110430c00000000"/>
-		<Metadata name="Configuration.ГрумингСалон" id="bf7fd7f7-d5f2-4af8-987a-4903e6ac7a60" configVersion="7f4ed3c469ce5c40935a662c51afbac400000000"/>
+		<Metadata name="Configuration.ГрумингСалон" id="bf7fd7f7-d5f2-4af8-987a-4903e6ac7a60" configVersion="a3bd71131369ee41bd862d3c473b25e000000000"/>
 		<Metadata name="Configuration.ГрумингСалон.ClientApplicationInterface" id="5b918c7f-f6dd-47f1-8449-205108ad3f01.b" configVersion="4265f2cb7ceaf14fac3bda5d2ce5192c00000000"/>
 		<Metadata name="Configuration.ГрумингСалон.CommandInterface" id="5b918c7f-f6dd-47f1-8449-205108ad3f01.a" configVersion="e7750e0aa01cd642b0ec90b27736520e00000000"/>
 		<Metadata name="Configuration.ГрумингСалон.HomePageWorkArea" id="5b918c7f-f6dd-47f1-8449-205108ad3f01.8" configVersion="bdac3afe1390454b862bb5dfd6b633d600000000"/>
@@ -483,7 +483,7 @@
 		<Metadata name="Document.УстановкаУчетнойПолитикиОрганизации.Form.ФормаДокумента" id="cf499439-ea3b-454f-bc6d-437b2a0a2cae" configVersion="95c32b5b5ac456458371092e782fb16400000000"/>
 		<Metadata name="Document.УстановкаУчетнойПолитикиОрганизации.Form.ФормаДокумента.Form" id="cf499439-ea3b-454f-bc6d-437b2a0a2cae.0" configVersion="7caacad51df3a644b8c9e431d9a0bef900000000"/>
 		<Metadata name="Document.УстановкаУчетнойПолитикиОрганизации.ObjectModule" id="000fa55b-c68c-42c0-b2be-cccd03d8693f.0" configVersion="165219709f0cce42a2ce288effd849dc00000000"/>
-		<Metadata name="Document.УстановкаЦенПоставщика" id="54181aab-99b5-4811-9bd9-475221464ec5" configVersion="2585fa6f4a2b2c4bb004ebae7939729e00000000">
+		<Metadata name="Document.УстановкаЦенПоставщика" id="54181aab-99b5-4811-9bd9-475221464ec5" configVersion="a35c40cc61880e4d867ae45b7574469000000000">
 			<Metadata name="Document.УстановкаЦенПоставщика.TabularSection.Товары" id="1407374f-9cb3-4bc1-ada3-b69ad173011d"/>
 			<Metadata name="Document.УстановкаЦенПоставщика.Attribute.АвторДокумента" id="3637d1c1-87aa-435d-9437-6442110daa1c"/>
 			<Metadata name="Document.УстановкаЦенПоставщика.Attribute.Комментарий" id="5ed7daa0-d705-498f-b5b6-bd8f406f660a"/>
@@ -626,6 +626,12 @@
 		<Metadata name="InformationRegister.ЦеныНоменклатуры.Form.ФормаЗаписи.Form" id="c2a45498-ed9e-4ced-bc2d-2438928c72c2.0" configVersion="366e26006741894494896d737d331d7800000000"/>
 		<Metadata name="InformationRegister.ЦеныНоменклатуры.Form.ФормаСписка" id="bf6103b0-a4c6-469a-b0b4-7a91b0eab483" configVersion="6d1ae80da503c14d97582a2fb51ff57b00000000"/>
 		<Metadata name="InformationRegister.ЦеныНоменклатуры.Form.ФормаСписка.Form" id="bf6103b0-a4c6-469a-b0b4-7a91b0eab483.0" configVersion="144a48fe4f7b524ca404a2146ec5a45600000000"/>
+		<Metadata name="InformationRegister.ЦеныНоменклатурыПоставщиков" id="cb8f0697-c507-4815-aba5-58494362be26" configVersion="37111e562b99e74787d8c94b6a8bdeec00000000">
+			<Metadata name="InformationRegister.ЦеныНоменклатурыПоставщиков.Resource.Цена" id="b1a335ed-0de0-47e7-afc9-871bc7259af4"/>
+			<Metadata name="InformationRegister.ЦеныНоменклатурыПоставщиков.Dimension.Номенклатура" id="c354d18a-ddda-47e2-8c20-7cb35f902390"/>
+			<Metadata name="InformationRegister.ЦеныНоменклатурыПоставщиков.Dimension.Поставщик" id="ff3fd26b-6e09-4cda-9706-7c53a06eb64b"/>
+		</Metadata>
+		<Metadata name="InformationRegister.ЦеныНоменклатурыПоставщиков.ManagerModule" id="cb8f0697-c507-4815-aba5-58494362be26.2" configVersion="258181a5b612f3409dff6463e276b81b00000000"/>
 		<Metadata name="Language.Русский" id="f8b7a135-85ba-485d-bb43-041618aadaf7" configVersion="596bf6fab59d8c47b4836edbb53adfba00000000"/>
 		<Metadata name="Report.ОборотноСальдоваяВедомость" id="52e2cb5c-8a97-494c-98c4-8ded67254608" configVersion="de32a6d4bd3068429b3f4b58845df7c700000000"/>
 		<Metadata name="Report.ОборотноСальдоваяВедомость.Template.ОсновнаяСхемаКомпоновкиДанных" id="18bcaa4a-4a33-4c20-b509-cb5ad888f197" configVersion="207de42e25637e4b90352868c89b033f00000000"/>

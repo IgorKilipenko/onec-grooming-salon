@@ -1,1 +1,4 @@
-﻿Modified: Subsystem.Покупки.Subsystem.Покупки
+﻿New: InformationRegister.ЦеныНоменклатурыПоставщиков
+New: InformationRegister.ЦеныНоменклатурыПоставщиков.ManagerModule
+Modified: Configuration.ГрумингСалон
+Modified: Document.УстановкаЦенПоставщика

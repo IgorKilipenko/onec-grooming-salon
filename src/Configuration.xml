@@ -361,6 +361,7 @@
 			<InformationRegister>УчетнаяПолитика</InformationRegister>
 			<InformationRegister>ГрафикиРаботыПредприятия</InformationRegister>
 			<InformationRegister>КадроваяИсторияСотрудников</InformationRegister>
+			<InformationRegister>ЦеныНоменклатурыПоставщиков</InformationRegister>
 			<AccumulationRegister>Продажи</AccumulationRegister>
 			<AccumulationRegister>ТоварыНаСкладах</AccumulationRegister>
 			<AccumulationRegister>ЗаказыКлиентов</AccumulationRegister>
