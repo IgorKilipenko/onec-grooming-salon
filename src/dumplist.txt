@@ -1,6 +1,5 @@
-﻿New: Document.УстановкаЦенПоставщика.ManagerModule
-Modified: Document.УстановкаЦенПоставщика
-Modified: Document.УстановкаЦенПоставщика.Form.ФормаДокумента
-Modified: Document.УстановкаЦенПоставщика.Form.ФормаДокумента.Form
-Modified: Document.УстановкаЦенПоставщика.Form.ФормаСписка
-Modified: Document.УстановкаЦенПоставщика.Form.ФормаСписка.Form
+﻿New: CommonModule.РаботаСФормамиКлиент
+New: CommonModule.РаботаСФормамиКлиент.Module
+New: CommonModule.ФормыКонфигурацииКлиент
+New: CommonModule.ФормыКонфигурацииКлиент.Module
+Modified: Configuration.ГрумингСалон
