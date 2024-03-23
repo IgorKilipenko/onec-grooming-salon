@@ -1,3 +1,4 @@
-﻿New: Constant.API_KEY_newsapi
-Modified: Configuration.ГрумингСалон
-Modified: Subsystem.Настройки.Subsystem.Сервис
+﻿Modified: DataProcessor.МониторРуководителя
+Modified: DataProcessor.МониторРуководителя.Form.Форма
+Modified: DataProcessor.МониторРуководителя.Form.Форма.Form
+Modified: DataProcessor.МониторРуководителя.ManagerModule

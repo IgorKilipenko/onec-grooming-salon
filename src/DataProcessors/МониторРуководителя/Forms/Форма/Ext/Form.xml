@@ -415,38 +415,6 @@
 											<ContextMenu name="НовостиКоличествоКонтекстноеМеню" id="71"/>
 											<ExtendedTooltip name="НовостиКоличествоРасширеннаяПодсказка" id="72"/>
 										</InputField>
-									</ChildItems>
-								</UsualGroup>
-								<UsualGroup name="ГруппаПоиск" id="81">
-									<Title>
-										<v8:item>
-											<v8:lang>ru</v8:lang>
-											<v8:content>Группа поиск</v8:content>
-										</v8:item>
-									</Title>
-									<ToolTip>
-										<v8:item>
-											<v8:lang>ru</v8:lang>
-											<v8:content>Группа поиск</v8:content>
-										</v8:item>
-									</ToolTip>
-									<Group>AlwaysHorizontal</Group>
-									<ShowTitle>false</ShowTitle>
-									<ExtendedTooltip name="ГруппаПоискРасширеннаяПодсказка" id="82"/>
-									<ChildItems>
-										<InputField name="НовостиСтрокаПоиска" id="73">
-											<DataPath>НовостиСтрокаПоиска</DataPath>
-											<Title>
-												<v8:item>
-													<v8:lang>ru</v8:lang>
-													<v8:content>Строка поиска</v8:content>
-												</v8:item>
-											</Title>
-											<TitleLocation>Top</TitleLocation>
-											<ExtendedEditMultipleValues>true</ExtendedEditMultipleValues>
-											<ContextMenu name="НовостиСтрокаПоискаКонтекстноеМеню" id="74"/>
-											<ExtendedTooltip name="НовостиСтрокаПоискаРасширеннаяПодсказка" id="75"/>
-										</InputField>
 										<RadioButtonField name="НовостиЯзыкПоиска" id="76">
 											<DataPath>НовостиЯзыкПоиска</DataPath>
 											<Title>
@@ -455,7 +423,6 @@
 													<v8:content>Язык поиска</v8:content>
 												</v8:item>
 											</Title>
-											<TitleLocation>Top</TitleLocation>
 											<RadioButtonType>Tumbler</RadioButtonType>
 											<ChoiceList>
 												<xr:Item>
@@ -488,6 +455,38 @@
 											<ContextMenu name="НовостиЯзыкПоискаКонтекстноеМеню" id="77"/>
 											<ExtendedTooltip name="НовостиЯзыкПоискаРасширеннаяПодсказка" id="78"/>
 										</RadioButtonField>
+									</ChildItems>
+								</UsualGroup>
+								<UsualGroup name="ГруппаПоиск" id="81">
+									<Title>
+										<v8:item>
+											<v8:lang>ru</v8:lang>
+											<v8:content>Группа поиск</v8:content>
+										</v8:item>
+									</Title>
+									<ToolTip>
+										<v8:item>
+											<v8:lang>ru</v8:lang>
+											<v8:content>Группа поиск</v8:content>
+										</v8:item>
+									</ToolTip>
+									<Group>AlwaysHorizontal</Group>
+									<ShowTitle>false</ShowTitle>
+									<ExtendedTooltip name="ГруппаПоискРасширеннаяПодсказка" id="82"/>
+									<ChildItems>
+										<InputField name="НовостиСтрокаПоиска" id="73">
+											<DataPath>НовостиСтрокаПоиска</DataPath>
+											<Title>
+												<v8:item>
+													<v8:lang>ru</v8:lang>
+													<v8:content>Строка поиска</v8:content>
+												</v8:item>
+											</Title>
+											<TitleLocation>Top</TitleLocation>
+											<ExtendedEditMultipleValues>true</ExtendedEditMultipleValues>
+											<ContextMenu name="НовостиСтрокаПоискаКонтекстноеМеню" id="74"/>
+											<ExtendedTooltip name="НовостиСтрокаПоискаРасширеннаяПодсказка" id="75"/>
+										</InputField>
 									</ChildItems>
 								</UsualGroup>
 							</ChildItems>
