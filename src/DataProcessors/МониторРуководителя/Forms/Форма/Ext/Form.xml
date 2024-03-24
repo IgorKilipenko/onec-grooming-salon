@@ -532,7 +532,8 @@
 									<ReadOnly>true</ReadOnly>
 									<TitleTextColor>style:AccentColor</TitleTextColor>
 									<TitleFont ref="style:NormalTextFont" bold="true" italic="false" underline="false" strikeout="false" kind="StyleItem" scale="100"/>
-									<HorizontalAlign>Left</HorizontalAlign>
+									<HorizontalAlign>Center</HorizontalAlign>
+									<Font ref="style:NormalTextFont" bold="true" italic="false" underline="false" strikeout="false" kind="StyleItem" scale="100"/>
 									<ContextMenu name="КурсДоллараКонтекстноеМеню" id="94"/>
 									<ExtendedTooltip name="КурсДоллараРасширеннаяПодсказка" id="95"/>
 								</LabelField>
@@ -540,7 +541,8 @@
 									<DataPath>КурсЕвро</DataPath>
 									<TitleTextColor>style:AccentColor</TitleTextColor>
 									<TitleFont ref="style:NormalTextFont" bold="true" italic="false" underline="false" strikeout="false" kind="StyleItem" scale="100"/>
-									<HorizontalAlign>Left</HorizontalAlign>
+									<HorizontalAlign>Center</HorizontalAlign>
+									<Font ref="style:NormalTextFont" bold="true" italic="false" underline="false" strikeout="false" kind="StyleItem" scale="100"/>
 									<ContextMenu name="КурсЕвроКонтекстноеМеню" id="97"/>
 									<ExtendedTooltip name="КурсЕвроРасширеннаяПодсказка" id="98"/>
 								</LabelField>
@@ -548,7 +550,8 @@
 									<DataPath>КурсТенге</DataPath>
 									<TitleTextColor>style:AccentColor</TitleTextColor>
 									<TitleFont ref="style:NormalTextFont" bold="true" italic="false" underline="false" strikeout="false" kind="StyleItem" scale="100"/>
-									<HorizontalAlign>Left</HorizontalAlign>
+									<HorizontalAlign>Center</HorizontalAlign>
+									<Font ref="style:NormalTextFont" bold="true" italic="false" underline="false" strikeout="false" kind="StyleItem" scale="100"/>
 									<ContextMenu name="КурсТенгеКонтекстноеМеню" id="100"/>
 									<ExtendedTooltip name="КурсТенгеРасширеннаяПодсказка" id="101"/>
 								</LabelField>
