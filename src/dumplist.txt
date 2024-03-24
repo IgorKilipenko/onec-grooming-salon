@@ -1,2 +1,2 @@
-﻿New: Document.УстановкаЦенПоставщика.ObjectModule
-Modified: Document.УстановкаЦенПоставщика
+﻿Modified: CommonModule.РаботаСФормамиКлиент
+Modified: CommonModule.РаботаСФормамиКлиент.Module
