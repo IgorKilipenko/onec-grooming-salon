@@ -1,1 +1,2 @@
-﻿Modified: Document.УстановкаЦенПоставщика
+﻿Modified: Catalog.Номенклатура.Form.ФормаСписка
+Modified: Catalog.Номенклатура.Form.ФормаСписка.Form

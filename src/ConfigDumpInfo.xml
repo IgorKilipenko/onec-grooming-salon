@@ -115,8 +115,8 @@
 		</Metadata>
 		<Metadata name="Catalog.Номенклатура.Form.ФормаСозданияЦены" id="dfe408bf-f65c-4f65-8897-41b3662a0025" configVersion="4dd88f69ca165847bfa2cbd65f3eaaed00000000"/>
 		<Metadata name="Catalog.Номенклатура.Form.ФормаСозданияЦены.Form" id="dfe408bf-f65c-4f65-8897-41b3662a0025.0" configVersion="94ac29671abc1142b632e0b0bf23ad4700000000"/>
-		<Metadata name="Catalog.Номенклатура.Form.ФормаСписка" id="8c434b28-168d-4a83-a93b-b32511636763" configVersion="b91fe18cadbe6c4cbf6b35f65c0e251800000000"/>
-		<Metadata name="Catalog.Номенклатура.Form.ФормаСписка.Form" id="8c434b28-168d-4a83-a93b-b32511636763.0" configVersion="e39fff0aa4f7a344b837ba28114dce5a00000000"/>
+		<Metadata name="Catalog.Номенклатура.Form.ФормаСписка" id="8c434b28-168d-4a83-a93b-b32511636763" configVersion="9d6216c7263b464097ab1ed3942ae73700000000"/>
+		<Metadata name="Catalog.Номенклатура.Form.ФормаСписка.Form" id="8c434b28-168d-4a83-a93b-b32511636763.0" configVersion="1324c93010ca73449ea52ee7004d025800000000"/>
 		<Metadata name="Catalog.Номенклатура.Form.ФормаЭлемента" id="43bf0d26-9423-41f8-9b4f-55081b07d4bc" configVersion="c9a27a40dccfe34690c0197d910ca6f900000000"/>
 		<Metadata name="Catalog.Номенклатура.Form.ФормаЭлемента.Form" id="43bf0d26-9423-41f8-9b4f-55081b07d4bc.0" configVersion="5f37b6ebdd801e4897674880fe33f73700000000"/>
 		<Metadata name="Catalog.Номенклатура.ManagerModule" id="ddac927d-70e8-4179-ade5-db76d310c772.3" configVersion="c116f3602185644598d802fa9c95295e00000000"/>
