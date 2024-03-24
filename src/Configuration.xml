@@ -49,7 +49,7 @@
 			<ScriptVariant>Russian</ScriptVariant>
 			<DefaultRoles/>
 			<Vendor>Игорь Килипенко</Vendor>
-			<Version>Спринт 7</Version>
+			<Version>Спринт 8</Version>
 			<UpdateCatalogAddress/>
 			<IncludeHelpInContents>false</IncludeHelpInContents>
 			<UseManagedFormInOrdinaryApplication>false</UseManagedFormInOrdinaryApplication>
@@ -279,6 +279,9 @@
 			<CommonModule>РаботаСМетаданными</CommonModule>
 			<CommonModule>БухгалтерскийУчет</CommonModule>
 			<CommonModule>РаботаСКоллекциямиКлиентСервер</CommonModule>
+			<CommonModule>ПреобразованиеТиповКлиентСервер</CommonModule>
+			<CommonModule>ФормыКонфигурацииКлиент</CommonModule>
+			<CommonModule>РаботаСФормамиКлиент</CommonModule>
 			<FunctionalOption>ИспользоватьСклады</FunctionalOption>
 			<DefinedType>ФинансовыеДанные</DefinedType>
 			<DefinedType>КоличествоТоваров</DefinedType>
@@ -296,6 +299,7 @@
 			<Constant>ЗапретПроведенияПриОтрицательныхОстатках</Constant>
 			<Constant>НачалоРабочегоДня</Constant>
 			<Constant>ОкончаниеРабочегоДня</Constant>
+			<Constant>API_KEY_newsapi</Constant>
 			<Catalog>Должности</Catalog>
 			<Catalog>Сотрудники</Catalog>
 			<Catalog>Номенклатура</Catalog>
@@ -325,6 +329,7 @@
 			<Document>НачислениеЗарплаты</Document>
 			<Document>БольничныйЛист</Document>
 			<Document>НачислениеПремии</Document>
+			<Document>УстановкаЦенПоставщика</Document>
 			<DocumentJournal>ДокументыПоКассе</DocumentJournal>
 			<DocumentJournal>ДокументыПоБанку</DocumentJournal>
 			<DocumentJournal>ЖурналХозяйственныхОпераций</DocumentJournal>
@@ -353,10 +358,12 @@
 			<Report>ОтчетПоНачислениюЗарплаты</Report>
 			<DataProcessor>МониторРуководителя</DataProcessor>
 			<DataProcessor>ПланированиеЗагрузкиСотрудников</DataProcessor>
+			<DataProcessor>ЗагрузкаПрайсЛиста</DataProcessor>
 			<InformationRegister>ЦеныНоменклатуры</InformationRegister>
 			<InformationRegister>УчетнаяПолитика</InformationRegister>
 			<InformationRegister>ГрафикиРаботыПредприятия</InformationRegister>
 			<InformationRegister>КадроваяИсторияСотрудников</InformationRegister>
+			<InformationRegister>ЦеныНоменклатурыПоставщиков</InformationRegister>
 			<AccumulationRegister>Продажи</AccumulationRegister>
 			<AccumulationRegister>ТоварыНаСкладах</AccumulationRegister>
 			<AccumulationRegister>ЗаказыКлиентов</AccumulationRegister>
