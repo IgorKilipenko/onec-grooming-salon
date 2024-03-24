@@ -632,12 +632,12 @@
 		<Metadata name="InformationRegister.ЦеныНоменклатуры.Form.ФормаЗаписи.Form" id="c2a45498-ed9e-4ced-bc2d-2438928c72c2.0" configVersion="366e26006741894494896d737d331d7800000000"/>
 		<Metadata name="InformationRegister.ЦеныНоменклатуры.Form.ФормаСписка" id="bf6103b0-a4c6-469a-b0b4-7a91b0eab483" configVersion="6d1ae80da503c14d97582a2fb51ff57b00000000"/>
 		<Metadata name="InformationRegister.ЦеныНоменклатуры.Form.ФормаСписка.Form" id="bf6103b0-a4c6-469a-b0b4-7a91b0eab483.0" configVersion="144a48fe4f7b524ca404a2146ec5a45600000000"/>
-		<Metadata name="InformationRegister.ЦеныНоменклатурыПоставщиков" id="cb8f0697-c507-4815-aba5-58494362be26" configVersion="1c7d7173793f5b44b62cde4cca26827b00000000">
+		<Metadata name="InformationRegister.ЦеныНоменклатурыПоставщиков" id="cb8f0697-c507-4815-aba5-58494362be26" configVersion="039a9be8332d3e428b0e030d471c089600000000">
 			<Metadata name="InformationRegister.ЦеныНоменклатурыПоставщиков.Resource.Цена" id="b1a335ed-0de0-47e7-afc9-871bc7259af4"/>
 			<Metadata name="InformationRegister.ЦеныНоменклатурыПоставщиков.Dimension.Номенклатура" id="c354d18a-ddda-47e2-8c20-7cb35f902390"/>
 			<Metadata name="InformationRegister.ЦеныНоменклатурыПоставщиков.Dimension.Поставщик" id="ff3fd26b-6e09-4cda-9706-7c53a06eb64b"/>
 		</Metadata>
-		<Metadata name="InformationRegister.ЦеныНоменклатурыПоставщиков.ManagerModule" id="cb8f0697-c507-4815-aba5-58494362be26.2" configVersion="2a59b63e76918e4c90e84d6b8b4a737b00000000"/>
+		<Metadata name="InformationRegister.ЦеныНоменклатурыПоставщиков.ManagerModule" id="cb8f0697-c507-4815-aba5-58494362be26.2" configVersion="8cb2d03fdd09794cace0591076bd934600000000"/>
 		<Metadata name="Language.Русский" id="f8b7a135-85ba-485d-bb43-041618aadaf7" configVersion="596bf6fab59d8c47b4836edbb53adfba00000000"/>
 		<Metadata name="Report.ОборотноСальдоваяВедомость" id="52e2cb5c-8a97-494c-98c4-8ded67254608" configVersion="de32a6d4bd3068429b3f4b58845df7c700000000"/>
 		<Metadata name="Report.ОборотноСальдоваяВедомость.Template.ОсновнаяСхемаКомпоновкиДанных" id="18bcaa4a-4a33-4c20-b509-cb5ad888f197" configVersion="207de42e25637e4b90352868c89b033f00000000"/>

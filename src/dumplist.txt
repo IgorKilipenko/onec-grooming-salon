@@ -1,2 +1,2 @@
-﻿Modified: Document.УстановкаЦенПоставщика
-Modified: Document.УстановкаЦенПоставщика.ObjectModule
+﻿Modified: InformationRegister.ЦеныНоменклатурыПоставщиков
+Modified: InformationRegister.ЦеныНоменклатурыПоставщиков.ManagerModule
