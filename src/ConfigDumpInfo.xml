@@ -215,8 +215,8 @@
 		<Metadata name="CommonModule.РаботаСМетаданными.Module" id="5696cc80-925e-41fd-bdce-3f1954f5c698.0" configVersion="ee52c56e5c66cb4d9bd4aa9eae70fc7400000000"/>
 		<Metadata name="CommonModule.РаботаСРеквизитами" id="21d801c8-3472-4666-a3c2-5fee28631005" configVersion="186951fd498427418a6a45947de3843d00000000"/>
 		<Metadata name="CommonModule.РаботаСРеквизитами.Module" id="21d801c8-3472-4666-a3c2-5fee28631005.0" configVersion="6beced4a6e54d84a841a890f380365a400000000"/>
-		<Metadata name="CommonModule.РаботаСФормамиКлиент" id="3df08266-ff0c-41c5-b340-d8996ba4dfa8" configVersion="c9860ca105b073409a71614e2f9cb1c800000000"/>
-		<Metadata name="CommonModule.РаботаСФормамиКлиент.Module" id="3df08266-ff0c-41c5-b340-d8996ba4dfa8.0" configVersion="4cd4cae138490c4f9669a3ed178d4fc500000000"/>
+		<Metadata name="CommonModule.РаботаСФормамиКлиент" id="3df08266-ff0c-41c5-b340-d8996ba4dfa8" configVersion="c7935df1a26b1f4086b2bee94362af4600000000"/>
+		<Metadata name="CommonModule.РаботаСФормамиКлиент.Module" id="3df08266-ff0c-41c5-b340-d8996ba4dfa8.0" configVersion="9c298848b195d540b43cbf6791317d7100000000"/>
 		<Metadata name="CommonModule.РаботаСЦенамиВызовСервера" id="df3a1745-2e2e-4ba2-ad91-a5dbade3b8af" configVersion="a2e11a0f18f49d4ca49aa0d6d8e8361e00000000"/>
 		<Metadata name="CommonModule.РаботаСЦенамиВызовСервера.Module" id="df3a1745-2e2e-4ba2-ad91-a5dbade3b8af.0" configVersion="89fd4ddf19243a46be8995abe49d2ec900000000"/>
 		<Metadata name="CommonModule.РаботаСоСтрокамиВызовСервера" id="f25e72ba-9dba-464f-a0c5-62d781085031" configVersion="6759b2f83bf13c469b6127dbf2473ec100000000"/>

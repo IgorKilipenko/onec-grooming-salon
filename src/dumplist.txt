@@ -1,2 +1,2 @@
-﻿Modified: InformationRegister.ЦеныНоменклатурыПоставщиков
-Modified: InformationRegister.ЦеныНоменклатурыПоставщиков.ManagerModule
+﻿Modified: CommonModule.РаботаСФормамиКлиент
+Modified: CommonModule.РаботаСФормамиКлиент.Module
