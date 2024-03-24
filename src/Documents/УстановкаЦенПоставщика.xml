@@ -109,7 +109,7 @@
 					<ChoiceFoldersAndItems>Items</ChoiceFoldersAndItems>
 					<ChoiceParameterLinks/>
 					<ChoiceParameters>
-						<app:item name="Отбор.Ссылка">
+						<app:item name="Отбор.ТипКонтрагента">
 							<app:value xsi:type="xr:DesignTimeRef">Enum.ТипыКонтрагентов.EnumValue.Поставщик</app:value>
 						</app:item>
 					</ChoiceParameters>
