@@ -111,7 +111,17 @@
 			<DataPath>Объект.Услуги</DataPath>
 			<RowFilter xsi:nil="true"/>
 			<ContextMenu name="УслугиКонтекстноеМеню" id="35"/>
-			<AutoCommandBar name="УслугиКоманднаяПанель" id="36"/>
+			<AutoCommandBar name="УслугиКоманднаяПанель" id="36">
+				<ChildItems>
+					<Button name="УслугиОбновитьЦеныУслуг" id="69">
+						<Type>CommandBarButton</Type>
+						<Representation>PictureAndText</Representation>
+						<CommandName>Form.Command.ОбновитьЦеныУслуг</CommandName>
+						<BorderColor>style:AccentColor</BorderColor>
+						<ExtendedTooltip name="УслугиОбновитьЦеныУслугРасширеннаяПодсказка" id="70"/>
+					</Button>
+				</ChildItems>
+			</AutoCommandBar>
 			<ExtendedTooltip name="УслугиРасширеннаяПодсказка" id="37"/>
 			<SearchStringAddition name="УслугиСтрокаПоиска" id="38">
 				<AdditionSource>
@@ -258,6 +268,27 @@
 			</UseAlways>
 		</Attribute>
 	</Attributes>
+	<Commands>
+		<Command name="ОбновитьЦеныУслуг" id="1">
+			<Title>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>Обновить цены услуг</v8:content>
+				</v8:item>
+			</Title>
+			<ToolTip>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>Обновить цены услуг</v8:content>
+				</v8:item>
+			</ToolTip>
+			<Picture>
+				<xr:Ref>StdPicture.Refresh</xr:Ref>
+				<xr:LoadTransparent>true</xr:LoadTransparent>
+			</Picture>
+			<Action>ОбновитьЦеныУслуг</Action>
+		</Command>
+	</Commands>
 	<CommandInterface>
 		<NavigationPanel>
 			<Item>

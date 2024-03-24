@@ -1,2 +1,3 @@
-﻿Modified: CommonModule.РаботаСФормамиКлиент
-Modified: CommonModule.РаботаСФормамиКлиент.Module
+﻿Modified: Document.ПоступлениеУслуг
+Modified: Document.ПоступлениеУслуг.Form.ФормаДокумента
+Modified: Document.ПоступлениеУслуг.Form.ФормаДокумента.Form
