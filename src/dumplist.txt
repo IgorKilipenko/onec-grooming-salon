@@ -1,1 +1,2 @@
-﻿Modified: DataProcessor.ЗагрузкаПрайсЛиста
+﻿Modified: Document.УстановкаЦенПоставщика.Form.ФормаСписка
+Modified: Document.УстановкаЦенПоставщика.Form.ФормаСписка.Form
