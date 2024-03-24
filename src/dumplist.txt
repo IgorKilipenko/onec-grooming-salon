@@ -1,5 +1,1 @@
-﻿New: CommonModule.РаботаСФормамиКлиент
-New: CommonModule.РаботаСФормамиКлиент.Module
-New: CommonModule.ФормыКонфигурацииКлиент
-New: CommonModule.ФормыКонфигурацииКлиент.Module
-Modified: Configuration.ГрумингСалон
+﻿Modified: DataProcessor.ЗагрузкаПрайсЛиста

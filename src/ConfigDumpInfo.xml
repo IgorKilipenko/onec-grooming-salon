@@ -255,7 +255,7 @@
 		<Metadata name="Constant.ИспользоватьСклады" id="e09ea315-e523-4767-909f-3616479ceee2" configVersion="76ee4bb307e4f4429eb480ccca0828c500000000"/>
 		<Metadata name="Constant.НачалоРабочегоДня" id="e6633fd7-9913-43fc-919c-1c6e375d47fb" configVersion="9e22fbe32573bb4694bb5db4ff77467a00000000"/>
 		<Metadata name="Constant.ОкончаниеРабочегоДня" id="dcefa20a-dc3b-4e1e-b43d-893cc827eabc" configVersion="559ab8dd66b015479a11c6f10e290bb700000000"/>
-		<Metadata name="DataProcessor.ЗагрузкаПрайсЛиста" id="41da872a-a808-4e91-bcfb-792923f0c2be" configVersion="342bf917a11d9642b6985166ac672aa400000000">
+		<Metadata name="DataProcessor.ЗагрузкаПрайсЛиста" id="41da872a-a808-4e91-bcfb-792923f0c2be" configVersion="fd4d1f5e0341494b84a0a7b53913a3cf00000000">
 			<Metadata name="DataProcessor.ЗагрузкаПрайсЛиста.Attribute.ДатаПрайсЛиста" id="018bcfb1-930c-4d5b-9aeb-64da313888a7"/>
 			<Metadata name="DataProcessor.ЗагрузкаПрайсЛиста.Attribute.ПрайсЛист" id="b57c6375-8dcc-4ecb-8936-f2387bbd93bc"/>
 			<Metadata name="DataProcessor.ЗагрузкаПрайсЛиста.Attribute.Поставщик" id="f795697e-ee0b-4721-9830-a05b139636d9"/>
