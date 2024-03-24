@@ -4,9 +4,6 @@
 	<UsePostingMode>Auto</UsePostingMode>
 	<RepostOnWrite>true</RepostOnWrite>
 	<AutoCommandBar name="ФормаКоманднаяПанель" id="-1"/>
-	<Events>
-		<Event name="OnOpen">ПриОткрытии</Event>
-	</Events>
 	<ChildItems>
 		<UsualGroup name="ГруппаШапка" id="59">
 			<Title>
@@ -140,7 +137,17 @@
 			<DataPath>Объект.Товары</DataPath>
 			<RowFilter xsi:nil="true"/>
 			<ContextMenu name="ТоварыКонтекстноеМеню" id="32"/>
-			<AutoCommandBar name="ТоварыКоманднаяПанель" id="33"/>
+			<AutoCommandBar name="ТоварыКоманднаяПанель" id="33">
+				<ChildItems>
+					<Button name="ТоварыОбновитьЦены" id="75">
+						<Type>CommandBarButton</Type>
+						<Representation>PictureAndText</Representation>
+						<CommandName>Form.Command.ОбновитьЦены</CommandName>
+						<BorderColor>style:AccentColor</BorderColor>
+						<ExtendedTooltip name="ТоварыОбновитьЦеныРасширеннаяПодсказка" id="76"/>
+					</Button>
+				</ChildItems>
+			</AutoCommandBar>
 			<ExtendedTooltip name="ТоварыРасширеннаяПодсказка" id="34"/>
 			<SearchStringAddition name="ТоварыСтрокаПоиска" id="35">
 				<AdditionSource>
@@ -238,14 +245,13 @@
 				</InputField>
 			</ChildItems>
 		</Table>
-		<InputField name="СуммаДокумента" id="19">
+		<LabelField name="СуммаДокумента" id="19">
 			<DataPath>Объект.СуммаДокумента</DataPath>
 			<ReadOnly>true</ReadOnly>
 			<EditMode>EnterOnInput</EditMode>
-			<ExtendedEditMultipleValues>true</ExtendedEditMultipleValues>
 			<ContextMenu name="СуммаДокументаКонтекстноеМеню" id="20"/>
 			<ExtendedTooltip name="СуммаДокументаРасширеннаяПодсказка" id="21"/>
-		</InputField>
+		</LabelField>
 		<UsualGroup name="ГруппаПодвал" id="63">
 			<Title>
 				<v8:item>
@@ -272,6 +278,7 @@
 				</InputField>
 				<InputField name="АвторДокумента" id="28">
 					<DataPath>Объект.АвторДокумента</DataPath>
+					<ReadOnly>true</ReadOnly>
 					<EditMode>EnterOnInput</EditMode>
 					<ExtendedEditMultipleValues>true</ExtendedEditMultipleValues>
 					<ContextMenu name="АвторДокументаКонтекстноеМеню" id="29"/>
@@ -292,6 +299,27 @@
 			</UseAlways>
 		</Attribute>
 	</Attributes>
+	<Commands>
+		<Command name="ОбновитьЦены" id="1">
+			<Title>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>Обновить цены</v8:content>
+				</v8:item>
+			</Title>
+			<ToolTip>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>Обновить цены</v8:content>
+				</v8:item>
+			</ToolTip>
+			<Picture>
+				<xr:Ref>StdPicture.Refresh</xr:Ref>
+				<xr:LoadTransparent>true</xr:LoadTransparent>
+			</Picture>
+			<Action>ОбновитьЦены</Action>
+		</Command>
+	</Commands>
 	<CommandInterface>
 		<NavigationPanel>
 			<Item>
