@@ -1,2 +1,2 @@
-﻿Modified: InformationRegister.ЦеныНоменклатурыПоставщиков
-Modified: InformationRegister.ЦеныНоменклатурыПоставщиков.ManagerModule
+﻿Modified: Document.ПоступлениеУслуг.Form.ФормаДокумента
+Modified: Document.ПоступлениеУслуг.Form.ФормаДокумента.Form
