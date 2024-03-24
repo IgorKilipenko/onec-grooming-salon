@@ -1,2 +1,2 @@
-﻿Modified: Document.ПоступлениеТоваров.Form.ФормаДокумента
-Modified: Document.ПоступлениеТоваров.Form.ФормаДокумента.Form
+﻿New: Document.УстановкаЦенПоставщика.ObjectModule
+Modified: Document.УстановкаЦенПоставщика

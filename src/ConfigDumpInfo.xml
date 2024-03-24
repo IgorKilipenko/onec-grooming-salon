@@ -487,7 +487,7 @@
 		<Metadata name="Document.УстановкаУчетнойПолитикиОрганизации.Form.ФормаДокумента" id="cf499439-ea3b-454f-bc6d-437b2a0a2cae" configVersion="95c32b5b5ac456458371092e782fb16400000000"/>
 		<Metadata name="Document.УстановкаУчетнойПолитикиОрганизации.Form.ФормаДокумента.Form" id="cf499439-ea3b-454f-bc6d-437b2a0a2cae.0" configVersion="7caacad51df3a644b8c9e431d9a0bef900000000"/>
 		<Metadata name="Document.УстановкаУчетнойПолитикиОрганизации.ObjectModule" id="000fa55b-c68c-42c0-b2be-cccd03d8693f.0" configVersion="165219709f0cce42a2ce288effd849dc00000000"/>
-		<Metadata name="Document.УстановкаЦенПоставщика" id="54181aab-99b5-4811-9bd9-475221464ec5" configVersion="22a699f9a0acf84e881cc1f115ce196b00000000">
+		<Metadata name="Document.УстановкаЦенПоставщика" id="54181aab-99b5-4811-9bd9-475221464ec5" configVersion="2c29042dbb86d149b108bbe456c40e7500000000">
 			<Metadata name="Document.УстановкаЦенПоставщика.TabularSection.Товары" id="1407374f-9cb3-4bc1-ada3-b69ad173011d"/>
 			<Metadata name="Document.УстановкаЦенПоставщика.Attribute.АвторДокумента" id="3637d1c1-87aa-435d-9437-6442110daa1c"/>
 			<Metadata name="Document.УстановкаЦенПоставщика.Attribute.Комментарий" id="5ed7daa0-d705-498f-b5b6-bd8f406f660a"/>
@@ -500,6 +500,7 @@
 		<Metadata name="Document.УстановкаЦенПоставщика.Form.ФормаСписка" id="ec2d2d1b-3557-4e53-b419-a26220924122" configVersion="b1dda33a23755f4dae456f6c709c5cc100000000"/>
 		<Metadata name="Document.УстановкаЦенПоставщика.Form.ФормаСписка.Form" id="ec2d2d1b-3557-4e53-b419-a26220924122.0" configVersion="08a696b0826652438b482b84e70477c400000000"/>
 		<Metadata name="Document.УстановкаЦенПоставщика.ManagerModule" id="54181aab-99b5-4811-9bd9-475221464ec5.2" configVersion="dab82c9a8c3a314096e519bac9ae570c00000000"/>
+		<Metadata name="Document.УстановкаЦенПоставщика.ObjectModule" id="54181aab-99b5-4811-9bd9-475221464ec5.0" configVersion="66ffdc12041b8d4da71d852598044ee000000000"/>
 		<Metadata name="DocumentJournal.ДокументыПоБанку" id="b9038c07-8443-4012-a016-8f1de26528bc" configVersion="c5346e5ad766dc4190aa8d95a7f2a62300000000">
 			<Metadata name="DocumentJournal.ДокументыПоБанку.Column.АвторДокумента" id="267fa901-8f28-4393-bb84-93b90167a8d5"/>
 			<Metadata name="DocumentJournal.ДокументыПоБанку.Column.ВидОперации" id="2eedeb95-018f-4b4d-b3f8-51c75cb34dc0"/>
