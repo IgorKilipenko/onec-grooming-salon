@@ -1,2 +1,1 @@
-﻿Modified: DataProcessor.МониторРуководителя.Form.Форма
-Modified: DataProcessor.МониторРуководителя.Form.Форма.Form
+﻿Modified: Configuration.ГрумингСалон
