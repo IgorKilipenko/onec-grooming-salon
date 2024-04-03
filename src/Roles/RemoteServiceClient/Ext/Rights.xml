@@ -4,7 +4,7 @@
 	<setForAttributesByDefault>true</setForAttributesByDefault>
 	<independentRightsOfChildObjects>false</independentRightsOfChildObjects>
 	<object>
-		<name>HTTPService.Users.URLTemplate.ШаблонURL_GET_user.Method.GetUser</name>
+		<name>HTTPService.Users.URLTemplate.ШаблонURL_User.Method.GetUser</name>
 		<right>
 			<name>Use</name>
 			<value>true</value>

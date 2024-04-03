@@ -608,11 +608,12 @@
 		</Metadata>
 		<Metadata name="FilterCriterion.СвязанныеДокументы" id="ba15806b-c862-47f1-bee3-8e75dbe653ea" configVersion="ceecded76a483f4d95c54a0fdb7fc4e000000000"/>
 		<Metadata name="FunctionalOption.ИспользоватьСклады" id="9f180b36-b020-41d2-9562-6262802d378c" configVersion="b415161acc9ae647ab04fb3570796f4600000000"/>
-		<Metadata name="HTTPService.Users" id="9586ff01-58ae-415a-9bdd-8b1bede314cc" configVersion="02e63675ef86684784651e03f59c7d1700000000">
-			<Metadata name="HTTPService.Users.URLTemplate.ШаблонURL_GET_user.Method.GetUser" id="c7a6edfc-e7d9-45d4-b543-13b7386c7e8d"/>
-			<Metadata name="HTTPService.Users.URLTemplate.ШаблонURL_GET_user" id="e42afe89-c55f-4028-97bb-97747492311b"/>
+		<Metadata name="HTTPService.Users" id="9586ff01-58ae-415a-9bdd-8b1bede314cc" configVersion="0a713c0c393be04ba938f2e8c627813a00000000">
+			<Metadata name="HTTPService.Users.URLTemplate.ШаблонURL_User.Method.CreateUser" id="8c4072a4-71e1-406c-92df-179aed8a85d2"/>
+			<Metadata name="HTTPService.Users.URLTemplate.ШаблонURL_User.Method.GetUser" id="c7a6edfc-e7d9-45d4-b543-13b7386c7e8d"/>
+			<Metadata name="HTTPService.Users.URLTemplate.ШаблонURL_User" id="e42afe89-c55f-4028-97bb-97747492311b"/>
 		</Metadata>
-		<Metadata name="HTTPService.Users.Module" id="9586ff01-58ae-415a-9bdd-8b1bede314cc.0" configVersion="9604b40f34c82142b115b8dfb79de04f00000000"/>
+		<Metadata name="HTTPService.Users.Module" id="9586ff01-58ae-415a-9bdd-8b1bede314cc.0" configVersion="d73cbae7601c7d4aa6eb8c40f050fc5e00000000"/>
 		<Metadata name="InformationRegister.ГрафикиРаботыПредприятия" id="72f50457-7a96-4457-ba73-981ea293ead6" configVersion="73464e044ba1f441bdb2744281b83ebd00000000">
 			<Metadata name="InformationRegister.ГрафикиРаботыПредприятия.Resource.КоличествоЧасов" id="09bd0c3a-fc6b-4350-ad70-e51f94e19228"/>
 			<Metadata name="InformationRegister.ГрафикиРаботыПредприятия.Dimension.График" id="2cf9dd5c-58fb-4a14-abe4-3de4e8921f3a"/>

@@ -17,15 +17,15 @@
 		<ChildObjects>
 			<URLTemplate uuid="e42afe89-c55f-4028-97bb-97747492311b">
 				<Properties>
-					<Name>ШаблонURL_GET_user</Name>
+					<Name>ШаблонURL_User</Name>
 					<Synonym>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Шаблон URL GET user</v8:content>
+							<v8:content>Шаблон URL user</v8:content>
 						</v8:item>
 					</Synonym>
 					<Comment/>
-					<Template>/*</Template>
+					<Template>/users/user</Template>
 				</Properties>
 				<ChildObjects>
 					<Method uuid="c7a6edfc-e7d9-45d4-b543-13b7386c7e8d">
@@ -40,6 +40,20 @@
 							<Comment/>
 							<HTTPMethod>GET</HTTPMethod>
 							<Handler>ШаблонURL_GET_userGetUser</Handler>
+						</Properties>
+					</Method>
+					<Method uuid="8c4072a4-71e1-406c-92df-179aed8a85d2">
+						<Properties>
+							<Name>CreateUser</Name>
+							<Synonym>
+								<v8:item>
+									<v8:lang>ru</v8:lang>
+									<v8:content>Create user</v8:content>
+								</v8:item>
+							</Synonym>
+							<Comment/>
+							<HTTPMethod>POST</HTTPMethod>
+							<Handler>ШаблонURL_UsersCreateUser</Handler>
 						</Properties>
 					</Method>
 				</ChildObjects>
