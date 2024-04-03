@@ -1,1 +1,9 @@
-﻿Modified: Configuration.ГрумингСалон
+﻿New: Catalog.Пользователи.Predefined
+New: HTTPService.Users
+New: HTTPService.Users.Module
+New: Role.RemoteServiceClient
+New: Role.RemoteServiceClient.Rights
+New: Role.АвторизованныйПользователь
+New: Role.АвторизованныйПользователь.Rights
+Modified: Catalog.Пользователи
+Modified: Configuration.ГрумингСалон

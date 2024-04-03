@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<PredefinedData xmlns="http://v8.1c.ru/8.3/xcf/predef" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="CatalogPredefinedItems" version="2.17">
+	<Item id="7bf05c41-1af0-43db-89ae-90abd3a39acc">
+		<Name>RemoteServiceClient</Name>
+		<Code>7d9aca04-bb6a-4c47-8c62-011fe8db0d27</Code>
+		<Description>Remote service client</Description>
+		<IsFolder>false</IsFolder>
+	</Item>
+</PredefinedData>

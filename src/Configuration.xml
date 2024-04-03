@@ -268,6 +268,8 @@
 			<Role>Руководитель</Role>
 			<Role>Закупщик</Role>
 			<Role>Администратор</Role>
+			<Role>RemoteServiceClient</Role>
+			<Role>АвторизованныйПользователь</Role>
 			<FilterCriterion>СвязанныеДокументы</FilterCriterion>
 			<CommonModule>РаботаСоСтрокамиВызовСервера</CommonModule>
 			<CommonModule>РаботаСДокументами</CommonModule>
@@ -282,6 +284,7 @@
 			<CommonModule>ПреобразованиеТиповКлиентСервер</CommonModule>
 			<CommonModule>ФормыКонфигурацииКлиент</CommonModule>
 			<CommonModule>РаботаСФормамиКлиент</CommonModule>
+			<HTTPService>Users</HTTPService>
 			<FunctionalOption>ИспользоватьСклады</FunctionalOption>
 			<DefinedType>ФинансовыеДанные</DefinedType>
 			<DefinedType>КоличествоТоваров</DefinedType>
