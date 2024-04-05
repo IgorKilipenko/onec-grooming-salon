@@ -38,14 +38,14 @@
 			<Metadata name="AccumulationRegister.УчетЗатрат.Resource.Сумма" id="41234a75-f8a9-4cc9-927e-1922506d0cbb"/>
 			<Metadata name="AccumulationRegister.УчетЗатрат.Dimension.СтатьяЗатрат" id="8778acdc-ae23-4109-907f-bfbbb7548335"/>
 		</Metadata>
-		<Metadata name="BusinessProcess.ДорегистрацияКлиента" id="9085bcce-7765-4385-9bd4-b5e8a0db251f" configVersion="bcbe4473b18ff4428135f51be659390c00000000">
+		<Metadata name="BusinessProcess.ДорегистрацияКлиента" id="9085bcce-7765-4385-9bd4-b5e8a0db251f" configVersion="ddf222c55cf94f42b3b23f3743cd09c500000000">
 			<Metadata name="BusinessProcess.ДорегистрацияКлиента.Attribute.ДокументРегистрацииПользователя" id="17cdd3bf-3a0c-4bb3-ac40-b444bea7a3eb"/>
 			<Metadata name="BusinessProcess.ДорегистрацияКлиента.Attribute.РегистрацияПодтверждена" id="ee5d4a48-2486-4c6e-89a1-1d831223c37d"/>
 		</Metadata>
 		<Metadata name="BusinessProcess.ДорегистрацияКлиента.Flowchart" id="9085bcce-7765-4385-9bd4-b5e8a0db251f.7" configVersion="9acbfcc6e9aaf2469ddc677171ae50e200000000"/>
 		<Metadata name="BusinessProcess.ДорегистрацияКлиента.Form.ФормаБизнесПроцесса" id="4e378264-79ae-4972-b2f8-fbac37d996af" configVersion="f685f2f1bc59f54785515c36dc9b8bb900000000"/>
 		<Metadata name="BusinessProcess.ДорегистрацияКлиента.Form.ФормаБизнесПроцесса.Form" id="4e378264-79ae-4972-b2f8-fbac37d996af.0" configVersion="5a8f11bdaf1d7042a9742592ae4225cb00000000"/>
-		<Metadata name="BusinessProcess.ДорегистрацияКлиента.ObjectModule" id="9085bcce-7765-4385-9bd4-b5e8a0db251f.6" configVersion="f6985e03f2688c4abebd718f232b5fc900000000"/>
+		<Metadata name="BusinessProcess.ДорегистрацияКлиента.ObjectModule" id="9085bcce-7765-4385-9bd4-b5e8a0db251f.6" configVersion="fa97387135ceab4d9bc5c6d341a0b4ff00000000"/>
 		<Metadata name="CalculationRegister.Начисления" id="0ce7ee63-60a0-4c34-9cc0-0a4538cd10dc" configVersion="e6a07a9f815dba4bb005e8104a0dccbd00000000">
 			<Metadata name="CalculationRegister.Начисления.Resource.Сумма" id="2f9b698c-ce27-41df-b18e-bdc81b8df171"/>
 			<Metadata name="CalculationRegister.Начисления.Attribute.График" id="510318e0-ac93-4187-9678-c3205af78438"/>
@@ -756,13 +756,15 @@
 		<Metadata name="Subsystem.Справочники.Subsystem.Покупки.CommandInterface" id="8bd31985-c186-4642-bc8c-e4853bf67b85.1" configVersion="de3e1403cd73804db1dc0a3acd8724f400000000"/>
 		<Metadata name="Subsystem.Справочники.Subsystem.Продажи" id="e038da8a-ef1b-4be5-be6c-cbf67487d1f4" configVersion="ce11895ced5f014b92f445f948b0bcef00000000"/>
 		<Metadata name="Subsystem.Справочники.Subsystem.Продажи.CommandInterface" id="e038da8a-ef1b-4be5-be6c-cbf67487d1f4.1" configVersion="3b8568a9694061449faf61871b178a3200000000"/>
-		<Metadata name="Task.ЗадачиИсполнителя" id="d2af99fd-1b17-45d5-b0ee-7d9387ddd9b4" configVersion="d19582f9cd9f644094aa93c49426f02400000000">
+		<Metadata name="Task.ЗадачиИсполнителя" id="d2af99fd-1b17-45d5-b0ee-7d9387ddd9b4" configVersion="6f84ab771a7785459df72338a361570300000000">
+			<Metadata name="Task.ЗадачиИсполнителя.Attribute.ПолученоСогласиеНаРегистрацию" id="1573da57-d09a-469a-8ba1-114eb08e39b0"/>
 			<Metadata name="Task.ЗадачиИсполнителя.Attribute.ТипЗадачи" id="168e7ac4-532e-49d5-9fe3-070984a4709d"/>
 			<Metadata name="Task.ЗадачиИсполнителя.Attribute.ОписаниеЗадачи" id="27eb162d-f954-411b-9364-6270b0168ad5"/>
 			<Metadata name="Task.ЗадачиИсполнителя.AddressingAttribute.РольИсполнителя" id="3818d34c-4e67-48e8-a7a5-4eb6c4d03b43"/>
 			<Metadata name="Task.ЗадачиИсполнителя.Attribute.ДокументЗадачи" id="c2beb93e-7358-42ef-ad0e-0e665237cb80"/>
 			<Metadata name="Task.ЗадачиИсполнителя.AddressingAttribute.Исполнитель" id="da28bc47-3340-440f-a721-3681b52b8fee"/>
-			<Metadata name="Task.ЗадачиИсполнителя.Attribute.БизнесПроцессЗадачи" id="fb3c7046-989c-4986-9a4a-07e84cc87ba5"/>
 		</Metadata>
+		<Metadata name="Task.ЗадачиИсполнителя.Form.ФормаЗадачи" id="28e766e8-ce6c-4230-85f6-bffac6950271" configVersion="4b719ee557830841b2a730582d0a130500000000"/>
+		<Metadata name="Task.ЗадачиИсполнителя.Form.ФормаЗадачи.Form" id="28e766e8-ce6c-4230-85f6-bffac6950271.0" configVersion="918dd1343d8d5e45a21779b644daa78500000000"/>
 	</ConfigVersions>
 </ConfigDumpInfo>
