@@ -140,11 +140,14 @@
 		<Metadata name="Catalog.Организации.Form.ФормаСписка.Form" id="ebb2c535-a739-4987-ab15-fd3b63d96c96.0" configVersion="c7d6807f01a39b4d81f1e14698708ec700000000"/>
 		<Metadata name="Catalog.Организации.Form.ФормаЭлемента" id="326cde0a-28a1-4d57-82b1-43a34cdf9c16" configVersion="30e896f13e76dc46871033530059888f00000000"/>
 		<Metadata name="Catalog.Организации.Form.ФормаЭлемента.Form" id="326cde0a-28a1-4d57-82b1-43a34cdf9c16.0" configVersion="97e0c7e5fe5e594eb036cb5f9a3d994300000000"/>
-		<Metadata name="Catalog.Пользователи" id="a7a4423a-da2b-4dce-a107-979fe5fe8bdf" configVersion="3f74e9d3205cff4b93be12b08df33cdf00000000"/>
+		<Metadata name="Catalog.Пользователи" id="a7a4423a-da2b-4dce-a107-979fe5fe8bdf" configVersion="f08d8b8a90568443beca6c23cd90ff3300000000">
+			<Metadata name="Catalog.Пользователи.Attribute.Клиент" id="7decf649-9a66-4a05-a8dc-a3706a9d3427"/>
+			<Metadata name="Catalog.Пользователи.Attribute.ЭтоКлиент" id="9658d7e1-11c0-481e-a6b4-ef7e27f6db27"/>
+		</Metadata>
 		<Metadata name="Catalog.Пользователи.Form.ФормаСписка" id="e83853f2-3fc7-45fc-b37c-969c0393b08f" configVersion="a59a3e245f93ef41be57ce05e461ce3300000000"/>
 		<Metadata name="Catalog.Пользователи.Form.ФормаСписка.Form" id="e83853f2-3fc7-45fc-b37c-969c0393b08f.0" configVersion="45a17aba2f9e9c428411d7a1c27b103700000000"/>
-		<Metadata name="Catalog.Пользователи.Form.ФормаЭлемента" id="6d51340a-acff-407d-ad39-ba6610230f99" configVersion="987a2df8cfa394458beaebecde07aed800000000"/>
-		<Metadata name="Catalog.Пользователи.Form.ФормаЭлемента.Form" id="6d51340a-acff-407d-ad39-ba6610230f99.0" configVersion="5ebe4be00dea9842a34a4ff00ceb9be500000000"/>
+		<Metadata name="Catalog.Пользователи.Form.ФормаЭлемента" id="6d51340a-acff-407d-ad39-ba6610230f99" configVersion="609f09674228ce4db9e489b38b1c5dd300000000"/>
+		<Metadata name="Catalog.Пользователи.Form.ФормаЭлемента.Form" id="6d51340a-acff-407d-ad39-ba6610230f99.0" configVersion="93f8e7f25e6c98429c63d1e811cc620900000000"/>
 		<Metadata name="Catalog.Пользователи.ManagerModule" id="a7a4423a-da2b-4dce-a107-979fe5fe8bdf.3" configVersion="7a3985adf23a4a4eb9c202b8ec4c1d7f00000000"/>
 		<Metadata name="Catalog.Пользователи.Predefined" id="a7a4423a-da2b-4dce-a107-979fe5fe8bdf.1c" configVersion="9147d2e897287a4aa3edac6f4f34211000000000"/>
 		<Metadata name="Catalog.ПородыПитомцев" id="057d50b2-aff5-4910-accd-182ad2eb7a1d" configVersion="223789bdbe7f374986423a587ea8576c00000000">
