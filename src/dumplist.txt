@@ -1,3 +1,6 @@
-﻿Modified: Document.РегистрацияПользователя
-Modified: Document.РегистрацияПользователя.Form.ФормаДокумента
-Modified: Document.РегистрацияПользователя.Form.ФормаДокумента.Form
+﻿Modified: BusinessProcess.ДорегистрацияКлиента
+Modified: BusinessProcess.ДорегистрацияКлиента.ObjectModule
+Modified: Catalog.Пользователи
+Modified: Catalog.Пользователи.ManagerModule
+Modified: Task.ЗадачиИсполнителя.Form.ФормаЗадачи
+Modified: Task.ЗадачиИсполнителя.Form.ФормаЗадачи.Form

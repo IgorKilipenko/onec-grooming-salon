@@ -59,6 +59,7 @@
 				</LabelField>
 				<InputField name="ДокументЗадачи" id="16">
 					<DataPath>Объект.ДокументЗадачи</DataPath>
+					<ReadOnly>true</ReadOnly>
 					<EditMode>EnterOnInput</EditMode>
 					<ExtendedEditMultipleValues>true</ExtendedEditMultipleValues>
 					<ContextMenu name="ДокументЗадачиКонтекстноеМеню" id="17"/>

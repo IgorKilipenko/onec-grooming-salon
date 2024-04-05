@@ -38,14 +38,14 @@
 			<Metadata name="AccumulationRegister.УчетЗатрат.Resource.Сумма" id="41234a75-f8a9-4cc9-927e-1922506d0cbb"/>
 			<Metadata name="AccumulationRegister.УчетЗатрат.Dimension.СтатьяЗатрат" id="8778acdc-ae23-4109-907f-bfbbb7548335"/>
 		</Metadata>
-		<Metadata name="BusinessProcess.ДорегистрацияКлиента" id="9085bcce-7765-4385-9bd4-b5e8a0db251f" configVersion="215f4e520f72dc488437fc1e9d9b9b0500000000">
+		<Metadata name="BusinessProcess.ДорегистрацияКлиента" id="9085bcce-7765-4385-9bd4-b5e8a0db251f" configVersion="f66a44276ec5bf46966465d625e72bcc00000000">
 			<Metadata name="BusinessProcess.ДорегистрацияКлиента.Attribute.ДокументРегистрацииПользователя" id="17cdd3bf-3a0c-4bb3-ac40-b444bea7a3eb"/>
 			<Metadata name="BusinessProcess.ДорегистрацияКлиента.Attribute.РегистрацияПодтверждена" id="ee5d4a48-2486-4c6e-89a1-1d831223c37d"/>
 		</Metadata>
 		<Metadata name="BusinessProcess.ДорегистрацияКлиента.Flowchart" id="9085bcce-7765-4385-9bd4-b5e8a0db251f.7" configVersion="9acbfcc6e9aaf2469ddc677171ae50e200000000"/>
 		<Metadata name="BusinessProcess.ДорегистрацияКлиента.Form.ФормаБизнесПроцесса" id="4e378264-79ae-4972-b2f8-fbac37d996af" configVersion="f685f2f1bc59f54785515c36dc9b8bb900000000"/>
 		<Metadata name="BusinessProcess.ДорегистрацияКлиента.Form.ФормаБизнесПроцесса.Form" id="4e378264-79ae-4972-b2f8-fbac37d996af.0" configVersion="5a8f11bdaf1d7042a9742592ae4225cb00000000"/>
-		<Metadata name="BusinessProcess.ДорегистрацияКлиента.ObjectModule" id="9085bcce-7765-4385-9bd4-b5e8a0db251f.6" configVersion="31c443fc6b444b419726fb6430e3960a00000000"/>
+		<Metadata name="BusinessProcess.ДорегистрацияКлиента.ObjectModule" id="9085bcce-7765-4385-9bd4-b5e8a0db251f.6" configVersion="bff6459bf7949d42881f4d2c0aa2f47500000000"/>
 		<Metadata name="CalculationRegister.Начисления" id="0ce7ee63-60a0-4c34-9cc0-0a4538cd10dc" configVersion="e6a07a9f815dba4bb005e8104a0dccbd00000000">
 			<Metadata name="CalculationRegister.Начисления.Resource.Сумма" id="2f9b698c-ce27-41df-b18e-bdc81b8df171"/>
 			<Metadata name="CalculationRegister.Начисления.Attribute.График" id="510318e0-ac93-4187-9678-c3205af78438"/>
@@ -140,7 +140,7 @@
 		<Metadata name="Catalog.Организации.Form.ФормаСписка.Form" id="ebb2c535-a739-4987-ab15-fd3b63d96c96.0" configVersion="c7d6807f01a39b4d81f1e14698708ec700000000"/>
 		<Metadata name="Catalog.Организации.Form.ФормаЭлемента" id="326cde0a-28a1-4d57-82b1-43a34cdf9c16" configVersion="30e896f13e76dc46871033530059888f00000000"/>
 		<Metadata name="Catalog.Организации.Form.ФормаЭлемента.Form" id="326cde0a-28a1-4d57-82b1-43a34cdf9c16.0" configVersion="97e0c7e5fe5e594eb036cb5f9a3d994300000000"/>
-		<Metadata name="Catalog.Пользователи" id="a7a4423a-da2b-4dce-a107-979fe5fe8bdf" configVersion="a29d50cfef64954992c6eaf82a859acb00000000">
+		<Metadata name="Catalog.Пользователи" id="a7a4423a-da2b-4dce-a107-979fe5fe8bdf" configVersion="cfa082842f618d47bd076383a6f8f46900000000">
 			<Metadata name="Catalog.Пользователи.Attribute.Клиент" id="7decf649-9a66-4a05-a8dc-a3706a9d3427"/>
 			<Metadata name="Catalog.Пользователи.Attribute.ЭтоКлиент" id="9658d7e1-11c0-481e-a6b4-ef7e27f6db27"/>
 		</Metadata>
@@ -148,7 +148,7 @@
 		<Metadata name="Catalog.Пользователи.Form.ФормаСписка.Form" id="e83853f2-3fc7-45fc-b37c-969c0393b08f.0" configVersion="45a17aba2f9e9c428411d7a1c27b103700000000"/>
 		<Metadata name="Catalog.Пользователи.Form.ФормаЭлемента" id="6d51340a-acff-407d-ad39-ba6610230f99" configVersion="609f09674228ce4db9e489b38b1c5dd300000000"/>
 		<Metadata name="Catalog.Пользователи.Form.ФормаЭлемента.Form" id="6d51340a-acff-407d-ad39-ba6610230f99.0" configVersion="93f8e7f25e6c98429c63d1e811cc620900000000"/>
-		<Metadata name="Catalog.Пользователи.ManagerModule" id="a7a4423a-da2b-4dce-a107-979fe5fe8bdf.3" configVersion="b3316af033c74c428bdc9e22c34947e400000000"/>
+		<Metadata name="Catalog.Пользователи.ManagerModule" id="a7a4423a-da2b-4dce-a107-979fe5fe8bdf.3" configVersion="cf5118a7dbc38343bd6200e73e13b88200000000"/>
 		<Metadata name="Catalog.Пользователи.Predefined" id="a7a4423a-da2b-4dce-a107-979fe5fe8bdf.1c" configVersion="9147d2e897287a4aa3edac6f4f34211000000000"/>
 		<Metadata name="Catalog.ПородыПитомцев" id="057d50b2-aff5-4910-accd-182ad2eb7a1d" configVersion="223789bdbe7f374986423a587ea8576c00000000">
 			<Metadata name="Catalog.ПородыПитомцев.Attribute.ВидПитомца" id="4702545f-c139-4268-8d37-9b0e6f210c0d"/>
@@ -765,7 +765,7 @@
 			<Metadata name="Task.ЗадачиИсполнителя.Attribute.ДокументЗадачи" id="c2beb93e-7358-42ef-ad0e-0e665237cb80"/>
 			<Metadata name="Task.ЗадачиИсполнителя.AddressingAttribute.Исполнитель" id="da28bc47-3340-440f-a721-3681b52b8fee"/>
 		</Metadata>
-		<Metadata name="Task.ЗадачиИсполнителя.Form.ФормаЗадачи" id="28e766e8-ce6c-4230-85f6-bffac6950271" configVersion="31816fbaae90d2489f03c8803f7c3cdc00000000"/>
-		<Metadata name="Task.ЗадачиИсполнителя.Form.ФормаЗадачи.Form" id="28e766e8-ce6c-4230-85f6-bffac6950271.0" configVersion="43583a388d47af4386fe7670fdf2f00900000000"/>
+		<Metadata name="Task.ЗадачиИсполнителя.Form.ФормаЗадачи" id="28e766e8-ce6c-4230-85f6-bffac6950271" configVersion="5bd255e7aa813e45b0f5913bae35cd7900000000"/>
+		<Metadata name="Task.ЗадачиИсполнителя.Form.ФормаЗадачи.Form" id="28e766e8-ce6c-4230-85f6-bffac6950271.0" configVersion="2660ef61f32def48b21aa83c6771404c00000000"/>
 	</ConfigVersions>
 </ConfigDumpInfo>
