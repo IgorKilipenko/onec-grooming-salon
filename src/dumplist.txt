@@ -1,2 +1,8 @@
-﻿Modified: HTTPService.Users
-Modified: HTTPService.Users.Module
+﻿New: Catalog.РолиИсполнителей
+New: Catalog.РолиИсполнителей.Predefined
+New: InformationRegister.РегистрАдресацииИсполнителей
+New: Subsystem.БизнесПроцессыИЗадачи
+Modified: Configuration.ГрумингСалон
+Modified: Subsystem.Настройки
+Modified: Subsystem.Настройки.Subsystem.Сервис
+Modified: Subsystem.Настройки.Subsystem.Справочники

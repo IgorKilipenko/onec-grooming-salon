@@ -253,6 +253,7 @@
 			<Subsystem>Настройки</Subsystem>
 			<Subsystem>Деньги</Subsystem>
 			<Subsystem>БухгалтерскийУчет</Subsystem>
+			<Subsystem>БизнесПроцессыИЗадачи</Subsystem>
 			<Style>ГрумингСалон</Style>
 			<CommonPicture>БизнесПроцессы</CommonPicture>
 			<CommonPicture>БухгалтерскийУчет</CommonPicture>
@@ -319,6 +320,7 @@
 			<Catalog>ЭквайринговыеТерминалы</Catalog>
 			<Catalog>БанковскиеСчета</Catalog>
 			<Catalog>ГрафикиРаботыСотрудников</Catalog>
+			<Catalog>РолиИсполнителей</Catalog>
 			<Document>ЗаписьКлиента</Document>
 			<Document>РеализацияТоваровИУслуг</Document>
 			<Document>ПоступлениеТоваров</Document>
@@ -367,6 +369,7 @@
 			<InformationRegister>ГрафикиРаботыПредприятия</InformationRegister>
 			<InformationRegister>КадроваяИсторияСотрудников</InformationRegister>
 			<InformationRegister>ЦеныНоменклатурыПоставщиков</InformationRegister>
+			<InformationRegister>РегистрАдресацииИсполнителей</InformationRegister>
 			<AccumulationRegister>Продажи</AccumulationRegister>
 			<AccumulationRegister>ТоварыНаСкладах</AccumulationRegister>
 			<AccumulationRegister>ЗаказыКлиентов</AccumulationRegister>
