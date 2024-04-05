@@ -33,6 +33,12 @@
 			<ContextMenu name="ИдентификаторКонтекстноеМеню" id="11"/>
 			<ExtendedTooltip name="ИдентификаторРасширеннаяПодсказка" id="12"/>
 		</InputField>
+		<InputField name="КонтактныйТелефон" id="16">
+			<DataPath>Объект.КонтактныйТелефон</DataPath>
+			<ExtendedEditMultipleValues>true</ExtendedEditMultipleValues>
+			<ContextMenu name="КонтактныйТелефонКонтекстноеМеню" id="17"/>
+			<ExtendedTooltip name="КонтактныйТелефонРасширеннаяПодсказка" id="18"/>
+		</InputField>
 		<CheckBoxField name="ЭтоКлиент" id="13">
 			<DataPath>Объект.ЭтоКлиент</DataPath>
 			<EditMode>EnterOnInput</EditMode>

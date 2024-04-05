@@ -1,1 +1,3 @@
 ﻿Modified: Document.РегистрацияПользователя
+Modified: Document.РегистрацияПользователя.Form.ФормаДокумента
+Modified: Document.РегистрацияПользователя.Form.ФормаДокумента.Form
