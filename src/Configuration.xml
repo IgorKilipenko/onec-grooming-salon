@@ -49,7 +49,7 @@
 			<ScriptVariant>Russian</ScriptVariant>
 			<DefaultRoles/>
 			<Vendor>Игорь Килипенко</Vendor>
-			<Version>Спринт 8</Version>
+			<Version>Спринт 9</Version>
 			<UpdateCatalogAddress/>
 			<IncludeHelpInContents>false</IncludeHelpInContents>
 			<UseManagedFormInOrdinaryApplication>false</UseManagedFormInOrdinaryApplication>
@@ -253,6 +253,7 @@
 			<Subsystem>Настройки</Subsystem>
 			<Subsystem>Деньги</Subsystem>
 			<Subsystem>БухгалтерскийУчет</Subsystem>
+			<Subsystem>БизнесПроцессыИЗадачи</Subsystem>
 			<Style>ГрумингСалон</Style>
 			<CommonPicture>БизнесПроцессы</CommonPicture>
 			<CommonPicture>БухгалтерскийУчет</CommonPicture>
@@ -268,6 +269,8 @@
 			<Role>Руководитель</Role>
 			<Role>Закупщик</Role>
 			<Role>Администратор</Role>
+			<Role>RemoteServiceClient</Role>
+			<Role>АвторизованныйПользователь</Role>
 			<FilterCriterion>СвязанныеДокументы</FilterCriterion>
 			<CommonModule>РаботаСоСтрокамиВызовСервера</CommonModule>
 			<CommonModule>РаботаСДокументами</CommonModule>
@@ -282,6 +285,7 @@
 			<CommonModule>ПреобразованиеТиповКлиентСервер</CommonModule>
 			<CommonModule>ФормыКонфигурацииКлиент</CommonModule>
 			<CommonModule>РаботаСФормамиКлиент</CommonModule>
+			<HTTPService>Users</HTTPService>
 			<FunctionalOption>ИспользоватьСклады</FunctionalOption>
 			<DefinedType>ФинансовыеДанные</DefinedType>
 			<DefinedType>КоличествоТоваров</DefinedType>
@@ -295,11 +299,13 @@
 			<CommandGroup>Банк</CommandGroup>
 			<CommandGroup>Покупки</CommandGroup>
 			<CommandGroup>Зарплата</CommandGroup>
+			<CommandGroup>БизнесПроцессыИЗадачи</CommandGroup>
 			<Constant>ИспользоватьСклады</Constant>
 			<Constant>ЗапретПроведенияПриОтрицательныхОстатках</Constant>
 			<Constant>НачалоРабочегоДня</Constant>
 			<Constant>ОкончаниеРабочегоДня</Constant>
 			<Constant>API_KEY_newsapi</Constant>
+			<CommonForm>ФормаПросмотраКартыМаршрута</CommonForm>
 			<Catalog>Должности</Catalog>
 			<Catalog>Сотрудники</Catalog>
 			<Catalog>Номенклатура</Catalog>
@@ -316,6 +322,7 @@
 			<Catalog>ЭквайринговыеТерминалы</Catalog>
 			<Catalog>БанковскиеСчета</Catalog>
 			<Catalog>ГрафикиРаботыСотрудников</Catalog>
+			<Catalog>РолиИсполнителей</Catalog>
 			<Document>ЗаписьКлиента</Document>
 			<Document>РеализацияТоваровИУслуг</Document>
 			<Document>ПоступлениеТоваров</Document>
@@ -330,6 +337,7 @@
 			<Document>БольничныйЛист</Document>
 			<Document>НачислениеПремии</Document>
 			<Document>УстановкаЦенПоставщика</Document>
+			<Document>РегистрацияПользователя</Document>
 			<DocumentJournal>ДокументыПоКассе</DocumentJournal>
 			<DocumentJournal>ДокументыПоБанку</DocumentJournal>
 			<DocumentJournal>ЖурналХозяйственныхОпераций</DocumentJournal>
@@ -347,6 +355,7 @@
 			<Enum>ВидыОперацийПоступленияНаРасчетныйСчет</Enum>
 			<Enum>ВидыОперацийСписанияСРасчетногоСчета</Enum>
 			<Enum>ТипыГрафиковРаботы</Enum>
+			<Enum>ТипыЗадачИсполнителя</Enum>
 			<Report>ОтчётПоОказаннымУслугам</Report>
 			<Report>ОтчётПоТоварамНаСкладах</Report>
 			<Report>ОтчетПоПрибыли</Report>
@@ -364,6 +373,7 @@
 			<InformationRegister>ГрафикиРаботыПредприятия</InformationRegister>
 			<InformationRegister>КадроваяИсторияСотрудников</InformationRegister>
 			<InformationRegister>ЦеныНоменклатурыПоставщиков</InformationRegister>
+			<InformationRegister>РегистрАдресацииИсполнителей</InformationRegister>
 			<AccumulationRegister>Продажи</AccumulationRegister>
 			<AccumulationRegister>ТоварыНаСкладах</AccumulationRegister>
 			<AccumulationRegister>ЗаказыКлиентов</AccumulationRegister>
@@ -375,6 +385,8 @@
 			<AccountingRegister>Хозрасчетный</AccountingRegister>
 			<ChartOfCalculationTypes>Начисления</ChartOfCalculationTypes>
 			<CalculationRegister>Начисления</CalculationRegister>
+			<BusinessProcess>ДорегистрацияКлиента</BusinessProcess>
+			<Task>ЗадачиИсполнителя</Task>
 		</ChildObjects>
 	</Configuration>
 </MetaDataObject>

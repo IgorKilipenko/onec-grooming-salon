@@ -1,2 +1,3 @@
-﻿Modified: DataProcessor.МониторРуководителя.Form.Форма
-Modified: DataProcessor.МониторРуководителя.Form.Форма.Form
+﻿New: Task.ЗадачиИсполнителя.Form.ФормаСписка
+New: Task.ЗадачиИсполнителя.Form.ФормаСписка.Form
+Modified: Task.ЗадачиИсполнителя

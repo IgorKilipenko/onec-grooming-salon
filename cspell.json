@@ -12,6 +12,7 @@
     // words - list of words to be always considered correct
     "words": [
         "FEFO",
+        "Дорегистрация",
         "ЕСТЬNULL",
         "Модифицированность",
         "неопределено",
