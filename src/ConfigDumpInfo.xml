@@ -38,14 +38,14 @@
 			<Metadata name="AccumulationRegister.УчетЗатрат.Resource.Сумма" id="41234a75-f8a9-4cc9-927e-1922506d0cbb"/>
 			<Metadata name="AccumulationRegister.УчетЗатрат.Dimension.СтатьяЗатрат" id="8778acdc-ae23-4109-907f-bfbbb7548335"/>
 		</Metadata>
-		<Metadata name="BusinessProcess.ДорегистрацияКлиента" id="9085bcce-7765-4385-9bd4-b5e8a0db251f" configVersion="675b578928e88c4fae850e5c019de86c00000000">
+		<Metadata name="BusinessProcess.ДорегистрацияКлиента" id="9085bcce-7765-4385-9bd4-b5e8a0db251f" configVersion="bcbe4473b18ff4428135f51be659390c00000000">
 			<Metadata name="BusinessProcess.ДорегистрацияКлиента.Attribute.ДокументРегистрацииПользователя" id="17cdd3bf-3a0c-4bb3-ac40-b444bea7a3eb"/>
 			<Metadata name="BusinessProcess.ДорегистрацияКлиента.Attribute.РегистрацияПодтверждена" id="ee5d4a48-2486-4c6e-89a1-1d831223c37d"/>
 		</Metadata>
-		<Metadata name="BusinessProcess.ДорегистрацияКлиента.Flowchart" id="9085bcce-7765-4385-9bd4-b5e8a0db251f.7" configVersion="db87d3a8a3b83443bbfb1bb48febad0f00000000"/>
+		<Metadata name="BusinessProcess.ДорегистрацияКлиента.Flowchart" id="9085bcce-7765-4385-9bd4-b5e8a0db251f.7" configVersion="9acbfcc6e9aaf2469ddc677171ae50e200000000"/>
 		<Metadata name="BusinessProcess.ДорегистрацияКлиента.Form.ФормаБизнесПроцесса" id="4e378264-79ae-4972-b2f8-fbac37d996af" configVersion="f685f2f1bc59f54785515c36dc9b8bb900000000"/>
 		<Metadata name="BusinessProcess.ДорегистрацияКлиента.Form.ФормаБизнесПроцесса.Form" id="4e378264-79ae-4972-b2f8-fbac37d996af.0" configVersion="5a8f11bdaf1d7042a9742592ae4225cb00000000"/>
-		<Metadata name="BusinessProcess.ДорегистрацияКлиента.ObjectModule" id="9085bcce-7765-4385-9bd4-b5e8a0db251f.6" configVersion="0d5f940a4af58c48b0f4c5b7a5c58efb00000000"/>
+		<Metadata name="BusinessProcess.ДорегистрацияКлиента.ObjectModule" id="9085bcce-7765-4385-9bd4-b5e8a0db251f.6" configVersion="f6985e03f2688c4abebd718f232b5fc900000000"/>
 		<Metadata name="CalculationRegister.Начисления" id="0ce7ee63-60a0-4c34-9cc0-0a4538cd10dc" configVersion="e6a07a9f815dba4bb005e8104a0dccbd00000000">
 			<Metadata name="CalculationRegister.Начисления.Resource.Сумма" id="2f9b698c-ce27-41df-b18e-bdc81b8df171"/>
 			<Metadata name="CalculationRegister.Начисления.Attribute.График" id="510318e0-ac93-4187-9678-c3205af78438"/>

@@ -132,8 +132,8 @@
 			<Events>
 				<Event name="InteractiveActivationProcessing"/>
 				<Event name="BeforeCreateTasks"/>
-				<Event name="OnCreateTask"/>
-				<Event name="OnExecute"/>
+				<Event name="OnCreateTask">ПолучитьПодтверждениеРегистрацииПриСозданииЗадач</Event>
+				<Event name="OnExecute">ПолучитьПодтверждениеРегистрацииПриВыполнении</Event>
 				<Event name="CheckExecutionProcessing"/>
 				<Event name="BeforeExecute"/>
 				<Event name="BeforeExecuteInteractively"/>
@@ -338,7 +338,7 @@
 				<PictureSize>AutoSize</PictureSize>
 			</Properties>
 			<Events>
-				<Event name="Processing"/>
+				<Event name="Processing">ПометкаНаУдалениеДокументаРегистрацииОбработка</Event>
 			</Events>
 		</Processing>
 		<ConnectionLine id="9">
@@ -445,7 +445,7 @@
 				<PictureSize>AutoSize</PictureSize>
 			</Properties>
 			<Events>
-				<Event name="Processing"/>
+				<Event name="Processing">СозданиеНовогоПользователяОбработка</Event>
 			</Events>
 		</Processing>
 		<ConnectionLine id="16">
