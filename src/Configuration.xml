@@ -304,6 +304,7 @@
 			<Constant>НачалоРабочегоДня</Constant>
 			<Constant>ОкончаниеРабочегоДня</Constant>
 			<Constant>API_KEY_newsapi</Constant>
+			<CommonForm>ФормаПросмотраКартыМаршрута</CommonForm>
 			<Catalog>Должности</Catalog>
 			<Catalog>Сотрудники</Catalog>
 			<Catalog>Номенклатура</Catalog>
@@ -335,6 +336,7 @@
 			<Document>БольничныйЛист</Document>
 			<Document>НачислениеПремии</Document>
 			<Document>УстановкаЦенПоставщика</Document>
+			<Document>РегистрацияПользователя</Document>
 			<DocumentJournal>ДокументыПоКассе</DocumentJournal>
 			<DocumentJournal>ДокументыПоБанку</DocumentJournal>
 			<DocumentJournal>ЖурналХозяйственныхОпераций</DocumentJournal>
@@ -352,6 +354,7 @@
 			<Enum>ВидыОперацийПоступленияНаРасчетныйСчет</Enum>
 			<Enum>ВидыОперацийСписанияСРасчетногоСчета</Enum>
 			<Enum>ТипыГрафиковРаботы</Enum>
+			<Enum>ТипыЗадачИсполнителя</Enum>
 			<Report>ОтчётПоОказаннымУслугам</Report>
 			<Report>ОтчётПоТоварамНаСкладах</Report>
 			<Report>ОтчетПоПрибыли</Report>
@@ -381,6 +384,8 @@
 			<AccountingRegister>Хозрасчетный</AccountingRegister>
 			<ChartOfCalculationTypes>Начисления</ChartOfCalculationTypes>
 			<CalculationRegister>Начисления</CalculationRegister>
+			<BusinessProcess>ДорегистрацияКлиента</BusinessProcess>
+			<Task>ЗадачиИсполнителя</Task>
 		</ChildObjects>
 	</Configuration>
 </MetaDataObject>
