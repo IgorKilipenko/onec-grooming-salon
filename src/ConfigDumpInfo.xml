@@ -479,7 +479,7 @@
 		<Metadata name="Document.РеализацияТоваровИУслуг.ObjectModule" id="e30ec35e-8c3a-40cf-a109-fc154d862130.0" configVersion="6639dc0409caac45a56a48c1ae67bb7300000000"/>
 		<Metadata name="Document.РеализацияТоваровИУслуг.Template.Печать" id="5785dba4-505a-4aaf-ad4f-ee20249b0cd0" configVersion="9c34326a0ca9ff47b3ee170fef88680800000000"/>
 		<Metadata name="Document.РеализацияТоваровИУслуг.Template.Печать.Template" id="5785dba4-505a-4aaf-ad4f-ee20249b0cd0.0" configVersion="1bea5e22436adc448a79b216f150ff3000000000"/>
-		<Metadata name="Document.РегистрацияПользователя" id="e1d75f17-36b5-4d20-8e09-87b6eb6a3fed" configVersion="306ece4b161b2f47bfaf02f6b37bc32500000000">
+		<Metadata name="Document.РегистрацияПользователя" id="e1d75f17-36b5-4d20-8e09-87b6eb6a3fed" configVersion="a73c46cf36b7274e9006df987a8ea52f00000000">
 			<Metadata name="Document.РегистрацияПользователя.Attribute.Имя" id="06561dea-3922-4796-b6b4-4c4f64f059d9"/>
 			<Metadata name="Document.РегистрацияПользователя.Attribute.ЭтоКлиент" id="c9b60536-c561-44ec-bee1-183703f49bfe"/>
 			<Metadata name="Document.РегистрацияПользователя.Attribute.Идентификатор" id="d41ff68f-177c-47e0-be05-222b7d40417e"/>
