@@ -22,6 +22,9 @@
 				<xr:Item xsi:type="xr:MDObjectRef">Document.УстановкаУчетнойПолитикиОрганизации</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">InformationRegister.УчетнаяПолитика</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">InformationRegister.РегистрАдресацииИсполнителей</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">BusinessProcess.ДорегистрацияКлиента</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">Task.ЗадачиИсполнителя</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">Catalog.РолиИсполнителей</xr:Item>
 			</Content>
 		</Properties>
 		<ChildObjects>

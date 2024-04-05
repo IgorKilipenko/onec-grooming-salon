@@ -1,3 +1,8 @@
-﻿New: Document.РегистрацияПользователя.Form.ФормаДокумента
-New: Document.РегистрацияПользователя.Form.ФормаДокумента.Form
-Modified: Document.РегистрацияПользователя
+﻿New: CommandGroup.БизнесПроцессыИЗадачи
+Modified: Configuration.ГрумингСалон
+Modified: Subsystem.БизнесПроцессыИЗадачи
+Modified: Subsystem.Настройки
+Modified: Subsystem.Настройки.CommandInterface
+Modified: Subsystem.Настройки.Subsystem.Сервис
+Modified: Subsystem.Настройки.Subsystem.Сервис.CommandInterface
+Modified: Subsystem.Настройки.Subsystem.Справочники

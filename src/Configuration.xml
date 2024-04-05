@@ -299,6 +299,7 @@
 			<CommandGroup>Банк</CommandGroup>
 			<CommandGroup>Покупки</CommandGroup>
 			<CommandGroup>Зарплата</CommandGroup>
+			<CommandGroup>БизнесПроцессыИЗадачи</CommandGroup>
 			<Constant>ИспользоватьСклады</Constant>
 			<Constant>ЗапретПроведенияПриОтрицательныхОстатках</Constant>
 			<Constant>НачалоРабочегоДня</Constant>
