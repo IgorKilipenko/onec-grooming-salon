@@ -757,7 +757,7 @@
 		<Metadata name="Subsystem.Справочники.Subsystem.Покупки.CommandInterface" id="8bd31985-c186-4642-bc8c-e4853bf67b85.1" configVersion="de3e1403cd73804db1dc0a3acd8724f400000000"/>
 		<Metadata name="Subsystem.Справочники.Subsystem.Продажи" id="e038da8a-ef1b-4be5-be6c-cbf67487d1f4" configVersion="ce11895ced5f014b92f445f948b0bcef00000000"/>
 		<Metadata name="Subsystem.Справочники.Subsystem.Продажи.CommandInterface" id="e038da8a-ef1b-4be5-be6c-cbf67487d1f4.1" configVersion="3b8568a9694061449faf61871b178a3200000000"/>
-		<Metadata name="Task.ЗадачиИсполнителя" id="d2af99fd-1b17-45d5-b0ee-7d9387ddd9b4" configVersion="6f84ab771a7785459df72338a361570300000000">
+		<Metadata name="Task.ЗадачиИсполнителя" id="d2af99fd-1b17-45d5-b0ee-7d9387ddd9b4" configVersion="4413439460d92b4a8da41296fec6e94b00000000">
 			<Metadata name="Task.ЗадачиИсполнителя.Attribute.ПолученоСогласиеНаРегистрацию" id="1573da57-d09a-469a-8ba1-114eb08e39b0"/>
 			<Metadata name="Task.ЗадачиИсполнителя.Attribute.ТипЗадачи" id="168e7ac4-532e-49d5-9fe3-070984a4709d"/>
 			<Metadata name="Task.ЗадачиИсполнителя.Attribute.ОписаниеЗадачи" id="27eb162d-f954-411b-9364-6270b0168ad5"/>
@@ -767,5 +767,7 @@
 		</Metadata>
 		<Metadata name="Task.ЗадачиИсполнителя.Form.ФормаЗадачи" id="28e766e8-ce6c-4230-85f6-bffac6950271" configVersion="5bd255e7aa813e45b0f5913bae35cd7900000000"/>
 		<Metadata name="Task.ЗадачиИсполнителя.Form.ФормаЗадачи.Form" id="28e766e8-ce6c-4230-85f6-bffac6950271.0" configVersion="2660ef61f32def48b21aa83c6771404c00000000"/>
+		<Metadata name="Task.ЗадачиИсполнителя.Form.ФормаСписка" id="ea14ea4f-0ec9-4ea0-8abb-67178843b3c7" configVersion="a11f7fc0fc805c44b053b1f1e20ea39900000000"/>
+		<Metadata name="Task.ЗадачиИсполнителя.Form.ФормаСписка.Form" id="ea14ea4f-0ec9-4ea0-8abb-67178843b3c7.0" configVersion="fce5c00ec1c081469072c282655f51bc00000000"/>
 	</ConfigVersions>
 </ConfigDumpInfo>
