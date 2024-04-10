@@ -1,3 +1,2 @@
-﻿New: Task.ЗадачиИсполнителя.Form.ФормаСписка
-New: Task.ЗадачиИсполнителя.Form.ФормаСписка.Form
-Modified: Task.ЗадачиИсполнителя
+﻿Modified: DataProcessor.МониторРуководителя
+Modified: DataProcessor.МониторРуководителя.ManagerModule
