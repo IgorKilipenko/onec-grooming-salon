@@ -163,7 +163,7 @@
 		<Metadata name="Catalog.Склады" id="0480428c-d6d2-44da-9b73-d803664e1f65" configVersion="87f504c02b11cb44a216604f47f952d000000000"/>
 		<Metadata name="Catalog.Склады.ManagerModule" id="0480428c-d6d2-44da-9b73-d803664e1f65.3" configVersion="c52d42a42aaf9f46b7fc4517038b8ba300000000"/>
 		<Metadata name="Catalog.Склады.Predefined" id="0480428c-d6d2-44da-9b73-d803664e1f65.1c" configVersion="663c4bea72d877499dc430a7550e235200000000"/>
-		<Metadata name="Catalog.Сотрудники" id="22c35659-8f6f-4268-ab3d-94673f1123b8" configVersion="e276033d5a60c846b4d9ac8b2d0b758c00000000">
+		<Metadata name="Catalog.Сотрудники" id="22c35659-8f6f-4268-ab3d-94673f1123b8" configVersion="6cefdaafbc637c4eaf02cd459e6bde9500000000">
 			<Metadata name="Catalog.Сотрудники.Attribute.Имя" id="1a632a75-4dd5-4337-93d4-bdb1ed07a420"/>
 			<Metadata name="Catalog.Сотрудники.Attribute.ДатаРождения" id="5d4d8d04-565d-4579-99e1-22c38faa4638"/>
 			<Metadata name="Catalog.Сотрудники.Attribute.Должность" id="65a9fa94-5da9-4ffa-b568-89974e49490d"/>
@@ -178,8 +178,8 @@
 		<Metadata name="Catalog.Сотрудники.Form.ФормаСписка.Form" id="31f08b8c-1e99-45af-aa5c-411b2ae50ed0.0" configVersion="617d8ea58801aa46b84fe9099b5c03ef00000000"/>
 		<Metadata name="Catalog.Сотрудники.Form.ФормаЭлемента" id="df4cccd0-5f50-4d0f-b8e0-76e2e7360562" configVersion="d1dcd0c8bb329b4c9736afbae302844a00000000"/>
 		<Metadata name="Catalog.Сотрудники.Form.ФормаЭлемента.Form" id="df4cccd0-5f50-4d0f-b8e0-76e2e7360562.0" configVersion="848c52987158a1499178592a00cbcc4000000000"/>
-		<Metadata name="Catalog.Сотрудники.ManagerModule" id="22c35659-8f6f-4268-ab3d-94673f1123b8.3" configVersion="af4b193ba0609b4b83fa510243b976fd00000000"/>
-		<Metadata name="Catalog.Сотрудники.ObjectModule" id="22c35659-8f6f-4268-ab3d-94673f1123b8.0" configVersion="65f0b54c4fdabf4fbed264878cda4af300000000"/>
+		<Metadata name="Catalog.Сотрудники.ManagerModule" id="22c35659-8f6f-4268-ab3d-94673f1123b8.3" configVersion="e689f01afbd67f49b281ae713a75d7c200000000"/>
+		<Metadata name="Catalog.Сотрудники.ObjectModule" id="22c35659-8f6f-4268-ab3d-94673f1123b8.0" configVersion="2b5b53187871934fa48093954110e97e00000000"/>
 		<Metadata name="Catalog.СтатьиЗатрат" id="bc62be2e-4da8-42a8-a865-c66aa20ce4ca" configVersion="2474e6807de2da469658d1797cbe907400000000"/>
 		<Metadata name="Catalog.СтатьиЗатрат.Form.ФормаСписка" id="a64bca84-833d-4571-b911-c84d72e75a49" configVersion="02f1f36382919c4fadfddc2280b60d9000000000"/>
 		<Metadata name="Catalog.СтатьиЗатрат.Form.ФормаСписка.Form" id="a64bca84-833d-4571-b911-c84d72e75a49.0" configVersion="3f2eeb80842c3d4e8e1f39d7c740175100000000"/>
