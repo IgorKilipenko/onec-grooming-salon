@@ -140,7 +140,7 @@
 		<Metadata name="Catalog.Организации.Form.ФормаСписка.Form" id="ebb2c535-a739-4987-ab15-fd3b63d96c96.0" configVersion="c7d6807f01a39b4d81f1e14698708ec700000000"/>
 		<Metadata name="Catalog.Организации.Form.ФормаЭлемента" id="326cde0a-28a1-4d57-82b1-43a34cdf9c16" configVersion="30e896f13e76dc46871033530059888f00000000"/>
 		<Metadata name="Catalog.Организации.Form.ФормаЭлемента.Form" id="326cde0a-28a1-4d57-82b1-43a34cdf9c16.0" configVersion="97e0c7e5fe5e594eb036cb5f9a3d994300000000"/>
-		<Metadata name="Catalog.Пользователи" id="a7a4423a-da2b-4dce-a107-979fe5fe8bdf" configVersion="cfa082842f618d47bd076383a6f8f46900000000">
+		<Metadata name="Catalog.Пользователи" id="a7a4423a-da2b-4dce-a107-979fe5fe8bdf" configVersion="4078affe391c0c4187b081dc2edcc38a00000000">
 			<Metadata name="Catalog.Пользователи.Attribute.Клиент" id="7decf649-9a66-4a05-a8dc-a3706a9d3427"/>
 			<Metadata name="Catalog.Пользователи.Attribute.ЭтоКлиент" id="9658d7e1-11c0-481e-a6b4-ef7e27f6db27"/>
 		</Metadata>
@@ -148,7 +148,7 @@
 		<Metadata name="Catalog.Пользователи.Form.ФормаСписка.Form" id="e83853f2-3fc7-45fc-b37c-969c0393b08f.0" configVersion="45a17aba2f9e9c428411d7a1c27b103700000000"/>
 		<Metadata name="Catalog.Пользователи.Form.ФормаЭлемента" id="6d51340a-acff-407d-ad39-ba6610230f99" configVersion="609f09674228ce4db9e489b38b1c5dd300000000"/>
 		<Metadata name="Catalog.Пользователи.Form.ФормаЭлемента.Form" id="6d51340a-acff-407d-ad39-ba6610230f99.0" configVersion="93f8e7f25e6c98429c63d1e811cc620900000000"/>
-		<Metadata name="Catalog.Пользователи.ManagerModule" id="a7a4423a-da2b-4dce-a107-979fe5fe8bdf.3" configVersion="cf5118a7dbc38343bd6200e73e13b88200000000"/>
+		<Metadata name="Catalog.Пользователи.ManagerModule" id="a7a4423a-da2b-4dce-a107-979fe5fe8bdf.3" configVersion="674464e0047d4e40a1069a4ca1c22b4000000000"/>
 		<Metadata name="Catalog.Пользователи.Predefined" id="a7a4423a-da2b-4dce-a107-979fe5fe8bdf.1c" configVersion="9147d2e897287a4aa3edac6f4f34211000000000"/>
 		<Metadata name="Catalog.ПородыПитомцев" id="057d50b2-aff5-4910-accd-182ad2eb7a1d" configVersion="223789bdbe7f374986423a587ea8576c00000000">
 			<Metadata name="Catalog.ПородыПитомцев.Attribute.ВидПитомца" id="4702545f-c139-4268-8d37-9b0e6f210c0d"/>
