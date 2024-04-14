@@ -1,2 +1,2 @@
-﻿Modified: DataProcessor.МониторРуководителя
-Modified: DataProcessor.МониторРуководителя.ManagerModule
+﻿Modified: Catalog.Контрагенты
+Modified: Catalog.Контрагенты.ManagerModule

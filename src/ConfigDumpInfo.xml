@@ -94,7 +94,7 @@
 			<Metadata name="Catalog.Кассы.Attribute.МОЛ" id="d209b32e-d404-49ae-b5b5-545adce6f60f"/>
 		</Metadata>
 		<Metadata name="Catalog.Кассы.ManagerModule" id="b583b28b-e42d-432e-92b9-76cdcb8b771d.3" configVersion="20549b570a90894d97cb9d43bbb4593600000000"/>
-		<Metadata name="Catalog.Контрагенты" id="ada3771f-5234-4e8d-ae75-e5e189dc538c" configVersion="7e77fd38ef0ca843af762dc55ffd2a9800000000">
+		<Metadata name="Catalog.Контрагенты" id="ada3771f-5234-4e8d-ae75-e5e189dc538c" configVersion="1f69b4cc7cac244abc9cf6a636d65cfa00000000">
 			<Metadata name="Catalog.Контрагенты.Attribute.Пол" id="25d6c081-801d-4417-91df-bd887822926e"/>
 			<Metadata name="Catalog.Контрагенты.Attribute.ТипКонтрагента" id="26253369-c3d9-4169-92b6-ddcb04280af2"/>
 			<Metadata name="Catalog.Контрагенты.Attribute.ДатаРождения" id="33927dff-f451-436f-be68-0060da89428d"/>
@@ -112,7 +112,7 @@
 		<Metadata name="Catalog.Контрагенты.Form.ФормаСписка.Form" id="cf5d5c6e-2bb0-4af6-9bc1-8f63e5006cbd.0" configVersion="7d364f07a2488a408868e0022a34144600000000"/>
 		<Metadata name="Catalog.Контрагенты.Form.ФормаЭлемента" id="5d6b0772-d2b4-4522-ae06-a0e71461ae2b" configVersion="33e7f1bb2081e747a98f8878d8c3413600000000"/>
 		<Metadata name="Catalog.Контрагенты.Form.ФормаЭлемента.Form" id="5d6b0772-d2b4-4522-ae06-a0e71461ae2b.0" configVersion="a2a3c50aa3c7784fa43e7a3eb35b1ccb00000000"/>
-		<Metadata name="Catalog.Контрагенты.ManagerModule" id="ada3771f-5234-4e8d-ae75-e5e189dc538c.3" configVersion="5631969084194c4eab186282341cf4d800000000"/>
+		<Metadata name="Catalog.Контрагенты.ManagerModule" id="ada3771f-5234-4e8d-ae75-e5e189dc538c.3" configVersion="fb4534ba1f2f5846b7e6e63e245317ec00000000"/>
 		<Metadata name="Catalog.Контрагенты.Predefined" id="ada3771f-5234-4e8d-ae75-e5e189dc538c.1c" configVersion="ea7e1bd011eed440a323437d27292db200000000"/>
 		<Metadata name="Catalog.Номенклатура" id="ddac927d-70e8-4179-ade5-db76d310c772" configVersion="e26b58b5f2e32c4486b901f0411d772a00000000">
 			<Metadata name="Catalog.Номенклатура.Attribute.ТипНоменклатуры" id="0a89601d-680a-46c3-8838-7382594232e4"/>
