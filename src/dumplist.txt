@@ -1,3 +1,2 @@
-﻿Modified: Catalog.Сотрудники
-Modified: Catalog.Сотрудники.ManagerModule
-Modified: Catalog.Сотрудники.ObjectModule
+﻿Modified: Configuration.ГрумингСалон
+Modified: Configuration.ГрумингСалон.SessionModule
