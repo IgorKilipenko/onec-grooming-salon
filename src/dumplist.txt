@@ -1,1 +1,4 @@
-﻿Modified: Configuration.ГрумингСалон
+﻿New: Report.ОтчетПоПрибыли.ObjectModule
+Modified: Report.ОтчетПоПрибыли
+Modified: Report.ОтчетПоПрибыли.Template.ОсновнаяСхемаКомпоновкиДанных
+Modified: Report.ОтчетПоПрибыли.Template.ОсновнаяСхемаКомпоновкиДанных.Template

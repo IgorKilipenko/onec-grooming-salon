@@ -696,9 +696,10 @@
 		<Metadata name="Report.ОтчетПоНачислениюЗарплаты" id="26e07436-4c39-454c-ad04-5a076de86f70" configVersion="db699beeb3fb2342a6ead8f0168a47e900000000"/>
 		<Metadata name="Report.ОтчетПоНачислениюЗарплаты.Template.ОсновнаяСхемаКомпоновкиДанных" id="307198fe-9114-4224-92b2-747f78c32edf" configVersion="5a6280ea2745a549874c25a4104b0a0500000000"/>
 		<Metadata name="Report.ОтчетПоНачислениюЗарплаты.Template.ОсновнаяСхемаКомпоновкиДанных.Template" id="307198fe-9114-4224-92b2-747f78c32edf.0" configVersion="34d5de2fb52f6040a24a4a32440244ec00000000"/>
-		<Metadata name="Report.ОтчетПоПрибыли" id="c42adae0-b5d1-4105-aa27-301b8d99ad1d" configVersion="22a2005d9446854f8ee283a4fcc9850700000000"/>
-		<Metadata name="Report.ОтчетПоПрибыли.Template.ОсновнаяСхемаКомпоновкиДанных" id="230bb39a-b197-4915-9e73-3e6fa8eca307" configVersion="181d0f72b3cbf54ebd703af94754a44900000000"/>
-		<Metadata name="Report.ОтчетПоПрибыли.Template.ОсновнаяСхемаКомпоновкиДанных.Template" id="230bb39a-b197-4915-9e73-3e6fa8eca307.0" configVersion="9a304ed5b303554faadc0ec9d2682c2700000000"/>
+		<Metadata name="Report.ОтчетПоПрибыли" id="c42adae0-b5d1-4105-aa27-301b8d99ad1d" configVersion="50f04f20398d85499b52f3603bb2e48500000000"/>
+		<Metadata name="Report.ОтчетПоПрибыли.ObjectModule" id="c42adae0-b5d1-4105-aa27-301b8d99ad1d.0" configVersion="3679b7c7743b5a41815593f1585087a100000000"/>
+		<Metadata name="Report.ОтчетПоПрибыли.Template.ОсновнаяСхемаКомпоновкиДанных" id="230bb39a-b197-4915-9e73-3e6fa8eca307" configVersion="99caf67e81230747925862304410199000000000"/>
+		<Metadata name="Report.ОтчетПоПрибыли.Template.ОсновнаяСхемаКомпоновкиДанных.Template" id="230bb39a-b197-4915-9e73-3e6fa8eca307.0" configVersion="e546047b46a8544990a013494e7c550d00000000"/>
 		<Metadata name="Report.ОтчётПоОказаннымУслугам" id="d489ff64-8a45-45fa-8784-463d7805b9bc" configVersion="ff6995c5450ef8498613d050a777b3e700000000"/>
 		<Metadata name="Report.ОтчётПоОказаннымУслугам.Form.ФормаОтчета" id="be546a80-f08f-4fa4-9051-9212202ae147" configVersion="9d3e3563479439459d16fa6bef6c3a9400000000"/>
 		<Metadata name="Report.ОтчётПоОказаннымУслугам.Form.ФормаОтчета.Form" id="be546a80-f08f-4fa4-9051-9212202ae147.0" configVersion="acd01b255513b040bb75495e6a4ff9c300000000"/>
