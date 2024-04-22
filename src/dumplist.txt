@@ -1,2 +1,2 @@
-﻿Modified: Document.РеализацияТоваровИУслуг
-Modified: Document.РеализацияТоваровИУслуг.ObjectModule
+﻿Modified: Report.ОтчетПоПрибыли.Template.ОсновнаяСхемаКомпоновкиДанных
+Modified: Report.ОтчетПоПрибыли.Template.ОсновнаяСхемаКомпоновкиДанных.Template
