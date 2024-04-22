@@ -505,14 +505,14 @@
 		<Metadata name="Document.СписаниеСРасчетногоСчета.Form.ФормаСписка.Form" id="5a0e0a8f-8bdd-4488-94e5-cc90c0d33ecd.0" configVersion="522435d20f328a4399631bf9bc56578a00000000"/>
 		<Metadata name="Document.СписаниеСРасчетногоСчета.ManagerModule" id="2ed296d6-c7a7-4ba7-81c0-77f2f45f26f2.2" configVersion="5fd6eb686dcac042a94d6ce64541e5dd00000000"/>
 		<Metadata name="Document.СписаниеСРасчетногоСчета.ObjectModule" id="2ed296d6-c7a7-4ba7-81c0-77f2f45f26f2.0" configVersion="3c9443dee07dd141ad2ada044409b7bd00000000"/>
-		<Metadata name="Document.УстановкаУчетнойПолитикиОрганизации" id="000fa55b-c68c-42c0-b2be-cccd03d8693f" configVersion="b64978dc19f704448f18c796d176b0df00000000">
+		<Metadata name="Document.УстановкаУчетнойПолитикиОрганизации" id="000fa55b-c68c-42c0-b2be-cccd03d8693f" configVersion="7c048aa1777e424dafcf84b1fc1e23e800000000">
 			<Metadata name="Document.УстановкаУчетнойПолитикиОрганизации.Attribute.Комментарий" id="1f45bc69-0857-4017-aa85-5a2377588313"/>
 			<Metadata name="Document.УстановкаУчетнойПолитикиОрганизации.Attribute.АвторДокумента" id="796f65ed-e2bb-4b93-9204-1b6134dd2e03"/>
 			<Metadata name="Document.УстановкаУчетнойПолитикиОрганизации.Attribute.УчетнаяПолитика" id="e7efa3d1-1f4d-4fc7-be72-f8cee9a5f8b3"/>
 		</Metadata>
 		<Metadata name="Document.УстановкаУчетнойПолитикиОрганизации.Form.ФормаДокумента" id="cf499439-ea3b-454f-bc6d-437b2a0a2cae" configVersion="95c32b5b5ac456458371092e782fb16400000000"/>
 		<Metadata name="Document.УстановкаУчетнойПолитикиОрганизации.Form.ФормаДокумента.Form" id="cf499439-ea3b-454f-bc6d-437b2a0a2cae.0" configVersion="7caacad51df3a644b8c9e431d9a0bef900000000"/>
-		<Metadata name="Document.УстановкаУчетнойПолитикиОрганизации.ObjectModule" id="000fa55b-c68c-42c0-b2be-cccd03d8693f.0" configVersion="165219709f0cce42a2ce288effd849dc00000000"/>
+		<Metadata name="Document.УстановкаУчетнойПолитикиОрганизации.ObjectModule" id="000fa55b-c68c-42c0-b2be-cccd03d8693f.0" configVersion="7053c4d354569647a27bea9155cecec600000000"/>
 		<Metadata name="Document.УстановкаЦенПоставщика" id="54181aab-99b5-4811-9bd9-475221464ec5" configVersion="2b86bcf21a2a9842b4882dff4766c91000000000">
 			<Metadata name="Document.УстановкаЦенПоставщика.TabularSection.Товары" id="1407374f-9cb3-4bc1-ada3-b69ad173011d"/>
 			<Metadata name="Document.УстановкаЦенПоставщика.Attribute.АвторДокумента" id="3637d1c1-87aa-435d-9437-6442110daa1c"/>
