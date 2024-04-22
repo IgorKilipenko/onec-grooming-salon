@@ -1,2 +1,2 @@
-﻿Modified: Document.УстановкаУчетнойПолитикиОрганизации
-Modified: Document.УстановкаУчетнойПолитикиОрганизации.ObjectModule
+﻿Modified: Document.РеализацияТоваровИУслуг
+Modified: Document.РеализацияТоваровИУслуг.ObjectModule
