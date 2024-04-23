@@ -706,8 +706,8 @@
 		<Metadata name="Report.ОтчётПоОказаннымУслугам.Template.ОсновнаяСхемаКомпоновкиДанных" id="ac4885af-718e-4022-ac79-a31dfa5a627b" configVersion="5c862f315265fe4cac321589a3c953b300000000"/>
 		<Metadata name="Report.ОтчётПоОказаннымУслугам.Template.ОсновнаяСхемаКомпоновкиДанных.Template" id="ac4885af-718e-4022-ac79-a31dfa5a627b.0" configVersion="00263b288f01a04ea8f9fc0e21fe8a7400000000"/>
 		<Metadata name="Report.ОтчётПоТоварамНаСкладах" id="5b84d0e3-69c3-487a-9eea-19680f5ec4a5" configVersion="ac1f4c7120eb1e47b2248d4eee8dcbc700000000"/>
-		<Metadata name="Report.ОтчётПоТоварамНаСкладах.Template.ОсновнаяСхемаКомпоновкиДанных" id="7de93bb0-ec3a-49aa-a2ad-154f8bc699be" configVersion="8c7dac301ad4184981cabc10f4e414ee00000000"/>
-		<Metadata name="Report.ОтчётПоТоварамНаСкладах.Template.ОсновнаяСхемаКомпоновкиДанных.Template" id="7de93bb0-ec3a-49aa-a2ad-154f8bc699be.0" configVersion="8240bc88b2ed304b837bf70f2575052000000000"/>
+		<Metadata name="Report.ОтчётПоТоварамНаСкладах.Template.ОсновнаяСхемаКомпоновкиДанных" id="7de93bb0-ec3a-49aa-a2ad-154f8bc699be" configVersion="85333db7600c6c4fb496f293bb6c517500000000"/>
+		<Metadata name="Report.ОтчётПоТоварамНаСкладах.Template.ОсновнаяСхемаКомпоновкиДанных.Template" id="7de93bb0-ec3a-49aa-a2ad-154f8bc699be.0" configVersion="2ef59e861501eb42bc3b5cc62d6bc93c00000000"/>
 		<Metadata name="Role.RemoteServiceClient" id="29f9b2db-4099-4f7c-b229-928654ff853a" configVersion="15b857ca77c44a40a9ebc0bb959af19600000000"/>
 		<Metadata name="Role.RemoteServiceClient.Rights" id="29f9b2db-4099-4f7c-b229-928654ff853a.0" configVersion="f9a78ed0ccc09746aeccb4e0e0149f5c00000000"/>
 		<Metadata name="Role.АвторизованныйПользователь" id="b28fb3d5-54ee-47a5-ae4d-82b4bf7e4f6b" configVersion="0f292dc9d557cb4c9e614fe0cf0ee3d100000000"/>

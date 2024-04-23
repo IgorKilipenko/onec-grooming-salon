@@ -1,2 +1,2 @@
-﻿Modified: Report.ОтчетПоПрибыли.Template.ОсновнаяСхемаКомпоновкиДанных
-Modified: Report.ОтчетПоПрибыли.Template.ОсновнаяСхемаКомпоновкиДанных.Template
+﻿Modified: Report.ОтчётПоТоварамНаСкладах.Template.ОсновнаяСхемаКомпоновкиДанных
+Modified: Report.ОтчётПоТоварамНаСкладах.Template.ОсновнаяСхемаКомпоновкиДанных.Template
