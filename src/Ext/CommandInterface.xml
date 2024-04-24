@@ -1,40 +1,12 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <CommandInterface xmlns="http://v8.1c.ru/8.3/xcf/extrnprops" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.17">
-	<SubsystemsVisibility>
-		<Subsystem name="f85913e6-f496-42e7-b8ec-d714c73d18f3">
-			<Visibility>
-				<xr:Common>false</xr:Common>
-				<xr:Value name="Role.ПолныеПрава">false</xr:Value>
-			</Visibility>
-		</Subsystem>
-		<Subsystem name="a9710ea3-1665-491c-a57e-5d5efe939d43">
-			<Visibility>
-				<xr:Common>false</xr:Common>
-				<xr:Value name="Role.ПолныеПрава">false</xr:Value>
-			</Visibility>
-		</Subsystem>
-		<Subsystem name="c5dcb32f-1d4a-4e74-8e2e-ee2bb4a5528d">
-			<Visibility>
-				<xr:Common>false</xr:Common>
-				<xr:Value name="Role.ПолныеПрава">false</xr:Value>
-			</Visibility>
-		</Subsystem>
-		<Subsystem name="e06c1cd6-d5a6-4958-9c28-cc6f367049b8">
-			<Visibility>
-				<xr:Common>false</xr:Common>
-				<xr:Value name="Role.ПолныеПрава">false</xr:Value>
-			</Visibility>
-		</Subsystem>
-	</SubsystemsVisibility>
 	<SubsystemsOrder>
-		<Subsystem>Subsystem.Справочники</Subsystem>
-		<Subsystem>Subsystem.Покупки</Subsystem>
 		<Subsystem>Subsystem.Продажи</Subsystem>
+		<Subsystem>Subsystem.Покупки</Subsystem>
 		<Subsystem>Subsystem.Персонал</Subsystem>
+		<Subsystem>Subsystem.Деньги</Subsystem>
+		<Subsystem>Subsystem.БухгалтерскийУчет</Subsystem>
+		<Subsystem>Subsystem.Справочники</Subsystem>
 		<Subsystem>Subsystem.Настройки</Subsystem>
-		<Subsystem>f85913e6-f496-42e7-b8ec-d714c73d18f3</Subsystem>
-		<Subsystem>a9710ea3-1665-491c-a57e-5d5efe939d43</Subsystem>
-		<Subsystem>c5dcb32f-1d4a-4e74-8e2e-ee2bb4a5528d</Subsystem>
-		<Subsystem>e06c1cd6-d5a6-4958-9c28-cc6f367049b8</Subsystem>
 	</SubsystemsOrder>
 </CommandInterface>

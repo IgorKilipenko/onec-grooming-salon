@@ -18,11 +18,20 @@
 				<xr:Ref>CommonPicture.Покупки</xr:Ref>
 				<xr:LoadTransparent>true</xr:LoadTransparent>
 			</Picture>
-			<Content/>
+			<Content>
+				<xr:Item xsi:type="xr:MDObjectRef">Catalog.Номенклатура</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">Catalog.Склады</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">Catalog.Контрагенты</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">Catalog.ДоговорыКонтрагентов</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">Catalog.СтатьиЗатрат</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">Document.ПеремещениеТоваров</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">Document.ПоступлениеТоваров</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">Document.ПоступлениеУслуг</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">Document.УстановкаЦенПоставщика</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">AccumulationRegister.УчетЗатрат</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">Report.ОтчётПоТоварамНаСкладах</xr:Item>
+			</Content>
 		</Properties>
-		<ChildObjects>
-			<Subsystem>Справочники</Subsystem>
-			<Subsystem>Покупки</Subsystem>
-		</ChildObjects>
+		<ChildObjects/>
 	</Subsystem>
 </MetaDataObject>

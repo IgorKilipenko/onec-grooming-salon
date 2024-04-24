@@ -1,0 +1,137 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<CommandInterface xmlns="http://v8.1c.ru/8.3/xcf/extrnprops" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.17">
+	<CommandsVisibility>
+		<Command name="Catalog.Номенклатура.StandardCommand.OpenList">
+			<Visibility>
+				<xr:Common>true</xr:Common>
+			</Visibility>
+		</Command>
+		<Command name="Catalog.Контрагенты.StandardCommand.OpenList">
+			<Visibility>
+				<xr:Common>true</xr:Common>
+			</Visibility>
+		</Command>
+		<Command name="Catalog.ДоговорыКонтрагентов.StandardCommand.OpenList">
+			<Visibility>
+				<xr:Common>true</xr:Common>
+			</Visibility>
+		</Command>
+		<Command name="Catalog.Склады.StandardCommand.OpenList">
+			<Visibility>
+				<xr:Common>true</xr:Common>
+			</Visibility>
+		</Command>
+		<Command name="Catalog.СтатьиЗатрат.StandardCommand.OpenList">
+			<Visibility>
+				<xr:Common>true</xr:Common>
+			</Visibility>
+		</Command>
+		<Command name="Document.ПоступлениеТоваров.StandardCommand.OpenList">
+			<Visibility>
+				<xr:Common>true</xr:Common>
+			</Visibility>
+		</Command>
+		<Command name="Document.ПоступлениеУслуг.StandardCommand.OpenList">
+			<Visibility>
+				<xr:Common>true</xr:Common>
+			</Visibility>
+		</Command>
+		<Command name="Document.ПеремещениеТоваров.StandardCommand.OpenList">
+			<Visibility>
+				<xr:Common>true</xr:Common>
+			</Visibility>
+		</Command>
+		<Command name="Document.УстановкаЦенПоставщика.StandardCommand.OpenList">
+			<Visibility>
+				<xr:Common>true</xr:Common>
+			</Visibility>
+		</Command>
+		<Command name="AccumulationRegister.УчетЗатрат.StandardCommand.OpenList">
+			<Visibility>
+				<xr:Common>false</xr:Common>
+			</Visibility>
+		</Command>
+	</CommandsVisibility>
+	<CommandsPlacement>
+		<Command name="Catalog.Номенклатура.StandardCommand.OpenList">
+			<CommandGroup>CommandGroup.Справочники</CommandGroup>
+			<Placement>Auto</Placement>
+		</Command>
+		<Command name="Catalog.Контрагенты.StandardCommand.OpenList">
+			<CommandGroup>CommandGroup.Справочники</CommandGroup>
+			<Placement>Auto</Placement>
+		</Command>
+		<Command name="Catalog.ДоговорыКонтрагентов.StandardCommand.OpenList">
+			<CommandGroup>CommandGroup.Справочники</CommandGroup>
+			<Placement>Auto</Placement>
+		</Command>
+		<Command name="Catalog.Склады.StandardCommand.OpenList">
+			<CommandGroup>CommandGroup.Справочники</CommandGroup>
+			<Placement>Auto</Placement>
+		</Command>
+		<Command name="Catalog.СтатьиЗатрат.StandardCommand.OpenList">
+			<CommandGroup>CommandGroup.Справочники</CommandGroup>
+			<Placement>Auto</Placement>
+		</Command>
+		<Command name="Document.ПоступлениеТоваров.StandardCommand.OpenList">
+			<CommandGroup>CommandGroup.Покупки</CommandGroup>
+			<Placement>Auto</Placement>
+		</Command>
+		<Command name="Document.ПоступлениеУслуг.StandardCommand.OpenList">
+			<CommandGroup>CommandGroup.Покупки</CommandGroup>
+			<Placement>Auto</Placement>
+		</Command>
+		<Command name="Document.ПеремещениеТоваров.StandardCommand.OpenList">
+			<CommandGroup>CommandGroup.Покупки</CommandGroup>
+			<Placement>Auto</Placement>
+		</Command>
+		<Command name="Document.УстановкаЦенПоставщика.StandardCommand.OpenList">
+			<CommandGroup>CommandGroup.Покупки</CommandGroup>
+			<Placement>Auto</Placement>
+		</Command>
+		<Command name="AccumulationRegister.УчетЗатрат.StandardCommand.OpenList">
+			<CommandGroup>CommandGroup.Покупки</CommandGroup>
+			<Placement>Auto</Placement>
+		</Command>
+	</CommandsPlacement>
+	<CommandsOrder>
+		<Command name="Catalog.Номенклатура.StandardCommand.OpenList">
+			<CommandGroup>CommandGroup.Справочники</CommandGroup>
+		</Command>
+		<Command name="Catalog.Контрагенты.StandardCommand.OpenList">
+			<CommandGroup>CommandGroup.Справочники</CommandGroup>
+		</Command>
+		<Command name="Catalog.ДоговорыКонтрагентов.StandardCommand.OpenList">
+			<CommandGroup>CommandGroup.Справочники</CommandGroup>
+		</Command>
+		<Command name="Catalog.Склады.StandardCommand.OpenList">
+			<CommandGroup>CommandGroup.Справочники</CommandGroup>
+		</Command>
+		<Command name="Catalog.СтатьиЗатрат.StandardCommand.OpenList">
+			<CommandGroup>CommandGroup.Справочники</CommandGroup>
+		</Command>
+		<Command name="Document.ПоступлениеТоваров.StandardCommand.OpenList">
+			<CommandGroup>CommandGroup.Покупки</CommandGroup>
+		</Command>
+		<Command name="Document.ПоступлениеУслуг.StandardCommand.OpenList">
+			<CommandGroup>CommandGroup.Покупки</CommandGroup>
+		</Command>
+		<Command name="Document.ПеремещениеТоваров.StandardCommand.OpenList">
+			<CommandGroup>CommandGroup.Покупки</CommandGroup>
+		</Command>
+		<Command name="Document.УстановкаЦенПоставщика.StandardCommand.OpenList">
+			<CommandGroup>CommandGroup.Покупки</CommandGroup>
+		</Command>
+		<Command name="AccumulationRegister.УчетЗатрат.StandardCommand.OpenList">
+			<CommandGroup>CommandGroup.Покупки</CommandGroup>
+		</Command>
+	</CommandsOrder>
+	<SubsystemsOrder>
+		<Subsystem>8858fa7e-f844-445a-9b47-3be609ace23a</Subsystem>
+		<Subsystem>454bc083-079c-4485-ad12-79ed55ad36d0</Subsystem>
+	</SubsystemsOrder>
+	<GroupsOrder>
+		<Group>CommandGroup.Справочники</Group>
+		<Group>CommandGroup.Покупки</Group>
+	</GroupsOrder>
+</CommandInterface>

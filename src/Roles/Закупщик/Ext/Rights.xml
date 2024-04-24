@@ -98,13 +98,6 @@
 		</right>
 	</object>
 	<object>
-		<name>Subsystem.Покупки.Subsystem.Справочники</name>
-		<right>
-			<name>View</name>
-			<value>true</value>
-		</right>
-	</object>
-	<object>
 		<name>AccumulationRegister.ТоварыНаСкладах</name>
 		<right>
 			<name>Read</name>
@@ -166,13 +159,6 @@
 			<name>Read</name>
 			<value>true</value>
 		</right>
-		<right>
-			<name>View</name>
-			<value>true</value>
-		</right>
-	</object>
-	<object>
-		<name>Subsystem.Покупки.Subsystem.Покупки</name>
 		<right>
 			<name>View</name>
 			<value>true</value>
