@@ -24,10 +24,14 @@
 				<xr:Item xsi:type="xr:MDObjectRef">Document.БольничныйЛист</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">Document.НачислениеПремии</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">Report.ОтчетПоНачислениюЗарплаты</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">Catalog.Должности</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">Catalog.Сотрудники</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">Catalog.ГрафикиРаботыСотрудников</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">ChartOfCalculationTypes.Начисления</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">InformationRegister.ГрафикиРаботыПредприятия</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">InformationRegister.КадроваяИсторияСотрудников</xr:Item>
 			</Content>
 		</Properties>
-		<ChildObjects>
-			<Subsystem>Справочники</Subsystem>
-		</ChildObjects>
+		<ChildObjects/>
 	</Subsystem>
 </MetaDataObject>

@@ -246,14 +246,14 @@
 		</Properties>
 		<ChildObjects>
 			<Language>Русский</Language>
-			<Subsystem>Справочники</Subsystem>
-			<Subsystem>Покупки</Subsystem>
 			<Subsystem>Продажи</Subsystem>
+			<Subsystem>Покупки</Subsystem>
 			<Subsystem>Персонал</Subsystem>
-			<Subsystem>Настройки</Subsystem>
 			<Subsystem>Деньги</Subsystem>
 			<Subsystem>БухгалтерскийУчет</Subsystem>
 			<Subsystem>БизнесПроцессыИЗадачи</Subsystem>
+			<Subsystem>Справочники</Subsystem>
+			<Subsystem>Настройки</Subsystem>
 			<Style>ГрумингСалон</Style>
 			<CommonPicture>БизнесПроцессы</CommonPicture>
 			<CommonPicture>БухгалтерскийУчет</CommonPicture>
@@ -291,15 +291,18 @@
 			<DefinedType>КоличествоТоваров</DefinedType>
 			<DefinedType>КомментарийКороткий</DefinedType>
 			<DefinedType>КомментарийПолный</DefinedType>
-			<CommandGroup>Настройки</CommandGroup>
-			<CommandGroup>Справочники</CommandGroup>
-			<CommandGroup>БухгалтерскийУчет</CommandGroup>
-			<CommandGroup>ДенежныеСредства</CommandGroup>
+			<CommandGroup>Продажи</CommandGroup>
+			<CommandGroup>Покупки</CommandGroup>
+			<CommandGroup>Персонал</CommandGroup>
+			<CommandGroup>Зарплата</CommandGroup>
+			<CommandGroup>Деньги</CommandGroup>
 			<CommandGroup>Касса</CommandGroup>
 			<CommandGroup>Банк</CommandGroup>
-			<CommandGroup>Покупки</CommandGroup>
-			<CommandGroup>Зарплата</CommandGroup>
+			<CommandGroup>БухгалтерскийУчет</CommandGroup>
+			<CommandGroup>ДенежныеСредства</CommandGroup>
+			<CommandGroup>Справочники</CommandGroup>
 			<CommandGroup>БизнесПроцессыИЗадачи</CommandGroup>
+			<CommandGroup>Настройки</CommandGroup>
 			<Constant>ИспользоватьСклады</Constant>
 			<Constant>ЗапретПроведенияПриОтрицательныхОстатках</Constant>
 			<Constant>НачалоРабочегоДня</Constant>

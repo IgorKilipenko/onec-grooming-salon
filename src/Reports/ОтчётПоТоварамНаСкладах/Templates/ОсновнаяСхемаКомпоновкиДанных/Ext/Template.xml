@@ -100,26 +100,6 @@
 ИЗ
 	РегистрНакопления.ТоварыНаСкладах.ОстаткиИОбороты({(&amp;НачалоПериода)}, {(&amp;КонецПериода)}, , , Номенклатура.ТипНоменклатуры &lt;&gt; ЗНАЧЕНИЕ(Перечисление.ТипыНоменклатуры.Услуга) {(Склад = &amp;Склад), (Номенклатура = &amp;Номенклатура)}) КАК ТоварыНаСкладахОстаткиИОбороты</query>
 	</dataSet>
-	<totalField>
-		<dataPath>КонечныйОстаток</dataPath>
-		<expression>Сумма(КонечныйОстаток)</expression>
-		<group>Номенклатура</group>
-	</totalField>
-	<totalField>
-		<dataPath>НачальныйОстаток</dataPath>
-		<expression>Сумма(НачальныйОстаток)</expression>
-		<group>Номенклатура</group>
-	</totalField>
-	<totalField>
-		<dataPath>Приход</dataPath>
-		<expression>Сумма(Приход)</expression>
-		<group>Номенклатура</group>
-	</totalField>
-	<totalField>
-		<dataPath>Расход</dataPath>
-		<expression>Сумма(Расход)</expression>
-		<group>Номенклатура</group>
-	</totalField>
 	<parameter>
 		<name>НачалоПериода</name>
 		<title xsi:type="v8:LocalStringType">

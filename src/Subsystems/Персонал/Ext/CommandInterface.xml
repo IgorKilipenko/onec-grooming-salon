@@ -1,6 +1,36 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <CommandInterface xmlns="http://v8.1c.ru/8.3/xcf/extrnprops" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.17">
 	<CommandsVisibility>
+		<Command name="Catalog.Сотрудники.StandardCommand.OpenList">
+			<Visibility>
+				<xr:Common>true</xr:Common>
+			</Visibility>
+		</Command>
+		<Command name="Catalog.Должности.StandardCommand.OpenList">
+			<Visibility>
+				<xr:Common>true</xr:Common>
+			</Visibility>
+		</Command>
+		<Command name="Catalog.ГрафикиРаботыСотрудников.StandardCommand.OpenList">
+			<Visibility>
+				<xr:Common>true</xr:Common>
+			</Visibility>
+		</Command>
+		<Command name="InformationRegister.КадроваяИсторияСотрудников.StandardCommand.OpenList">
+			<Visibility>
+				<xr:Common>true</xr:Common>
+			</Visibility>
+		</Command>
+		<Command name="ChartOfCalculationTypes.Начисления.StandardCommand.OpenList">
+			<Visibility>
+				<xr:Common>true</xr:Common>
+			</Visibility>
+		</Command>
+		<Command name="InformationRegister.ГрафикиРаботыПредприятия.StandardCommand.OpenList">
+			<Visibility>
+				<xr:Common>true</xr:Common>
+			</Visibility>
+		</Command>
 		<Command name="Document.НачислениеЗарплаты.StandardCommand.OpenList">
 			<Visibility>
 				<xr:Common>true</xr:Common>
@@ -14,10 +44,39 @@
 		<Command name="Document.БольничныйЛист.StandardCommand.OpenList">
 			<Visibility>
 				<xr:Common>true</xr:Common>
+			</Visibility>
+		</Command>
+		<Command name="CalculationRegister.Начисления.StandardCommand.OpenList">
+			<Visibility>
+				<xr:Common>false</xr:Common>
 			</Visibility>
 		</Command>
 	</CommandsVisibility>
 	<CommandsPlacement>
+		<Command name="Catalog.Сотрудники.StandardCommand.OpenList">
+			<CommandGroup>CommandGroup.Справочники</CommandGroup>
+			<Placement>Auto</Placement>
+		</Command>
+		<Command name="Catalog.Должности.StandardCommand.OpenList">
+			<CommandGroup>CommandGroup.Справочники</CommandGroup>
+			<Placement>Auto</Placement>
+		</Command>
+		<Command name="Catalog.ГрафикиРаботыСотрудников.StandardCommand.OpenList">
+			<CommandGroup>CommandGroup.Справочники</CommandGroup>
+			<Placement>Auto</Placement>
+		</Command>
+		<Command name="InformationRegister.КадроваяИсторияСотрудников.StandardCommand.OpenList">
+			<CommandGroup>CommandGroup.Справочники</CommandGroup>
+			<Placement>Auto</Placement>
+		</Command>
+		<Command name="ChartOfCalculationTypes.Начисления.StandardCommand.OpenList">
+			<CommandGroup>CommandGroup.Справочники</CommandGroup>
+			<Placement>Auto</Placement>
+		</Command>
+		<Command name="InformationRegister.ГрафикиРаботыПредприятия.StandardCommand.OpenList">
+			<CommandGroup>CommandGroup.Справочники</CommandGroup>
+			<Placement>Auto</Placement>
+		</Command>
 		<Command name="Document.НачислениеЗарплаты.StandardCommand.OpenList">
 			<CommandGroup>CommandGroup.Зарплата</CommandGroup>
 			<Placement>Auto</Placement>
@@ -27,11 +86,33 @@
 			<Placement>Auto</Placement>
 		</Command>
 		<Command name="Document.БольничныйЛист.StandardCommand.OpenList">
+			<CommandGroup>CommandGroup.Зарплата</CommandGroup>
+			<Placement>Auto</Placement>
+		</Command>
+		<Command name="CalculationRegister.Начисления.StandardCommand.OpenList">
 			<CommandGroup>CommandGroup.Зарплата</CommandGroup>
 			<Placement>Auto</Placement>
 		</Command>
 	</CommandsPlacement>
 	<CommandsOrder>
+		<Command name="Catalog.Сотрудники.StandardCommand.OpenList">
+			<CommandGroup>CommandGroup.Справочники</CommandGroup>
+		</Command>
+		<Command name="Catalog.Должности.StandardCommand.OpenList">
+			<CommandGroup>CommandGroup.Справочники</CommandGroup>
+		</Command>
+		<Command name="Catalog.ГрафикиРаботыСотрудников.StandardCommand.OpenList">
+			<CommandGroup>CommandGroup.Справочники</CommandGroup>
+		</Command>
+		<Command name="InformationRegister.КадроваяИсторияСотрудников.StandardCommand.OpenList">
+			<CommandGroup>CommandGroup.Справочники</CommandGroup>
+		</Command>
+		<Command name="ChartOfCalculationTypes.Начисления.StandardCommand.OpenList">
+			<CommandGroup>CommandGroup.Справочники</CommandGroup>
+		</Command>
+		<Command name="InformationRegister.ГрафикиРаботыПредприятия.StandardCommand.OpenList">
+			<CommandGroup>CommandGroup.Справочники</CommandGroup>
+		</Command>
 		<Command name="Document.НачислениеЗарплаты.StandardCommand.OpenList">
 			<CommandGroup>CommandGroup.Зарплата</CommandGroup>
 		</Command>
@@ -41,11 +122,15 @@
 		<Command name="Document.БольничныйЛист.StandardCommand.OpenList">
 			<CommandGroup>CommandGroup.Зарплата</CommandGroup>
 		</Command>
+		<Command name="CalculationRegister.Начисления.StandardCommand.OpenList">
+			<CommandGroup>CommandGroup.Зарплата</CommandGroup>
+		</Command>
 	</CommandsOrder>
 	<SubsystemsOrder>
-		<Subsystem>Subsystem.Персонал.Subsystem.Справочники</Subsystem>
+		<Subsystem>ce77fbe5-febc-4733-b4be-1e618770f870</Subsystem>
 	</SubsystemsOrder>
 	<GroupsOrder>
+		<Group>CommandGroup.Справочники</Group>
 		<Group>CommandGroup.Зарплата</Group>
 	</GroupsOrder>
 </CommandInterface>

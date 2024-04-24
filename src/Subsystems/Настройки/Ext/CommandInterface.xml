@@ -11,6 +11,11 @@
 				<xr:Common>true</xr:Common>
 			</Visibility>
 		</Command>
+		<Command name="Document.РегистрацияПользователя.StandardCommand.OpenList">
+			<Visibility>
+				<xr:Common>true</xr:Common>
+			</Visibility>
+		</Command>
 		<Command name="BusinessProcess.ДорегистрацияКлиента.StandardCommand.OpenList">
 			<Visibility>
 				<xr:Common>true</xr:Common>
@@ -22,6 +27,11 @@
 			</Visibility>
 		</Command>
 		<Command name="InformationRegister.РегистрАдресацииИсполнителей.StandardCommand.OpenList">
+			<Visibility>
+				<xr:Common>true</xr:Common>
+			</Visibility>
+		</Command>
+		<Command name="Catalog.Пользователи.StandardCommand.OpenList">
 			<Visibility>
 				<xr:Common>true</xr:Common>
 			</Visibility>
@@ -41,6 +51,10 @@
 			<CommandGroup>CommandGroup.Настройки</CommandGroup>
 			<Placement>Auto</Placement>
 		</Command>
+		<Command name="Document.РегистрацияПользователя.StandardCommand.OpenList">
+			<CommandGroup>CommandGroup.БизнесПроцессыИЗадачи</CommandGroup>
+			<Placement>Auto</Placement>
+		</Command>
 		<Command name="BusinessProcess.ДорегистрацияКлиента.StandardCommand.OpenList">
 			<CommandGroup>CommandGroup.БизнесПроцессыИЗадачи</CommandGroup>
 			<Placement>Auto</Placement>
@@ -53,13 +67,41 @@
 			<CommandGroup>CommandGroup.БизнесПроцессыИЗадачи</CommandGroup>
 			<Placement>Auto</Placement>
 		</Command>
+		<Command name="Catalog.Пользователи.StandardCommand.OpenList">
+			<CommandGroup>CommandGroup.Справочники</CommandGroup>
+			<Placement>Auto</Placement>
+		</Command>
 		<Command name="Catalog.РолиИсполнителей.StandardCommand.OpenList">
-			<CommandGroup>CommandGroup.БизнесПроцессыИЗадачи</CommandGroup>
+			<CommandGroup>CommandGroup.Справочники</CommandGroup>
 			<Placement>Auto</Placement>
 		</Command>
 	</CommandsPlacement>
+	<CommandsOrder>
+		<Command name="Document.РегистрацияПользователя.StandardCommand.OpenList">
+			<CommandGroup>CommandGroup.БизнесПроцессыИЗадачи</CommandGroup>
+		</Command>
+		<Command name="BusinessProcess.ДорегистрацияКлиента.StandardCommand.OpenList">
+			<CommandGroup>CommandGroup.БизнесПроцессыИЗадачи</CommandGroup>
+		</Command>
+		<Command name="Task.ЗадачиИсполнителя.StandardCommand.OpenList">
+			<CommandGroup>CommandGroup.БизнесПроцессыИЗадачи</CommandGroup>
+		</Command>
+		<Command name="InformationRegister.РегистрАдресацииИсполнителей.StandardCommand.OpenList">
+			<CommandGroup>CommandGroup.БизнесПроцессыИЗадачи</CommandGroup>
+		</Command>
+		<Command name="Catalog.Пользователи.StandardCommand.OpenList">
+			<CommandGroup>CommandGroup.Справочники</CommandGroup>
+		</Command>
+		<Command name="Catalog.РолиИсполнителей.StandardCommand.OpenList">
+			<CommandGroup>CommandGroup.Справочники</CommandGroup>
+		</Command>
+	</CommandsOrder>
 	<SubsystemsOrder>
-		<Subsystem>Subsystem.Настройки.Subsystem.Сервис</Subsystem>
-		<Subsystem>Subsystem.Настройки.Subsystem.Справочники</Subsystem>
+		<Subsystem>19d6e9c1-cdbd-4022-884f-9ebf01e49de3</Subsystem>
+		<Subsystem>eace7f36-9d46-4fc5-9f93-320a5e72950e</Subsystem>
 	</SubsystemsOrder>
+	<GroupsOrder>
+		<Group>CommandGroup.БизнесПроцессыИЗадачи</Group>
+		<Group>CommandGroup.Справочники</Group>
+	</GroupsOrder>
 </CommandInterface>

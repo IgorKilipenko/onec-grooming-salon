@@ -1,9 +1,190 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <CommandInterface xmlns="http://v8.1c.ru/8.3/xcf/extrnprops" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.17">
+	<CommandsVisibility>
+		<Command name="Catalog.Кассы.StandardCommand.OpenList">
+			<Visibility>
+				<xr:Common>true</xr:Common>
+			</Visibility>
+		</Command>
+		<Command name="Catalog.Банки.StandardCommand.OpenList">
+			<Visibility>
+				<xr:Common>true</xr:Common>
+			</Visibility>
+		</Command>
+		<Command name="Catalog.ЭквайринговыеТерминалы.StandardCommand.OpenList">
+			<Visibility>
+				<xr:Common>true</xr:Common>
+			</Visibility>
+		</Command>
+		<Command name="Catalog.БанковскиеСчета.StandardCommand.OpenList">
+			<Visibility>
+				<xr:Common>true</xr:Common>
+			</Visibility>
+		</Command>
+		<Command name="Catalog.ГрафикиРаботыСотрудников.StandardCommand.OpenList">
+			<Visibility>
+				<xr:Common>true</xr:Common>
+			</Visibility>
+		</Command>
+		<Command name="Catalog.Сотрудники.StandardCommand.OpenList">
+			<Visibility>
+				<xr:Common>true</xr:Common>
+			</Visibility>
+		</Command>
+		<Command name="Catalog.Должности.StandardCommand.OpenList">
+			<Visibility>
+				<xr:Common>true</xr:Common>
+			</Visibility>
+		</Command>
+		<Command name="Catalog.СтатьиЗатрат.StandardCommand.OpenList">
+			<Visibility>
+				<xr:Common>true</xr:Common>
+			</Visibility>
+		</Command>
+		<Command name="Catalog.Номенклатура.StandardCommand.OpenList">
+			<Visibility>
+				<xr:Common>true</xr:Common>
+			</Visibility>
+		</Command>
+		<Command name="Catalog.Контрагенты.StandardCommand.OpenList">
+			<Visibility>
+				<xr:Common>true</xr:Common>
+			</Visibility>
+		</Command>
+		<Command name="Catalog.ПородыПитомцев.StandardCommand.OpenList">
+			<Visibility>
+				<xr:Common>true</xr:Common>
+			</Visibility>
+		</Command>
+		<Command name="Catalog.ДоговорыКонтрагентов.StandardCommand.OpenList">
+			<Visibility>
+				<xr:Common>true</xr:Common>
+			</Visibility>
+		</Command>
+		<Command name="Catalog.Склады.StandardCommand.OpenList">
+			<Visibility>
+				<xr:Common>true</xr:Common>
+			</Visibility>
+		</Command>
+		<Command name="Catalog.ИсточникиПолученияИнформацииОКомпании.StandardCommand.OpenList">
+			<Visibility>
+				<xr:Common>true</xr:Common>
+			</Visibility>
+		</Command>
+	</CommandsVisibility>
+	<CommandsPlacement>
+		<Command name="Catalog.Кассы.StandardCommand.OpenList">
+			<CommandGroup>CommandGroup.Деньги</CommandGroup>
+			<Placement>Auto</Placement>
+		</Command>
+		<Command name="Catalog.Банки.StandardCommand.OpenList">
+			<CommandGroup>CommandGroup.Деньги</CommandGroup>
+			<Placement>Auto</Placement>
+		</Command>
+		<Command name="Catalog.ЭквайринговыеТерминалы.StandardCommand.OpenList">
+			<CommandGroup>CommandGroup.Деньги</CommandGroup>
+			<Placement>Auto</Placement>
+		</Command>
+		<Command name="Catalog.БанковскиеСчета.StandardCommand.OpenList">
+			<CommandGroup>CommandGroup.Деньги</CommandGroup>
+			<Placement>Auto</Placement>
+		</Command>
+		<Command name="Catalog.ГрафикиРаботыСотрудников.StandardCommand.OpenList">
+			<CommandGroup>CommandGroup.Зарплата</CommandGroup>
+			<Placement>Auto</Placement>
+		</Command>
+		<Command name="Catalog.Сотрудники.StandardCommand.OpenList">
+			<CommandGroup>CommandGroup.Персонал</CommandGroup>
+			<Placement>Auto</Placement>
+		</Command>
+		<Command name="Catalog.Должности.StandardCommand.OpenList">
+			<CommandGroup>CommandGroup.Персонал</CommandGroup>
+			<Placement>Auto</Placement>
+		</Command>
+		<Command name="Catalog.СтатьиЗатрат.StandardCommand.OpenList">
+			<CommandGroup>CommandGroup.Покупки</CommandGroup>
+			<Placement>Auto</Placement>
+		</Command>
+		<Command name="Catalog.Номенклатура.StandardCommand.OpenList">
+			<CommandGroup>CommandGroup.Продажи</CommandGroup>
+			<Placement>Auto</Placement>
+		</Command>
+		<Command name="Catalog.Контрагенты.StandardCommand.OpenList">
+			<CommandGroup>CommandGroup.Продажи</CommandGroup>
+			<Placement>Auto</Placement>
+		</Command>
+		<Command name="Catalog.ПородыПитомцев.StandardCommand.OpenList">
+			<CommandGroup>CommandGroup.Продажи</CommandGroup>
+			<Placement>Auto</Placement>
+		</Command>
+		<Command name="Catalog.ДоговорыКонтрагентов.StandardCommand.OpenList">
+			<CommandGroup>CommandGroup.Продажи</CommandGroup>
+			<Placement>Auto</Placement>
+		</Command>
+		<Command name="Catalog.Склады.StandardCommand.OpenList">
+			<CommandGroup>CommandGroup.Продажи</CommandGroup>
+			<Placement>Auto</Placement>
+		</Command>
+		<Command name="Catalog.ИсточникиПолученияИнформацииОКомпании.StandardCommand.OpenList">
+			<CommandGroup>CommandGroup.Продажи</CommandGroup>
+			<Placement>Auto</Placement>
+		</Command>
+	</CommandsPlacement>
+	<CommandsOrder>
+		<Command name="Catalog.Кассы.StandardCommand.OpenList">
+			<CommandGroup>CommandGroup.Деньги</CommandGroup>
+		</Command>
+		<Command name="Catalog.Банки.StandardCommand.OpenList">
+			<CommandGroup>CommandGroup.Деньги</CommandGroup>
+		</Command>
+		<Command name="Catalog.ЭквайринговыеТерминалы.StandardCommand.OpenList">
+			<CommandGroup>CommandGroup.Деньги</CommandGroup>
+		</Command>
+		<Command name="Catalog.БанковскиеСчета.StandardCommand.OpenList">
+			<CommandGroup>CommandGroup.Деньги</CommandGroup>
+		</Command>
+		<Command name="Catalog.ГрафикиРаботыСотрудников.StandardCommand.OpenList">
+			<CommandGroup>CommandGroup.Зарплата</CommandGroup>
+		</Command>
+		<Command name="Catalog.Сотрудники.StandardCommand.OpenList">
+			<CommandGroup>CommandGroup.Персонал</CommandGroup>
+		</Command>
+		<Command name="Catalog.Должности.StandardCommand.OpenList">
+			<CommandGroup>CommandGroup.Персонал</CommandGroup>
+		</Command>
+		<Command name="Catalog.СтатьиЗатрат.StandardCommand.OpenList">
+			<CommandGroup>CommandGroup.Покупки</CommandGroup>
+		</Command>
+		<Command name="Catalog.Номенклатура.StandardCommand.OpenList">
+			<CommandGroup>CommandGroup.Продажи</CommandGroup>
+		</Command>
+		<Command name="Catalog.Контрагенты.StandardCommand.OpenList">
+			<CommandGroup>CommandGroup.Продажи</CommandGroup>
+		</Command>
+		<Command name="Catalog.ПородыПитомцев.StandardCommand.OpenList">
+			<CommandGroup>CommandGroup.Продажи</CommandGroup>
+		</Command>
+		<Command name="Catalog.ДоговорыКонтрагентов.StandardCommand.OpenList">
+			<CommandGroup>CommandGroup.Продажи</CommandGroup>
+		</Command>
+		<Command name="Catalog.Склады.StandardCommand.OpenList">
+			<CommandGroup>CommandGroup.Продажи</CommandGroup>
+		</Command>
+		<Command name="Catalog.ИсточникиПолученияИнформацииОКомпании.StandardCommand.OpenList">
+			<CommandGroup>CommandGroup.Продажи</CommandGroup>
+		</Command>
+	</CommandsOrder>
 	<SubsystemsOrder>
-		<Subsystem>Subsystem.Справочники.Subsystem.Персонал</Subsystem>
-		<Subsystem>Subsystem.Справочники.Subsystem.Продажи</Subsystem>
-		<Subsystem>Subsystem.Справочники.Subsystem.Покупки</Subsystem>
-		<Subsystem>Subsystem.Справочники.Subsystem.Деньги</Subsystem>
+		<Subsystem>24b4f492-ba8c-4ca9-a227-5800fe7423c4</Subsystem>
+		<Subsystem>8bd31985-c186-4642-bc8c-e4853bf67b85</Subsystem>
+		<Subsystem>e038da8a-ef1b-4be5-be6c-cbf67487d1f4</Subsystem>
+		<Subsystem>7f21d6c8-b0bb-48ea-83c0-528e51c139de</Subsystem>
 	</SubsystemsOrder>
+	<GroupsOrder>
+		<Group>CommandGroup.Деньги</Group>
+		<Group>CommandGroup.Зарплата</Group>
+		<Group>CommandGroup.Персонал</Group>
+		<Group>CommandGroup.Покупки</Group>
+		<Group>CommandGroup.Продажи</Group>
+	</GroupsOrder>
 </CommandInterface>
