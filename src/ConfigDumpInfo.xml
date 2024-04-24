@@ -46,7 +46,7 @@
 		<Metadata name="BusinessProcess.ДорегистрацияКлиента.Form.ФормаБизнесПроцесса" id="4e378264-79ae-4972-b2f8-fbac37d996af" configVersion="f685f2f1bc59f54785515c36dc9b8bb900000000"/>
 		<Metadata name="BusinessProcess.ДорегистрацияКлиента.Form.ФормаБизнесПроцесса.Form" id="4e378264-79ae-4972-b2f8-fbac37d996af.0" configVersion="5a8f11bdaf1d7042a9742592ae4225cb00000000"/>
 		<Metadata name="BusinessProcess.ДорегистрацияКлиента.ObjectModule" id="9085bcce-7765-4385-9bd4-b5e8a0db251f.6" configVersion="bff6459bf7949d42881f4d2c0aa2f47500000000"/>
-		<Metadata name="CalculationRegister.Начисления" id="0ce7ee63-60a0-4c34-9cc0-0a4538cd10dc" configVersion="e6a07a9f815dba4bb005e8104a0dccbd00000000">
+		<Metadata name="CalculationRegister.Начисления" id="0ce7ee63-60a0-4c34-9cc0-0a4538cd10dc" configVersion="36a4fd5612b6c1479af55947474b6adc00000000">
 			<Metadata name="CalculationRegister.Начисления.Resource.Сумма" id="2f9b698c-ce27-41df-b18e-bdc81b8df171"/>
 			<Metadata name="CalculationRegister.Начисления.Attribute.График" id="510318e0-ac93-4187-9678-c3205af78438"/>
 			<Metadata name="CalculationRegister.Начисления.Dimension.Сотрудник" id="8e610014-2592-47b0-99d9-358ffe5f9ad2"/>
