@@ -285,8 +285,8 @@
 		<Metadata name="DataProcessor.ЗагрузкаПрайсЛиста.Form.Форма.Form" id="a9f91d9c-5d26-48e2-b0be-9d0c35b00cd3.0" configVersion="f33fe4f2188db34282c8a13020e86bd200000000"/>
 		<Metadata name="DataProcessor.ЗагрузкаПрайсЛиста.ManagerModule" id="41da872a-a808-4e91-bcfb-792923f0c2be.2" configVersion="32be81d5a156e44d8d887257116ee65000000000"/>
 		<Metadata name="DataProcessor.МониторРуководителя" id="658acc8f-5448-455a-908b-36b42c6a79eb" configVersion="c8773fcc1ead9b4dad47e5430dec41d900000000"/>
-		<Metadata name="DataProcessor.МониторРуководителя.Form.Форма" id="af2dac3e-4d8e-4b8e-95f0-17efc107c3c1" configVersion="34fb2117fea8ed49ac1bb8d13832f01a00000000"/>
-		<Metadata name="DataProcessor.МониторРуководителя.Form.Форма.Form" id="af2dac3e-4d8e-4b8e-95f0-17efc107c3c1.0" configVersion="c6a117b06190bf45a9deab6468e44aa700000000"/>
+		<Metadata name="DataProcessor.МониторРуководителя.Form.Форма" id="af2dac3e-4d8e-4b8e-95f0-17efc107c3c1" configVersion="da3453b379b50e4eb1052fcb0056213e00000000"/>
+		<Metadata name="DataProcessor.МониторРуководителя.Form.Форма.Form" id="af2dac3e-4d8e-4b8e-95f0-17efc107c3c1.0" configVersion="730c7440feb0c94db2cc6d61597fb33900000000"/>
 		<Metadata name="DataProcessor.МониторРуководителя.ManagerModule" id="658acc8f-5448-455a-908b-36b42c6a79eb.2" configVersion="ce440a0cbcd361448cc4265977ed1e4900000000"/>
 		<Metadata name="DataProcessor.ПланированиеЗагрузкиСотрудников" id="3978029f-32ac-4a68-90b5-65a78010b576" configVersion="0557b3097cec6742a2ac24fe6c3bbe6f00000000"/>
 		<Metadata name="DataProcessor.ПланированиеЗагрузкиСотрудников.Form.Форма" id="445c7a4a-ee8c-4a79-a40b-63911b4b2c33" configVersion="e1e36a17954cf8419849e6122237035a00000000"/>
