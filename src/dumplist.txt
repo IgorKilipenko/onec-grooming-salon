@@ -1,2 +1,1 @@
-﻿Modified: InformationRegister.КадроваяИсторияСотрудников
-Modified: InformationRegister.КадроваяИсторияСотрудников.ManagerModule
+﻿Modified: Configuration.ГрумингСалон
