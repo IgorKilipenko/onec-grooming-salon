@@ -230,8 +230,8 @@
 		<Metadata name="CommonModule.РаботаСДокументамиКлиентСервер.Module" id="9d6855cc-ebea-40ef-99eb-c52fac488dd8.0" configVersion="b20aae096629084bb513dd66b2ad0ec800000000"/>
 		<Metadata name="CommonModule.РаботаСКоллекциями" id="00bbf57d-8f3c-4e9d-b280-b8252ad49ef0" configVersion="f1af07b67d81ec46810cb4cfc959dbb600000000"/>
 		<Metadata name="CommonModule.РаботаСКоллекциями.Module" id="00bbf57d-8f3c-4e9d-b280-b8252ad49ef0.0" configVersion="1cc4168dbfafc64e9dc599ad601e091b00000000"/>
-		<Metadata name="CommonModule.РаботаСКоллекциямиКлиентСервер" id="f5bd7b13-5a42-400e-ac35-141eaa21d257" configVersion="56cace0e22783f48aed9be08951cc8ab00000000"/>
-		<Metadata name="CommonModule.РаботаСКоллекциямиКлиентСервер.Module" id="f5bd7b13-5a42-400e-ac35-141eaa21d257.0" configVersion="96ca64a4f2aa834084c88f93f40f14db00000000"/>
+		<Metadata name="CommonModule.РаботаСКоллекциямиКлиентСервер" id="f5bd7b13-5a42-400e-ac35-141eaa21d257" configVersion="05a2e8f52ceee4489fff2258edb1767100000000"/>
+		<Metadata name="CommonModule.РаботаСКоллекциямиКлиентСервер.Module" id="f5bd7b13-5a42-400e-ac35-141eaa21d257.0" configVersion="c8f05e3cc1d2a34b846d75edef03c70a00000000"/>
 		<Metadata name="CommonModule.РаботаСМетаданными" id="5696cc80-925e-41fd-bdce-3f1954f5c698" configVersion="fdbe06d3dc070442b2486a3368e7ffc300000000"/>
 		<Metadata name="CommonModule.РаботаСМетаданными.Module" id="5696cc80-925e-41fd-bdce-3f1954f5c698.0" configVersion="ee52c56e5c66cb4d9bd4aa9eae70fc7400000000"/>
 		<Metadata name="CommonModule.РаботаСРеквизитами" id="21d801c8-3472-4666-a3c2-5fee28631005" configVersion="186951fd498427418a6a45947de3843d00000000"/>
@@ -262,7 +262,7 @@
 		<Metadata name="CommonPicture.Продажи.Picture" id="719ed3c0-380a-464b-bd71-bef40de04625.0" configVersion="5960b7b254c0e2428f0645d3d5854ed600000000"/>
 		<Metadata name="CommonPicture.Справочники" id="703bb534-6eb6-45dc-83f0-9ac0cfbb7864" configVersion="3c2b8b74f2613d4ea04ecaaf7ce2cfd000000000"/>
 		<Metadata name="CommonPicture.Справочники.Picture" id="703bb534-6eb6-45dc-83f0-9ac0cfbb7864.0" configVersion="50218a0ba61bff438b3326bc6110430c00000000"/>
-		<Metadata name="Configuration.ГрумингСалон" id="bf7fd7f7-d5f2-4af8-987a-4903e6ac7a60" configVersion="af8f0f623895bf4fa5b4ee30121e2a7600000000"/>
+		<Metadata name="Configuration.ГрумингСалон" id="bf7fd7f7-d5f2-4af8-987a-4903e6ac7a60" configVersion="b39f43f1a6c4c84e9cb9ddd0de3c876d00000000"/>
 		<Metadata name="Configuration.ГрумингСалон.ClientApplicationInterface" id="5b918c7f-f6dd-47f1-8449-205108ad3f01.b" configVersion="4265f2cb7ceaf14fac3bda5d2ce5192c00000000"/>
 		<Metadata name="Configuration.ГрумингСалон.CommandInterface" id="5b918c7f-f6dd-47f1-8449-205108ad3f01.a" configVersion="94c79a47eafe404abf00ef23aad56d9800000000"/>
 		<Metadata name="Configuration.ГрумингСалон.HomePageWorkArea" id="5b918c7f-f6dd-47f1-8449-205108ad3f01.8" configVersion="bdac3afe1390454b862bb5dfd6b633d600000000"/>
@@ -651,13 +651,13 @@
 			<Metadata name="InformationRegister.ГрафикиРаботыПредприятия.Dimension.День" id="b3effcfa-cce3-41b3-959d-2de0678cb7af"/>
 		</Metadata>
 		<Metadata name="InformationRegister.ГрафикиРаботыПредприятия.ManagerModule" id="72f50457-7a96-4457-ba73-981ea293ead6.2" configVersion="bba8a8275aefef4a95c2acd0f82b39e700000000"/>
-		<Metadata name="InformationRegister.КадроваяИсторияСотрудников" id="8bf39bea-8d1f-4a17-b733-0291b7092af8" configVersion="4315f4a2551add45a082e8b03c68f57900000000">
+		<Metadata name="InformationRegister.КадроваяИсторияСотрудников" id="8bf39bea-8d1f-4a17-b733-0291b7092af8" configVersion="85032f254eacf24f82367f1d4979246500000000">
 			<Metadata name="InformationRegister.КадроваяИсторияСотрудников.Attribute.Работает" id="29540717-d182-4217-a2cc-0d70676f7099"/>
 			<Metadata name="InformationRegister.КадроваяИсторияСотрудников.Resource.Оклад" id="3800ee63-216f-4656-a398-08f30a0e911e"/>
 			<Metadata name="InformationRegister.КадроваяИсторияСотрудников.Dimension.ГрафикРаботы" id="64f9c1e6-e915-47a7-81c0-401b9af092bb"/>
 			<Metadata name="InformationRegister.КадроваяИсторияСотрудников.Dimension.Сотрудник" id="efcdcf36-8260-4b29-9b32-26a3a8e51176"/>
 		</Metadata>
-		<Metadata name="InformationRegister.КадроваяИсторияСотрудников.ManagerModule" id="8bf39bea-8d1f-4a17-b733-0291b7092af8.2" configVersion="abd27561773bea4ebee739dda102de2700000000"/>
+		<Metadata name="InformationRegister.КадроваяИсторияСотрудников.ManagerModule" id="8bf39bea-8d1f-4a17-b733-0291b7092af8.2" configVersion="32d3db342d53f24ab2456f6f83b5a42300000000"/>
 		<Metadata name="InformationRegister.РегистрАдресацииИсполнителей" id="401a07c2-5aed-4624-933d-842353943f81" configVersion="f7a4eda4bf4f5644a45c9d66ed1538a500000000">
 			<Metadata name="InformationRegister.РегистрАдресацииИсполнителей.Dimension.РольИсполнителя" id="6cd6e395-2782-48bf-8c2b-e9c9ec292e53"/>
 			<Metadata name="InformationRegister.РегистрАдресацииИсполнителей.Dimension.Исполнитель" id="897a1007-9fef-43e7-9e55-a322dad83f9f"/>
