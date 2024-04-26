@@ -697,8 +697,8 @@
 		<Metadata name="Report.ОтчетПоДвижениюИОстаткамДенег.Template.ОсновнаяСхемаКомпоновкиДанных" id="124011a7-5421-4fe4-b43d-affe87416276" configVersion="00840230e2bd0e478fbef12f24c8b03b00000000"/>
 		<Metadata name="Report.ОтчетПоДвижениюИОстаткамДенег.Template.ОсновнаяСхемаКомпоновкиДанных.Template" id="124011a7-5421-4fe4-b43d-affe87416276.0" configVersion="491e7cfafe24bb4885ce58584eceb77800000000"/>
 		<Metadata name="Report.ОтчетПоНачислениюЗарплаты" id="26e07436-4c39-454c-ad04-5a076de86f70" configVersion="db699beeb3fb2342a6ead8f0168a47e900000000"/>
-		<Metadata name="Report.ОтчетПоНачислениюЗарплаты.Template.ОсновнаяСхемаКомпоновкиДанных" id="307198fe-9114-4224-92b2-747f78c32edf" configVersion="5a6280ea2745a549874c25a4104b0a0500000000"/>
-		<Metadata name="Report.ОтчетПоНачислениюЗарплаты.Template.ОсновнаяСхемаКомпоновкиДанных.Template" id="307198fe-9114-4224-92b2-747f78c32edf.0" configVersion="34d5de2fb52f6040a24a4a32440244ec00000000"/>
+		<Metadata name="Report.ОтчетПоНачислениюЗарплаты.Template.ОсновнаяСхемаКомпоновкиДанных" id="307198fe-9114-4224-92b2-747f78c32edf" configVersion="b1a55da6b52908468982c4c6c4a0b6d800000000"/>
+		<Metadata name="Report.ОтчетПоНачислениюЗарплаты.Template.ОсновнаяСхемаКомпоновкиДанных.Template" id="307198fe-9114-4224-92b2-747f78c32edf.0" configVersion="7c3ec14874059d45afac7cf61e391cdb00000000"/>
 		<Metadata name="Report.ОтчетПоПрибыли" id="c42adae0-b5d1-4105-aa27-301b8d99ad1d" configVersion="50f04f20398d85499b52f3603bb2e48500000000"/>
 		<Metadata name="Report.ОтчетПоПрибыли.ObjectModule" id="c42adae0-b5d1-4105-aa27-301b8d99ad1d.0" configVersion="3679b7c7743b5a41815593f1585087a100000000"/>
 		<Metadata name="Report.ОтчетПоПрибыли.Template.ОсновнаяСхемаКомпоновкиДанных" id="230bb39a-b197-4915-9e73-3e6fa8eca307" configVersion="54f0a8804993424eb9e1dbc780c5ebfa00000000"/>

@@ -1,2 +1,2 @@
-﻿Modified: DataProcessor.МониторРуководителя.Form.Форма
-Modified: DataProcessor.МониторРуководителя.Form.Форма.Form
+﻿Modified: Report.ОтчетПоНачислениюЗарплаты.Template.ОсновнаяСхемаКомпоновкиДанных
+Modified: Report.ОтчетПоНачислениюЗарплаты.Template.ОсновнаяСхемаКомпоновкиДанных.Template
