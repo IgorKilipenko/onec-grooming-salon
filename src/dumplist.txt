@@ -1,2 +1,2 @@
-﻿Modified: Report.ОтчетПоНачислениюЗарплаты.Template.ОсновнаяСхемаКомпоновкиДанных
-Modified: Report.ОтчетПоНачислениюЗарплаты.Template.ОсновнаяСхемаКомпоновкиДанных.Template
+﻿Modified: CommonModule.БухгалтерскийУчет
+Modified: CommonModule.БухгалтерскийУчет.Module

@@ -218,8 +218,8 @@
 		<Metadata name="CommandGroup.Справочники" id="7b644850-0ebf-4603-8d44-b22a2405b8a8" configVersion="b91304fe7aa76949a0dade3018fea55d00000000"/>
 		<Metadata name="CommonForm.ФормаПросмотраКартыМаршрута" id="e8567ea3-311b-4d6d-8412-47dac57cb6e8" configVersion="b7d52188a2d6a941a7ab622f75ca205400000000"/>
 		<Metadata name="CommonForm.ФормаПросмотраКартыМаршрута.Form" id="e8567ea3-311b-4d6d-8412-47dac57cb6e8.0" configVersion="a638a70db53ce244a038cf3f791e251b00000000"/>
-		<Metadata name="CommonModule.БухгалтерскийУчет" id="da0579ea-008f-4e5f-aa55-99e9d6886952" configVersion="54eda0869e7f2744b6e6180bf0030bb400000000"/>
-		<Metadata name="CommonModule.БухгалтерскийУчет.Module" id="da0579ea-008f-4e5f-aa55-99e9d6886952.0" configVersion="7adc555561fb624da1612f994456400600000000"/>
+		<Metadata name="CommonModule.БухгалтерскийУчет" id="da0579ea-008f-4e5f-aa55-99e9d6886952" configVersion="a0f758eece1a6640bc553d684820a37600000000"/>
+		<Metadata name="CommonModule.БухгалтерскийУчет.Module" id="da0579ea-008f-4e5f-aa55-99e9d6886952.0" configVersion="4f41502979c1d540a8f60d76e60e706400000000"/>
 		<Metadata name="CommonModule.ДиагностикаКлиентСервер" id="94ca35d0-5484-4e85-b484-069e0da03e88" configVersion="b33d4062adf2f74db43698e55ee21dd400000000"/>
 		<Metadata name="CommonModule.ДиагностикаКлиентСервер.Module" id="94ca35d0-5484-4e85-b484-069e0da03e88.0" configVersion="6f91d8e399bb6e4caf8f5f6d7d2d6f6500000000"/>
 		<Metadata name="CommonModule.ПреобразованиеТиповКлиентСервер" id="91a94ea4-9784-4da9-a197-ee7324844ac4" configVersion="0d45a40a40c1ce4f8333097b6a5feb2f00000000"/>
