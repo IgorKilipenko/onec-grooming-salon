@@ -1,2 +1,2 @@
-﻿Modified: Document.РеализацияТоваровИУслуг
-Modified: Document.РеализацияТоваровИУслуг.ObjectModule
+﻿Modified: DataProcessor.ЗагрузкаПрайсЛиста.Form.Форма
+Modified: DataProcessor.ЗагрузкаПрайсЛиста.Form.Форма.Form
