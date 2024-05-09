@@ -439,7 +439,7 @@
 		<Metadata name="Document.ПоступлениеУслуг.Form.ФормаДокумента.Form" id="4159062d-606d-4b5a-9542-28f05fc2f133.0" configVersion="9017aa8ae8f00248a12eafc4c9b5420c00000000"/>
 		<Metadata name="Document.ПоступлениеУслуг.ManagerModule" id="20566727-0fb3-41b3-961f-6dfc387dec27.2" configVersion="157da1c3bd22aa4f9223b86c8ec2e1b800000000"/>
 		<Metadata name="Document.ПоступлениеУслуг.ObjectModule" id="20566727-0fb3-41b3-961f-6dfc387dec27.0" configVersion="a2822ee68b41d64abc6262e0972bd03f00000000"/>
-		<Metadata name="Document.РасходДенежныхСредств" id="1ed1f697-3e86-4a1a-ace5-3f9c558bf4dc" configVersion="23f1ae8312814c4a83cb763590bb313300000000">
+		<Metadata name="Document.РасходДенежныхСредств" id="1ed1f697-3e86-4a1a-ace5-3f9c558bf4dc" configVersion="eb8e61f661d3ac4cb8dbc467a108460200000000">
 			<Metadata name="Document.РасходДенежныхСредств.Attribute.СуммаДокумента" id="1b0933e9-9882-4b9c-86bc-b820e11eae58"/>
 			<Metadata name="Document.РасходДенежныхСредств.Attribute.РасчетныйСчет" id="306e3ecc-00a4-4d78-8fc7-5b9a247e83cb"/>
 			<Metadata name="Document.РасходДенежныхСредств.Attribute.Касса" id="3d412738-0e04-4a6e-bac3-b1a83c378e59"/>
@@ -450,9 +450,9 @@
 			<Metadata name="Document.РасходДенежныхСредств.Attribute.Получатель" id="9c677b69-c42d-4269-a169-59813df40025"/>
 			<Metadata name="Document.РасходДенежныхСредств.Attribute.ДоговорКонтрагента" id="afd41196-ba38-4c91-a6e8-bb65ad6bff3f"/>
 		</Metadata>
-		<Metadata name="Document.РасходДенежныхСредств.Form.ФормаДокумента" id="1940dccd-6c7d-4335-b679-cc77856213de" configVersion="08802bbb4c87ab44a1842403cbf9cf8000000000"/>
-		<Metadata name="Document.РасходДенежныхСредств.Form.ФормаДокумента.Form" id="1940dccd-6c7d-4335-b679-cc77856213de.0" configVersion="00f4736c020e974e8d89e27d9512a5ad00000000"/>
-		<Metadata name="Document.РасходДенежныхСредств.ManagerModule" id="1ed1f697-3e86-4a1a-ace5-3f9c558bf4dc.2" configVersion="f0cfe1047d0fb846aa5abd6500e1868d00000000"/>
+		<Metadata name="Document.РасходДенежныхСредств.Form.ФормаДокумента" id="1940dccd-6c7d-4335-b679-cc77856213de" configVersion="90811ba658793640870e78c5e78a79eb00000000"/>
+		<Metadata name="Document.РасходДенежныхСредств.Form.ФормаДокумента.Form" id="1940dccd-6c7d-4335-b679-cc77856213de.0" configVersion="f010ca3553d0074cb8892f4fd65326f500000000"/>
+		<Metadata name="Document.РасходДенежныхСредств.ManagerModule" id="1ed1f697-3e86-4a1a-ace5-3f9c558bf4dc.2" configVersion="78d703d1b07cc545b71991b0eff0cde100000000"/>
 		<Metadata name="Document.РасходДенежныхСредств.ObjectModule" id="1ed1f697-3e86-4a1a-ace5-3f9c558bf4dc.0" configVersion="a55144bc35258142b1aa93781271a46600000000"/>
 		<Metadata name="Document.РеализацияТоваровИУслуг" id="e30ec35e-8c3a-40cf-a109-fc154d862130" configVersion="b28fd1b61a703741853457b44e8cd58900000000">
 			<Metadata name="Document.РеализацияТоваровИУслуг.TabularSection.Товары.Attribute.Сумма" id="10a761de-8ecb-48c2-92d5-abff4ac92234"/>
