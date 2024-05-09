@@ -1,2 +1,2 @@
-﻿Modified: DataProcessor.ЗагрузкаПрайсЛиста.Form.Форма
-Modified: DataProcessor.ЗагрузкаПрайсЛиста.Form.Форма.Form
+﻿Modified: Document.ПоступлениеДенежныхСредств
+Modified: Document.ПоступлениеДенежныхСредств.ObjectModule
